@@ -1,0 +1,374 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-27_20-31-32
+====================================================================================
+20:31:32 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:31:32 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:31:32 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:31:32 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:31:32 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:31:32 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:31:32 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:31:32 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:31:32 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:31:32 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:31:32 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:31:32 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:31:32 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:31:32 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:31:32 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:31:32 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:31:32 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:31:32 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:31:32 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:31:32 | [PermissionManager] Adding Super Admin (76561198095923512)
+20:31:32 | [PermissionManager] Loaded UserGroups.json
+20:31:32 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:31:32 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:31:32 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:31:32 | Building Sets Loaded: 0
+20:31:32 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:31:32 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:49:23 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+21:49:28 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+21:52:11 | Player "Chaddillac" (steamId=76561198123456210) disconnected from server.
+21:52:12 | Player "Chaddillac" (steamId=76561198123456210) disconnected from server.
+21:52:26 | Player "HariBalzac" (steamId=76561198095923512) connected to server!
+21:52:41 | Player "HariBalzac" (steamId=76561198095923512) connected to server!
+21:56:5 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6039.029785, 211.124130, 2121.949951>)
+21:56:5 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=6039.03,0,2121.95)
+21:56:16 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6094.481934, 258.585022, 2226.283447>)
+22:0:49 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (ImprovisedExplosive)
+22:1:17 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Grenade_ChemGas)
+22:3:36 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:36 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:36 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:37 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:37 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:43 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:3:43 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:8:12 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6100.833496, 256.422455, 2237.580811>
+22:8:17 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_planks at position: <6100.833496, 256.422455, 2237.580811>
+22:8:19 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6100.833496, 256.422455, 2237.580811>
+22:8:23 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6104.308105, 256.422455, 2235.415527>
+22:8:24 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6104.308105, 256.422455, 2235.415527>
+22:8:25 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6104.308105, 256.422455, 2235.415527>
+22:8:39 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6105.664063, 256.422455, 2229.570801>
+22:8:40 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6105.664063, 256.422455, 2229.570801>
+22:8:42 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6105.664063, 256.422455, 2229.570801>
+22:8:47 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6107.020020, 256.422455, 2223.726074>
+22:8:47 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6107.020020, 256.422455, 2223.726074>
+22:8:48 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6107.020020, 256.422455, 2223.726074>
+22:8:52 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6107.867676, 256.422455, 2220.073242>
+22:8:54 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6107.867676, 256.422455, 2220.073242>
+22:8:55 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6107.867676, 256.422455, 2220.073242>
+22:9:8 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6108.206543, 256.422455, 2218.612061>
+22:9:9 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6108.206543, 256.422455, 2218.612061>
+22:9:10 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6108.206543, 256.422455, 2218.612061>
+22:9:17 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6105.532227, 256.422455, 2217.329346>
+22:9:21 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6105.532227, 256.422455, 2217.329346>
+22:9:22 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6105.532227, 256.422455, 2217.329346>
+22:9:29 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.687500, 256.422455, 2215.973389>
+22:9:30 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6099.687500, 256.422455, 2215.973389>
+22:9:31 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.687500, 256.422455, 2215.973389>
+22:9:36 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.751953, 256.422455, 2217.800049>
+22:9:37 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6094.751953, 256.422455, 2217.800049>
+22:9:37 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6094.751953, 256.422455, 2217.800049>
+22:9:40 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6096.034668, 256.422455, 2215.125732>
+22:9:40 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6096.034668, 256.422455, 2215.125732>
+22:9:41 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6096.034668, 256.422455, 2215.125732>
+22:9:50 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6093.395996, 256.422455, 2223.644775>
+22:9:51 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6093.395996, 256.422455, 2223.644775>
+22:9:52 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6093.395996, 256.422455, 2223.644775>
+22:9:56 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6092.040039, 256.422455, 2229.489502>
+22:9:58 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6092.040039, 256.422455, 2229.489502>
+22:9:59 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6092.040039, 256.422455, 2229.489502>
+22:10:3 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6091.192383, 256.422455, 2233.142334>
+22:10:4 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6091.192383, 256.422455, 2233.142334>
+22:10:4 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6091.192383, 256.422455, 2233.142334>
+22:10:6 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6090.853516, 256.422455, 2234.603516>
+22:10:7 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6090.853516, 256.422455, 2234.603516>
+22:10:7 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6090.853516, 256.422455, 2234.603516>
+22:10:13 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6091.335938, 256.422455, 2235.376221>
+22:10:14 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6091.335938, 256.422455, 2235.376221>
+22:10:15 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6091.335938, 256.422455, 2235.376221>
+22:10:19 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.988770, 256.422455, 2236.224121>
+22:10:20 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6094.988770, 256.422455, 2236.224121>
+22:10:21 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6094.988770, 256.422455, 2236.224121>
+22:11:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:11:13 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Hatch)
+22:12:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Hatch)
+22:12:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Hatch)
+22:12:18 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Hatch)
+22:12:19 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:12:19 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:12:19 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:12:31 | Player "Peyton" (steamId=76561198385784257) connected to server!
+22:12:40 | Player "Peyton" (steamId=76561198385784257) connected to server!
+22:16:31 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6104.204590, 259.422455, 2223.072754>
+22:16:32 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6104.204590, 259.422455, 2223.072754>
+22:16:35 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6098.359863, 259.422241, 2221.716553>
+22:16:35 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6098.359863, 259.422241, 2221.716553>
+22:16:38 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6102.848633, 259.422455, 2228.917480>
+22:16:39 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6102.848633, 259.422455, 2228.917480>
+22:16:59 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Hatch_Kit)
+22:19:11 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.648438, 259.422028, 2233.406006>
+22:19:14 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_door at position: <6095.648438, 259.422028, 2233.406006>
+22:19:18 | Admin "HariBalzac" (steamId=76561198095923512) built part stair at position: <6095.648438, 259.422028, 2233.406006>
+22:19:20 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6095.648438, 259.422028, 2233.406006>
+22:19:23 | Admin "HariBalzac" (steamId=76561198095923512) built part t2_door at position: <6095.648438, 259.422028, 2233.406006>
+22:20:2 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6091.482910, 259.421814, 2234.749268>
+22:20:4 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6091.482910, 259.421814, 2234.749268>
+22:20:7 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6091.822266, 259.421814, 2233.288086>
+22:20:8 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6091.822266, 259.421814, 2233.288086>
+22:20:10 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6092.162598, 259.421600, 2231.822021>
+22:20:10 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6092.162598, 259.421600, 2231.822021>
+22:20:21 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6092.502930, 259.421387, 2230.355957>
+22:20:22 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6092.502930, 259.421387, 2230.355957>
+22:20:25 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6092.843262, 259.421173, 2228.889893>
+22:20:26 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6092.843262, 259.421173, 2228.889893>
+22:20:28 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6097.005371, 259.421814, 2227.561523>
+22:20:29 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6097.005371, 259.421814, 2227.561523>
+22:20:35 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6093.183594, 259.420959, 2227.423828>
+22:20:36 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6093.183594, 259.420959, 2227.423828>
+22:20:40 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6093.523926, 259.420746, 2225.957764>
+22:20:40 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6093.523926, 259.420746, 2225.957764>
+22:20:43 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6093.864258, 259.420532, 2224.491699>
+22:20:44 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6093.864258, 259.420532, 2224.491699>
+22:20:47 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.204590, 259.420319, 2223.025635>
+22:20:48 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6094.204590, 259.420319, 2223.025635>
+22:20:52 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.544922, 259.420105, 2221.559570>
+22:20:53 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6094.544922, 259.420105, 2221.559570>
+22:21:23 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.885254, 259.419891, 2220.093506>
+22:21:27 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6094.885254, 259.419891, 2220.093506>
+22:21:31 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.225586, 259.419678, 2218.627441>
+22:21:32 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6095.225586, 259.419678, 2218.627441>
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:44 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:45 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:45 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:21:45 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:22:54 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.565918, 259.419464, 2217.161377>
+22:22:56 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6095.565918, 259.419464, 2217.161377>
+22:23:3 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.906250, 259.419250, 2215.695313>
+22:23:4 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6095.906250, 259.419250, 2215.695313>
+22:23:35 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6104.878906, 259.422455, 2220.144531>
+22:23:38 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6104.878906, 259.422455, 2220.144531>
+22:23:41 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.034180, 259.422455, 2218.788574>
+22:23:42 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.034180, 259.422455, 2218.788574>
+22:23:52 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6101.493164, 259.422241, 2234.762207>
+22:23:53 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6101.493164, 259.422241, 2234.762207>
+22:24:7 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CodeLock)
+22:24:48 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:48 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:48 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:48 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:49 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:49 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:49 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:24:49 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:26:36 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:37 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:39 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:40 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:41 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:43 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Hatch_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:44 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.073730, 256.393311, 2234.085938>)
+22:26:47 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:48 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:49 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:55 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:57 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:58 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:26:59 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Window_Kit" (pos=<6092.081543, 256.393311, 2234.396240>)
+22:27:9 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6100.741699, 256.393311, 2233.738281>)
+22:27:11 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<6100.741699, 256.393311, 2233.738281>)
+22:27:37 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:37 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:37 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:38 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:39 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:27:39 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:28:27 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:28:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:28:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:28:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:28:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:30:55 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+22:31:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:31:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:31:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:31:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:31:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:32:16 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.034180, 256.204010, 2218.787842>
+22:32:18 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.034180, 256.204010, 2218.787842>
+22:32:22 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6098.360840, 256.203796, 2221.716797>
+22:32:26 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6098.360840, 256.203796, 2221.716797>
+22:32:28 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6104.878906, 256.204224, 2220.144531>
+22:32:30 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6104.878906, 256.204224, 2220.144531>
+22:32:35 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6104.205566, 256.204010, 2223.072998>
+22:32:37 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6104.205566, 256.204010, 2223.072998>
+22:32:41 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6102.848633, 256.204224, 2228.917480>
+22:32:43 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6102.848633, 256.204224, 2228.917480>
+22:32:51 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6097.003906, 256.204010, 2227.561279>
+22:32:53 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6097.003906, 256.204010, 2227.561279>
+22:32:57 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6101.493164, 256.204010, 2234.762207>
+22:32:59 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6101.493164, 256.204010, 2234.762207>
+22:33:2 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.648438, 256.203796, 2233.406006>
+22:33:5 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6095.648438, 256.203796, 2233.406006>
+22:33:16 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<6098.341309, 256.393311, 2216.119873>)
+22:33:17 | "HariBalzac" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<6098.341309, 256.393311, 2216.119873>)
+22:34:30 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.554688, 259.640015, 2226.505127>
+22:34:31 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.554688, 259.640015, 2226.505127>
+22:34:41 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+22:34:47 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+22:35:33 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.846191, 259.640015, 2225.248535>
+22:35:44 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6100.328613, 259.640015, 2226.022705>
+22:35:57 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6100.209961, 260.587341, 2225.965332>)
+22:36:5 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.072266, 259.640015, 2225.730957>
+22:36:7 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.072266, 259.640015, 2225.730957>
+22:36:16 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6099.784668, 262.639160, 2226.695801>)
+22:36:21 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.695801, 262.640015, 2225.875732>
+22:36:23 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.695801, 262.640015, 2225.875732>
+22:36:29 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.846191, 259.640015, 2225.248535>
+22:36:32 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6100.328613, 259.640015, 2226.022705>
+22:37:15 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6100.033203, 256.422455, 2228.264160>
+22:37:19 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6101.390137, 256.422241, 2222.419678>
+22:37:48 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6095.545410, 256.422028, 2221.063477>
+22:38:33 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6094.188477, 256.422241, 2226.907959>
+22:38:53 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:53 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:53 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:38:54 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:41:55 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+22:42:40 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6099.186523, 256.422241, 2231.917236>
+22:42:44 | Admin "HariBalzac" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <6099.186523, 256.422241, 2231.917236>
+22:42:45 | Admin "HariBalzac" (steamId=76561198095923512) built part t2_metal at position: <6099.186523, 256.422241, 2231.917236>
+22:42:52 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6100.033203, 256.422455, 2228.264160>
+22:42:55 | Admin "HariBalzac" (steamId=76561198095923512) built part frame at position: <6101.390137, 256.422241, 2222.419678>
+22:44:21 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+22:45:12 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<4003.629883, 240.040207, 9547.370117>)
+22:45:12 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=4003.63,0,9547.37)
+22:45:18 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+22:46:14 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+22:46:18 | Player "HariBalzac" (steamId=76561198095923512) disconnected from server.
+22:46:19 | Player "HariBalzac" (steamId=76561198095923512) disconnected from server.
+22:55:57 | Player "Peyton" (steamId=76561198385784257) disconnected from server.
+22:55:58 | Player "Peyton" (steamId=76561198385784257) disconnected from server.

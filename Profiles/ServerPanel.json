@@ -1,0 +1,43 @@
+{
+  "SERVERNAME": "Welcome to Pushing DayZies Vanilla Plus!",
+  "BUTTON1NAME": "DISCORD",
+  "BUTTON1LINK": "https://discord.gg/B6x9sG2gHz",
+  "BUTTON2NAME": "",
+  "BUTTON2LINK": "",
+  "BUTTON3NAME": "",
+  "BUTTON3LINK": "",
+  "BUTTONTAB0NAME": "Rules",
+  "BUTTONTAB1NAME": "Info",
+  "BUTTONTAB2NAME": "",
+  "BUTTONTAB3NAME": "",
+  "DISPLAYPLAYERINFO": 1,
+  "DISPLAYPLAYERTAB": 1,
+  "sServerTab0": [
+    "RULES",
+    "Server chat is English ONLY.",
+    "Insults, discrimination, extremist and racist statements or texts are taboo. In general, don't be a dickhead to the point you get admin attention.",
+    "We reserve the right to exclude people from the server for any reason, and those who clearly disturb the server harmony.",
+    "Decisions of the team members are to be accepted without discussion, unless you have concrete proof to the contrary.",
+    "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent BAN.",
+    "There is to be no base building in Police, Prison, or Medical buildings and no base building within 200 meters from a Military zone. Water wells must be accessible by the general population.",
+    "See Discord for comeplete Rule sets.  Failure to abide by all rules may result in removal of bases/object without warning at the discretion of the server staff. Ignorance of rules will not be accepted as an excuse for breaking them.",
+    "Server staff will NOT teleport you, so do not ask.  If there has been an issue with a cheater, staff will teleport you to your body."
+  ],
+  "sServerTab1": [
+    "SERVER INFORMATION",
+    "Codelocks are raidable with Hacksaw.",
+    "Vehicles can be placed upder camo nets to help server lag, prevent despawning, and to help conceal their location.",
+    "Vehicles can be fueled by parking close to a gas pump and loking at the fuel door.",
+    "Vehicles can be pushed, and flipped with a Wrench in the event of a rollover.",
+    "The map can be brought up by pressing M. ",
+    "Party system can be accessed by pressing P.",
+    "To place a quick marker, press T. Pressing Y will clear the marker.",
+    "Auto run is keybound to + on number pad."
+  ],
+  "sServerTab2": [
+    ""
+  ],
+  "sServerTab3": [
+    ""
+  ]
+}

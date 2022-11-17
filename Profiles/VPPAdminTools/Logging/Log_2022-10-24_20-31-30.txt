@@ -1,0 +1,743 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-24_20-31-30
+====================================================================================
+20:31:30 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:31:30 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:31:30 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:31:30 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:31:30 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:31:30 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:31:30 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:31:30 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:31:30 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:31:30 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:31:30 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:31:30 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:31:30 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:31:30 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:31:30 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:31:30 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:31:30 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:31:30 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:31:30 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:31:30 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:31:30 | Building Sets Loaded: 0
+20:31:30 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:31:30 | [PermissionManager] Adding Super Admin (76561198095923512)
+20:31:30 | [PermissionManager] Loaded UserGroups.json
+20:31:30 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:31:30 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:31:30 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:33:9 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+20:33:16 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+20:34:19 | Player "Split" (steamId=76561199248305730) connected to server!
+20:34:29 | Player "Split" (steamId=76561199248305730) connected to server!
+21:3:24 | Player "NewAgeMerlin" (steamId=76561198331516052) disconnected from server.
+21:3:27 | Player "NewAgeMerlin" (steamId=76561198331516052) disconnected from server.
+21:48:10 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:48:22 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:48:35 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:48:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:51:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4379.101074, 206.522903, 3211.281006>)
+21:51:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:51:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GhillieSuit_Gold)
+21:51:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GhillieHood_Gold)
+21:52:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (CarBattery)
+21:52:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:52:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4934.446777, 201.394547, 4537.596680>)
+21:52:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:53:14 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:53:21 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4377.249023, 204.419525, 3189.747803>)
+21:53:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:53:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4427.340820, 203.156921, 3240.438965>)
+21:55:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:32 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:55:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+21:56:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4419.584473, 202.643524, 3215.505859>)
+21:56:35 | "Alzbob" (steamid=76561198303394031) deleted object "CrSk_Land_Rover_Defender_110" (pos=<4420.292969, 201.695908, 3214.289063>)
+21:57:58 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionUAZ" (pos=<4420.370117, 201.683212, 3214.327393>)
+22:0:29 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:0:40 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8093.987305, 519.441650, 11575.561523>)
+22:0:42 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:0:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:1:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5802.502441, 245.858017, 9205.054688>)
+22:1:33 | Player "WORM" (steamId=76561199206265093) connected to server!
+22:1:45 | Player "WORM" (steamId=76561199206265093) connected to server!
+22:2:3 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5802.930176, 245.857986, 9204.719727>)
+22:2:3 | "WORM": (steamid=76561199206265093) teleported to (pos=5802.93,0,9204.72)
+22:2:19 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5803.307129, 245.840836, 9226.009766>)
+22:2:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:2:44 | "WORM" (steamid=76561199206265093) toggled godmode
+22:4:45 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:5:22 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5829.252930, 256.326782, 9248.875000>)
+22:5:24 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5829.827637, 256.326782, 9247.790039>)
+22:5:26 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5830.887695, 256.326782, 9247.562500>)
+22:5:29 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5831.041992, 256.326782, 9246.599609>)
+22:5:31 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5831.874512, 256.326782, 9246.528320>)
+22:5:35 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5832.515625, 256.331268, 9245.417969>)
+22:5:37 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5832.719238, 255.798294, 9245.152344>)
+22:5:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5800.583496, 245.838531, 9226.147461>)
+22:5:39 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5832.917480, 255.615646, 9244.908203>)
+22:5:39 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:5:49 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5833.455078, 255.636246, 9244.477539>)
+22:5:54 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5837.192383, 255.652191, 9240.635742>)
+22:5:58 | "WORM" (steamid=76561199206265093) deleted object "BBP_BDoor" (pos=<5837.697754, 255.636444, 9240.234375>)
+22:6:0 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5837.697754, 255.636444, 9240.234375>)
+22:6:24 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+22:6:25 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5838.667480, 245.997742, 9240.881836>)
+22:6:27 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5839.474121, 245.997742, 9241.161133>)
+22:6:35 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+22:6:38 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5836.605957, 246.890015, 9251.723633>)
+22:6:40 | "WORM" (steamid=76561199206265093) deleted object "BearTrap" (pos=<5835.367676, 246.890015, 9251.723633>)
+22:6:45 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+22:7:1 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:8:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+22:8:24 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <5827.382813, 246.890015, 9247.912109>
+22:8:27 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_planks at position: <5827.382813, 246.890015, 9247.912109>
+22:8:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+22:8:47 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+22:9:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <5819.277832, 246.890015, 9256.462891>
+22:9:9 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_planks at position: <5819.277832, 246.890015, 9256.462891>
+22:9:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+22:9:24 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5737.729980, 255.445801, 6407.609863>)
+22:9:24 | "WORM": (steamid=76561199206265093) teleported to (pos=5737.73,0,6407.61)
+22:9:31 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5723.993164, 255.615540, 6340.059082>)
+22:9:32 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5711.819824, 255.649475, 6281.644531>)
+22:9:40 | "WORM" (steamid=76561199206265093) toggled freecam
+22:9:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5189.113281, 251.545609, 10183.776367>)
+22:10:52 | "WORM" (steamid=76561199206265093) toggled freecam
+22:11:5 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5191.040039, 228.178940, 10253.500000>)
+22:11:5 | "WORM": (steamid=76561199206265093) teleported to (pos=5191.04,0,10253.5)
+22:11:7 | "WORM" (steamid=76561199206265093) toggled freecam
+22:11:16 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5175.496582, 226.077332, 10239.013672>)
+22:11:18 | "WORM" (steamid=76561199206265093) toggled freecam
+22:11:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11658.026367, 286.127014, 4380.189453>)
+22:11:35 | "WORM" (steamid=76561199206265093) toggled freecam
+22:12:10 | "WORM" (steamid=76561199206265093) toggled freecam
+22:12:39 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+22:12:46 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:13:11 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11977.867188, 368.054718, 10491.073242>)
+22:13:56 | "Magick" (steamid=76561198797376439) toggled godmode
+22:14:15 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<11984.000000, 360.208557, 10510.900391>)
+22:14:15 | "WORM": (steamid=76561199206265093) teleported to (pos=11984,0,10510.9)
+22:14:25 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<5764.069824, 245.857956, 9200.599609>)
+22:14:25 | "Magick": (steamid=76561198797376439) teleported to (pos=5764.07,0,9200.6)
+22:14:40 | Player "Split" (steamId=76561199248305730) disconnected from server.
+22:14:49 | Player "eGirl4u" (steamId=76561198095923512) connected to server!
+22:15:0 | Player "eGirl4u" (steamId=76561198095923512) connected to server!
+22:15:4 | Player "Split" (steamId=76561199248305730) connected to server!
+22:15:12 | Player "Split" (steamId=76561199248305730) connected to server!
+22:15:13 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:15:15 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6679.500000, 331.860962, 13191.299805>)
+22:15:15 | "WORM": (steamid=76561199206265093) teleported to (pos=6679.5,0,13191.3)
+22:15:20 | "WORM" (steamid=76561199206265093) toggled freecam
+22:15:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6856.233398, 303.028656, 13194.925781>)
+22:15:30 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5816.198242, 245.995224, 9159.737305>)
+22:15:34 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<7350.961426, 289.450775, 13705.602539>)
+22:15:35 | "WORM" (steamid=76561199206265093) toggled freecam
+22:15:39 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:15:44 | "eGirl4u" (steamid=76561198095923512) toggled godmode
+22:16:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7263.021973, 299.977020, 13763.875000>)
+22:16:20 | "WORM" (steamid=76561199206265093) toggled freecam
+22:16:21 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_RifleSafe_Green" (pos=<5807.961914, 246.515244, 9152.696289>)
+22:16:28 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:16:40 | "eGirl4u" (steamid=76561198095923512) deleted object "BearTrap" (pos=<5806.933105, 245.719742, 9167.791992>)
+22:16:56 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+22:16:56 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+22:17:18 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <5806.309082, 245.938141, 9167.002930>
+22:17:21 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <5806.309082, 245.938141, 9167.002930>
+22:17:33 | "Magick" (steamid=76561198797376439) toggled freecam
+22:17:34 | Player "Split" (steamId=76561199248305730) disconnected from server.
+22:17:37 | Player "Split" (steamId=76561199248305730) disconnected from server.
+22:17:45 | "Magick" (steamid=76561198797376439) toggled freecam
+22:17:50 | Player "Sly" (steamId=76561198303394031) connected to server!
+22:18:0 | Player "Sly" (steamId=76561198303394031) connected to server!
+22:18:1 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<7223.233398, 289.450806, 13783.334961>)
+22:18:2 | "WORM" (steamid=76561199206265093) toggled freecam
+22:18:6 | "Sly" (steamid=76561198303394031) toggled godmode
+22:18:7 | "Sly" (steamid=76561198303394031) toggled freecam
+22:18:7 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <5811.000488, 246.458145, 9163.262695>
+22:18:8 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <5811.000488, 246.458145, 9163.262695>
+22:18:17 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<7270.953613, 289.570892, 13769.609375>)
+22:18:18 | "Sly" (steamid=76561198303394031) toggled freecam
+22:18:23 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+22:18:25 | Player "Split" (steamId=76561199248305730) connected to server!
+22:18:26 | "WORM" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+22:18:34 | Player "Split" (steamId=76561199248305730) connected to server!
+22:18:35 | "WORM" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+22:18:41 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_door at position: <5820.574707, 246.481323, 9146.727539>
+22:18:49 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+22:18:49 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+22:19:1 | "eGirl4u" (steamid=76561198095923512) deleted object "BearTrap" (pos=<5814.276855, 246.509674, 9153.393555>)
+22:19:7 | "Sly" (steamid=76561198303394031) toggled freecam
+22:19:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<7267.744629, 289.567719, 13771.795898>)
+22:19:11 | "Sly" (steamid=76561198303394031) toggled freecam
+22:19:12 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_door at position: <5810.523438, 246.481323, 9159.487305>
+22:19:22 | "Sly" (steamid=76561198303394031) toggled freecam
+22:19:24 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<7262.443359, 289.571350, 13774.311523>)
+22:19:26 | "Sly" (steamid=76561198303394031) toggled freecam
+22:19:28 | Admin "eGirl4u" (steamId=76561198095923512) built part t1_door at position: <5811.977539, 246.481323, 9159.025391>
+22:19:41 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Hatchet)
+22:19:42 | "WORM" (steamid=76561199206265093) toggled freecam
+22:20:5 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_door at position: <5811.977539, 246.481323, 9159.025391>
+22:20:13 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+22:20:15 | "Sly" (steamid=76561198303394031) toggled freecam
+22:20:20 | "WORM" (steamid=76561199206265093) toggled freecam
+22:20:30 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (TripwireTrap)
+22:20:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (TripwireTrap)
+22:20:35 | "WORM" (steamid=76561199206265093) toggled freecam
+22:20:50 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<7338.953125, 508.284454, 13249.418945>)
+22:20:51 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5145.310059, 230.098511, 10191.496094>)
+22:20:51 | "WORM" (steamid=76561199206265093) toggled freecam
+22:20:59 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5185.991211, 242.717072, 10243.315430>)
+22:21:0 | "Sly" (steamid=76561198303394031) toggled freecam
+22:21:15 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5186.379883, 228.101624, 10255.299805>)
+22:21:15 | "WORM": (steamid=76561199206265093) teleported to (pos=5186.38,0,10255.3)
+22:21:19 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<7332.565918, 295.135986, 13238.065430>)
+22:21:31 | "WORM" (steamid=76561199206265093) toggled freecam
+22:21:32 | "WORM" (steamid=76561199206265093) toggled freecam
+22:21:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (ClaymoreMine)
+22:21:36 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5189.459961, 228.127213, 10246.000000>)
+22:21:36 | "WORM": (steamid=76561199206265093) teleported to (pos=5189.46,0,10246)
+22:21:49 | "WORM" (steamid=76561199206265093) toggled freecam
+22:21:57 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_FourDoor_MilitaryLocker" (pos=<5808.660156, 246.481323, 9156.385742>)
+22:21:58 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_FourDoor_MilitaryLocker_Green" (pos=<5807.464844, 246.481323, 9154.746094>)
+22:21:58 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5187.210449, 242.717072, 10243.296875>)
+22:21:59 | "WORM" (steamid=76561199206265093) toggled freecam
+22:22:0 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_RifleSafe_Grey" (pos=<5807.426270, 246.481323, 9153.101563>)
+22:22:2 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_SovietOkaFridge" (pos=<5809.561523, 246.481323, 9151.500000>)
+22:22:4 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_SoloLocker_Green" (pos=<5812.829590, 246.515045, 9149.317383>)
+22:22:5 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_FourDoor_MilitaryLocker" (pos=<5813.553711, 246.515045, 9148.151367>)
+22:22:10 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_KiddiePool" (pos=<5820.060547, 246.514847, 9151.507813>)
+22:22:11 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_BeachChair" (pos=<5822.427246, 246.514847, 9150.928711>)
+22:22:13 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_Basket_Wicker" (pos=<5822.106934, 246.514847, 9151.686523>)
+22:22:15 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_CoolerBox" (pos=<5821.707520, 246.514847, 9150.262695>)
+22:22:16 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_BeachChair" (pos=<5821.394043, 246.514847, 9149.496094>)
+22:22:18 | "eGirl4u" (steamid=76561198095923512) deleted object "PB_TrashCanRecicle_Green" (pos=<5824.175293, 246.509476, 9152.492188>)
+22:22:20 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_PlasticCrate" (pos=<5823.925293, 247.548187, 9153.436523>)
+22:22:22 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_Gunwall" (pos=<5818.784668, 247.696182, 9157.538086>)
+22:22:24 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_MilitaryCrate_Green" (pos=<5815.624023, 247.244125, 9159.253906>)
+22:22:26 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_StoneFireplace" (pos=<5814.287109, 246.515244, 9160.325195>)
+22:22:27 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_FireplaceRailing" (pos=<5814.187500, 246.644073, 9160.137695>)
+22:22:30 | "eGirl4u" (steamid=76561198095923512) deleted object "Land_Shed_Closed2" (pos=<5819.993652, 247.970825, 9153.642578>)
+22:22:34 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_MilitaryCrate_Brown" (pos=<5815.655762, 246.515045, 9150.759766>)
+22:22:36 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_WoodenTable" (pos=<5815.291504, 246.515045, 9150.613281>)
+22:22:37 | "eGirl4u" (steamid=76561198095923512) deleted object "Land_Shed_Closed2" (pos=<5819.993652, 247.970825, 9153.642578>)
+22:22:47 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_WaterBarrel_Stand" (pos=<5815.637695, 247.465759, 9150.395508>)
+22:22:55 | "eGirl4u" (steamid=76561198095923512) deleted object "BBP_Bed" (pos=<5817.156250, 249.716537, 9157.202148>)
+22:22:58 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_RifleSafe_Green" (pos=<5817.793945, 249.734177, 9152.958984>)
+22:23:1 | "eGirl4u" (steamid=76561198095923512) deleted object "ExpansionGunrack" (pos=<5818.622559, 249.734512, 9153.721680>)
+22:23:2 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_Safe" (pos=<5819.291992, 249.732040, 9156.342773>)
+22:23:4 | "eGirl4u" (steamid=76561198095923512) deleted object "Barrel_Green" (pos=<5818.590332, 249.716537, 9156.789063>)
+22:23:17 | Admin "eGirl4u" (steamId=76561198095923512) built part t3_door at position: <5815.013672, 249.481125, 9150.657227>
+22:23:22 | "Sly" (steamid=76561198303394031) toggled freecam
+22:23:23 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5815.660156, 249.701721, 9148.990234>)
+22:23:24 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5815.858887, 251.004913, 9149.263672>)
+22:23:44 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+22:23:57 | "WORM" (steamid=76561199206265093) toggled freecam
+22:24:2 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5186.362305, 242.717148, 10233.355469>)
+22:24:3 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<9471.080078, 314.910889, 8311.580078>)
+22:24:3 | "Sly": (steamid=76561198303394031) teleported to (pos=9471.08,0,8311.58)
+22:24:3 | "WORM" (steamid=76561199206265093) toggled freecam
+22:24:5 | "Sly" (steamid=76561198303394031) toggled freecam
+22:24:11 | "Sly" (steamid=76561198303394031) toggled freecam
+22:24:25 | "eGirl4u" (steamid=76561198095923512) deleted object "Msp_Locker" (pos=<5821.379395, 246.464462, 9142.451172>)
+22:24:30 | "WORM" (steamid=76561199206265093) toggled freecam
+22:24:35 | "eGirl4u" (steamid=76561198095923512) deleted object "BarrelHoles_Red" (pos=<5824.175293, 246.464462, 9150.576172>)
+22:24:49 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9897.331055, 396.341858, 10315.849609>)
+22:24:54 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5187.116699, 233.063019, 10223.188477>)
+22:24:55 | "WORM" (steamid=76561199206265093) toggled freecam
+22:24:58 | "WORM" (steamid=76561199206265093) toggled freecam
+22:25:0 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5189.336914, 229.845001, 10226.389648>)
+22:25:1 | "WORM" (steamid=76561199206265093) toggled freecam
+22:25:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (ClaymoreMine)
+22:25:9 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9824.003906, 433.379791, 9691.361328>)
+22:25:15 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9761.916016, 415.473267, 9185.658203>)
+22:25:28 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9707.444336, 365.028290, 8483.536133>)
+22:25:35 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9518.374023, 298.078705, 7944.770508>)
+22:25:38 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:25:39 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9277.343750, 260.426941, 7149.817383>)
+22:25:49 | "WORM" (steamid=76561199206265093) toggled freecam
+22:26:0 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5132.697754, 227.178772, 10201.620117>)
+22:26:2 | "Sly" (steamid=76561198303394031) toggled freecam
+22:26:7 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5824.781738, 271.563812, 9106.856445>)
+22:26:12 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:26:12 | "Sly" (steamid=76561198303394031) toggled freecam
+22:26:24 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5185.533691, 242.717072, 10243.941406>)
+22:26:25 | "WORM" (steamid=76561199206265093) toggled freecam
+22:26:40 | "Sly" (steamid=76561198303394031) toggled freecam
+22:26:48 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:26:49 | "eGirl4u" (steamid=76561198095923512) toggled godmode
+22:26:50 | "WORM" (steamid=76561199206265093) toggled freecam
+22:26:54 | "Sly" (steamid=76561198303394031) toggled freecam
+22:26:55 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<5173.226563, 227.338837, 10264.016602>)
+22:26:56 | "WORM" (steamid=76561199206265093) toggled freecam
+22:27:1 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5159.890625, 224.096680, 10210.189453>)
+22:27:19 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5177.070313, 226.792160, 10219.858398>)
+22:27:20 | "WORM" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_Black)
+22:27:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:27:39 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:27:45 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<314.734924, 340.483917, 14457.969727>)
+22:28:5 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5166.211914, 227.305725, 10230.309570>)
+22:28:16 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+22:28:17 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:18 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:18 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:18 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:19 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:19 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:29 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:29 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:30 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:51 | "WORM" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:28:51 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5188.527832, 229.844238, 10211.231445>)
+22:28:52 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:58 | "Sly" (steamid=76561198303394031) toggled freecam
+22:29:5 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5250.309570, 284.134735, 10232.723633>)
+22:29:7 | "Sly" (steamid=76561198303394031) toggled freecam
+22:29:19 | "Sly" (steamid=76561198303394031) toggled freecam
+22:29:25 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5186.637207, 242.717667, 10221.336914>)
+22:29:26 | "Sly" (steamid=76561198303394031) toggled freecam
+22:29:40 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:41 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:41 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:41 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:41 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:29:48 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+22:30:11 | "Sly" (steamid=76561198303394031) toggled freecam
+22:30:18 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5186.189453, 229.845398, 10216.989258>)
+22:30:18 | "Sly" (steamid=76561198303394031) toggled freecam
+22:30:43 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+22:31:11 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:11 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:11 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+22:31:41 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+22:31:53 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (MCK_MasterKey)
+22:31:54 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+22:32:15 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<5183.580078, 226.679703, 10228.200195>)
+22:32:15 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=5183.58,0,10228.2)
+22:32:46 | "Sly" (steamid=76561198303394031) toggled freecam
+22:33:18 | "Sly" (steamid=76561198303394031) toggled freecam
+22:33:22 | "Sly" (steamid=76561198303394031) toggled freecam
+22:33:28 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5180.984863, 233.063416, 10210.120117>)
+22:33:28 | "Sly" (steamid=76561198303394031) toggled freecam
+22:33:37 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+22:34:20 | "WORM" (steamid=76561199206265093) Spawned Item: (ExpansionPropaneTorch)
+22:34:39 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+22:35:55 | "eGirl4u" (steamid=76561198095923512) deleted object "Barrel_Red" (pos=<4952.980469, 201.394547, 4544.213867>)
+22:35:56 | "eGirl4u" (steamid=76561198095923512) deleted object "Barrel_Red" (pos=<4951.993164, 201.385757, 4544.673340>)
+22:36:17 | "WORM" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+22:36:18 | "WORM" (steamid=76561199206265093) toggled godmode
+22:37:31 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:37:57 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<9925.849609, 401.270142, 10399.099609>)
+22:37:57 | "eGirl4u": (steamid=76561198095923512) teleported to (pos=9925.85,0,10399.1)
+22:38:0 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:38:16 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<9930.058594, 402.619141, 10390.651367>)
+22:38:19 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<9949.514648, 396.030182, 10381.458984>)
+22:38:34 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+22:40:41 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:40:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:40:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:40:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:40:42 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:41:5 | Player "eGirl4u" (steamId=76561198095923512) disconnected from server.
+22:41:6 | Player "eGirl4u" (steamId=76561198095923512) disconnected from server.
+22:42:6 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:42:18 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:42:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Red)
+22:43:39 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_bagazhnik" (pos=<9884.550781, 397.887207, 10349.131836>)
+22:43:41 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_kapot" (pos=<9884.518555, 397.369019, 10348.642578>)
+22:43:57 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_2" (pos=<9884.728516, 397.352661, 10349.531250>)
+22:43:58 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_1" (pos=<9884.731445, 397.353058, 10349.140625>)
+22:44:16 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_1" (pos=<9880.928711, 397.562836, 10349.460938>)
+22:44:17 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_2" (pos=<9881.515625, 397.523529, 10349.451172>)
+22:44:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_1_Red)
+22:44:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_1_Red)
+22:44:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_2_Red)
+22:44:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_2_Red)
+22:44:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_kapot_Red)
+22:44:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_bagazhnik_Red)
+22:44:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_kapot)
+22:45:2 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_kapot" (pos=<9881.360352, 397.484314, 10349.575195>)
+22:45:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_koleso)
+22:45:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Red)
+22:45:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Red)
+22:45:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Red)
+22:45:30 | "BeefySTi" (steamid=76561198095923512) deleted object "Barrel_Red" (pos=<9881.864258, 397.631226, 10345.145508>)
+22:45:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+22:46:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SeaChest)
+22:46:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenCrate)
+22:46:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Red)
+22:47:7 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<9885.855469, 397.182922, 10358.951172>)
+22:47:18 | "Sly" (steamid=76561198303394031) toggled godmode
+22:47:34 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+22:47:34 | "WORM" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_Black)
+22:48:16 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:48:16 | "Sly" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+22:49:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_Locker_Kit)
+22:50:34 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:52:5 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5106.247070, 249.687302, 10181.147461>)
+22:52:35 | "Sly" (steamid=76561198303394031) Spawned Item: (ExpansionPropaneTorch)
+22:53:1 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:53:1 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:53:2 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:53:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5124.139160, 226.773453, 10206.565430>)
+22:53:20 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:53:49 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:53:53 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:53:56 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:54:7 | "Sly" (steamid=76561198303394031) Spawned Item: (TF_HAMROptic_Black)
+22:54:13 | "Sly" (steamid=76561198303394031) toggled freecam
+22:54:22 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4400.789551, 200.675720, 3158.312500>)
+22:54:25 | "Sly" (steamid=76561198303394031) toggled freecam
+22:56:43 | "Sly" (steamid=76561198303394031) toggled freecam
+22:56:56 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5178.381836, 251.055023, 10186.471680>)
+22:57:4 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5187.383301, 236.280212, 10222.617188>)
+22:57:5 | "Sly" (steamid=76561198303394031) toggled freecam
+22:58:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Expansion_C4_Explosion)
+22:58:36 | "Sly" (steamid=76561198303394031) toggled freecam
+22:58:46 | "Sly" (steamid=76561198303394031) toggled freecam
+22:58:52 | "Sly" (steamid=76561198303394031) toggled freecam
+22:59:11 | "Sly" (steamid=76561198303394031) toggled freecam
+22:59:23 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:59:25 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:59:44 | "Sly" (steamid=76561198303394031) toggled freecam
+22:59:48 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:59:55 | "Sly" (steamid=76561198303394031) toggled freecam
+23:2:9 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:2:18 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:2:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5122.616699, 228.940781, 10186.169922>)
+23:2:31 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:2:33 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:2:38 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:3:7 | "BeefySTi" (steamid=76561198095923512) deleted object "TaloonBag_Green" (pos=<5115.440430, 228.672012, 10182.137695>)
+23:3:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TTSKOPants)
+23:4:4 | "BeefySTi" (steamid=76561198095923512) deleted object "CargoPants_Grey" (pos=<5117.055664, 228.571533, 10185.077148>)
+23:4:5 | "BeefySTi" (steamid=76561198095923512) deleted object "TTSKOPants" (pos=<5117.125488, 228.572769, 10185.191406>)
+23:4:12 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:4:13 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:4:14 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:4:18 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:4:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExplosionPoint)
+23:4:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExplosionSmall)
+23:5:0 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExplosionSmall)
+23:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (HDSN_Explosive)
+23:5:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5184.921387, 242.717667, 10228.907227>)
+23:5:28 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:5:34 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:5:39 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5080.319336, 227.014725, 10214.698242>)
+23:5:53 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:8:4 | "Sly" (steamid=76561198303394031) toggled freecam
+23:8:11 | "Sly" (steamid=76561198303394031) toggled freecam
+23:8:25 | "Sly" (steamid=76561198303394031) toggled freecam
+23:8:53 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (ExpansionPropaneTorch)
+23:8:56 | "WORM" (steamid=76561199206265093) toggled freecam
+23:9:6 | "Sly" (steamid=76561198303394031) toggled freecam
+23:9:6 | "WORM" (steamid=76561199206265093) toggled freecam
+23:11:1 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:11:13 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5188.541504, 242.716263, 10238.518555>)
+23:11:13 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:13:39 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:13:41 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:13:59 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:14:7 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:14:8 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:14:9 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:14:15 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5186.529297, 242.717468, 10235.464844>)
+23:14:17 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:14:42 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:14:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5083.949219, 227.014236, 10219.204102>)
+23:14:54 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:15:6 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:15:37 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:17:22 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:17:34 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4053.961914, 202.180206, 3463.228516>)
+23:17:39 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:18:10 | "BeefySTi" (steamid=76561198095923512) deleted object "Offroad_02" (pos=<4048.048828, 202.212494, 3459.793701>)
+23:18:46 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:19:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<15293.967773, 356.126740, 7359.952148>)
+23:19:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5161.929688, 225.656586, 10265.100586>)
+23:20:11 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:20:26 | "Sly" (steamid=76561198303394031) Spawned Item: (Hacksaw)
+23:20:32 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:20:43 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:20:52 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:20:53 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:20:59 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5187.080078, 242.716873, 10250.272461>)
+23:21:1 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:22:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hacksaw)
+23:22:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hacksaw)
+23:22:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hacksaw)
+23:22:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hacksaw)
+23:22:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hacksaw)
+23:25:43 | Player "ECHO" (steamId=76561198279803637) connected to server!
+23:25:52 | Player "ECHO" (steamId=76561198279803637) connected to server!
+23:29:0 | "Sly" (steamid=76561198303394031) toggled freecam
+23:29:5 | "Sly" (steamid=76561198303394031) toggled freecam
+23:32:45 | "WORM" (steamid=76561199206265093) Spawned Item: (ExpansionPropaneTorch)
+23:37:36 | Player "Split" (steamId=76561199248305730) disconnected from server.
+23:42:48 | Player "Split" (steamId=76561199248305730) connected to server!
+23:42:59 | Player "Split" (steamId=76561199248305730) connected to server!
+23:46:4 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (ExpansionPropaneTorch)
+23:46:5 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (ExpansionPropaneTorch)
+23:46:5 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (ExpansionPropaneTorch)
+23:48:23 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:48:59 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:49:0 | Player "BeefySTi" (steamId=76561198095923512) re-connected to server [canceledLogout]
+23:49:24 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7186.279785, 294.412567, 13377.000000>)
+23:49:24 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7186.28,0,13377)
+23:49:26 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:49:29 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:49:33 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:49:40 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:50:29 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<12102.900391, 360.837372, 10507.900391>)
+23:50:29 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=12102.9,0,10507.9)
+23:50:32 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:50:56 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:53:30 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5125.548340, 229.396301, 10184.713867>)
+23:53:32 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:53:38 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:53:45 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:55:12 | "BeefySTi" (steamid=76561198095923512) deleted object "PunchedCard" (pos=<5122.188965, 228.317932, 10192.501953>)
+23:55:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BandageDressing)
+23:55:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BandageDressing)
+23:55:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BandageDressing)
+23:56:14 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5082.948730, 226.885834, 10155.384766>)
+23:56:26 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionSafeMedium" (pos=<5046.006836, 224.979996, 10164.323242>)
+23:56:35 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:56:36 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:56:40 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4918.863281, 225.060013, 10279.582031>)
+23:56:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4848.294922, 225.493958, 10284.239258>)
+23:57:59 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_Normalized_Suppressor_Black)
+23:58:21 | "Sly" (steamid=76561198303394031) Spawned Item: (ExpansionCarAdminKey)
+23:59:6 | "Sly" (steamid=76561198303394031) Spawned Item: (MCK_CarKey_Base)
+23:59:6 | "Sly" (steamid=76561198303394031) Spawned Item: (MCK_CarKey_Base)
+23:59:21 | "Sly" (steamid=76561198303394031) Spawned Item: (MCK_MasterKey)
+23:59:25 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (MCK_CarKey_Yellow)
+23:59:27 | "Sly" (steamid=76561198303394031) Spawned Item: (MCK_MasterKey)
+23:59:41 | "Sly" (steamid=76561198303394031) Spawned Item: (MCK_MasterKey)
+0:0:31 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:0:58 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5177.890625, 226.646774, 10227.243164>)
+0:1:0 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:1:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TripwireTrap)
+0:1:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TripwireTrap)
+0:1:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TripwireTrap)
+0:1:13 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+0:1:18 | "WORM" (steamid=76561199206265093) toggled godmode
+0:1:19 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+0:1:42 | Player "Sly" (steamId=76561198303394031) connected to server!
+0:1:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (M67Grenade)
+0:1:54 | Player "Sly" (steamId=76561198303394031) connected to server!
+0:2:49 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:3:11 | "WORM" (steamid=76561199206265093) deleted objects using ESP
+0:3:38 | "Sly" (steamid=76561198303394031) /refuel used on self.
+0:4:3 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7814.559082, 237.142609, 7275.021484>)
+0:4:10 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:4:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_FourDoor_MilitaryLocker_Kit)
+0:4:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_FourDoor_MilitaryLocker_Green_Kit)
+0:5:25 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<4394.560059, 200.899261, 3175.209961>)
+0:5:25 | "WORM": (steamid=76561199206265093) teleported to (pos=4394.56,0,3175.21)
+0:5:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Screwdriver)
+0:7:48 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7847.379883, 238.520416, 7235.319824>)
+0:7:48 | "WORM": (steamid=76561199206265093) teleported to (pos=7847.38,0,7235.32)
+0:7:56 | "WORM" (steamid=76561199206265093) toggled freecam
+0:8:13 | "WORM" (steamid=76561199206265093) teleported to crosshair (pos=<7834.943848, 243.631226, 7271.185059>)
+0:8:14 | "WORM" (steamid=76561199206265093) toggled freecam
+0:8:52 | "WORM" (steamid=76561199206265093) Spawned Item: (Msp_FourDoor_MilitaryLocker_Kit)
+0:9:28 | "Sly" (steamid=76561198303394031) toggled freecam
+0:9:35 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4397.395996, 200.959412, 3190.569580>)
+0:9:36 | "Sly" (steamid=76561198303394031) toggled freecam
+0:9:49 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<7832.060059, 237.113739, 7241.020020>)
+0:9:49 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=7832.06,0,7241.02)
+0:10:1 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:10:7 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<7820.221680, 237.195786, 7262.847168>)
+0:10:8 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:10:51 | "Sly" (steamid=76561198303394031) toggled freecam
+0:10:59 | "WORM" (steamid=76561199206265093) Spawned Item: (ExpansionSafeLarge)
+0:11:4 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5810.942871, 246.623657, 9236.589844>)
+0:11:18 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5818.020996, 250.110413, 9251.462891>)
+0:11:18 | "Sly" (steamid=76561198303394031) toggled freecam
+0:12:29 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (Screwdriver)
+0:12:29 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (Screwdriver)
+0:15:39 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+0:15:44 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+0:15:49 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+0:15:53 | "Sly" (steamid=76561198303394031) toggled freecam
+0:15:56 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:16:2 | Player "WORM" (steamId=76561199206265093) disconnected from server.
+0:16:3 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6181.807129, 309.145996, 9265.861328>)
+0:16:4 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<5822.381836, 250.110413, 9248.415039>)
+0:16:4 | "Sly" (steamid=76561198303394031) toggled freecam
+0:16:5 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:19:27 | "Sly" (steamid=76561198303394031) toggled godmode
+0:19:29 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+0:19:34 | "Sly" (steamid=76561198303394031) toggled freecam
+0:19:56 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.962402, 255.670166, 9242.968750>)
+0:19:57 | "Sly" (steamid=76561198303394031) toggled freecam
+0:20:11 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:20:11 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:20:11 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:20:12 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:20:19 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5833.455078, 255.636246, 9244.477539>
+0:21:10 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+0:21:36 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+0:21:48 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5837.574707, 245.772598, 9243.819336>
+0:21:57 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:22:32 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:22:32 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:22:32 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:22:43 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:22:44 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:22:48 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:22:49 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:23:2 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5802.728516, 245.909470, 9232.079102>
+0:23:4 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5802.728516, 245.909470, 9232.079102>
+0:23:16 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5802.706543, 245.909470, 9227.993164>
+0:23:19 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5802.706543, 245.909470, 9227.993164>
+0:23:21 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5802.706543, 245.909470, 9227.993164>
+0:23:39 | "Sly" (steamid=76561198303394031) toggled godmode
+0:23:43 | "Sly" (steamid=76561198303394031) toggled godmode
+0:24:6 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:24:21 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5806.815430, 245.909470, 9232.056641>
+0:24:24 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <5806.815430, 245.909470, 9232.056641>
+0:24:26 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5806.815430, 245.909470, 9232.056641>
+0:25:10 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<7828.290039, 237.034988, 7240.410156>)
+0:25:10 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=7828.29,0,7240.41)
+0:25:16 | "Sly" (steamid=76561198303394031) toggled freecam
+0:25:23 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:25:30 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<7813.946777, 237.195587, 7270.104004>)
+0:25:31 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+0:25:46 | "Sly" (steamid=76561198303394031) toggled freecam
+0:25:57 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:25:58 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:25:58 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:25:58 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:25:58 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:26:24 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:26:24 | "Sly" (steamid=76561198303394031) Spawned Item: (TripwireTrap)
+0:26:34 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:26:34 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:26:34 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:26:34 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:30 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:30 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:30 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:30 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:31 | "Sly" (steamid=76561198303394031) Spawned Item: (RGD5Grenade)
+0:27:44 | "Sly" (steamid=76561198303394031) toggled freecam
+0:27:51 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5835.523926, 255.670166, 9242.683594>)
+0:27:52 | "Sly" (steamid=76561198303394031) toggled freecam
+0:28:12 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5835.498535, 255.418030, 9242.433594>
+0:28:40 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:28:42 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:28:44 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:29:5 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<3925.760010, 193.747742, 536.760986>)
+0:29:5 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=3925.76,0,536.761)
+0:29:8 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:29:28 | "Sly" (steamid=76561198303394031) toggled freecam
+0:29:33 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5804.500488, 245.943390, 9229.363281>)
+0:29:36 | "Sly" (steamid=76561198303394031) toggled freecam
+0:29:38 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:29:43 | "Sly" (steamid=76561198303394031) toggled godmode
+0:29:44 | "Sly" (steamid=76561198303394031) toggled godmode
+0:29:51 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3538.478760, 230.691910, 1314.705444>)
+0:29:59 | "Sly" (steamid=76561198303394031) toggled freecam
+0:30:1 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5812.507324, 246.890015, 9238.750000>)
+0:30:3 | "Sly" (steamid=76561198303394031) toggled freecam
+0:30:6 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.

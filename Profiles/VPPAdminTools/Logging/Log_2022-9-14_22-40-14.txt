@@ -1,0 +1,489 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-14_22-40-14
+====================================================================================
+22:40:14 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:40:14 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:40:14 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:40:14 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:40:14 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:40:14 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:40:14 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:40:14 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:40:14 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:40:14 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:40:14 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:40:14 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:40:14 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:40:14 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:40:14 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:40:14 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:40:14 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:40:14 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:40:14 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+22:40:14 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:40:14 | [PermissionManager] Adding Super Admin (76561198095923512)
+22:40:14 | [PermissionManager] Loaded UserGroups.json
+22:40:14 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:40:14 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:40:14 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:40:14 | Building Sets Loaded: 0
+22:40:14 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+22:41:33 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:41:45 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:41:56 | "BeefySTi" (steamid=76561198095923512) deleted object "RFFSHeli_flight_case_red" (pos=<7698.438965, 13.350363, 5744.666504>)
+22:41:58 | "BeefySTi" (steamid=76561198095923512) deleted object "RFFSHeli_flight_case_blue" (pos=<7696.459473, 13.370594, 5744.737305>)
+22:42:1 | "BeefySTi" (steamid=76561198095923512) deleted object "RFFSHeli_flight_case" (pos=<7694.988770, 13.377087, 5745.130371>)
+22:43:36 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:43:38 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+22:43:40 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+22:43:47 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Heli Trader)
+22:44:14 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+22:45:46 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+22:45:49 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:45:50 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:45:50 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:46:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TetracyclineAntibiotics)
+22:46:22 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:46:32 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7700.060059, 12.196639, 5802.970215>)
+22:46:32 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7700.06,0,5802.97)
+22:47:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+22:47:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+22:47:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+22:48:11 | "BeefySTi" (steamid=76561198095923512) deleted object "CrSk_Land_Rover_Defender_110_Green" (pos=<7648.027832, 6.304010, 5745.180176>)
+22:48:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+22:49:13 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_bagazhnik" (pos=<7647.124023, 6.520099, 5743.302734>)
+22:49:18 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_1" (pos=<7645.418457, 6.005826, 5746.502441>)
+22:49:20 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_2" (pos=<7645.450195, 5.986406, 5746.258301>)
+22:49:25 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_kapot" (pos=<7648.140625, 6.724797, 5748.740234>)
+22:49:28 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_2" (pos=<7649.230469, 6.664041, 5746.526855>)
+22:49:30 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_1" (pos=<7649.432617, 6.698923, 5746.524414>)
+22:50:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_1_Green)
+22:50:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_2_Green)
+22:50:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_kapot_Green)
+22:51:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_1_Green)
+22:51:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_2_Green)
+22:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_bagazhnik_Green)
+22:52:25 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:52:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+22:52:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+22:52:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+22:52:48 | "BeefySTi" (steamid=76561198095923512) deleted object "Barrel_Green" (pos=<7647.360352, 6.023900, 5743.699219>)
+22:53:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenCrate)
+22:53:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SeaChest)
+22:53:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+22:53:47 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:53:48 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:54:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_koleso)
+22:54:23 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:54:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CamoNet)
+22:55:23 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:55:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Base)
+22:55:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_CarKeyTag_Green)
+22:56:20 | "BeefySTi" (steamid=76561198095923512) deleted object "Expansion_Landrover_Grey" (pos=<7667.642578, 10.060599, 5738.208984>)
+22:56:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7620.316406, -9.447994, 5676.816895>)
+22:56:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7615.815430, -7.847253, 5668.740234>)
+22:56:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7611.367188, -7.467828, 5661.398926>)
+22:56:56 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7608.230957, -2.706925, 5660.775391>)
+22:57:11 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7664.859863, 5.601988, 5728.890137>)
+22:57:11 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7664.86,0,5728.89)
+22:58:8 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+22:58:10 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+22:58:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.170410, 8.806959, 5535.562500>)
+22:58:18 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7030.952148, 9.157171, 5537.275391>)
+22:58:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7189.157715, 13.397026, 5591.067383>)
+22:58:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7314.391602, 14.909420, 5627.031738>)
+22:58:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7665.821289, 6.443471, 5722.966309>)
+22:59:43 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7703.224121, 14.298700, 5743.310547>)
+23:0:25 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:0:26 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:44:53 | Player "Survivor" (steamId=76561199004385675) connected to server!
+23:45:6 | Player "Survivor" (steamId=76561199004385675) connected to server!
+0:16:49 | Player "Survivor" (steamId=76561199004385675) disconnected from server.
+0:17:12 | Player "Survivor" (steamId=76561199004385675) connected to server!
+0:17:17 | Player "Survivor" (steamId=76561199004385675) connected to server!
+0:37:38 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:37:55 | Player "Survivor" (steamId=76561199004385675) disconnected from server.
+0:38:37 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:59:17 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:59:39 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:1:35 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:1:45 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:3:45 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Msp_OldLocker_Green_Kit) on "BritishLion192" (steamid=76561199206265093)
+1:3:45 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Msp_OldLocker_Green_Kit)
+1:5:49 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (WorkingGloves_Black) on "BritishLion192" (steamid=76561199206265093)
+1:5:49 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (WorkingGloves_Black)
+1:6:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BeanieHat_Black) on "BritishLion192" (steamid=76561199206265093)
+1:6:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BeanieHat_Black)
+1:6:19 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Bandana_Yellow) on "BritishLion192" (steamid=76561199206265093)
+1:6:19 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Bandana_Yellow)
+1:6:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HunterPants_Brown) on "BritishLion192" (steamid=76561199206265093)
+1:6:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HunterPants_Brown)
+1:7:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Sneakers_Black) on "BritishLion192" (steamid=76561199206265093)
+1:7:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Sneakers_Black)
+1:8:14 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (QuiltedJacket_Black) on "BritishLion192" (steamid=76561199206265093)
+1:8:14 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (QuiltedJacket_Black)
+1:8:25 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HighCapacityVest_Black) on "BritishLion192" (steamid=76561199206265093)
+1:8:25 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HighCapacityVest_Black)
+1:8:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Msp_Slouchie_Beige) on "BritishLion192" (steamid=76561199206265093)
+1:8:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Msp_Slouchie_Beige)
+1:10:38 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+1:11:24 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:11:35 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:12:44 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+1:12:45 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+1:16:1 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:16:12 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+1:17:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (AliceBag_Black) on "BritishLion192" (steamid=76561199206265093)
+1:17:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (AliceBag_Black)
+1:18:44 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BalaclavaMask_Black) on "BritishLion192" (steamid=76561199206265093)
+1:18:44 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BalaclavaMask_Black)
+1:19:27 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CombatBoots_Black) on "BritishLion192" (steamid=76561199206265093)
+1:19:27 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CombatBoots_Black)
+1:20:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16A4) on "BritishLion192" (steamid=76561199206265093)
+1:20:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16A4)
+1:20:44 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16_KACHndgrd_RIS) on "BritishLion192" (steamid=76561199206265093)
+1:20:44 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16_KACHndgrd_RIS)
+1:20:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16_Bttstck) on "BritishLion192" (steamid=76561199206265093)
+1:20:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M16_Bttstck)
+1:22:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd) on "BritishLion192" (steamid=76561199206265093)
+1:22:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd)
+1:22:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd) on "BritishLion192" (steamid=76561199206265093)
+1:22:50 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd)
+1:22:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd) on "BritishLion192" (steamid=76561199206265093)
+1:22:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd)
+1:22:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd) on "BritishLion192" (steamid=76561199206265093)
+1:22:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Mag_M4_PMAG40Rnd)
+1:23:55 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_MOEPistolGrip_Black) on "BritishLion192" (steamid=76561199206265093)
+1:23:55 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_MOEPistolGrip_Black)
+1:23:58 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_OMRGPistolGrip_Black) on "BritishLion192" (steamid=76561199206265093)
+1:23:58 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_OMRGPistolGrip_Black)
+1:24:5 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_TDSPistolGrip) on "BritishLion192" (steamid=76561199206265093)
+1:24:5 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_TDSPistolGrip)
+1:24:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_OMRGPistolGrip_Black) on "BritishLion192" (steamid=76561199206265093)
+1:24:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_M4_OMRGPistolGrip_Black)
+1:24:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_PistolGripColtA2) on "BritishLion192" (steamid=76561199206265093)
+1:24:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_PistolGripColtA2)
+1:24:27 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip) on "BritishLion192" (steamid=76561199206265093)
+1:24:27 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+1:24:35 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_AFG_RIS_Grip_Black) on "BritishLion192" (steamid=76561199206265093)
+1:24:35 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_AFG_RIS_Grip_Black)
+1:25:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod) on "BritishLion192" (steamid=76561199206265093)
+1:25:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+1:25:13 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_ModBipod) on "BritishLion192" (steamid=76561199206265093)
+1:25:13 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_ModBipod)
+1:25:15 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (AtlasBipod) on "BritishLion192" (steamid=76561199206265093)
+1:25:15 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (AtlasBipod)
+1:25:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Atlas_Bipod) on "BritishLion192" (steamid=76561199206265093)
+1:25:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (TF_Atlas_Bipod)
+1:27:46 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7303.859863, 7.939752, 11129.700195>)
+1:27:46 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<7303.859863, 0.000000, 11129.711914>)
+1:34:14 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (NVGHeadstrap) on "BritishLion192" (steamid=76561199206265093)
+1:34:14 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (NVGHeadstrap)
+1:34:16 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (NVGoggles) on "BritishLion192" (steamid=76561199206265093)
+1:34:16 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (NVGoggles)
+1:45:55 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+1:45:58 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+1:47:49 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+1:50:55 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+1:51:13 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+1:51:21 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<8170.866699, 14.455301, 10436.392578>)
+1:51:27 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+1:52:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (ImprovisedExplosive) on "BritishLion192" (steamid=76561199206265093)
+1:52:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (ImprovisedExplosive)
+1:53:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade) on "BritishLion192" (steamid=76561199206265093)
+1:53:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade)
+1:53:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade) on "BritishLion192" (steamid=76561199206265093)
+1:53:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade)
+1:53:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade) on "BritishLion192" (steamid=76561199206265093)
+1:53:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade)
+1:53:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade) on "BritishLion192" (steamid=76561199206265093)
+1:53:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (M67Grenade)
+1:59:29 | "BritishLion192" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:0:50 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:1:42 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:2:32 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:2:58 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:3:4 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:3:9 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:3:23 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:3:38 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:4:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (GhillieTop_Woodland) on "BritishLion192" (steamid=76561199206265093)
+2:4:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (GhillieTop_Woodland)
+2:4:36 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Black_CamoNetPoncho) on "BritishLion192" (steamid=76561199206265093)
+2:4:36 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Black_CamoNetPoncho)
+2:4:44 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:4:53 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:5:49 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:6:5 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:7:7 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:7:46 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:7:46 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+2:7:48 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+2:7:55 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:8:15 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:8:21 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:9:21 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:10:56 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:11:3 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:11:21 | "BritishLion192" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:11:38 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:12:4 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:12:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_Suppressor_Black) on "BritishLion192" (steamid=76561199206265093)
+2:12:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_Suppressor_Black)
+2:12:22 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_Green) on "BritishLion192" (steamid=76561199206265093)
+2:12:22 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_Green)
+2:12:23 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_10rdMag) on "BritishLion192" (steamid=76561199206265093)
+2:12:23 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_10rdMag)
+2:12:24 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_10rdMag) on "BritishLion192" (steamid=76561199206265093)
+2:12:24 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUGevar_10rdMag)
+2:14:38 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_Agram_Suppressor_Black) on "BritishLion192" (steamid=76561199206265093)
+2:14:38 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFU_Agram_Suppressor_Black)
+2:14:38 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp) on "BritishLion192" (steamid=76561199206265093)
+2:14:38 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:21:9 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:21:46 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:21:54 | "BritishLion192" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:23:45 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:23:50 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:27:0 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<8151.370605, 23.371813, 10388.385742>)
+2:27:29 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:28:9 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:28:59 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:29:25 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<6895.326172, 15.422530, 11206.647461>)
+2:29:27 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:29:30 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:29:32 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:29:45 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<6888.780762, 15.419993, 11215.867188>)
+2:29:49 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+2:30:35 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:30:42 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:32:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:32:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:32:20 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+2:32:20 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+2:32:21 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:33:46 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.591309, 16.977072, 11301.406250>
+2:33:48 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_door at position: <6797.591309, 16.977072, 11301.406250>
+2:33:52 | Admin "BritishLion192" (steamId=76561199206265093) built part t2_door at position: <6797.591309, 16.977072, 11301.406250>
+2:34:0 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6797.591309, 16.977072, 11301.406250>
+2:34:5 | Admin "BritishLion192" (steamId=76561199206265093) built part t2_metal at position: <6797.591309, 16.977072, 11301.406250>
+2:35:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:6 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:7 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:35:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:35:32 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6794.894531, 16.978388, 11296.230469>
+2:35:33 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6794.894531, 16.978388, 11296.230469>
+2:35:54 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6793.590332, 16.981537, 11293.470703>
+2:35:58 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6793.590332, 16.981537, 11293.470703>
+2:36:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:36:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:36:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:36:9 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:36:24 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6783.406738, 16.983997, 11304.141602>
+2:36:25 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6783.406738, 16.983997, 11304.141602>
+2:37:31 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6785.414551, 20.382992, 11308.182617>
+2:37:33 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6785.414551, 20.382992, 11308.182617>
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:37:39 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:38:5 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6788.245117, 20.381611, 11313.641602>
+2:38:6 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6788.245117, 20.381611, 11313.641602>
+2:38:37 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.606934, 20.377060, 11301.382813>
+2:38:39 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6797.606934, 20.377060, 11301.382813>
+2:38:58 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6799.676758, 23.782032, 11305.415039>
+2:38:59 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6799.676758, 23.782032, 11305.415039>
+2:39:15 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6801.600098, 23.778015, 11309.192383>
+2:39:16 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6801.600098, 23.778015, 11309.192383>
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:33 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:39:33 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:39:48 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.579102, 23.777071, 11301.390625>
+2:39:49 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6797.579102, 23.777071, 11301.390625>
+2:40:13 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.604004, 27.177105, 11301.439453>
+2:40:14 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6797.604004, 27.177105, 11301.439453>
+2:40:37 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6795.203613, 27.179636, 11296.627930>
+2:40:38 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6795.203613, 27.179636, 11296.627930>
+2:40:56 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6793.432617, 27.188610, 11293.150391>
+2:40:57 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6793.432617, 27.188610, 11293.150391>
+2:41:20 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6781.357910, 27.184937, 11299.936523>
+2:41:21 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6781.357910, 27.184937, 11299.936523>
+2:41:42 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6783.640137, 27.183823, 11304.486328>
+2:41:43 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6783.640137, 27.183823, 11304.486328>
+2:42:11 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.100098, 30.577347, 11300.557617>
+2:42:12 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6797.100098, 30.577347, 11300.557617>
+2:42:52 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6785.216797, 30.583050, 11307.710938>
+2:42:53 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6785.216797, 30.583050, 11307.710938>
+2:43:21 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6788.190918, 30.581598, 11313.561523>
+2:43:22 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6788.190918, 30.581598, 11313.561523>
+2:43:48 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6799.642090, 30.576006, 11305.425781>
+2:43:49 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6799.642090, 30.576006, 11305.425781>
+2:44:8 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6801.261719, 30.575214, 11308.569336>
+2:44:10 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6801.261719, 30.575214, 11308.569336>
+2:47:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_DGate) on "BritishLion192" (steamid=76561199206265093)
+2:47:10 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_DGate)
+2:47:11 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_DGate) on "BritishLion192" (steamid=76561199206265093)
+2:47:11 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_DGate)
+2:47:31 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Gate_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:47:31 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Gate_Kit)
+2:48:11 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6796.827148, 16.977446, 11302.071289>
+2:48:14 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6796.827148, 16.977446, 11302.071289>
+2:49:16 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet) on "BritishLion192" (steamid=76561199206265093)
+2:49:16 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet)
+2:49:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet) on "BritishLion192" (steamid=76561199206265093)
+2:49:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet)
+2:49:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet) on "BritishLion192" (steamid=76561199206265093)
+2:49:17 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Hatchet)
+2:52:34 | "BritishLion192" (steamid=76561199206265093) deleted objects using ESP
+2:53:6 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:53:8 | "BritishLion192" (steamid=76561199206265093) toggled freecam
+2:54:15 | "BritishLion192" (steamid=76561199206265093) deleted objects using ESP
+2:54:42 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6797.709473, 16.977015, 11301.587891>
+2:54:46 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6797.709473, 16.977015, 11301.587891>
+2:54:53 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks_2 at position: <6797.709473, 16.977015, 11301.587891>
+2:55:5 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+2:56:18 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6791.043945, 16.980268, 11302.225586>
+2:56:22 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6791.043945, 16.980268, 11302.225586>
+2:56:24 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6791.043945, 16.980268, 11302.225586>
+2:56:56 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6791.659180, 20.379944, 11305.536133>
+2:56:59 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6791.659180, 20.379944, 11305.536133>
+2:57:0 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6791.659180, 20.379944, 11305.536133>
+2:57:36 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6791.915039, 20.379841, 11303.935547>
+2:57:39 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6791.915039, 20.379841, 11303.935547>
+2:57:41 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6791.915039, 20.379841, 11303.935547>
+2:58:11 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6792.867188, 23.779341, 11306.094727>
+2:58:13 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6792.867188, 23.779341, 11306.094727>
+2:58:16 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6792.867188, 23.779341, 11306.094727>
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:40 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+2:58:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:59:7 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6792.083984, 23.779753, 11303.849609>
+2:59:10 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6792.083984, 23.779753, 11303.849609>
+2:59:12 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6792.083984, 23.779753, 11303.849609>
+2:59:33 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6791.049316, 27.180204, 11302.196289>
+2:59:36 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6791.049316, 27.180204, 11302.196289>
+2:59:37 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6791.049316, 27.180204, 11302.196289>

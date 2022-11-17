@@ -1,0 +1,224 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-28_16-31-38
+====================================================================================
+16:31:38 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+16:31:38 | [PermissionManager] Perm (FreeCamera) has been registered!
+16:31:38 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuServerManager) has been registered!
+16:31:38 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+16:31:38 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+16:31:38 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+16:31:38 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+16:31:38 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+16:31:38 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+16:31:38 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+16:31:38 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+16:31:38 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+16:31:38 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuBansManager) has been registered!
+16:31:38 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+16:31:38 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+16:31:38 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+16:31:38 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+16:31:38 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+16:31:38 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+16:31:38 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+16:31:38 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:31:38 | Building Sets Loaded: 0
+16:31:38 | [PermissionManager] Adding Super Admin (76561198095923512)
+16:31:38 | [PermissionManager] Loaded UserGroups.json
+16:31:38 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+16:31:38 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+16:34:34 | Player "Dappe" (steamId=76561197973105532) connected to server!
+16:34:42 | Player "Dappe" (steamId=76561197973105532) connected to server!
+16:45:25 | Player "Frank" (steamId=76561199004385675) connected to server!
+16:45:42 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:16:59 | Player "Dappe" (steamId=76561197973105532) disconnected from server.
+17:33:57 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+18:21:6 | Player "Split" (steamId=76561199248305730) connected to server!
+18:21:17 | Player "Split" (steamId=76561199248305730) connected to server!
+18:23:25 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+18:23:37 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+18:24:5 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<9779.509766, 396.739166, 10405.900391>)
+18:24:5 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=9779.51,0,10405.9)
+18:24:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:26:1 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:26:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:26:9 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:28:9 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:28:44 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:29:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:29:31 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5793.798340, 245.523499, 9185.881836>)
+18:29:32 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:30:39 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5812.023438, 246.441330, 9158.944336>
+18:30:46 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks_2 at position: <5812.023438, 246.441330, 9158.944336>
+18:31:19 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<8143.270020, 547.289978, 9883.019531>)
+18:31:19 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=8143.27,0,9883.02)
+18:32:28 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+18:33:12 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7860.959961, 240.222672, 7228.299805>)
+18:33:12 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=7860.96,0,7228.3)
+18:33:23 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:33:36 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7819.042480, 237.195389, 7271.812988>)
+18:33:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:34:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_combatpants_black)
+18:34:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_tactical_pants_black)
+18:36:24 | "THE STITTIES" (steamid=76561199206265093) deleted object "MMG_combatpants_black" (pos=<7830.550293, 243.632797, 7269.532715>)
+18:37:57 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Letter_Large_S)
+18:39:43 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<395.747009, 252.696762, 5677.540039>)
+18:39:43 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=395.747,0,5677.54)
+18:40:2 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+18:42:49 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<917.114014, 258.095276, 12855.000000>)
+18:42:49 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=917.114,0,12855)
+18:43:22 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:43:49 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<773.180359, 257.129608, 12855.255859>)
+18:43:50 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:45:26 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:45:31 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<774.810242, 259.344299, 12847.478516>)
+18:45:32 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:47:51 | Player "Split" (steamId=76561199248305730) disconnected from server.
+18:48:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:48:28 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:48:30 | Player "Split" (steamId=76561199248305730) connected to server!
+18:48:40 | Player "Split" (steamId=76561199248305730) connected to server!
+18:49:15 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:50:8 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:50:39 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<820.987000, 257.243103, 12869.900391>)
+18:50:39 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=820.987,0,12869.9)
+18:52:39 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:52:54 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:53:26 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:54:23 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:55:1 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:55:46 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<821.454712, 257.563690, 12893.891602>)
+18:55:46 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:55:54 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:56:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:56:39 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<324.488007, 340.498444, 14441.400391>)
+18:56:39 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=324.488,0,14441.4)
+18:56:44 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:56:47 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:56:55 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:56:57 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+18:57:33 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+18:57:42 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+18:58:2 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:58:32 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<324.920990, 340.940674, 14484.200195>)
+18:58:33 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:59:8 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:59:16 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<315.262726, 340.943542, 14498.242188>)
+18:59:17 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+18:59:36 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:59:53 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:0:25 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:0:39 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:0:42 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:1:6 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<847.390137, 260.006561, 12989.974609>)
+19:1:11 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:1:25 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:1:36 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<790.826355, 257.122620, 12843.804688>)
+19:1:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:2:59 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<8452.360352, 275.694427, 6316.350098>)
+19:2:59 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=8452.36,0,6316.35)
+19:3:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:3:51 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:3:57 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<8037.589844, 301.281982, 6657.529785>)
+19:3:57 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=8037.59,0,6657.53)
+19:4:5 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8004.380859, 307.251923, 6699.588867>)
+19:4:6 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7988.464844, 308.282379, 6720.076172>)
+19:4:7 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7961.404297, 307.700287, 6743.579102>)
+19:4:8 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7940.644531, 306.501526, 6756.575195>)
+19:5:6 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:5:31 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<812.367981, 256.187531, 12657.500000>)
+19:5:31 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=812.368,0,12657.5)
+19:5:33 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:5:49 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:6:4 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<756.295105, 257.286652, 12857.305664>)
+19:6:5 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:8:25 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:8:28 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<777.071899, 257.142242, 12869.253906>)
+19:8:29 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:9:51 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+19:10:28 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+19:10:52 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:10:59 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<170.338898, 286.882111, 12335.447266>)
+19:11:0 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:11:11 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+19:47:46 | Player "Split" (steamId=76561199248305730) disconnected from server.
+19:47:49 | Player "Split" (steamId=76561199248305730) disconnected from server.
+19:56:57 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:57:17 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:14:2 | Player "Split" (steamId=76561199248305730) connected to server!
+20:14:13 | Player "Split" (steamId=76561199248305730) connected to server!
+20:30:14 | Player "Split" (steamId=76561199248305730) disconnected from server.
+20:30:14 | Player "Frank" (steamId=76561199004385675) disconnected from server.

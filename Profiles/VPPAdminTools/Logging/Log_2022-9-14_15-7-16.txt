@@ -1,0 +1,218 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-14_15-7-16
+====================================================================================
+15:7:16 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:7:16 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:7:16 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:7:16 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:7:16 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:7:16 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:7:16 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:7:16 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:7:16 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:7:16 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:7:16 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:7:16 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:7:16 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:7:16 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:7:16 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:7:16 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:7:16 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:7:16 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:7:16 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:7:16 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:7:16 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:7:16 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:7:16 | [PermissionManager] Adding Super Admin (76561198095923512)
+15:7:16 | [PermissionManager] Loaded UserGroups.json
+15:7:16 | Building Sets Loaded: 0
+15:7:16 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:7:16 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:12:4 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:12:13 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:13:54 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:14:7 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:36:47 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+15:36:48 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+15:37:22 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+15:58:7 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+15:58:18 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+15:58:31 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+15:59:44 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+15:59:45 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+16:0:9 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_F)
+16:0:11 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_L)
+16:0:12 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_A)
+16:0:14 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_P)
+16:0:17 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_S)
+16:2:38 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+16:2:39 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+16:2:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (CamoNet)
+16:8:25 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:8:32 | Player "Frank" (steamId=76561199004385675) connected to server!
+16:8:34 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:8:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (CamoNet)
+16:8:45 | Player "Frank" (steamId=76561199004385675) connected to server!
+16:8:56 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:9:3 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:9:15 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:9:21 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:10:10 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (CamoNet)
+16:10:20 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:10:27 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:10:43 | "JakusMallius" (steamid=76561198067006084) deleted object "BBP_Broof" (pos=<7699.869629, 16.283058, 5750.917969>)
+16:10:45 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:10:58 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:12:7 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (ExpansionRoofKit)
+16:12:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Roof_Kit)
+16:13:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Hammer)
+16:13:42 | Admin "JakusMallius" (steamId=76561198067006084) built part frame at position: <7699.864746, 16.283062, 5750.922852>
+16:13:43 | Admin "JakusMallius" (steamId=76561198067006084) built part t1_wall_logs_horizontal at position: <7699.864746, 16.283062, 5750.922852>
+16:13:45 | Admin "JakusMallius" (steamId=76561198067006084) built part t2_metal at position: <7699.864746, 16.283062, 5750.922852>
+16:14:11 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Broof)
+16:14:12 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Sroof)
+16:14:15 | "JakusMallius" (steamid=76561198067006084) deleted object "BBP_Broof" (pos=<7698.819336, 13.382010, 5751.054688>)
+16:14:24 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:14:35 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7698.552246, 16.536448, 5746.278809>)
+16:14:37 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:14:41 | "JakusMallius" (steamid=76561198067006084) deleted object "BBP_Broof" (pos=<7699.864746, 16.283062, 5750.922852>)
+16:15:15 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_LHanger_Roof_Hologram)
+16:15:31 | "JakusMallius" (steamid=76561198067006084) deleted object "BBP_LHanger_Roof_Hologram" (pos=<7699.159180, 13.445000, 5753.228027>)
+16:15:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Hanger_Roof_Kit)
+16:15:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Roof_Kit)
+16:16:27 | Admin "JakusMallius" (steamId=76561198067006084) built part frame at position: <7699.864746, 16.283062, 5750.922852>
+16:16:31 | Admin "JakusMallius" (steamId=76561198067006084) built part t3_wall_concrete_bricks at position: <7699.864746, 16.283062, 5750.922852>
+16:16:38 | "JakusMallius" (steamid=76561198067006084) deleted object "CamoNet" (pos=<7699.636230, 13.380943, 5752.730957>)
+16:16:40 | "JakusMallius" (steamid=76561198067006084) deleted object "BBP_Hanger_Roof_Kit" (pos=<7699.764160, 13.375058, 5752.279785>)
+16:16:56 | "JakusMallius" (steamid=76561198067006084) deleted object "Hammer" (pos=<7700.378418, 13.370736, 5753.045898>)
+16:17:0 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:17:22 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+16:17:41 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+16:32:30 | Player "reday" (steamId=76561198130629604) connected to server!
+16:56:39 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+17:11:45 | Player "reday" (steamId=76561198130629604) disconnected from server.
+17:11:46 | Player "reday" (steamId=76561198130629604) disconnected from server.
+18:7:6 | Player "reday" (steamId=76561198130629604) connected to server!
+18:7:59 | Player "reday" (steamId=76561198130629604) connected to server!
+18:9:1 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+18:9:12 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+18:9:18 | "Alzbob" (steamid=76561198303394031) toggled godmode
+18:9:27 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6316.529785, 20.610884, 9494.769531>)
+18:9:27 | "Alzbob": (steamid=76561198303394031) teleported to (pos=6316.53,0,9494.77)
+18:10:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_flight_case)
+18:10:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_flight_case_red)
+18:10:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_flight_case_blue)
+18:11:54 | "Alzbob" (steamid=76561198303394031) deleted object "RFFSHeli_flight_case_red" (pos=<6299.663574, 20.747143, 9519.326172>)
+18:11:55 | "Alzbob" (steamid=76561198303394031) deleted object "RFFSHeli_flight_case_blue" (pos=<6299.659180, 20.746799, 9519.754883>)
+18:11:57 | "Alzbob" (steamid=76561198303394031) deleted object "RFFSHeli_flight_case" (pos=<6299.670410, 20.746847, 9519.038086>)
+18:12:18 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<8183.189941, 15.160000, 10886.400391>)
+18:12:18 | "Alzbob": (steamid=76561198303394031) teleported to (pos=8183.19,0,10886.4)
+18:12:23 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+18:12:26 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+18:15:34 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:15:47 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:29:15 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+18:29:37 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+18:31:43 | Player "reday" (steamId=76561198130629604) disconnected from server.
+19:5:58 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+19:18:47 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:19:6 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:8:3 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+20:8:4 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+20:8:9 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+20:17:49 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:17:58 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:18:2 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:18:6 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:18:7 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:19:5 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Gen Trader)
+20:19:44 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<3512.969971, 210.331696, 6760.410156>)
+20:19:44 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=3512.97,0,6760.41)
+20:19:54 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:23:1 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Gen Trader)
+20:29:44 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:30:6 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:33:41 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:33:47 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<8493.990234, 14.969616, 10597.799805>)
+20:33:47 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=8493.99,0,10597.8)
+20:35:37 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Admin Isle)
+20:36:17 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+20:36:18 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+20:49:1 | Player "weisted" (steamId=76561198963375867) connected to server!
+20:49:10 | Player "weisted" (steamId=76561198963375867) connected to server!
+21:9:22 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:9:22 | Player "weisted" (steamId=76561198963375867) disconnected from server.
+21:9:22 | Player "Frank" (steamId=76561199004385675) disconnected from server.

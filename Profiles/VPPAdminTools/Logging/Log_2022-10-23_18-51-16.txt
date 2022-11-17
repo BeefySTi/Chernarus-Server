@@ -1,0 +1,382 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-23_18-51-16
+====================================================================================
+18:51:16 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:51:16 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:51:16 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:51:16 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:51:16 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:51:16 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:51:16 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:51:16 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:51:16 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:51:16 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:51:16 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:51:16 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:51:16 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:51:16 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:51:16 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:51:16 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:51:16 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:51:16 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:51:16 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:51:16 | Building Sets Loaded: 0
+18:51:16 | [PermissionManager] Adding Super Admin (76561198095923512)
+18:51:16 | [PermissionManager] Loaded UserGroups.json
+18:51:16 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:51:16 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:51:16 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:51:16 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:54:10 | Player "Magick" (steamId=76561198797376439) connected to server!
+18:58:7 | Player "Split" (steamId=76561199248305730) connected to server!
+18:58:16 | Player "Split" (steamId=76561199248305730) connected to server!
+19:0:38 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:3:25 | "Magick" (steamid=76561198797376439) toggled freecam
+19:3:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5824.533691, 250.142090, 9249.714844>)
+19:3:34 | "Magick" (steamid=76561198797376439) toggled freecam
+19:6:0 | "Magick" (steamid=76561198797376439) toggled godmode
+19:9:11 | "Magick" (steamid=76561198797376439) toggled freecam
+19:9:18 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5755.393066, 245.857971, 9233.291992>)
+19:9:19 | "Magick" (steamid=76561198797376439) toggled freecam
+19:13:48 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:14:1 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:14:8 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:14:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:14:25 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<9900.023438, 395.744354, 10353.829102>)
+19:15:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5821.435059, 256.326782, 9248.502930>)
+19:15:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:16:11 | "Magick" (steamid=76561198797376439) toggled freecam
+19:16:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5837.335449, 265.296997, 9098.653320>)
+19:16:16 | "Magick" (steamid=76561198797376439) toggled freecam
+19:16:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:16:46 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5855.436035, 245.719910, 9139.423828>)
+19:17:4 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:17:17 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:17:20 | "Magick" (steamid=76561198797376439) toggled freecam
+19:17:24 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5817.972656, 246.923935, 9241.652344>)
+19:17:24 | "Magick" (steamid=76561198797376439) toggled freecam
+19:17:32 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:17:53 | "Magick" (steamid=76561198797376439) toggled freecam
+19:17:55 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_door at position: <5765.751953, 246.171616, 9248.983398>
+19:17:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5794.796875, 245.800323, 9228.168945>)
+19:17:59 | "Magick" (steamid=76561198797376439) toggled freecam
+19:18:6 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:18:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:18:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Lockpick)
+19:18:30 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Lockpick)
+19:18:51 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:18:59 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:19:17 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+19:19:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:19:36 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:19:36 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:19:48 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:19:58 | "Alzbob" (steamid=76561198303394031) deleted object "RFFS_carcover_mh6" (pos=<5839.337891, 258.897308, 9238.331055>)
+19:20:3 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:20:5 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_door at position: <5759.964355, 246.171616, 9248.714844>
+19:20:11 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5758.552246, 246.171616, 9239.472656>
+19:20:14 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks_2 at position: <5758.552246, 246.171616, 9239.472656>
+19:20:16 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+19:20:19 | "Magick" (steamid=76561198797376439) toggled godmode
+19:20:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5164.439941, 227.373413, 10231.235352>)
+19:21:5 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5230.419922, 254.940491, 10282.700195>)
+19:21:5 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=5230.42,0,10282.7)
+19:21:11 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:21:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5186.333984, 236.281631, 10218.770508>)
+19:21:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:21:21 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5166.062500, 225.398315, 10210.839844>)
+19:21:22 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:21:23 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<5188.339355, 236.247513, 10223.591797>)
+19:21:25 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:21:34 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:22:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5159.627930, 227.536667, 10276.111328>)
+19:22:5 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:22:5 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:22:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:15 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5254.955078, 264.088013, 10360.591797>)
+19:23:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5263.435059, 269.607452, 10368.917969>)
+19:23:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5269.756836, 274.010529, 10374.843750>)
+19:23:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5287.341309, 277.022339, 10384.885742>)
+19:23:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5299.234863, 278.135010, 10391.375977>)
+19:23:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5315.428223, 283.059387, 10395.674805>)
+19:25:18 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_Med_Pouch_black)
+19:25:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_Med_Pouch_black)
+19:25:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_black)
+19:25:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_black)
+19:25:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_black)
+19:25:29 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<323.140991, 340.483917, 14467.599609>)
+19:25:29 | "Magick": (steamid=76561198797376439) teleported to (pos=323.141,0,14467.6)
+19:25:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tactical_pouch_black)
+19:25:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tactical_pouch_black)
+19:25:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tactical_pouch_black)
+19:25:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_holster_pouch_black)
+19:25:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_holster_pouch_black)
+19:25:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_holster_pouch_black)
+19:25:35 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_utility_pouch_black)
+19:25:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_grenade_pouch_dark_woodland)
+19:26:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_striker_helmet_black)
+19:26:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+19:26:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+19:26:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+19:26:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+19:26:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+19:26:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (mmg_tactical_gloves_multicamblack)
+19:26:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_dark_woodland)
+19:26:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+19:26:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+19:26:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+19:26:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+19:26:52 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (RGD5Grenade)
+19:26:57 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_balaclava_black)
+19:27:56 | "Magick" (steamid=76561198797376439) toggled freecam
+19:27:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_patch_rubber_bra)
+19:27:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_patch_rubber_bra)
+19:27:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_patch_rubber_bra)
+19:28:30 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+19:28:39 | "Magick" (steamid=76561198797376439) toggled freecam
+19:28:44 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<305.768005, 340.483917, 14473.700195>)
+19:28:44 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=305.768,0,14473.7)
+19:28:45 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+19:28:57 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:29:3 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:29:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<299.873016, 340.483948, 14488.403320>)
+19:29:6 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:29:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:29:28 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:29:36 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+19:30:8 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:30:21 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:30:21 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:31:20 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:31:26 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:31:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:32:4 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:32:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:32:14 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:32:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_Black_GUN)
+19:32:50 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_250RND_Mag)
+19:32:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_250RND_Mag)
+19:32:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_250RND_Mag)
+19:32:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_250RND_Mag)
+19:32:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_250RND_Mag)
+19:32:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:33:24 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11657.871094, 286.127014, 4380.374023>)
+19:33:33 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:33:50 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<11652.599609, 248.704163, 4369.649902>)
+19:33:50 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=11652.6,0,4369.65)
+19:34:0 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:34:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11647.762695, 248.722992, 4388.622070>)
+19:34:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:34:10 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:34:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:34:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5740.312500, 255.421829, 6414.955078>)
+19:34:38 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<5731.500000, 255.262039, 6427.950195>)
+19:34:38 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=5731.5,0,6427.95)
+19:34:39 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<5770.790039, 255.668106, 6293.589844>)
+19:34:39 | "Magick": (steamid=76561198797376439) teleported to (pos=5770.79,0,6293.59)
+19:34:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5729.667480, 255.669983, 6218.079590>)
+19:34:48 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5738.610352, 255.657593, 6310.440918>)
+19:34:49 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5738.032227, 255.670059, 6260.461914>)
+19:34:50 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5751.494141, 255.669464, 6270.236328>)
+19:34:50 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5737.562988, 255.670013, 6230.254395>)
+19:34:51 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5737.679688, 255.670029, 6251.828613>)
+19:34:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5737.469238, 255.670029, 6238.129395>)
+19:34:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5709.257324, 255.775223, 6237.130371>)
+19:35:0 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:35:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5705.839355, 255.917618, 6239.803223>)
+19:35:26 | "Magick" (steamid=76561198797376439) toggled freecam
+19:35:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5710.103516, 255.669952, 6215.136230>)
+19:35:35 | "Magick" (steamid=76561198797376439) toggled freecam
+19:35:46 | "Magick" (steamid=76561198797376439) toggled freecam
+19:36:11 | "Magick" (steamid=76561198797376439) toggled freecam
+19:36:52 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:37:13 | "Magick" (steamid=76561198797376439) toggled freecam
+19:37:19 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:37:45 | "Magick" (steamid=76561198797376439) toggled freecam
+19:38:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:38:38 | "Magick" (steamid=76561198797376439) toggled godmode
+19:38:39 | "Magick" (steamid=76561198797376439) toggled godmode
+19:38:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5704.752930, 257.241180, 6258.762695>)
+19:39:21 | "Magick" (steamid=76561198797376439) toggled freecam
+19:39:33 | "Magick" (steamid=76561198797376439) toggled freecam
+19:39:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:39:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5701.820313, 255.918015, 6256.781250>)
+19:39:47 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:39:51 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:40:21 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:41:25 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:41:25 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:41:26 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:41:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5756.758789, 256.321930, 6244.256348>)
+19:41:47 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5705.317383, 255.860458, 6257.279297>)
+19:42:0 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+19:42:1 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+19:42:4 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+19:42:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:42:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:42:31 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:42:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+19:43:9 | "THE STITTIES" (steamid=76561199206265093) deleted objects using ESP
+19:43:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:43:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+19:44:13 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+19:44:41 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:44:52 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:49:26 | "Magick" (steamid=76561198797376439) toggled freecam
+19:49:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5709.591797, 255.665421, 6257.562500>)
+19:49:30 | "Magick" (steamid=76561198797376439) toggled freecam
+19:49:56 | "Magick" (steamid=76561198797376439) toggled godmode
+19:49:56 | "Magick" (steamid=76561198797376439) toggled godmode
+19:50:27 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+19:50:29 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+19:52:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_AKTango6T_Black)
+19:53:51 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:55:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5679.197266, 255.917023, 6253.336426>)
+19:55:49 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:56:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:57:37 | Player "Split" (steamId=76561199248305730) disconnected from server.
+19:57:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5698.875000, 259.134766, 6253.998535>)
+19:57:38 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:58:16 | Player "Split" (steamId=76561199248305730) connected to server!
+19:58:27 | Player "Split" (steamId=76561199248305730) connected to server!
+20:0:14 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:0:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5682.503418, 259.135437, 6255.324707>)
+20:0:19 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:0:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:0:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:0:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:0:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:0:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:2:58 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+20:3:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:3:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5680.055176, 255.916611, 6246.359375>)
+20:3:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:5:5 | "Magick" (steamid=76561198797376439) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:5:5 | "Magick" (steamid=76561198797376439) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:5:12 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:5:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:5:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:5:43 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:5:55 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:6:49 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:6:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5683.385254, 255.917023, 6244.872559>)
+20:6:55 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:9:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:9:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5683.496094, 255.917221, 6237.460938>)
+20:9:43 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:10:29 | Player "Split" (steamId=76561199248305730) disconnected from server.
+20:10:40 | "Magick" (steamid=76561198797376439) Spawned Item: (Lockpick)
+20:10:40 | "Magick" (steamid=76561198797376439) Spawned Item: (Lockpick)
+20:10:40 | "Magick" (steamid=76561198797376439) Spawned Item: (Lockpick)
+20:10:41 | "Magick" (steamid=76561198797376439) Spawned Item: (Lockpick)
+20:11:7 | Player "Split" (steamId=76561199248305730) connected to server!
+20:11:18 | Player "Split" (steamId=76561199248305730) connected to server!
+20:12:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:12:50 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5687.919922, 255.917023, 6232.333984>)
+20:12:51 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:12:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:12:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:12:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:13:4 | "Alzbob" (steamid=76561198303394031) Spawned Item: (HDSN_BreachingChargeHeavy)
+20:14:48 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (ExpansionPropaneTorch)
+20:16:4 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:16:12 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5698.283203, 262.307465, 6264.402344>)
+20:16:12 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:17:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionPropaneTorch)
+20:18:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Hacksaw)
+20:19:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:21:26 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_Black)
+20:21:45 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_Black)
+20:22:19 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionPropaneTorch)
+20:28:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (CS_WeaponBag_D_Black)
+20:29:48 | Admin "THE STITTIES" (steamId=76561199206265093) built part t2_metal at position: <5693.429688, 255.665680, 6246.836426>
+20:30:21 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+20:30:21 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+20:30:21 | Player "Split" (steamId=76561199248305730) disconnected from server.
+20:30:21 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.

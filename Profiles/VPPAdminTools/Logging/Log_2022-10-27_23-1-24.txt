@@ -1,0 +1,359 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-27_23-1-24
+====================================================================================
+23:1:24 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:1:24 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:1:24 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:1:24 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:1:24 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:1:24 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:1:24 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:1:24 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:1:24 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:1:24 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:1:24 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:1:24 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:1:24 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:1:24 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:1:24 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:1:24 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:1:24 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:1:24 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:1:24 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:1:24 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:1:24 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:1:24 | [PermissionManager] Loaded UserGroups.json
+23:1:24 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:1:24 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:1:24 | Building Sets Loaded: 0
+23:1:24 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:1:24 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:31:14 | Player "eGirl4u" (steamId=76561198095923512) connected to server!
+23:31:25 | Player "eGirl4u" (steamId=76561198095923512) connected to server!
+23:31:43 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+23:31:52 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7813.365723, 237.142609, 7274.965332>)
+23:31:54 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+23:32:6 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:32:25 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7813.534668, 236.943054, 7270.403809>
+23:32:26 | Admin "eGirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7813.534668, 236.943054, 7270.403809>
+23:32:30 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+23:32:38 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+23:35:49 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_Bagger)
+23:35:51 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:36:7 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_DryPost_Kit)
+23:36:10 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_Workbench_Kit)
+23:36:17 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:36:19 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticWrapper)
+23:37:21 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_DryPost_Kit)
+23:37:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_DryPost_Kit)
+23:37:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_DryPost_Kit)
+23:38:11 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:11 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:12 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:38:31 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:38:31 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:38:31 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:38:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:38:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:38:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:2 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:2 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:2 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:2 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:40:14 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7829.831543, 246.814926, 7278.571289>
+23:40:18 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7824.109375, 246.815125, 7276.767578>
+23:40:21 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7822.222656, 246.815125, 7273.142578>
+23:40:25 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7823.350586, 246.815323, 7269.566406>
+23:40:27 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7823.801758, 246.815323, 7268.135742>
+23:40:31 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7824.703613, 246.815323, 7265.274414>
+23:40:33 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7825.832520, 246.815521, 7261.698242>
+23:41:9 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7819.982910, 243.598297, 7269.175781>
+23:41:11 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7814.260742, 243.598495, 7267.372070>
+23:41:14 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7821.720703, 243.598297, 7263.663086>
+23:41:31 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7795.498535, 246.816116, 7267.749512>
+23:42:11 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7814.176758, 246.816910, 7258.024902>
+23:42:16 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7810.567383, 246.816513, 7269.469238>
+23:42:18 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7806.942871, 246.816513, 7271.356934>
+23:42:22 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7801.220703, 246.816315, 7269.553223>
+23:42:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:42:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:42:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:42:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:42:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:43:1 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7811.695313, 246.816315, 7265.893066>
+23:43:3 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7812.597168, 246.816315, 7263.031738>
+23:43:5 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7813.048340, 246.816315, 7261.601074>
+23:43:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Metal_Stair_Kit)
+23:43:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Metal_Stair_Kit)
+23:44:6 | "eGirl4u" (steamid=76561198095923512) deleted objects using ESP
+23:44:43 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7815.234375, 246.731842, 7265.412598>
+23:45:55 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7821.232422, 246.677765, 7265.647949>
+23:46:23 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:46:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:7 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:7 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:7 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:47:9 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_RawBlackFrostCannabisPlant)
+23:49:55 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Green)
+23:50:6 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Brown)
+23:50:55 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Grey)
+23:50:56 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Green)
+23:50:58 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Tan)
+23:51:26 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:51:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:13 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:26 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_PlasticRoll)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:33 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:34 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:52:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_EmptyBag)
+23:53:51 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CompostBin)
+23:54:8 | "eGirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7833.174316, 246.850189, 7265.671875>)
+23:56:3 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_Compost)
+23:56:26 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (TruckBattery)
+23:58:7 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBagBlackFrost)
+23:58:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBagBlackFrost)
+23:58:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBagBlackFrost)
+23:58:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBagBlackFrost)
+23:58:14 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:14 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:14 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:14 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:14 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:15 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:15 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:15 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+23:58:15 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CP_CannabisBlackFrost)
+0:0:6 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+0:0:41 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:42 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:43 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:43 | "eGirl4u" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+0:0:47 | "eGirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:0:47 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:48 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:48 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:49 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:49 | "eGirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:0:49 | "eGirl4u" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+0:0:51 | "eGirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:1:36 | "eGirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:1:39 | "eGirl4u" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+0:1:41 | "eGirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:1:44 | "eGirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:2:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:2:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:2:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:2:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:3:29 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7824.353027, 240.379883, 7264.262207>
+0:3:42 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7822.922363, 240.379883, 7263.811523>
+0:3:45 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7821.491699, 240.379883, 7263.360352>
+0:3:50 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7816.484863, 240.379684, 7261.782227>
+0:3:55 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7823.944824, 240.379883, 7258.073242>
+0:5:2 | "eGirl4u" (steamid=76561198095923512) deleted objects using ESP
+0:5:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Metal_Stair_Kit)
+0:6:40 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7819.066406, 240.309769, 7265.905762>
+0:6:58 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:6:58 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:7:58 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+0:8:5 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+0:8:23 | "eGirl4u" (steamid=76561198095923512) deleted objects using ESP
+0:9:46 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7814.972168, 243.486908, 7258.295410>
+0:10:6 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7815.283203, 243.598495, 7261.633789>
+0:10:8 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7816.713867, 243.598495, 7262.084961>
+0:10:10 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7818.144531, 243.598495, 7262.536133>
+0:11:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_StorageBox_Kit)
+0:11:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_Bookcase_Kit)
+0:12:8 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel_Stand_Darkwood)
+0:12:10 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel)
+0:12:15 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel_Darkwood)
+0:12:16 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel_Valve)
+0:12:17 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel_Valve_Darkwood)
+0:13:0 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+0:14:53 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WoodenChair)
+0:15:17 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookBible)
+0:15:18 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheWarOfTheWorlds)
+0:15:18 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookAroundTheWorldIn80Days)
+0:15:19 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookCrimeAndPunishment)
+0:15:20 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheMetamorphosis)
+0:15:20 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheRaven)
+0:15:21 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheArtOfWar)
+0:15:21 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookRobinsonCrusoe)
+0:15:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookRussian)
+0:15:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookRussianCheatSheet)
+0:15:22 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookThePictureOfDorianGray)
+0:15:23 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookThePitAndThePendulum)
+0:15:23 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheTimeMachine)
+0:15:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheCountryOfTheBlind)
+0:15:24 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookBilaNemoc)
+0:15:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookYouth)
+0:15:25 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookVerwandlung)
+0:15:26 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheJungleBook)
+0:15:26 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheBrothersKaramazov)
+0:15:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheCallOfCthulhu)
+0:15:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheShunnedHouse)
+0:15:27 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheHoundOfTheBaskervilles)
+0:15:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookAndersen)
+0:15:29 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTonyAndTheBeetles)
+0:16:35 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheCosmicComputer)
+0:16:36 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookATravelerInTime)
+0:16:36 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheVariableMan)
+0:16:37 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheOutlet)
+0:16:37 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheBarrier)
+0:16:38 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheDesertOfWheat)
+0:16:39 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookFlyingURanch)
+0:16:39 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookCassidysRustlerRoundUp)
+0:16:40 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookLonesomeLand)
+0:16:40 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTrailin)
+0:16:41 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookRonickyDoone)
+0:16:43 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookATexasMatchmaker)
+0:16:43 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheThunderBird)
+0:16:44 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookBlackJack)
+0:16:44 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheLastTrail)
+0:16:45 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookSelectedStories)
+0:16:45 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheHeritageOfTheSioux)
+0:16:46 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookDesertGold)
+0:16:46 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheHiddenChildren)
+0:16:46 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheLastOfThePlainsmen)
+0:16:47 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookGunmansReckoning)
+0:16:47 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookSkyrider)
+0:17:29 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookSpinifexAndSand)
+0:17:30 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookSunsetPass)
+0:17:30 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheCaveOfGold)
+0:17:31 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BookTheDayOfTheBeast)
+0:18:28 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (FS_NPC_Monolitva_Dolg)
+0:18:51 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+0:19:9 | "eGirl4u" (steamid=76561198095923512) toggled freecam
+0:20:44 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (Msp_WaterBarrel_Plastic)
+0:20:50 | Admin "eGirl4u" (steamId=76561198095923512) built part t2_metal at position: <7832.504883, 246.597305, 7270.093262>
+0:21:10 | "eGirl4u" (steamid=76561198095923512) deleted objects using ESP
+0:21:32 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:21:45 | "eGirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:22:1 | Admin "eGirl4u" (steamId=76561198095923512) built part frame at position: <7832.504883, 246.596909, 7270.092773>
+0:22:4 | Admin "eGirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7832.504883, 246.596909, 7270.092773>
+0:23:48 | Player "eGirl4u" (steamId=76561198095923512) disconnected from server.
+0:23:49 | Player "eGirl4u" (steamId=76561198095923512) disconnected from server.

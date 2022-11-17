@@ -14,6 +14,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
 		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
 	</classes>
+	<ce folder="db">  
+		<file name="types_mmg.xml" type="types" />
+		<file name="types_AWS.xml" type="types" />
+		<file name="types_CarCover.xml" type="types" />
+		<file name="types_UNKghillie.xml" type="types" />
+		<file name="types_cannabis.xml" type="types" />
+	</ce>
 	<defaults>
 		<default name="dyn_radius" value="30" />
 		<default name="dyn_smin" value="0" />

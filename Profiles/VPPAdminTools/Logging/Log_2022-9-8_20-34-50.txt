@@ -1,0 +1,552 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-8_20-34-50
+====================================================================================
+20:34:50 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:34:50 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:34:50 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:34:50 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:34:50 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:34:50 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:34:50 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:34:50 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:34:50 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:34:50 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:34:50 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:34:50 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:34:50 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:34:50 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:34:50 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:34:50 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:34:50 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:34:50 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:34:50 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:34:50 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:34:50 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:34:50 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:34:50 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:34:50 | [PermissionManager] Adding Super Admin (76561198095923512)
+20:34:50 | [PermissionManager] Loaded UserGroups.json
+20:34:50 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:34:50 | Building Sets Loaded: 0
+20:35:41 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:36:17 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:36:31 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:37:42 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:37:48 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:38:4 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+20:38:4 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+20:38:16 | "Magick": (steamid=76561198797376439) teleported to (pos=Athena-2)
+20:38:26 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:38:36 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:38:45 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:38:55 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:39:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6865.057617, 35.489983, 11167.637695>)
+20:39:50 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+20:40:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_AS50_GUN)
+20:40:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_AS50_Mag)
+20:40:55 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:41:6 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:41:9 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6811.631836, 15.210009, 11104.438477>)
+20:41:13 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:41:14 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:41:14 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:41:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8588.451172, 14.725498, 10495.611328>)
+20:41:33 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:37 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:47 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Snafu_PKP_Black_GUN)
+20:41:51 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6813.814941, 16.871378, 11103.810547>)
+20:42:21 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6813.721680, 34.389557, 11134.589844>)
+20:43:11 | "JakusMallius" (steamid=76561198067006084) gave unlimited ammo to (steamid=76561198067006084)
+20:44:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SKS)
+20:45:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6741.106934, 44.645275, 11125.381836>)
+20:45:36 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7205.049805, 11.362856, 10011.400391>)
+20:45:36 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=7205.05,0,10011.4)
+20:45:37 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:45:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7158.940918, 5.645729, 9970.875977>)
+20:45:48 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7134.320313, 5.921910, 9978.468750>)
+20:45:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4976.569824, 49.453541, 6625.249023>)
+20:45:55 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6976.381836, 4.629423, 9969.688477>)
+20:45:57 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6881.646484, 3.870509, 9956.499023>)
+20:45:59 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:46:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_M1A)
+20:46:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUM1A_Black)
+20:46:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUM1A_Black)
+20:46:48 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7649.520020, 72.623863, 8819.150391>)
+20:46:48 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=7649.52,0,8819.15)
+20:46:50 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7651.350098, 72.317238, 8810.919922>)
+20:46:50 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=7651.35,0,8810.92)
+20:46:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_M1A_Black)
+20:46:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7665.070313, 84.661057, 8765.758789>)
+20:47:21 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:47:24 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:47:26 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:47:29 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:47:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUM1A_Black)
+20:47:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_M1A_Black)
+20:47:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_M1A_Black)
+20:50:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_RDB)
+20:50:41 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<6911.830078, 15.460000, 11216.200195>)
+20:50:41 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=6911.83,0,11216.2)
+20:50:55 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6867.180176, 35.345329, 11185.651367>)
+20:51:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6816.582520, 34.913620, 11143.303711>)
+20:51:14 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6713.123047, 15.000004, 11160.898438>)
+20:51:19 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6689.840332, 14.999998, 11157.836914>)
+20:51:21 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6675.833008, 15.000002, 11153.216797>)
+20:51:23 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6665.822754, 15.040005, 11133.057617>)
+20:51:28 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6615.832031, 15.090003, 11040.208984>)
+20:51:39 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6606.314941, 15.091739, 11017.668945>)
+20:51:41 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6601.152832, 15.228283, 10992.277344>)
+20:51:42 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:51:43 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6622.256348, 16.037312, 10945.073242>)
+20:51:47 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8192.635742, 24.708693, 10845.206055>)
+20:51:48 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:52:10 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:52:22 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6685.181152, 35.418777, 10948.534180>)
+20:52:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:52:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6629.546387, 17.387682, 10930.620117>)
+20:52:57 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6657.294434, 19.702925, 10905.485352>)
+20:53:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:53:40 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:53:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6650.449707, 16.132198, 10901.988281>)
+20:53:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6643.426758, 16.129484, 10910.260742>)
+20:53:59 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:54:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6657.605957, 19.644281, 10904.127930>)
+20:54:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6657.488281, 19.634327, 10905.729492>)
+20:54:51 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6664.858887, 17.257317, 10832.559570>)
+20:55:0 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:55:5 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6659.802734, 17.945524, 10763.040039>)
+20:55:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6497.815430, 15.940554, 10739.592773>)
+20:55:9 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:55:10 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6643.844727, 19.113144, 10674.920898>)
+20:55:11 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6641.517090, 20.517681, 10653.288086>)
+20:55:18 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6603.048340, 14.296295, 10442.419922>)
+20:55:20 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6609.638184, 13.907176, 10429.219727>)
+20:55:24 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6611.336914, 14.210949, 10466.707031>)
+20:55:25 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6612.743164, 14.536853, 10477.672852>)
+20:55:31 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6600.226074, 15.728297, 10480.256836>)
+20:55:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:55:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6148.256836, 35.631779, 10832.039063>)
+20:55:50 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:55:58 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6149.645020, -58.973518, 10823.479492>)
+20:55:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.880371, -83.192162, 10819.458008>)
+20:55:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.761719, -95.660988, 10817.527344>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.673828, -97.716354, 10817.123047>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.543457, -99.349861, 10816.834961>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.400879, -99.873703, 10816.635742>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.275879, -101.029152, 10816.402344>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.195313, -106.973389, 10815.850586>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.166016, -104.883255, 10815.946289>)
+20:56:0 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6148.062988, -108.654938, 10815.631836>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.919434, -112.597664, 10815.426758>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.849609, -121.153801, 10815.234375>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.777344, -117.183685, 10815.314453>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.815918, -119.522430, 10815.181641>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.757324, -115.526764, 10815.248047>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.802246, -117.165924, 10815.119141>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.761230, -114.337112, 10815.134766>)
+20:56:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.811523, -115.428123, 10815.040039>)
+20:56:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.729004, -113.324074, 10815.025391>)
+20:56:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.730957, -112.780113, 10814.971680>)
+20:56:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6147.695313, -111.544373, 10814.944336>)
+20:56:27 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Admin Isle)
+20:56:38 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7728.169922, -16.263769, 5748.822266>)
+20:56:39 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7728.118652, -14.187969, 5748.869629>)
+20:56:39 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7728.019531, -12.249063, 5748.864258>)
+20:56:40 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.993652, -10.396843, 5748.783203>)
+20:56:40 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.926270, -8.525074, 5748.722168>)
+20:56:41 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.895996, -6.655658, 5748.628418>)
+20:56:41 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.819336, -4.824736, 5748.592773>)
+20:56:42 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.739746, -2.945642, 5748.536621>)
+20:56:42 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.675293, -1.042699, 5748.484863>)
+20:56:42 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.664063, 0.337700, 5748.413574>)
+20:56:43 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.726563, 1.549093, 5748.249023>)
+20:56:43 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.874512, 2.538794, 5748.068848>)
+20:56:44 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.667480, 2.957952, 5747.966797>)
+20:56:44 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.428711, 3.063524, 5748.116211>)
+20:56:44 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.171387, 2.940187, 5747.999023>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.252441, 2.431664, 5748.269043>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.261719, 2.035430, 5747.916504>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7726.932617, 1.796326, 5748.188965>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.394531, 1.329020, 5748.243652>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.108398, 0.835065, 5748.495605>)
+20:56:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.117676, 1.279195, 5748.469238>)
+20:56:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.200684, 2.326305, 5748.185059>)
+20:56:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.112305, 1.549559, 5748.071777>)
+20:56:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.361328, 2.610203, 5748.131348>)
+20:56:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.103027, 2.574600, 5748.306641>)
+20:56:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.365234, 3.517232, 5748.381836>)
+20:56:47 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7727.169922, 3.496688, 5748.568848>)
+20:56:48 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:56:49 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:56:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6073.447266, 31.166279, 10845.736328>)
+20:57:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7704.624512, 12.780513, 6055.755859>)
+20:57:6 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:57:10 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+20:57:11 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+20:57:19 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:57:25 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5786.852539, 16.833111, 10764.582031>)
+20:57:26 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:57:43 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:57:47 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:58:5 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:58:6 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:58:18 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<4899.490234, 53.754059, 6626.160156>)
+20:58:18 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=4899.49,0,6626.16)
+20:58:30 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4952.244629, 46.554771, 6610.682129>)
+20:58:33 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4970.730957, 47.099396, 6611.859375>)
+20:58:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUTAR21_Black)
+20:58:51 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5096.641113, 203.980423, 7163.447266>)
+20:58:53 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5100.694824, 216.514694, 7184.849121>)
+20:58:53 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5102.027832, 221.050339, 7191.444824>)
+20:58:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUM98B_Atac_GUN)
+20:58:54 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5103.875000, 227.220627, 7201.373047>)
+20:58:54 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5105.309570, 235.750031, 7222.266602>)
+20:58:55 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5105.906250, 238.512009, 7228.917480>)
+20:58:56 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5105.959473, 238.978500, 7233.500977>)
+20:59:4 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4268.717773, 110.428680, 8047.115723>)
+20:59:22 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUM98B_Mag)
+20:59:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ACOGOptic)
+21:0:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:0:28 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4996.894531, 48.369896, 6645.384766>)
+21:0:29 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4993.341797, 47.309330, 6654.562988>)
+21:0:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4992.104004, 49.248798, 6657.858887>)
+21:0:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4990.127441, 48.871506, 6665.583496>)
+21:0:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4988.494629, 50.181950, 6672.274414>)
+21:0:32 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4986.801270, 51.577835, 6679.338379>)
+21:0:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4982.259277, 51.022507, 6697.760742>)
+21:0:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4976.627441, 50.385487, 6709.751465>)
+21:0:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4975.969238, 51.506973, 6716.482910>)
+21:0:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4976.224121, 53.247688, 6720.655273>)
+21:0:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4972.971680, 51.552921, 6735.795410>)
+21:0:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4970.131836, 52.506592, 6741.797363>)
+21:0:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4965.645508, 53.058510, 6749.865723>)
+21:0:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3912.535889, 2.292399, 10058.982422>)
+21:0:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4959.716309, 53.276798, 6760.694824>)
+21:0:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4951.458984, 53.143669, 6776.327148>)
+21:0:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4941.145508, 52.866066, 6797.318848>)
+21:0:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4939.556152, 54.636555, 6800.497559>)
+21:0:39 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4938.275391, 54.914814, 6802.937500>)
+21:0:40 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4934.570313, 54.791344, 6808.959961>)
+21:0:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4929.333496, 55.572853, 6818.774414>)
+21:0:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4926.511230, 57.710751, 6825.211426>)
+21:0:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4923.567871, 59.742645, 6831.989746>)
+21:0:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4916.498535, 61.628902, 6848.944336>)
+21:0:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4842.798828, 69.910004, 7019.884277>)
+21:0:44 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4803.436035, 96.169365, 7096.873535>)
+21:0:45 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4799.709473, 102.125710, 7104.204590>)
+21:0:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3921.935547, 9.451620, 10002.662109>)
+21:0:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4703.979980, 120.305275, 7254.763672>)
+21:0:49 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4696.010742, 123.243431, 7267.207031>)
+21:0:50 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4643.247070, 132.479706, 7337.086426>)
+21:0:51 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4629.991211, 135.968460, 7354.843262>)
+21:0:51 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4618.360840, 139.155670, 7370.682129>)
+21:0:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4604.958496, 141.441650, 7391.397461>)
+21:0:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4596.502441, 141.200363, 7403.421875>)
+21:0:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4592.947266, 140.404770, 7416.581543>)
+21:0:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4583.385254, 137.718979, 7429.500977>)
+21:0:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4577.200195, 134.750122, 7445.349121>)
+21:0:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4574.975586, 133.843765, 7457.642090>)
+21:0:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4568.273438, 132.829361, 7472.893555>)
+21:0:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4564.008789, 133.134552, 7481.729980>)
+21:0:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4558.406738, 133.599274, 7490.398926>)
+21:0:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4552.113281, 133.353775, 7501.335938>)
+21:1:0 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4544.505371, 132.024994, 7517.920898>)
+21:1:1 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4540.232422, 130.590424, 7531.542969>)
+21:1:2 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4531.128418, 125.045456, 7556.840820>)
+21:1:2 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4527.229004, 123.719269, 7567.625977>)
+21:1:3 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4521.120605, 122.058052, 7579.012695>)
+21:1:3 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4512.500977, 118.715477, 7595.530762>)
+21:1:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4500.937988, 112.376274, 7617.561523>)
+21:1:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4496.715820, 111.187691, 7625.894043>)
+21:1:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4489.258301, 108.632881, 7640.752930>)
+21:1:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4481.265137, 105.345116, 7656.650391>)
+21:1:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4468.427246, 93.314392, 7691.444824>)
+21:1:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3952.663818, 14.646699, 9993.684570>)
+21:1:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4466.378906, 93.056580, 7698.421875>)
+21:1:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4291.704590, 76.112755, 7976.775879>)
+21:1:33 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4282.796875, 78.485184, 8084.242676>)
+21:2:19 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4239.635742, 96.463112, 8048.454590>)
+21:2:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4238.946289, 94.015900, 8048.340820>)
+21:2:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4255.525879, 109.624535, 8048.872559>)
+21:2:32 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4263.576660, 108.395782, 8063.437012>)
+21:2:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<2395.637939, 1.999997, 7385.261230>)
+21:2:43 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4234.691895, 77.548676, 8086.894043>)
+21:2:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<1959.625366, 1.999996, 6090.080566>)
+21:2:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<1927.577515, 1.999943, 6046.265137>)
+21:3:0 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:3:5 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4244.846680, 77.894241, 8104.666992>)
+21:3:8 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4227.284668, 71.575729, 8172.856934>)
+21:3:22 | "Magick" (steamid=76561198797376439) toggled freecam
+21:4:23 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4445.800781, 426.908997, 7134.293945>)
+21:4:29 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4224.070801, 96.279282, 8045.885254>)
+21:4:42 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4253.470703, 112.641098, 8061.320313>)
+21:4:45 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_M82_Barret)
+21:4:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_M82_Mag)
+21:4:47 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_M82_Mag)
+21:5:11 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+21:5:12 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+21:6:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ACOGOptic)
+21:6:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ACOGOptic)
+21:6:10 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:6:10 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4343.442383, 96.145859, 8078.494629>)
+21:6:12 | "Magick" (steamid=76561198797376439) toggled freecam
+21:6:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<2241.525146, 1.999908, 5482.526855>)
+21:6:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<2645.151367, 4.563431, 5602.227539>)
+21:6:55 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:6:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<2489.666992, 2.726322, 5545.954590>)
+21:7:12 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:7:16 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:7:20 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:7:26 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:7:27 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:7:28 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:8:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:8:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3635.416992, 28.999168, 6190.366211>)
+21:11:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3608.907715, 140.150421, 6483.617676>)
+21:12:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3597.612061, 170.487305, 6676.444824>)
+21:12:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:12:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:12:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3604.158691, 199.253555, 6783.398926>)
+21:12:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:13:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:13:30 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:13:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4176.747559, 390.229401, 6586.793945>)
+21:13:41 | "Magick": (steamid=76561198797376439) teleported to (pos=Lantia)
+21:13:45 | "Magick" (steamid=76561198797376439) toggled freecam
+21:13:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GasMask)
+21:13:50 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:13:54 | "Magick" (steamid=76561198797376439) toggled freecam
+21:13:57 | "Magick" (steamid=76561198797376439) toggled freecam
+21:14:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11080.741211, 1003.732056, 1621.615234>)
+21:14:6 | "Magick" (steamid=76561198797376439) toggled freecam
+21:14:24 | "Alzbob": (steamid=76561198303394031) teleported to (pos=Lantia)
+21:14:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11086.758789, 847.978699, 1622.503906>)
+21:14:29 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:14:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11080.395508, 1003.732056, 1623.629761>)
+21:14:37 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11080.395508, 1003.732056, 1623.629761>)
+21:14:37 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11080.395508, 1003.732056, 1623.629761>)
+21:14:56 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+21:15:10 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11113.201172, 1003.825012, 1593.188843>)
+21:15:48 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:15:53 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:16:2 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+21:16:3 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+21:16:6 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:16:8 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:16:9 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:16:11 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:16:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11021.366211, 1021.919006, 1578.884399>)
+21:16:40 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11035.692383, 1024.122681, 1562.714722>)
+21:16:42 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:18:58 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4564.419922, 9.770474, 9928.209961>)
+21:18:58 | "Magick": (steamid=76561198797376439) teleported to (pos=4564.42,0,9928.21)
+21:19:7 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<2181.790039, 2.860850, 10868.900391>)
+21:19:7 | "Alzbob": (steamid=76561198303394031) teleported to (pos=2181.79,0,10868.9)
+21:19:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:20:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4441.771973, 3.793596, 10032.198242>)
+21:20:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4421.785645, 5.504428, 10045.340820>)
+21:20:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4413.011719, 6.368874, 10056.914063>)
+21:20:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4406.908691, 7.455735, 10066.561523>)
+21:20:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4399.112305, 7.822031, 10075.497070>)
+21:20:12 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:20:12 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:20:16 | [WeatherManager] Send Data Count is 0
+21:21:9 | "Magick" (steamid=76561198797376439) toggled freecam
+21:21:50 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:22:37 | "Magick" (steamid=76561198797376439) toggled freecam
+21:22:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11901.604492, 18.909748, 7499.106445>)
+21:22:47 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<12085.599609, 3.322253, 7512.500000>)
+21:22:47 | "Magick": (steamid=76561198797376439) teleported to (pos=12085.6,0,7512.5)
+21:22:47 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:22:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<12056.545898, 2.000000, 7517.623535>)
+21:22:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<12040.902344, 1.999999, 7518.615723>)
+21:22:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<12026.867188, 1.999999, 7517.949707>)
+21:22:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<12012.615234, 1.999999, 7516.636230>)
+21:22:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11955.310547, 2.000000, 7508.840820>)
+21:22:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11915.258789, 12.729691, 7526.286133>)
+21:23:0 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:23:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11935.820313, 1.265156, 7514.128418>)
+21:23:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11896.486328, 12.758724, 7517.215332>)
+21:23:7 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:23:28 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11914.295898, 15.635433, 7522.988281>)
+21:24:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_printer_filament_abs)
+21:24:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_printer_filament_tpc)
+21:25:2 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_printer_filament_nylon)
+21:25:30 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_blueprint_lehs)
+21:25:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_module_card)
+21:26:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AntiChemInjector)
+21:26:58 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:27:18 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:27:24 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:27:46 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:27:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11946.272461, 2.000011, 7511.608398>)
+21:27:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11822.199219, 2.684598, 7569.379883>)
+21:28:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11952.704102, 2.000005, 7504.241211>)
+21:28:1 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11889.650391, 0.609416, 7432.690430>)
+21:28:6 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:28:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<11941.289063, 0.264053, 7493.918457>)
+21:28:16 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:28:19 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+21:28:20 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+21:30:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:30:37 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:31:20 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:31:22 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:31:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_oxygenated_blood)
+21:33:2 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:33:46 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin Isle)
+21:33:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_vega7_enzyme)
+21:34:1 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:34:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_vega7_enzyme)
+21:34:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_vega7_enzyme)
+21:34:49 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:34:50 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:35:5 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:35:6 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:35:7 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:35:9 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:35:48 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:36:41 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:36:51 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:37:1 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:37:33 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:37:45 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:37:46 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:37:57 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionVodnik_Cover" (pos=<7703.919434, 11.887051, 5796.382813>)
+21:38:7 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:39:2 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+21:42:33 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:42:39 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:43:14 | "Magick" (steamid=76561198797376439) toggled freecam
+21:43:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:43:29 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:43:57 | "Magick" (steamid=76561198797376439) toggled freecam
+21:45:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7712.134766, 13.282655, 5742.626953>)
+21:45:50 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:47:27 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:47:29 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:48:35 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:48:47 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:50:7 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:50:14 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+21:50:15 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:51:9 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7712.940918, 10.097129, 5739.362793>)
+21:51:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7712.134766, 13.282655, 5742.626953>)
+21:54:1 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+21:54:3 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+21:54:16 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:54:26 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:54:40 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7696.359863, 13.901971, 5772.729980>)
+21:54:40 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7696.36,0,5772.73)
+21:55:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:55:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7703.788086, 16.526905, 5736.863770>)
+21:55:19 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:55:25 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:56:52 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:56:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Vehicle_ExpansionGyrocopter)
+21:56:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7630.641113, 3.864719, 5757.099121>)
+21:57:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Vehicle_ExpansionGyrocopter)
+21:57:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionGyrocopter)
+21:58:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.402344, 6.961392, 5723.045898>)
+21:59:50 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:59:51 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:0:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6317.104492, 164.336334, 6502.717773>)
+22:0:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6983.317383, 72.588371, 6157.434570>)
+22:0:39 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7675.514648, 15.045741, 5765.911133>)
+22:0:48 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:51 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.083496, 12.564471, 5766.413574>)
+22:0:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7676.883301, 13.766628, 5766.443359>)
+22:0:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7724.043945, 806.176270, 5005.294922>)
+22:3:42 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7690.137695, 11.599168, 5747.846680>)
+22:4:2 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionGyrocopter" (pos=<7687.339844, 11.575881, 5745.957031>)
+22:4:46 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:4:51 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:7:3 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:7:13 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:7:17 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+22:7:37 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:19:18 | Player "Alzbob" (steamId=76561198303394031) connected to server!

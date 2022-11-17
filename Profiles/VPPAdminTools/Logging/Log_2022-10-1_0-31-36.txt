@@ -1,0 +1,671 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-1_0-31-36
+====================================================================================
+0:31:36 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:31:36 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:31:36 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:31:36 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:31:36 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:31:36 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:31:36 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:31:36 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:31:36 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:31:36 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:31:36 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:31:36 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:31:36 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:31:36 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:31:36 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:31:36 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:31:36 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:31:36 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:31:36 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:31:36 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:31:36 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:31:36 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:31:36 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:31:36 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:31:36 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:31:36 | [PermissionManager] Loaded UserGroups.json
+0:31:36 | Building Sets Loaded: 0
+0:32:59 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:33:3 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:33:14 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:33:28 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:35:11 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:35:15 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:35:51 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6025.660156, 201.423645, 2500.050049>)
+0:35:51 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=6025.66,0,2500.05)
+0:36:6 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+0:36:11 | Player "HariBalzac" (steamId=76561198095923512) connected to server!
+0:36:41 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<5970.124023, 197.627365, 2498.840332>)
+0:36:45 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:37:4 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Mosin9130_Camo)
+0:37:5 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6104.007813, 256.456360, 2227.692139>)
+0:37:6 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:37:51 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:38:3 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (AD_LeupoldMk4_MosinMount)
+0:38:9 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:38:34 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_JPC_Vest_multicam_tropic)
+0:38:51 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_triple_magpouch_multicam_tropic)
+0:39:35 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_Black)
+0:39:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Tan)
+0:39:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Tan)
+0:39:40 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Tan)
+0:39:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Tan)
+0:39:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+0:39:42 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+0:40:34 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TortillaBag)
+0:40:58 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TF_HAMROptic_Black)
+0:41:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Morphine)
+0:41:11 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Morphine)
+0:41:25 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:41:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Shirt_GreenCheck)
+0:41:30 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:41:42 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6085.020020, 205.169998, 1121.459961>)
+0:41:42 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=6085.02,0,1121.46)
+0:41:53 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_sheath_multicam_tropic)
+0:41:57 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:41:59 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CombatKnife)
+0:42:1 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+0:42:16 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_balaclava_olive)
+0:42:26 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TacticalGloves_Green)
+0:42:36 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (CargoPants_Green)
+0:43:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_Med_Pouch_multicam_tropic)
+0:43:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BandageDressing)
+0:43:28 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BandageDressing)
+0:44:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_tactical_helmet_multicam_tropic)
+0:44:23 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (INK_CamoNetPoncho)
+0:44:46 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+0:44:46 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+0:45:3 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_300ACC)
+0:45:21 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TunaCan)
+0:45:21 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TunaCan)
+0:45:21 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (TunaCan)
+0:45:34 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (MMG_bottle_erdl)
+0:45:51 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (BrisketSpread)
+0:46:1 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (PorkCan)
+0:47:8 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Battery9V)
+0:47:8 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Battery9V)
+0:47:12 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (NVGoggles)
+0:47:22 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+0:47:35 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+0:47:45 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+0:47:48 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6644.292480, 236.634796, 1930.704346>)
+0:47:58 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+0:48:52 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6340.583496, 234.396820, 2022.845947>)
+0:48:57 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6318.897949, 235.994690, 2010.766113>)
+0:49:0 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<5794.430176, 203.978394, 1541.599976>)
+0:49:0 | "BlueHamWallet": (steamid=76561198067006084) teleported to (pos=5794.43,0,1541.6)
+0:49:17 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+0:49:17 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6131.192383, 260.929504, 1751.580444>)
+0:49:32 | "InfectedLoveLiquid" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+0:49:34 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6042.537598, 231.331772, 1855.015503>)
+0:50:11 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<5948.889648, 252.100967, 2139.025146>)
+0:50:26 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<5999.918945, 255.192978, 2127.549316>)
+0:53:58 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+0:54:14 | Player "Johan" (steamId=76561198797376439) connected to server!
+0:56:39 | Player "Johan" (steamId=76561198797376439) connected to server!
+0:57:17 | "InfectedLoveLiquid" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+0:58:24 | "InfectedLoveLiquid" (steamid=76561199206265093) just updated a health stat on (steamid=76561199206265093)
+0:58:32 | "Johan" (steamid=76561198797376439) toggled freecam
+0:58:47 | "Johan" (steamid=76561198797376439) teleported to crosshair (pos=<5534.269043, 196.939987, 2552.190918>)
+0:58:50 | "Johan" (steamid=76561198797376439) toggled freecam
+0:58:57 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (AD_DHF5)
+0:59:30 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Ammo_308Win)
+0:59:51 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+1:0:55 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFU_Normalized_Suppressor_Black)
+1:0:56 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+1:6:41 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+1:6:52 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+1:10:53 | "Johan" (steamid=76561198797376439) Spawned Item: (Lockpick)
+1:10:53 | "Johan" (steamid=76561198797376439) Spawned Item: (Lockpick)
+1:13:6 | "Johan" (steamid=76561198797376439) teleported to crosshair (pos=<4379.538086, 209.238693, 3206.684814>)
+1:17:33 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+1:17:43 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+1:18:55 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:19:6 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:19:42 | "Fuchs" (steamid=76561198303394031) deleted object "MMG_MK_V_Armor_multicamblack" (pos=<5362.046875, 238.235367, 2894.721191>)
+1:19:47 | "Fuchs" (steamid=76561198303394031) deleted object "MMG_MK_V_Armor_green" (pos=<5362.046875, 238.235367, 2894.721191>)
+1:19:51 | "Fuchs" (steamid=76561198303394031) deleted object "MMG_MK_V_Armor_multicamblack" (pos=<5363.932129, 238.235367, 2895.320557>)
+1:20:32 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:22:0 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<6078.745117, 225.960785, 1995.443359>)
+1:23:53 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4813.196289, 198.534927, 3639.553223>)
+1:23:54 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:24:52 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+1:26:37 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4966.210938, 197.894363, 4041.088135>)
+1:26:47 | "Fuchs" (steamid=76561198303394031) Spawned Item: (GunnerTruck)
+1:26:51 | "Fuchs" (steamid=76561198303394031) Spawned Item: (GunnerTruck)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4956.517090, 200.220078, 4045.180420>)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.940430, 201.454895, 4044.405518>)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.913574, 201.488785, 4044.370605>)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.890137, 201.505157, 4044.339355>)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.869629, 201.519867, 4044.312500>)
+1:26:59 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.851563, 201.522385, 4044.287842>)
+1:27:0 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.836426, 201.516418, 4044.266846>)
+1:27:0 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.822754, 201.523392, 4044.249023>)
+1:27:0 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<4955.810547, 201.518356, 4044.232422>)
+1:29:3 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+1:31:29 | Player "Johan" (steamId=76561198797376439) disconnected from server.
+1:31:46 | Player "Johan" (steamId=76561198797376439) connected to server!
+1:31:52 | Player "Johan" (steamId=76561198797376439) connected to server!
+1:32:19 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+1:41:28 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:41:30 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:41:55 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+1:42:29 | "Fuchs" (steamid=76561198303394031) Spawned Item: (SNAFUP90_50rdMag)
+1:42:45 | Player "Endless" (steamId=76561198006641904) connected to server!
+1:42:51 | Player "Endless" (steamId=76561198006641904) connected to server!
+1:43:20 | "InfectedLoveLiquid" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+1:48:54 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:48:57 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<8118.265625, 547.289978, 9789.841797>)
+1:48:58 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:49:11 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:49:20 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:50:6 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:50:28 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:50:57 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:51:9 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:53:7 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:53:7 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Mag_VAL_20Rnd)
+1:53:7 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Mag_VAL_20Rnd)
+1:53:8 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Mag_VAL_20Rnd)
+1:53:18 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:53:31 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:54:6 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:54:29 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:54:45 | "Fuchs" (steamid=76561198303394031) toggled freecam
+1:55:30 | "Fuchs" (steamid=76561198303394031) Spawned Item: (M79)
+1:55:41 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+1:55:42 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+1:55:42 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+1:55:44 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Red)
+1:55:45 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Red)
+1:55:45 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Red)
+1:55:46 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+1:55:46 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+1:55:57 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:56:22 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:57:51 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:58:4 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:58:40 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+1:59:11 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+1:59:20 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+2:0:48 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:0:59 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:1:44 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:1:50 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:3:9 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:3:22 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:4:3 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:4:4 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:4:27 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:5:3 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:6:3 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<9002.995117, 335.476166, 8754.442383>)
+2:6:4 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<9003.425781, 335.533203, 8750.381836>)
+2:10:24 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<7636.389160, 239.789490, 7564.973633>)
+2:10:32 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<7662.986816, 237.878876, 7578.001465>)
+2:10:32 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<7656.023438, 239.805222, 7575.358887>)
+2:12:19 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:12:24 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:13:46 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5732.250000, 216.020370, 4608.888672>)
+2:13:47 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5732.835938, 217.095871, 4609.328125>)
+2:13:47 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5731.647461, 216.653046, 4608.642090>)
+2:13:47 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5731.755371, 216.885132, 4608.740723>)
+2:13:47 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5731.311035, 216.478745, 4608.478027>)
+2:13:48 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5730.731445, 216.423859, 4608.254883>)
+2:13:48 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5731.951660, 217.069473, 4609.775391>)
+2:13:48 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5732.194336, 217.003387, 4612.202637>)
+2:14:18 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:14:58 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:16:8 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<5594.494141, 578.302979, 2759.838867>)
+2:16:10 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:16:16 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+2:16:20 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+2:16:22 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+2:16:24 | Player "HariBalzac" (steamId=76561198095923512) disconnected from server.
+2:16:40 | Player "HariBalzac" (steamId=76561198095923512) connected to server!
+2:16:45 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+2:16:56 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+2:17:5 | Player "HariBalzac" (steamId=76561198095923512) connected to server!
+2:17:13 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:17:18 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5251.444336, 196.350037, 2838.063965>)
+2:17:19 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:17:33 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:17:39 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+2:17:43 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<4573.598145, 450.890533, 2234.330078>)
+2:17:46 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:17:48 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<4428.133789, 216.145721, 3081.522705>)
+2:18:14 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<5380.234863, 196.469238, 2692.897217>)
+2:19:0 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:19:9 | "InfectedLoveLiquid" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+2:19:19 | "BlueHamWallet": (steamid=76561198067006084) teleported to (pos=Trader)
+2:19:42 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:20:6 | "BlueHamWallet": (steamid=76561198067006084) teleported to (pos=Trader)
+2:20:29 | "Johan" (steamid=76561198797376439) /heal used on: "Johan" (steamid=76561198797376439)
+2:20:38 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+2:21:19 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+2:21:20 | Player "Johan" (steamId=76561198797376439) disconnected from server.
+2:21:21 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+2:21:51 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+2:21:55 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:21:56 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:21:59 | Player "Johan" (steamId=76561198797376439) connected to server!
+2:22:3 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+2:22:8 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7053.279785, 576.929932, 12037.599609>)
+2:22:8 | "Fuchs": (steamid=76561198303394031) teleported to (pos=7053.28,0,12037.6)
+2:22:9 | Player "Johan" (steamId=76561198797376439) connected to server!
+2:22:12 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:50 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:24:17 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:24:58 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6358.580078, 204.696457, 2556.229980>)
+2:24:58 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=6358.58,0,2556.23)
+2:25:53 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:53 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:25:55 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:26:42 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+2:27:8 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:27:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlackFrost)
+2:27:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlackFrost)
+2:27:43 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:27:55 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlackFrost)
+2:28:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlackFrost)
+2:28:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:28:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:28:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:28:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:28:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:28:46 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (PsilocybeMushroom)
+2:28:46 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (PsilocybeMushroom)
+2:29:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (PsilocybeMushroom)
+2:29:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlue)
+2:30:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CP_JointBlue)
+2:30:12 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:30:13 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:30:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:54 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:55 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:55 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:30:55 | "Johan" (steamid=76561198797376439) Spawned Item: (PsilocybeMushroom)
+2:31:39 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+2:31:40 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Blue)
+2:31:41 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Blue)
+2:31:42 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+2:31:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+2:31:44 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:31:49 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:32:8 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:32:8 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:32:9 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_White)
+2:32:9 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_White)
+2:32:10 | [WeatherManager] Send Data Count is 0
+2:32:10 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Black)
+2:32:10 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Smoke_Black)
+2:32:14 | [Time Manager] Setting Date to 2022/10/6 11:47
+2:32:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Blue)
+2:32:36 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Red)
+2:32:36 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_Red)
+2:32:37 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_White)
+2:32:37 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Chemlight_White)
+2:32:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Green)
+2:32:47 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Purple)
+2:32:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_White)
+2:32:50 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Purple)
+2:32:51 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6626.680176, 216.817444, 2442.159912>)
+2:32:51 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=6626.68,0,2442.16)
+2:33:18 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+2:33:20 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+2:33:29 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6366.950195, 203.663666, 2569.370117>)
+2:33:29 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=6366.95,0,2569.37)
+2:33:36 | "HariBalzac" (steamid=76561198095923512) toggled godmode
+2:33:45 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+2:33:51 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+2:33:53 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Purple)
+2:33:53 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Purple)
+2:33:54 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Green)
+2:33:54 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Green)
+2:33:56 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Red)
+2:33:56 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (M18SmokeGrenade_Red)
+2:34:20 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:34:33 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:34:34 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:34:44 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:34:46 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:35:30 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_BosTaurus_Brown)
+2:35:41 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_CanisLupus_Grey)
+2:35:52 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:35:58 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:36:6 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_OvisAries)
+2:36:7 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Banov_Alien)
+2:36:13 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_SusDomesticus)
+2:36:17 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Banov_Alien)
+2:36:18 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_SusScrofa)
+2:36:20 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:36:32 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:36:34 | "Johan" (steamid=76561198797376439) toggled freecam
+2:36:40 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:36:47 | "Johan" (steamid=76561198797376439) toggled freecam
+2:37:17 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Banov_Alien" (pos=<7050.186523, 576.996643, 12020.618164>)
+2:37:18 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+2:37:24 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+2:37:28 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_GallusGallusDomesticus)
+2:37:31 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:36 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Banov_Alien)
+2:37:39 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:41 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:48 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:50 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Banov_Alien" (pos=<7054.740723, 577.019714, 12031.879883>)
+2:37:51 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+2:38:8 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_CapreolusCapreolusF)
+2:38:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+2:38:9 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+2:38:10 | "HariBalzac" (steamid=76561198095923512) Spawned Item: (HDSN_BreachingChargeHeavy)
+2:38:25 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_UrsusArctos)
+2:38:40 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Animal_LepusEuropaeus)
+2:38:51 | "Fuchs" (steamid=76561198303394031) Spawned Item: (ZmbF_JoggerSkinny_Red)
+2:38:56 | "Fuchs" (steamid=76561198303394031) Spawned Item: (ZmbM_FarmerFat_Beige)
+2:39:2 | "Fuchs" (steamid=76561198303394031) Spawned Item: (ZmbM_Santa)
+2:39:9 | "Fuchs" (steamid=76561198303394031) Spawned Item: (ZmbM_DoctorFat)
+2:39:16 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien2_Easy)
+2:39:24 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:27 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:32 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:34 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:37 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Banov_Alien)
+2:39:54 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<7053.168457, 577.137024, 12027.182617>)
+2:39:54 | "Fuchs" (steamid=76561198303394031) /heal used on: "Fuchs" (steamid=76561198303394031)
+2:40:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Banov_Alien)
+2:40:24 | "Johan" (steamid=76561198797376439) /heal used on: "Johan" (steamid=76561198797376439)
+2:40:29 | "Fuchs" (steamid=76561198303394031) /heal used on: "Fuchs" (steamid=76561198303394031)
+2:40:44 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:40:59 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:41:8 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:41:16 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<7095.599609, 591.760803, 12059.736328>)
+2:41:17 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:41:24 | "Fuchs" (steamid=76561198303394031) deleted objects using ESP
+2:41:31 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6105.764648, 256.456146, 2221.762451>)
+2:41:34 | "Fuchs" (steamid=76561198303394031) deleted objects using ESP
+2:41:37 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+2:42:1 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6093.459961, 210.557831, 2173.310059>)
+2:42:1 | "Fuchs": (steamid=76561198303394031) teleported to (pos=6093.46,0,2173.31)
+2:42:4 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6092.910156, 210.855972, 2178.149902>)
+2:42:4 | "Fuchs": (steamid=76561198303394031) teleported to (pos=6092.91,0,2178.15)
+2:42:5 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6092.910156, 210.855972, 2178.149902>)
+2:42:5 | "Fuchs": (steamid=76561198303394031) teleported to (pos=6092.91,0,2178.15)
+2:42:7 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:42:23 | "Fuchs" (steamid=76561198303394031) toggled godmode
+2:42:24 | "Fuchs" (steamid=76561198303394031) toggled godmode
+2:42:37 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+2:42:38 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+2:42:38 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+2:42:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:42:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:42:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:42:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:42:40 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:42:40 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:3 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:3 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:3 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:3 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:4 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+2:43:4 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_Explosive)
+2:43:5 | "Fuchs" (steamid=76561198303394031) Spawned Item: (Ammo_40mm_ChemGas)
+2:43:39 | "Fuchs" (steamid=76561198303394031) Spawned Item: (White_CamoNetPoncho)
+2:43:45 | "Fuchs" (steamid=76561198303394031) Spawned Item: (INK_CamoNetPoncho)
+2:43:50 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CamoNet)
+2:43:50 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CamoNet)
+2:45:6 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:45:48 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:46:10 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:46:10 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:48:36 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (HDSN_BreachingChargeHeavy)
+2:48:49 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:48:56 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:49:32 | "Fuchs" (steamid=76561198303394031) Spawned Item: (SNAFUAR15_SPR_Black_GUN)
+2:53:26 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:53:58 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:57:17 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:57:26 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6271.680176, 215.387421, 2335.592041>)
+2:57:27 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:57:41 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:57:46 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:57:52 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6100.356934, 256.455200, 2232.898682>)
+2:57:55 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:57:56 | "Fuchs" (steamid=76561198303394031) teleported to crosshair (pos=<6130.497070, 258.996948, 1748.300781>)
+2:57:58 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:58:47 | "Fuchs" (steamid=76561198303394031) Spawned Item: (MMG_tt_vest_admin)
+2:58:48 | "Fuchs" (steamid=76561198303394031) Spawned Item: (MMG_striker_helmet_admin)
+2:58:50 | "Fuchs" (steamid=76561198303394031) Spawned Item: (MMG_combatpants_admin)
+2:58:51 | "Fuchs" (steamid=76561198303394031) Spawned Item: (MMG_combatshirt_admin)
+2:58:52 | "Fuchs" (steamid=76561198303394031) Spawned Item: (MMG_balaclava_admin)
+2:59:45 | "Fuchs" (steamid=76561198303394031) toggled freecam
+2:59:53 | "Fuchs" (steamid=76561198303394031) toggled freecam
+3:0:8 | "Fuchs" (steamid=76561198303394031) toggled freecam
+3:2:12 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+3:2:15 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+3:2:35 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:3:22 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:3:31 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+3:3:44 | Player "Fuchs" (steamId=76561198303394031) connected to server!
+3:3:52 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+3:3:54 | Player "Fuchs" (steamId=76561198303394031) disconnected from server.
+3:5:8 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+3:5:24 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+3:5:38 | "Alzbob" (steamid=76561198303394031) toggled godmode
+3:5:38 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:5:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6101.390137, 256.422241, 2222.419678>)
+3:5:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6102.790527, 256.456146, 2225.696533>)
+3:5:49 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:6:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:6:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6277.187988, 215.325455, 2339.517090>)
+3:6:37 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:7:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:7:21 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:7:24 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:7:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:7:38 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:9:19 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:14:10 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:17:1 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:17:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:17:27 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+3:17:28 | "HariBalzac" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+3:18:3 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6102.846680, 256.456146, 2236.067871>)
+3:19:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:19:9 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:19:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:19:30 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:19:32 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:19:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13840.626953, 395.660126, 9115.765625>)
+3:19:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:19:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:20:15 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+3:20:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6232.845215, 228.279526, 2372.829102>)
+3:20:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:20:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:20:34 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:20:37 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+3:20:53 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+3:21:19 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+3:21:36 | "Alzbob" (steamid=76561198303394031) toggled godmode
+3:22:22 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUGevar_Black)
+3:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUGevar_10rdMag)
+3:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUGevar_10rdMag)
+3:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUGevar_10rdMag)
+3:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUGevar_10rdMag)
+3:22:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (AD_DHF5_B13)
+3:22:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_MK_V_Armor_erdl)
+3:22:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_Med_Pouch_erdl)
+3:23:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_erdl)
+3:23:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_erdl)
+3:23:4 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_erdl)
+3:23:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tactical_pouch_erdl)
+3:23:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_utility_pouch_erdl)
+3:23:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_grenade_pouch_erdl)
+3:23:35 | Player "Johan" (steamId=76561198797376439) disconnected from server.
+3:24:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:24:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6130.875488, 258.996948, 1748.189453>)
+3:24:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:24:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_holster_pouch_black)
+3:24:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:25:1 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=Admin HQ)
+3:25:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6232.251953, 228.279526, 2371.952637>)
+3:25:4 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:25:47 | "Alzbob" (steamid=76561198303394031) Spawned Item: (CS_WeaponBag_Black)
+3:28:17 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "Snafu_PKP_Black_GUN" (pos=<5768.610840, 249.466415, 9242.757813>)
+3:29:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_MK4710Gun)
+3:29:13 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_MK47_Stock)
+3:29:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_MK47Muzzel)
+3:29:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_MK47HG)
+3:30:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:30:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:30:32 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:30:32 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:30:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:30:58 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BloodBagFull)
+3:31:5 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BloodBagFull)
+3:31:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BloodTestKit)
+3:31:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BloodTestKit)
+3:31:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BloodTestKit)
+3:32:0 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BloodBagFull" (pos=<5759.640137, 249.439285, 9242.638672>)
+3:32:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+3:32:47 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Msp_SoloLocker_White_Kit)
+3:33:29 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:33:42 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6549.480469, 999.347656, 8940.649414>)
+3:33:43 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:33:45 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<5776.725098, 245.826263, 9234.132813>)
+3:33:47 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:33:49 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:33:54 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+3:33:59 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:34:21 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+3:34:58 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=Admin HQ)
+3:35:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6292.913574, 218.506287, 2348.468750>)
+3:35:16 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+3:35:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:36:0 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:36:1 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:36:35 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+3:36:46 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:36:47 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+3:37:50 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<527.116028, 249.060104, 11795.900391>)
+3:37:50 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=527.116,0,11795.9)
+3:37:56 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:37:57 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:37:59 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:38:5 | Player "Frank" (steamId=76561199004385675) connected to server!
+3:38:21 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<718.533997, 261.475494, 13133.400391>)
+3:38:21 | "HariBalzac": (steamid=76561198095923512) teleported to (pos=718.534,0,13133.4)
+3:38:26 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:38:27 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:38:33 | Player "Frank" (steamId=76561199004385675) connected to server!
+3:39:18 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+3:39:30 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+3:39:37 | "HariBalzac" (steamid=76561198095923512) deleted objects using ESP
+3:41:5 | "HariBalzac" (steamid=76561198095923512) teleported to crosshair (pos=<6102.157227, 256.367859, 2227.342773>)
+3:41:8 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:41:9 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:41:24 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:41:25 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:41:28 | "HariBalzac" (steamid=76561198095923512) toggled freecam
+3:42:9 | Player "HariBalzac" (steamId=76561198095923512) disconnected from server.
+3:42:10 | Player "HariBalzac" (steamId=76561198095923512) disconnected from server.
+3:48:40 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:48:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5405.078613, 235.234085, 2912.129883>)
+3:48:56 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:49:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:49:21 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5402.615234, 234.459259, 2914.410645>)
+3:49:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:50:26 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:50:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13840.619141, 395.660126, 9114.857422>)
+3:50:39 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:51:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+3:51:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4388.681152, 200.991821, 3195.193115>)
+3:51:45 | "Alzbob" (steamid=76561198303394031) toggled freecam
+4:0:33 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+4:0:34 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+4:2:3 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+4:2:5 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+4:13:24 | Player "Frank" (steamId=76561199004385675) disconnected from server.

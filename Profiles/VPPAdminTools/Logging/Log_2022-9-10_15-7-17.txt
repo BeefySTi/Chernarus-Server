@@ -1,0 +1,259 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-10_15-7-17
+====================================================================================
+15:7:17 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:7:17 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:7:17 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:7:17 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:7:17 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:7:17 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:7:17 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:7:17 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:7:17 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:7:17 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:7:17 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:7:17 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:7:17 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:7:17 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:7:17 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:7:17 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:7:17 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:7:17 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:7:17 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:7:17 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:7:17 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:7:17 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:7:17 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:7:17 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:7:17 | [PermissionManager] Adding Super Admin (76561198095923512)
+15:7:17 | [PermissionManager] Loaded UserGroups.json
+15:7:17 | Building Sets Loaded: 0
+15:8:13 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:8:21 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:38:10 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:38:35 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:58:25 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+16:14:42 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:14:45 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+17:20:56 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:21:9 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:6:58 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+19:21:53 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:22:2 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:24:0 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11888.353516>)
+19:25:3 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11900.087891>)
+19:25:13 | "THE STITTIES" (steamid=76561199206265093) gave godmode to (steamid=76561199206265093)
+19:25:35 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<11895.851563, 16.343105, 7560.685059>)
+19:25:50 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:26:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask) on "THE STITTIES" (steamid=76561199206265093)
+19:26:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask)
+19:26:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter) on "THE STITTIES" (steamid=76561199206265093)
+19:26:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter) on "THE STITTIES" (steamid=76561199206265093)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter) on "THE STITTIES" (steamid=76561199206265093)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter) on "THE STITTIES" (steamid=76561199206265093)
+19:26:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GasMask_Filter)
+19:26:58 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:27:35 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<11897.601563, 16.865643, 7554.291992>)
+19:29:43 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:29:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_abs) on "THE STITTIES" (steamid=76561199206265093)
+19:29:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_abs)
+19:30:7 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_tpc) on "THE STITTIES" (steamid=76561199206265093)
+19:30:7 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_tpc)
+19:30:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_nylon) on "THE STITTIES" (steamid=76561199206265093)
+19:30:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_printer_filament_nylon)
+19:30:55 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:31:1 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_module_card) on "THE STITTIES" (steamid=76561199206265093)
+19:31:1 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_module_card)
+19:31:8 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:31:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_blueprint_lehs) on "THE STITTIES" (steamid=76561199206265093)
+19:31:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_blueprint_lehs)
+19:31:46 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector) on "THE STITTIES" (steamid=76561199206265093)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector) on "THE STITTIES" (steamid=76561199206265093)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector) on "THE STITTIES" (steamid=76561199206265093)
+19:32:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AntiChemInjector)
+19:32:28 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:34:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AliceBag_Black) on "THE STITTIES" (steamid=76561199206265093)
+19:34:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AliceBag_Black)
+19:35:23 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11893.687500>)
+19:35:32 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:38:36 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (CodeLock) on "THE STITTIES" (steamid=76561199206265093)
+19:38:36 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (CodeLock)
+19:40:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+19:40:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+19:40:55 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+19:40:55 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+19:40:55 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+19:40:55 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+19:41:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+19:41:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+19:41:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+19:41:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper) on "THE STITTIES" (steamid=76561199206265093)
+19:41:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper)
+19:41:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper) on "THE STITTIES" (steamid=76561199206265093)
+19:41:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper)
+19:41:10 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper) on "THE STITTIES" (steamid=76561199206265093)
+19:41:10 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Paper)
+19:42:30 | "THE STITTIES" (steamid=76561199206265093) gave godmode to (steamid=76561199206265093)
+19:46:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_BoxingGloves_Gold) on "THE STITTIES" (steamid=76561199206265093)
+19:46:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_BoxingGloves_Gold)
+19:46:5 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_BoxingHelmet_Red) on "THE STITTIES" (steamid=76561199206265093)
+19:46:5 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_BoxingHelmet_Red)
+19:46:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_yegerhood_coldw) on "THE STITTIES" (steamid=76561199206265093)
+19:46:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_yegerhood_coldw)
+19:47:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TF_RifleSling_Black) on "THE STITTIES" (steamid=76561199206265093)
+19:47:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TF_RifleSling_Black)
+19:47:50 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TF_RifleSling_Black) on "THE STITTIES" (steamid=76561199206265093)
+19:47:50 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (TF_RifleSling_Black)
+19:48:35 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+19:49:21 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:49:30 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:54:15 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+19:54:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_boonie_alpine) on "THE STITTIES" (steamid=76561199206265093)
+19:54:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_boonie_alpine)
+19:55:58 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7668.189941, 76.358978, 8657.929688>)
+19:55:58 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<7668.192871, 0.000000, 8657.930664>)
+19:56:15 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:1:20 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7629.601563, 102.955635, 8755.265625>)
+20:1:26 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7628.490234, 102.955635, 8755.045898>)
+20:1:28 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:2:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FireworksLauncher) on "THE STITTIES" (steamid=76561199206265093)
+20:2:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FireworksLauncher)
+20:2:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FireworksLauncher) on "THE STITTIES" (steamid=76561199206265093)
+20:2:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FireworksLauncher)
+20:2:46 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:5:5 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:5:29 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FlashGrenade) on "THE STITTIES" (steamid=76561199206265093)
+20:5:29 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FlashGrenade)
+20:5:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FlashGrenade) on "THE STITTIES" (steamid=76561199206265093)
+20:5:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FlashGrenade)
+20:6:7 | "THE STITTIES" (steamid=76561199206265093) gave godmode to (steamid=76561199206265093)
+20:7:53 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:7:53 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:7:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small) on "THE STITTIES" (steamid=76561199206265093)
+20:9:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (dzn_snowball_small)
+20:9:42 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:11:24 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:11:34 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7558.715820, 75.375839, 8205.797852>)
+20:11:40 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7549.197754, 79.104439, 8139.292969>)
+20:11:43 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7531.826172, 79.249176, 8021.037598>)
+20:11:47 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7516.379883, 74.581558, 7891.762207>)
+20:11:48 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7515.800293, 73.774971, 7890.688965>)
+20:11:54 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7453.610352, 61.319149, 7646.463867>)
+20:15:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:15:49 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:16:16 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:16:19 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:16:44 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7641.129883, 77.424988, 8657.929688>)
+20:16:44 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<7641.129883, 0.000000, 8657.930664>)
+20:16:48 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:16:49 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:17:4 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7642.265137, 77.320137, 8665.541992>)
+20:17:14 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:17:32 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+20:17:52 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+20:18:48 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7662.204102, 72.010399, 8741.237305>)
+20:18:52 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7686.626465, 71.870003, 8732.257813>)
+20:18:56 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7688.110840, 71.870003, 8746.427734>)
+20:18:58 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7689.580566, 71.869995, 8760.423828>)
+20:19:1 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7688.993164, 71.870010, 8767.085938>)
+20:19:53 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<2250.687500, 0.000000, 5026.212891>)
+20:20:29 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+20:24:29 | Player "Frank" (steamId=76561199004385675) disconnected from server.

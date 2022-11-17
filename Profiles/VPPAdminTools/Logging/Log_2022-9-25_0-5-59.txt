@@ -1,0 +1,170 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-25_0-5-59
+====================================================================================
+0:5:59 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:5:59 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:5:59 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:5:59 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:5:59 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:5:59 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:5:59 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:5:59 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:5:59 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:5:59 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:5:59 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:5:59 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:5:59 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:5:59 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:5:59 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:5:59 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:5:59 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:5:59 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:5:59 | Building Sets Loaded: 0
+0:5:59 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:5:59 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:5:59 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:5:59 | [PermissionManager] Loaded UserGroups.json
+0:5:59 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:5:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:5:59 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:5:59 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:7:29 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:7:37 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:8:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GunnerTruck)
+0:10:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVDoorDriver)
+0:10:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVDoorCoDriver)
+0:10:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVDoorBackLeft)
+0:10:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVDoorBackRight)
+0:11:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVRearGuard)
+0:11:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVWheel)
+0:11:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (JLTVHood)
+0:12:10 | "BeefySTi" (steamid=76561198095923512) deleted object "JLTVHood" (pos=<5377.882813, 233.901733, 9151.865234>)
+0:12:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+0:14:0 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (RFFSHeli_Flag_RedFalcon)
+0:14:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Expansion_Flag_USA)
+0:14:50 | "BeefySTi" (steamid=76561198095923512) /refuel used on self.
+0:16:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Red)
+0:16:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_CarKeyTag_Black)
+0:17:35 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:17:35 | Player "BeefySTi" (steamId=76561198095923512) re-connected to server [canceledLogout]
+0:17:35 | Player "BeefySTi" (steamId=76561198095923512) re-connected to server [canceledLogout]
+0:17:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CamoNet)
+0:19:32 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:19:49 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:20:0 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:21:23 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Hood" (pos=<5807.527344, 246.030121, 9169.684570>)
+0:21:25 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Wheel" (pos=<5807.527344, 245.928879, 9169.684570>)
+0:21:26 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Wheel" (pos=<5807.527344, 245.928879, 9169.684570>)
+0:21:27 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Door_1_1" (pos=<5807.527344, 246.121399, 9169.684570>)
+0:21:30 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Door_1_2" (pos=<5807.527344, 246.121399, 9169.684570>)
+0:21:31 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Door_2_1" (pos=<5807.527344, 246.112503, 9169.684570>)
+0:21:32 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Door_2_2" (pos=<5807.527344, 246.113251, 9169.684570>)
+0:21:33 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Wheel" (pos=<5807.527344, 245.928879, 9169.684570>)
+0:21:35 | "BeefySTi" (steamid=76561198095923512) deleted object "Hatchback_02_Wheel" (pos=<5807.527344, 245.928879, 9169.684570>)
+0:21:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+0:21:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+0:21:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+0:23:1 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5804.507324, 245.719925, 9164.743164>
+0:23:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <5804.507324, 245.719925, 9164.743164>
+0:23:19 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5800.767090, 245.719727, 9160.051758>
+0:23:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <5800.767090, 245.719727, 9160.051758>
+0:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:24:26 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5802.247559, 245.938141, 9166.544922>
+0:24:28 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <5802.247559, 245.938141, 9166.544922>
+0:24:31 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5798.507324, 245.937943, 9161.853516>
+0:24:33 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <5798.507324, 245.937943, 9161.853516>
+0:24:37 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5798.965820, 245.937943, 9157.792969>
+0:24:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <5798.965820, 245.937943, 9157.792969>
+0:24:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5803.026855, 245.937943, 9158.250000>
+0:24:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <5803.026855, 245.937943, 9158.250000>
+0:24:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SDoor)
+0:25:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+0:25:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+0:26:3 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5806.309082, 245.938141, 9167.002930>
+0:26:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <5806.309082, 245.938141, 9167.002930>
+0:27:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:27:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:27:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:27:24 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:28:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:28:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:29:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:29:48 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <5806.774902, 248.938141, 9162.935547>
+0:29:49 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <5806.774902, 248.938141, 9162.935547>
+0:30:10 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:30:11 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.

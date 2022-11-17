@@ -1,0 +1,205 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-12_16-31-34
+====================================================================================
+16:31:34 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+16:31:34 | [PermissionManager] Perm (FreeCamera) has been registered!
+16:31:34 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuServerManager) has been registered!
+16:31:34 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+16:31:34 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+16:31:34 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+16:31:34 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+16:31:34 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+16:31:34 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+16:31:34 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+16:31:34 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+16:31:34 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+16:31:34 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuBansManager) has been registered!
+16:31:34 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+16:31:34 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+16:31:34 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+16:31:34 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+16:31:34 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+16:31:34 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+16:31:34 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+16:31:34 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:31:34 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+16:31:34 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+16:31:34 | Building Sets Loaded: 0
+16:31:34 | [PermissionManager] Adding Super Admin (76561198095923512)
+16:31:34 | [PermissionManager] Loaded UserGroups.json
+16:32:48 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:32:57 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+16:33:1 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:33:5 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+16:33:12 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:33:13 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:34:30 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+16:34:35 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+16:35:42 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+16:35:47 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+16:42:16 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+16:42:27 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+16:42:38 | "Alzbob" (steamid=76561198303394031) toggled godmode
+16:42:46 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<335.855011, 340.483917, 14487.799805>)
+16:42:46 | "Alzbob": (steamid=76561198303394031) teleported to (pos=335.855,0,14487.8)
+16:43:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<306.341614, 344.380157, 14500.561523>)
+16:46:38 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+16:49:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+16:49:40 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<232.281616, 332.865021, 13700.629883>)
+16:49:41 | "Alzbob" (steamid=76561198303394031) toggled freecam
+16:49:45 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+16:49:47 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+17:10:20 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+17:10:42 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+17:10:53 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+17:17:33 | Player "Ronin45_" (steamId=76561199114488025) connected to server!
+17:24:4 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+17:24:15 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+17:24:18 | "Alzbob" (steamid=76561198303394031) toggled godmode
+17:24:45 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<5731.870117, 195.733841, 1985.390015>)
+17:24:45 | "Alzbob": (steamid=76561198303394031) teleported to (pos=5731.87,0,1985.39)
+17:24:47 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:24:49 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:25:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5734.967285, 195.962570, 1976.510254>)
+17:25:5 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:25:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6278.796875, 236.806244, 2297.340820>)
+17:28:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5947.527344, 252.978897, 2279.716797>)
+17:29:40 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+17:31:28 | Player "Ronin45_" (steamId=76561199114488025) disconnected from server.
+18:35:7 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+18:35:47 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+18:35:51 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+18:44:44 | Player "Ronin45_" (steamId=76561199114488025) connected to server!
+18:44:58 | Player "Ronin45_" (steamId=76561199114488025) connected to server!
+19:9:34 | Player "Revan" (steamId=76561198117389764) connected to server!
+19:9:48 | Player "Revan" (steamId=76561198117389764) connected to server!
+19:12:55 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:13:14 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:13:18 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:13:31 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<13561.599609, 394.151367, 9017.160156>)
+19:13:31 | "Alzbob": (steamid=76561198303394031) teleported to (pos=13561.6,0,9017.16)
+19:13:52 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<13561.700195, 394.531097, 9050.349609>)
+19:13:52 | "Alzbob": (steamid=76561198303394031) teleported to (pos=13561.7,0,9050.35)
+19:15:2 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:15:3 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:16:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_CH47)
+19:20:21 | Player "SKETICAN" (steamId=76561199066576767) connected to server!
+19:22:49 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5812.951660, 256.326782, 9243.831055>)
+19:23:20 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+19:23:48 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:24:3 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:24:6 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:24:7 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:24:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13552.376953, 394.705078, 9095.513672>)
+19:24:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:27:27 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:27:27 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:31:5 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+19:31:48 | Player "Ronin45_" (steamId=76561199114488025) disconnected from server.
+19:32:21 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+19:32:40 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+19:34:0 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+19:36:46 | Player "SKETICAN" (steamId=76561199066576767) disconnected from server.
+19:36:49 | Player "SKETICAN" (steamId=76561199066576767) disconnected from server.
+19:37:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13529.165039, 399.870789, 9058.067383>)
+19:38:32 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+19:38:48 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+19:39:55 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:39:59 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:42:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13545.938477, 394.285370, 9035.786133>)
+19:44:21 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13542.292969, 394.120117, 9048.184570>)
+19:45:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:45:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<11995.799805, 361.180054, 10479.602539>)
+19:46:0 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:46:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:47:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13550.235352, 394.654297, 9080.859375>)
+19:47:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<13548.623047, 394.578033, 9078.598633>)
+19:47:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:52:10 | "Alzbob" (steamid=76561198303394031) deleted object "RFFSHeli_CH47" (pos=<13564.376953, 395.187439, 9081.320313>)
+19:53:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:54:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4396.271484, 201.047760, 3200.852783>)
+19:54:1 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:55:26 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+19:55:28 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+19:57:58 | Player "Ronin45_" (steamId=76561199114488025) connected to server!
+19:58:4 | Player "Ronin45_" (steamId=76561199114488025) connected to server!
+20:7:48 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) disconnected from server.
+20:8:40 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+20:8:43 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+20:11:44 | Player "Revan" (steamId=76561198117389764) disconnected from server.
+20:30:8 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+20:30:8 | Player "Ronin45_" (steamId=76561199114488025) disconnected from server.

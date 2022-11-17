@@ -1,0 +1,570 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-4_20-31-34
+====================================================================================
+20:31:34 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:31:34 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:31:34 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:31:34 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:31:34 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:31:34 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:31:34 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:31:34 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:31:34 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:31:34 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:31:34 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:31:34 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:31:34 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:31:34 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:31:34 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:31:34 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:31:34 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:31:34 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:31:34 | [PermissionManager] Adding Super Admin (76561198095923512)
+20:31:34 | [PermissionManager] Loaded UserGroups.json
+20:31:34 | Building Sets Loaded: 0
+20:31:34 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:31:34 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:31:34 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:31:34 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:31:34 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:31:34 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:32:46 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+20:32:51 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+20:42:18 | Player "Egirl4u" (steamId=76561198095923512) connected to server!
+20:42:23 | Player "Egirl4u" (steamId=76561198095923512) connected to server!
+20:42:43 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:43:25 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+20:43:26 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5788.990234, 245.824295, 9185.669922>)
+20:43:26 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=5788.99,0,9185.67)
+20:43:30 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+20:43:35 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:44:15 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:44:24 | Player "Chaddillac" (steamId=76561198123456210) disconnected from server.
+20:44:26 | Player "Chaddillac" (steamId=76561198123456210) disconnected from server.
+20:45:30 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+20:48:39 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<13220.099609, 436.588531, 13358.500000>)
+20:48:39 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=13220.1,0,13358.5)
+20:48:40 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:48:51 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:49:13 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:14 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:14 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:14 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:15 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:15 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:17 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:17 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:49:17 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Bfoundation)
+20:49:18 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Bfoundation)
+20:49:18 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Bfoundation)
+20:49:21 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:50:20 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (M65Jacket_Olive)
+20:50:26 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BDUPants)
+20:50:52 | "Egirl4u" (steamid=76561198095923512) deleted object "BDUPants" (pos=<13212.929688, 441.518341, 13402.371094>)
+20:50:54 | "Egirl4u" (steamid=76561198095923512) deleted object "M65Jacket_Khaki" (pos=<13212.929688, 441.497284, 13402.371094>)
+20:52:54 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:52:56 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:53:3 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:53:4 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:53:4 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:53:4 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:53:4 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:53:34 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:53:48 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+20:53:53 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.653320, 448.598541, 13434.756836>
+20:53:55 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.653320, 448.598541, 13434.756836>
+20:53:58 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13216.189453, 446.766418, 13437.722656>)
+20:54:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13211.655273, 448.598328, 13434.620117>
+20:54:8 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13211.655273, 448.598328, 13434.620117>
+20:54:19 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13209.570313, 448.689392, 13437.580078>)
+20:54:27 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13210.600586, 448.598328, 13432.715820>
+20:54:29 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13210.600586, 448.598328, 13432.715820>
+20:54:33 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13211.792969, 448.598541, 13428.622070>
+20:54:33 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13211.792969, 448.598541, 13428.622070>
+20:54:37 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.791016, 448.598755, 13428.758789>
+20:54:38 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.791016, 448.598755, 13428.758789>
+20:54:41 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.789063, 448.598541, 13428.896484>
+20:54:42 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.789063, 448.598541, 13428.896484>
+20:54:45 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.789063, 448.597687, 13428.897461>
+20:54:46 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.789063, 448.597687, 13428.897461>
+20:54:49 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.787109, 448.597900, 13429.034180>
+20:54:49 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.787109, 448.597900, 13429.034180>
+20:54:53 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.785156, 448.597687, 13429.171875>
+20:54:53 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.785156, 448.597687, 13429.171875>
+20:54:55 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13236.773438, 448.597473, 13433.303711>
+20:54:56 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13236.773438, 448.597473, 13433.303711>
+20:54:58 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.649414, 448.598114, 13435.032227>
+20:54:58 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.649414, 448.598114, 13435.032227>
+20:55:2 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.651367, 448.598328, 13434.894531>
+20:55:2 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.651367, 448.598328, 13434.894531>
+20:55:19 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.647461, 448.597900, 13435.169922>
+20:55:20 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.647461, 448.597900, 13435.169922>
+20:55:54 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.647461, 448.597900, 13435.169922>
+20:55:54 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.647461, 448.597900, 13435.169922>
+20:56:14 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13241.645508, 448.597687, 13435.307617>
+20:56:14 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13241.645508, 448.597687, 13435.307617>
+20:56:24 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:56:38 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13247.643555, 448.597473, 13435.445313>
+20:56:39 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13247.643555, 448.597473, 13435.445313>
+20:57:7 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13253.641602, 448.597260, 13435.583008>
+20:57:8 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13253.641602, 448.597260, 13435.583008>
+20:57:18 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13259.639648, 448.597046, 13435.720703>
+20:57:18 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13259.639648, 448.597046, 13435.720703>
+20:57:47 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:57:48 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Foundation_Kit)
+20:58:8 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13260.627930, 448.596832, 13439.852539>
+20:58:9 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13260.627930, 448.596832, 13439.852539>
+20:58:11 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13264.769531, 448.596619, 13438.838867>
+20:58:12 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13264.769531, 448.596619, 13438.838867>
+20:58:14 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13265.961914, 448.596405, 13434.745117>
+20:58:15 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13265.961914, 448.596405, 13434.745117>
+20:58:17 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13264.904297, 448.596619, 13432.836914>
+20:58:18 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13264.904297, 448.596619, 13432.836914>
+20:58:19 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13260.832031, 448.596832, 13431.626953>
+20:58:20 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13260.832031, 448.596832, 13431.626953>
+20:58:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:45 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:45 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:45 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:45 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:45 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:46 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:46 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:46 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:58:46 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:5 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:5 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:6 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:6 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:6 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:6 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:6 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:7 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:7 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:7 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:7 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:0:7 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:30 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:30 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:30 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:31 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:31 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:31 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:31 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:31 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:32 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:3:32 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:15 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:16 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:7:56 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+21:11:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:28 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:28 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:11:28 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:13:11 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Ramp_Kit)
+21:13:11 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Ramp_Kit)
+21:13:11 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Ramp_Kit)
+21:13:40 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+21:13:45 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:14:4 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13264.284180, 448.814819, 13440.232422>)
+21:14:11 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:14:32 | "Egirl4u" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:14:33 | "Egirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:14:34 | "Egirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:14:35 | "Egirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:14:36 | "Egirl4u" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:14:38 | "Egirl4u" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+21:15:39 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+21:15:42 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:5 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:7 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:26 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:28 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:39 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7331.080078, 294.456909, 13290.700195>)
+21:16:39 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=7331.08,0,13290.7)
+21:16:45 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:16:59 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7247.375000, 294.411438, 13333.629883>)
+21:17:0 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7202.044434, 294.417358, 13354.236328>)
+21:17:0 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7167.175293, 294.767761, 13370.133789>)
+21:17:21 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:17:45 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:19:5 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<13200.900391, 437.814392, 13372.700195>)
+21:19:5 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=13200.9,0,13372.7)
+21:19:16 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13430.268555, 437.985535, 13464.085938>)
+21:19:18 | "Egirl4u" (steamid=76561198095923512) toggled godmode
+21:19:38 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<13194.200195, 427.322632, 13317.299805>)
+21:19:38 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=13194.2,0,13317.3)
+21:21:9 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13316.811523, 439.863068, 13448.928711>)
+21:21:10 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13245.311523, 446.638458, 13435.128906>)
+21:22:12 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+21:22:35 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13270.605469, 445.529449, 13436.626953>
+21:22:36 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13270.605469, 445.529449, 13436.626953>
+21:22:56 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13270.095703, 445.529236, 13442.605469>
+21:23:1 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13270.166016, 448.750366, 13436.030273>
+21:23:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13264.481445, 448.814819, 13431.401367>
+21:23:7 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13264.481445, 448.814819, 13431.401367>
+21:23:13 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13259.376953, 448.815033, 13431.274414>
+21:23:13 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13259.376953, 448.815033, 13431.274414>
+21:23:17 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13253.708008, 448.815491, 13432.693359>
+21:23:17 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13253.708008, 448.815491, 13432.693359>
+21:23:20 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13247.709961, 448.815704, 13432.555664>
+21:23:21 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13247.709961, 448.815704, 13432.555664>
+21:23:25 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13241.711914, 448.815918, 13432.417969>
+21:23:25 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13241.711914, 448.815918, 13432.417969>
+21:23:28 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13237.962891, 448.816132, 13432.332031>
+21:23:28 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13237.962891, 448.816132, 13432.332031>
+21:23:30 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13236.462891, 448.816132, 13432.297852>
+21:23:31 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13236.462891, 448.816132, 13432.297852>
+21:23:33 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13236.333984, 448.815887, 13431.713867>
+21:23:34 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13236.333984, 448.815887, 13431.713867>
+21:23:36 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13233.462891, 448.816132, 13432.229492>
+21:23:37 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13233.462891, 448.816132, 13432.229492>
+21:23:40 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13234.962891, 448.816132, 13432.263672>
+21:23:40 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13234.962891, 448.816132, 13432.263672>
+21:23:43 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.720703, 448.816101, 13431.922852>
+21:23:44 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.720703, 448.816101, 13431.922852>
+21:23:48 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.722656, 448.816101, 13431.785156>
+21:23:49 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.722656, 448.816101, 13431.785156>
+21:23:55 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13222.777344, 448.832703, 13430.610352>
+21:23:56 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13222.777344, 448.832703, 13430.610352>
+21:23:57 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13221.514648, 448.832703, 13431.354492>
+21:23:58 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13221.514648, 448.832703, 13431.354492>
+21:24:0 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.694336, 448.832703, 13430.187500>
+21:24:1 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.694336, 448.832703, 13430.187500>
+21:24:8 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13224.786133, 448.831848, 13430.687500>
+21:24:9 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13224.786133, 448.831848, 13430.687500>
+21:24:11 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13226.041016, 448.831848, 13431.462891>
+21:24:11 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13226.041016, 448.831848, 13431.462891>
+21:24:25 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:25:9 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13232.667969, 448.810028, 13431.839844>
+21:25:10 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13232.667969, 448.810028, 13431.839844>
+21:25:15 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.362305, 448.815887, 13427.736328>
+21:25:16 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.362305, 448.815887, 13427.736328>
+21:25:28 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.853516, 448.816132, 13426.144531>
+21:25:29 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.853516, 448.816132, 13426.144531>
+21:25:33 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13226.313477, 448.831848, 13426.379883>
+21:25:34 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13226.313477, 448.831848, 13426.379883>
+21:25:41 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13225.094727, 448.831848, 13427.043945>
+21:25:41 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13225.094727, 448.831848, 13427.043945>
+21:25:44 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13224.268555, 448.831848, 13427.471680>
+21:25:45 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13224.268555, 448.831848, 13427.471680>
+21:25:54 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.300781, 448.931519, 13427.486328>
+21:25:55 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.300781, 448.931519, 13427.486328>
+21:25:57 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13222.651367, 448.832703, 13427.042969>
+21:25:58 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13222.651367, 448.832703, 13427.042969>
+21:26:3 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13221.362305, 448.832703, 13426.287109>
+21:26:3 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13221.362305, 448.832703, 13426.287109>
+21:26:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.857422, 448.816986, 13425.869141>
+21:26:7 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.857422, 448.816986, 13425.869141>
+21:26:11 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13212.278320, 448.816742, 13427.228516>
+21:26:11 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13212.278320, 448.816742, 13427.228516>
+21:26:14 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13209.682617, 448.816772, 13429.325195>
+21:26:14 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13209.682617, 448.816772, 13429.325195>
+21:26:17 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13209.649414, 448.816772, 13430.825195>
+21:26:17 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13209.649414, 448.816772, 13430.825195>
+21:26:20 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13209.469727, 448.816315, 13431.666992>
+21:26:20 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13209.469727, 448.816315, 13431.666992>
+21:26:23 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13208.760742, 448.816315, 13434.546875>
+21:26:24 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13208.760742, 448.816315, 13434.546875>
+21:26:26 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13211.588867, 448.816315, 13437.507813>
+21:26:27 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13211.588867, 448.816315, 13437.507813>
+21:26:30 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.586914, 448.816315, 13437.645508>
+21:26:30 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.586914, 448.816315, 13437.645508>
+21:26:39 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.584961, 448.816315, 13437.783203>
+21:26:39 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.584961, 448.816315, 13437.783203>
+21:26:43 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.583008, 448.816315, 13437.920898>
+21:26:43 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.583008, 448.816315, 13437.920898>
+21:26:47 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.581055, 448.816101, 13438.058594>
+21:26:47 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.581055, 448.816101, 13438.058594>
+21:26:51 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13241.579102, 448.815887, 13438.196289>
+21:26:51 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13241.579102, 448.815887, 13438.196289>
+21:26:55 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13247.577148, 448.815674, 13438.333984>
+21:26:56 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13247.577148, 448.815674, 13438.333984>
+21:26:59 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13253.575195, 448.815460, 13438.471680>
+21:27:0 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13253.575195, 448.815460, 13438.471680>
+21:27:3 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13259.178711, 448.815033, 13440.128906>
+21:27:4 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13259.178711, 448.815033, 13440.128906>
+21:27:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13264.284180, 448.814819, 13440.232422>
+21:27:6 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13264.284180, 448.814819, 13440.232422>
+21:27:21 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:27:21 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:27:21 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:27:21 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:27:22 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:27:38 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13266.925781, 448.814606, 13435.862305>
+21:27:39 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13266.925781, 448.814606, 13435.862305>
+21:27:42 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13266.925781, 448.814606, 13435.862305>
+21:28:1 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13256.536133, 448.815491, 13435.654297>
+21:28:2 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13256.536133, 448.815491, 13435.654297>
+21:28:4 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13256.536133, 448.815491, 13435.654297>
+21:28:33 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.845703, 448.810028, 13428.874023>
+21:28:35 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13229.845703, 448.810028, 13428.874023>
+21:28:36 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_door at position: <13229.845703, 448.810028, 13428.874023>
+21:28:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:28:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:28:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:28:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:28:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (Hatchet)
+21:29:43 | "Egirl4u" (steamid=76561198095923512) deleted objects using ESP
+21:30:2 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.845703, 448.810028, 13428.874023>
+21:30:3 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13229.845703, 448.810028, 13428.874023>
+21:30:4 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13229.845703, 448.810028, 13428.874023>
+21:30:25 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13220.912109, 448.816742, 13428.833008>
+21:30:25 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:30:27 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13220.912109, 448.816742, 13428.833008>
+21:30:29 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13220.912109, 448.816742, 13428.833008>
+21:31:1 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+21:31:27 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13211.726563, 448.816956, 13431.509766>
+21:31:28 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13211.726563, 448.816956, 13431.509766>
+21:31:29 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13211.726563, 448.816956, 13431.509766>
+21:31:34 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.724609, 448.816956, 13431.647461>
+21:31:36 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.724609, 448.816956, 13431.647461>
+21:32:33 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:32:33 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+21:32:48 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13250.538086, 448.815674, 13435.505859>
+21:32:49 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13250.538086, 448.815674, 13435.505859>
+21:32:51 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13250.538086, 448.815674, 13435.505859>
+21:32:58 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13244.540039, 448.815887, 13435.368164>
+21:32:59 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13244.540039, 448.815887, 13435.368164>
+21:33:0 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13244.540039, 448.815887, 13435.368164>
+21:33:5 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13238.541992, 448.816101, 13435.230469>
+21:33:6 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13238.541992, 448.816101, 13435.230469>
+21:33:7 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13238.541992, 448.816101, 13435.230469>
+21:33:13 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13226.541016, 448.816528, 13434.960938>
+21:33:14 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13226.541016, 448.816528, 13434.960938>
+21:33:15 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13226.541016, 448.816528, 13434.960938>
+21:33:19 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13214.544922, 448.816528, 13434.686523>
+21:33:20 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <13214.544922, 448.816528, 13434.686523>
+21:33:22 | Admin "Egirl4u" (steamId=76561198095923512) built part t3_door at position: <13214.544922, 448.816528, 13434.686523>
+21:33:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:53 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:53 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:53 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:53 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:53 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:33:59 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:33:59 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:33:59 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:0 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:1 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:1 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:1 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:34:1 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Triangle_Roof_Kit)
+21:36:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13212.539063, 451.816772, 13430.888672>
+21:36:8 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13212.539063, 451.816772, 13430.888672>
+21:36:26 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13217.724609, 448.816956, 13431.647461>)
+21:36:30 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13217.857422, 448.816986, 13425.869141>)
+21:36:37 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13211.655273, 451.816315, 13434.618164>
+21:36:39 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13211.655273, 451.816315, 13434.618164>
+21:36:45 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.653320, 451.816315, 13434.755859>
+21:36:53 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.653320, 451.816315, 13434.755859>
+21:36:56 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.651367, 451.816315, 13434.893555>
+21:36:57 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.651367, 451.816315, 13434.893555>
+21:37:2 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.649414, 451.815887, 13435.032227>
+21:37:4 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.649414, 451.815887, 13435.032227>
+21:37:7 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13235.647461, 451.816101, 13435.168945>
+21:37:7 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13235.647461, 451.816101, 13435.168945>
+21:37:10 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13241.645508, 451.815887, 13435.306641>
+21:37:11 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13241.645508, 451.815887, 13435.306641>
+21:37:14 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13247.643555, 451.815674, 13435.444336>
+21:37:14 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13247.643555, 451.815674, 13435.444336>
+21:37:20 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13253.641602, 451.815460, 13435.582031>
+21:37:21 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13253.641602, 451.815460, 13435.582031>
+21:37:39 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:37:45 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13251.625977, 452.064178, 13436.286133>)
+21:37:48 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:37:52 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13259.425781, 451.815491, 13435.717773>
+21:37:55 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13259.425781, 451.815491, 13435.717773>
+21:37:57 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13260.766602, 451.815033, 13433.808594>
+21:37:58 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13260.766602, 451.815033, 13433.808594>
+21:38:0 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13262.981445, 451.814819, 13433.872070>
+21:38:0 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13262.981445, 451.814819, 13433.872070>
+21:38:2 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13264.036133, 451.814606, 13435.798828>
+21:38:2 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13264.036133, 451.814606, 13435.798828>
+21:38:4 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13262.894531, 451.814819, 13437.698242>
+21:38:5 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13262.894531, 451.814819, 13437.698242>
+21:38:6 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13260.678711, 451.815033, 13437.658203>
+21:38:7 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13260.678711, 451.815033, 13437.658203>
+21:38:18 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13213.667969, 451.816742, 13429.762695>
+21:38:19 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13213.667969, 451.816742, 13429.762695>
+21:38:51 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:38:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:38:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:38:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:38:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+21:39:4 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13229.787109, 451.816101, 13429.033203>
+21:39:5 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13229.787109, 451.816101, 13429.033203>
+21:39:18 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13233.864258, 451.815887, 13430.213867>
+21:39:24 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13233.862305, 451.815887, 13430.207031>
+21:39:25 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13233.862305, 451.815887, 13430.207031>
+21:39:28 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13233.864258, 451.815887, 13430.213867>
+21:39:55 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.801758, 451.816742, 13428.896484>
+21:39:56 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.801758, 451.816742, 13428.896484>
+21:39:58 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13223.789063, 451.815887, 13428.896484>
+21:39:58 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13223.789063, 451.815887, 13428.896484>
+21:40:8 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13217.791016, 451.816986, 13428.758789>
+21:40:13 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13217.791016, 451.816986, 13428.758789>
+21:41:16 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13232.652344, 451.810028, 13432.479492>
+21:41:19 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13232.652344, 451.810028, 13432.479492>
+21:41:22 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13234.152344, 451.809814, 13432.517578>
+21:41:24 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13234.152344, 451.809814, 13432.517578>
+21:41:33 | "Egirl4u" (steamid=76561198095923512) toggled godmode
+21:41:47 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (TerritoryFlagKit)
+21:42:5 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.962952, 13436.264648>)
+21:42:7 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.962952, 13436.264648>)
+21:42:10 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.962982, 13436.264648>)
+21:42:11 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.973816, 13436.264648>)
+21:42:13 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.973816, 13436.264648>)
+21:42:15 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<13263.941406, 448.973816, 13436.264648>)
+21:42:22 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<13260.067383, 448.819641, 13433.706055>)
+21:42:24 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<13260.067383, 448.819641, 13433.706055>)
+21:42:26 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<13260.067383, 448.819641, 13433.706055>)
+21:42:27 | "Egirl4u" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<13260.067383, 448.819641, 13433.706055>)
+21:43:17 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_G)
+21:43:20 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_T)
+21:43:59 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_E)
+21:44:30 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_O)
+21:44:34 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_F)
+21:44:34 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_F)
+21:45:26 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_M)
+21:45:28 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_Y)
+21:45:32 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_D)
+21:45:33 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_I)
+21:45:34 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_C)
+21:45:35 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_K)
+21:46:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:55 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:55 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:57 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:46:57 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:50:36 | Admin "Egirl4u" (steamId=76561198095923512) built part frame at position: <13259.425781, 451.815491, 13435.717773>
+21:50:38 | Admin "Egirl4u" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <13259.425781, 451.815491, 13435.717773>
+21:50:53 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:52:0 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13234.786133, 448.831848, 13429.573242>)
+21:52:1 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:52:26 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+21:52:50 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5792.455078, 245.680710, 9178.145508>)
+21:53:1 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<5812.966797, 245.834213, 9167.250000>)
+21:53:13 | Player "Egirl4u" (steamId=76561198095923512) disconnected from server.
+21:53:14 | Player "Egirl4u" (steamId=76561198095923512) disconnected from server.
+22:4:9 | Player "Endless" (steamId=76561198006641904) connected to server!
+22:4:53 | Player "Endless" (steamId=76561198006641904) connected to server!
+22:8:50 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+22:9:4 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+22:10:8 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:10:9 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:34:28 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+22:34:33 | Player "Chaddillac" (steamId=76561198123456210) connected to server!
+22:49:13 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+22:49:29 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+22:58:55 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!

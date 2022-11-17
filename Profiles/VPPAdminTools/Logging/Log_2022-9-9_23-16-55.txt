@@ -1,0 +1,387 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-9_23-16-55
+====================================================================================
+23:16:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:16:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:16:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:16:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:16:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:16:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:16:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:16:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:16:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:16:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:16:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:16:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:16:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:16:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:16:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:16:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:16:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:16:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:16:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:16:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:16:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:16:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:16:55 | Building Sets Loaded: 0
+23:16:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:16:55 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:16:55 | [PermissionManager] Loaded UserGroups.json
+23:16:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:18:49 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:18:58 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:21:40 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Workbench" (pos=<7703.457520, 13.268919, 5747.827637>)
+23:22:5 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Heli Trader)
+23:23:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:23:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:18 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:25:18 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+23:26:28 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionGyrocopter" (pos=<6316.447754, 20.684462, 9491.634766>)
+23:26:36 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionGyrocopter" (pos=<6316.039551, 20.769176, 9463.563477>)
+23:29:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6214.555664, 22.304779, 9295.497070>)
+23:32:11 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:32:22 | "BeefySTi" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+23:33:55 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7795.209961, 12.868280, 7580.430176>)
+23:33:55 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7795.21,0,7580.43)
+23:34:11 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7425.054688, 74.005760, 7656.565430>)
+23:34:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7515.541992, 47.708992, 7645.925293>)
+23:36:8 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+23:36:43 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:36:44 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:37:9 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:37:18 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:39:3 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:39:4 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:40:9 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:40:19 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:45:56 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:45:58 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:47:26 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+23:47:34 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+23:50:10 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_boots_alpine) on "THE STITTIES" (steamid=76561199206265093)
+23:50:10 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_boots_alpine)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood) on "THE STITTIES" (steamid=76561199206265093)
+23:51:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Firewood)
+23:51:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+23:51:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+23:51:24 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+23:51:24 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+23:51:24 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick) on "THE STITTIES" (steamid=76561199206265093)
+23:51:24 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (WoodenStick)
+23:53:14 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+23:59:17 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+0:1:39 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+0:1:55 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11894.753906>)
+0:4:29 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11895.820313>)
+0:11:27 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+0:12:4 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6703.735352, 15.140026, 11000.942383>)
+0:13:1 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:13:14 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:15:25 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<7286.819824, 43.489578, 10573.200195>)
+0:15:25 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<7286.818848, 0.000000, 10573.171875>)
+0:26:41 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:26:46 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:27:1 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7700.399902, 12.191732, 5803.359863>)
+0:27:1 | "Alzbob": (steamid=76561198303394031) teleported to (pos=7700.4,0,5803.36)
+0:27:3 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:27:7 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:27:8 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:27:29 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+0:27:52 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+0:28:14 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<7866.708984, 15.985010, 10485.268555>)
+0:28:47 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8138.147461, 16.052921, 10426.179688>)
+0:29:13 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<8364.419922, 15.000000, 10334.500000>)
+0:29:13 | "Alzbob": (steamid=76561198303394031) teleported to (pos=8364.42,0,10334.5)
+0:29:21 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8235.882813, 20.852947, 10386.540039>)
+0:29:24 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8327.115234, 15.035769, 10336.843750>)
+0:29:43 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8350.872070, 15.000002, 10331.388672>)
+0:29:50 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8348.757813, 15.000000, 10322.311523>)
+0:30:7 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+0:30:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+0:30:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+0:30:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+0:30:58 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<8344.909180, 15.080102, 10304.812500>)
+0:31:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8363.201172, 15.040631, 10289.471680>)
+0:31:35 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<8603.290039, 14.720000, 10514.900391>)
+0:31:35 | "Alzbob": (steamid=76561198303394031) teleported to (pos=8603.29,0,10514.9)
+0:31:57 | "THE STITTIES" (steamid=76561199206265093) gave godmode to (steamid=76561199206265093)
+0:40:55 | Player "Magick" (steamId=76561198797376439) connected to server!
+0:41:11 | Player "Magick" (steamId=76561198797376439) connected to server!
+0:41:39 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+0:43:42 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7713.089844, 12.109921, 5807.160156>)
+0:43:42 | "Alzbob": (steamid=76561198303394031) teleported to (pos=7713.09,0,5807.16)
+0:43:51 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<6798.510742, 0.000000, 10033.433594>)
+0:44:0 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+0:44:16 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:44:26 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:44:29 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:46:2 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:46:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:46:33 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:46:45 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:47:15 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:47:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:49:11 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin Isle)
+0:49:18 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+0:49:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7726.370117, 8.013618, 5753.435547>)
+0:49:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7726.366211, 9.478959, 5757.073242>)
+0:49:34 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Land_Claim_Pole" (pos=<7682.031250, 12.023858, 5740.844238>)
+0:49:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7724.340332, 9.986705, 5765.951660>)
+0:49:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7722.828125, 10.978277, 5772.383301>)
+0:49:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7719.555664, 12.070888, 5774.875488>)
+0:49:46 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7719.457520, 11.114377, 5769.698730>)
+0:49:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7719.457520, 11.114377, 5769.698730>)
+0:50:11 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.031250, 11.746823, 5751.910645>)
+0:50:12 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.289551, 13.208377, 5751.822266>)
+0:50:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.468750, 13.314945, 5750.666992>)
+0:50:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.317871, 14.673249, 5751.945801>)
+0:50:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.178223, 15.008577, 5753.451660>)
+0:50:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.552734, 14.686407, 5752.357422>)
+0:50:19 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.185547, 14.740969, 5753.220215>)
+0:50:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.186523, 14.610704, 5753.187500>)
+0:50:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.391113, 14.636686, 5751.829102>)
+0:50:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:25 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7694.002930, 10.064027, 5753.625000>)
+0:50:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.109375, 10.097945, 5750.761719>)
+0:50:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:42 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit) on "THE STITTIES" (steamid=76561199206265093)
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit)
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit) on "THE STITTIES" (steamid=76561199206265093)
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit)
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit) on "THE STITTIES" (steamid=76561199206265093)
+0:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit)
+0:50:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7678.208496, 10.097548, 5739.911621>)
+0:50:49 | "Alzbob" (steamid=76561198303394031) toggled freecam

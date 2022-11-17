@@ -1,0 +1,435 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-6_0-31-49
+====================================================================================
+0:31:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:31:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:31:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:31:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:31:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:31:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:31:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:31:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:31:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:31:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:31:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:31:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:31:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:31:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:31:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:31:49 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:31:49 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:31:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:31:49 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:31:49 | [PermissionManager] Loaded UserGroups.json
+0:31:49 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:31:49 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:31:49 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:31:49 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:31:49 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:31:49 | Building Sets Loaded: 0
+0:31:49 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:33:18 | Player "armageddon49" (steamId=76561199283920389) connected to server!
+0:33:20 | Player "Survivor" (steamId=76561198050545890) connected to server!
+0:33:21 | Player "Egirl4u" (steamId=76561198095923512) connected to server!
+0:33:22 | Player "Pudgybanana" (steamId=76561198168369237) connected to server!
+0:33:23 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+0:33:24 | Player "armageddon49" (steamId=76561199283920389) connected to server!
+0:33:25 | Player "Survivor" (steamId=76561198050545890) connected to server!
+0:33:28 | Player "Pudgybanana" (steamId=76561198168369237) connected to server!
+0:33:30 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+0:33:34 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:33:40 | Player "Egirl4u" (steamId=76561198095923512) connected to server!
+0:33:42 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:33:51 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+0:34:0 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+0:34:33 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:34:42 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:36:4 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<8615.679688, 328.562897, 12458.200195>)
+0:36:4 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=8615.68,0,12458.2)
+0:37:41 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+0:37:46 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+0:38:31 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:38:36 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:38:46 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4330.109863, 201.020004, 3219.899902>)
+0:38:46 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=4330.11,0,3219.9)
+0:38:56 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:39:6 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:39:16 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+0:39:40 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+0:39:47 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+0:40:0 | "SpookySlayer" (steamid=76561199187022977) gave godmode to (steamid=76561199187022977)
+0:43:0 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<5604.967285, 194.039093, 3953.919922>)
+0:43:2 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:43:12 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<11300.500000, 260.702332, 4090.010010>)
+0:43:12 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=11300.5,0,4090.01)
+0:43:15 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<354.833008, 254.598907, 5824.279785>)
+0:43:15 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=354.833,0,5824.28)
+0:43:17 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:44:1 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+0:44:3 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+0:44:9 | "SpookySlayer" (steamid=76561199187022977) toggled freecam
+0:44:42 | "SpookySlayer" (steamid=76561199187022977) toggled freecam
+0:44:55 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4348.169922, 201.020004, 3206.100098>)
+0:44:55 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=4348.17,0,3206.1)
+0:45:41 | "SpookySlayer" (steamid=76561199187022977) toggled freecam
+0:46:12 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<12238.599609, 616.722168, 15083.900391>)
+0:46:12 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=12238.6,0,15083.9)
+0:46:23 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<5487.490234, 198.017578, 3052.110107>)
+0:46:23 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=5487.49,0,3052.11)
+0:46:56 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=Trader)
+0:47:32 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<10614.574219, 234.372314, 3830.820068>)
+0:49:15 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:49:20 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:49:36 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_300ACC)
+0:49:41 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_CMAG60300_Black)
+0:49:47 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<6116.600098, 204.403824, 2582.669922>)
+0:49:47 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=6116.6,0,2582.67)
+0:51:53 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<6617.000000, 210.291626, 2642.209961>)
+0:51:53 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=6617,0,2642.21)
+0:52:6 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_WSR3Stock)
+0:52:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_SR3HG)
+0:52:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_SR3Grip)
+0:52:59 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_SR3Vikhr_Supp)
+0:53:39 | "SpookySlayer" (steamid=76561199187022977) toggled freecam
+0:53:45 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<6729.430176, 226.372360, 2697.070068>)
+0:53:45 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=6729.43,0,2697.07)
+0:53:56 | "SpookySlayer" (steamid=76561199187022977) toggled freecam
+0:54:15 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<8853.122070, 227.366867, 3578.100586>)
+0:54:40 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:54:49 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<8143.734375, 239.050156, 3348.073730>)
+0:54:49 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:54:50 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:54:53 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+0:54:58 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_AKTango6T_Tan)
+0:55:37 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+0:56:14 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=Admin HQ)
+0:56:36 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+0:57:0 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:57:13 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:59:4 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+0:59:22 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+0:59:28 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+1:4:23 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Ammo_9x39)
+1:4:32 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:4:40 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Ammo_9x39)
+1:4:57 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:6:12 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6846.540039, 205.169998, 1525.500000>)
+1:6:12 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=6846.54,0,1525.5)
+1:6:19 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:6:28 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+1:8:1 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+1:8:2 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+1:8:29 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+1:8:38 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+1:8:50 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4342.200195, 201.020004, 3204.179932>)
+1:8:50 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=4342.2,0,3204.18)
+1:11:14 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+1:11:36 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+1:12:12 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:12:26 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+1:12:29 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:12:34 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:12:38 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<8685.669922, 548.244690, 10934.500000>)
+1:12:38 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=8685.67,0,10934.5)
+1:12:43 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:13:52 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:13:57 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:15:25 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:15:34 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:16:4 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:16:36 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:16:42 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:17:2 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:17:32 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:17:51 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:18:7 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:19:5 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:19:25 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:19:35 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:20:21 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:21:0 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:21:36 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:22:26 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:22:44 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+1:22:44 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+1:22:52 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:23:4 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:23:19 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:23:48 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:24:34 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:24:45 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:25:42 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:25:54 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:26:33 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:26:35 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:26:38 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:27:29 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:27:43 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+1:28:3 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:28:12 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<7846.380371, 453.674622, 10597.742188>)
+1:28:27 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:28:32 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:28:38 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:28:51 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:29:5 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:29:10 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:29:26 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:30:25 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:31:4 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:31:6 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:31:20 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<6098.502930, 205.169998, 1048.911377>)
+1:31:29 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+1:31:42 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+1:31:54 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:32:7 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+1:33:41 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:33:51 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:34:25 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:34:29 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:35:36 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:36:9 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:36:15 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:36:36 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:36:40 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+1:36:47 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+1:40:3 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<9989.898438, 442.762939, 10817.875977>)
+1:41:29 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=BMT)
+1:44:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Ammo_9x39AP)
+1:44:47 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Ammo_9x39AP)
+1:46:57 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13847.458008, 397.864807, 9004.864258>)
+1:47:5 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13839.963867, 395.660065, 8961.104492>)
+1:47:5 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+1:47:6 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13837.782227, 395.660095, 8947.163086>)
+1:47:6 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13836.939453, 395.660156, 8932.456055>)
+1:47:6 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13836.583008, 396.522217, 8923.565430>)
+1:47:7 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13836.815430, 395.660431, 8905.270508>)
+1:47:7 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+1:47:7 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13837.145508, 395.661224, 8888.035156>)
+1:47:8 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13837.469727, 395.663757, 8872.508789>)
+1:47:8 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13837.809570, 395.684235, 8857.712891>)
+1:47:14 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13859.356445, 395.669952, 8867.936523>)
+1:47:14 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13865.445313, 395.665649, 8874.680664>)
+1:47:16 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13872.898438, 395.663879, 8884.658203>)
+1:47:16 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13875.858398, 395.662872, 8892.689453>)
+1:47:17 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13875.971680, 395.661957, 8901.167969>)
+1:47:17 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13876.118164, 395.661163, 8909.547852>)
+1:47:18 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13876.500977, 395.660583, 8917.800781>)
+1:47:18 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13875.157227, 395.660278, 8926.574219>)
+1:47:18 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13873.056641, 395.660156, 8935.490234>)
+1:47:19 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13870.374023, 395.660095, 8943.541016>)
+1:47:19 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13867.592773, 395.660065, 8951.415039>)
+1:47:19 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13864.738281, 395.660065, 8960.285156>)
+1:47:20 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13864.892578, 395.660095, 8969.404297>)
+1:47:20 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13864.392578, 395.660126, 8978.335938>)
+1:47:21 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13863.210938, 396.132843, 8985.491211>)
+1:47:27 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13849.536133, 398.422150, 9108.038086>)
+1:48:14 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6822.295898, 230.704407, 2884.923096>)
+1:48:16 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6858.632813, 234.372650, 2915.027832>)
+1:48:17 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<6878.329102, 236.713135, 2930.984863>)
+1:50:43 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.549805, 402.101563, 9115.621094>)
+1:50:45 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.574219, 402.686890, 9116.113281>)
+1:50:45 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) disconnected from server.
+1:50:46 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.593750, 401.911499, 9116.491211>)
+1:50:47 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.612305, 401.685822, 9116.853516>)
+1:50:48 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.610352, 401.817200, 9116.817383>)
+1:50:48 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.589844, 403.397278, 9116.432617>)
+1:50:48 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<13852.583008, 403.999420, 9116.295898>)
+1:51:9 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:51:17 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+1:51:42 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:51:47 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:52:20 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+1:54:37 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+1:54:38 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+1:55:37 | Player "Survivor" (steamId=76561198050545890) disconnected from server.
+1:55:57 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<13864.500000, 395.660095, 9109.429688>)
+1:55:57 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=13864.5,0,9109.43)
+1:56:11 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+1:56:35 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+1:56:40 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+1:58:44 | Player "Palmer" (steamId=76561198041074746) connected to server!
+1:59:19 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (Lockpick)
+1:59:21 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+1:59:42 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+1:59:47 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:0:2 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+2:4:19 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:4:45 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+2:4:53 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:7:9 | "Egirl4u" (steamid=76561198095923512) teleported to crosshair (pos=<13854.308594, 395.531403, 9220.903320>)
+2:10:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (GhillieAtt_Mossy)
+2:11:19 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:11:33 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:12:52 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:12:57 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:13:22 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:13:47 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:15:24 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:15:57 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:17:50 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:18:3 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:20:23 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:21:27 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+2:21:28 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+2:21:29 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+2:21:29 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+2:21:40 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:22:13 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:24:20 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:24:48 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:24:56 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:26:9 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:26:18 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<13849.153320, 398.968201, 9115.321289>)
+2:26:20 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:26:55 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Lockpick)
+2:28:9 | Player "Palmer" (steamId=76561198041074746) disconnected from server.
+2:28:10 | Player "Palmer" (steamId=76561198041074746) disconnected from server.
+2:28:16 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+2:28:33 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:28:38 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:36:26 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:36:34 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:39:17 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+2:43:49 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+2:44:1 | Player "MilesFromOrdinary" (steamId=76561198331516052) connected to server!
+2:48:1 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:48:57 | "Egirl4u" (steamid=76561198095923512) toggled freecam
+2:55:44 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5784.040039, 245.807724, 9184.769531>)
+2:55:44 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=5784.04,0,9184.77)
+2:56:9 | "Egirl4u": (steamid=76561198095923512) teleported to (pos=Admin HQ)
+2:58:2 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+2:58:17 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:58:24 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+2:59:9 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+2:59:10 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:1:1 | Player "Pudgybanana" (steamId=76561198168369237) disconnected from server.
+3:1:47 | Player "armageddon49" (steamId=76561199283920389) disconnected from server.
+3:1:50 | Player "armageddon49" (steamId=76561199283920389) disconnected from server.
+3:5:9 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+3:5:50 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+3:6:32 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+3:6:42 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+3:6:52 | "SpookySlayer" (steamid=76561199187022977) gave godmode to (steamid=76561199187022977)
+3:6:56 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_mk5_utility_pouch_multicam_tropic)
+3:7:8 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_mk5_grenade_pouch_multicam_tropic)
+3:7:22 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<5510.740234, 197.589203, 3014.639893>)
+3:7:22 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=5510.74,0,3014.64)
+3:7:33 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_MK_V_Armor_multicam_tropic)
+3:7:40 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_multicam_tropic)
+3:7:40 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_multicam_tropic)
+3:7:41 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_multicam_tropic)
+3:8:14 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (TTsKOJacket_Camo)
+3:8:33 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<4369.479980, 200.991821, 3184.439941>)
+3:8:33 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=4369.48,0,3184.44)
+3:8:41 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_balaclava_multicam_tropic)
+3:8:43 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_boots_multicam_tropic)
+3:8:44 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (mmg_tactical_gloves_multicam_tropic)
+3:8:47 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+3:8:51 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+3:9:24 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_striker_helmet_multicam_tropic)
+3:9:30 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (mmg_gp_nvg_green)
+3:9:37 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) connected to server!
+3:10:11 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_camelback_multicam_tropic)
+3:10:52 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_mk5_utility_pouch_multicam_tropic)
+3:10:54 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_mk5_grenade_pouch_multicam_tropic)
+3:14:32 | "Egirl4u" (steamid=76561198095923512) Spawned Item: (MMG_Holster_multicam_tropic)
+3:15:0 | Player "Palmer" (steamId=76561198041074746) connected to server!
+3:15:3 | Player "Palmer" (steamId=76561198041074746) connected to server!
+3:16:11 | Player "Egirl4u" (steamId=76561198095923512) disconnected from server.
+3:16:12 | Player "Egirl4u" (steamId=76561198095923512) disconnected from server.
+3:46:59 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:47:21 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:47:27 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:48:29 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:48:55 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:49:1 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:51:28 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:51:49 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:51:59 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:55:55 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:56:20 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:56:26 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+3:56:37 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+4:1:3 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+4:1:48 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+4:8:5 | Player "Palmer" (steamId=76561198041074746) disconnected from server.
+4:8:7 | Player "Palmer" (steamId=76561198041074746) disconnected from server.
+4:16:53 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+4:17:23 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+4:17:27 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+4:27:21 | Player "FRIGHTNINLIGHTNIN" (steamId=76561197962523294) disconnected from server.
+4:27:39 | Player "MilesFromOrdinary" (steamId=76561198331516052) disconnected from server.
+4:30:12 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+4:30:15 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.

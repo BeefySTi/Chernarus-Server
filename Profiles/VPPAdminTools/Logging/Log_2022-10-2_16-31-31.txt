@@ -1,0 +1,244 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-2_16-31-31
+====================================================================================
+16:31:31 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+16:31:31 | [PermissionManager] Perm (FreeCamera) has been registered!
+16:31:31 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuServerManager) has been registered!
+16:31:31 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+16:31:31 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+16:31:31 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+16:31:31 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+16:31:31 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+16:31:31 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+16:31:31 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+16:31:31 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+16:31:31 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+16:31:31 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuBansManager) has been registered!
+16:31:31 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+16:31:31 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+16:31:31 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+16:31:31 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+16:31:31 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+16:31:31 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+16:31:31 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:31:31 | [PermissionManager] Adding Super Admin (76561198095923512)
+16:31:31 | [PermissionManager] Loaded UserGroups.json
+16:31:31 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+16:31:31 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+16:31:31 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+16:31:31 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+16:31:31 | Building Sets Loaded: 0
+16:33:7 | Player "Endless" (steamId=76561198006641904) connected to server!
+16:33:12 | Player "Endless" (steamId=76561198006641904) connected to server!
+16:35:38 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:35:43 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:41:57 | Player "Frank" (steamId=76561199004385675) connected to server!
+16:42:22 | Player "Frank" (steamId=76561199004385675) connected to server!
+16:45:22 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:45:23 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:57:33 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+16:57:39 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+16:59:48 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+17:0:0 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+17:0:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Grey)
+17:0:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Olive)
+17:1:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryLocker_Kit)
+17:1:40 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+17:1:58 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:2:4 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:2:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_WoodenTable_Kit)
+17:2:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_WoodenChair)
+17:2:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_WoodenChair)
+17:2:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_WoodenChair)
+17:4:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_StoneFireplace_Kit)
+17:5:39 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+17:5:41 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:5:59 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6235.719238, 231.869522, 2372.385498>)
+17:8:38 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5228.237305, 199.986679, 2801.764404>)
+17:8:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4676.555176, 199.754089, 3059.801025>)
+17:8:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5716.975586, 214.196671, 3458.035156>)
+17:8:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6241.604492, 211.264160, 3037.290283>)
+17:9:8 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6499.525391, 222.192291, 3691.573242>)
+17:9:12 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7031.203613, 246.833557, 3303.595215>)
+17:9:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7544.959473, 285.462646, 2758.182861>)
+17:9:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7408.500977, 305.342773, 2048.767578>)
+17:9:33 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6990.800293, 233.784851, 1162.747192>)
+17:9:42 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6393.429199, 232.576080, 552.303528>)
+17:9:48 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5768.723633, 230.350739, 179.722595>)
+17:9:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5116.497070, 177.871338, 779.528442>)
+17:10:4 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5216.689453, 206.859375, 1731.241455>)
+17:10:8 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+17:10:10 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+17:10:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6237.287109, 231.869522, 2373.819580>)
+17:10:31 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6679.016113, 222.411957, 3821.333740>)
+17:10:35 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6980.221191, 238.416656, 4144.712402>)
+17:13:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6714.344238, 242.140594, 4705.112305>)
+17:14:1 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6348.182617, 235.489136, 5057.063965>)
+17:14:4 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6085.041504, 210.088501, 4831.370117>)
+17:14:7 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6092.876953, 210.039841, 4416.031738>)
+17:14:10 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7006.027832, 251.811279, 5524.466309>)
+17:14:15 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7587.917969, 232.945129, 5094.362793>)
+17:14:19 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7339.297852, 276.660614, 4559.568359>)
+17:14:22 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7160.588867, 277.482544, 4211.833496>)
+17:14:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7717.213379, 294.385040, 3997.958008>)
+17:14:33 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7726.513672, 313.856262, 4423.148438>)
+17:15:19 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7210.409180, 291.671051, 3639.128418>)
+17:15:22 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7336.131836, 260.193176, 3128.408447>)
+17:15:25 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6899.522461, 241.260498, 2861.498779>)
+17:15:25 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6899.522461, 241.260529, 2861.498779>)
+17:15:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6365.925293, 213.760437, 3160.831299>)
+17:16:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5796.492676, 196.916718, 2353.619141>)
+17:18:27 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5679.580078, 207.353683, 2679.472656>)
+17:18:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5422.276367, 241.492706, 2784.515625>)
+17:18:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5176.641602, 194.220947, 2927.868896>)
+17:18:48 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4719.486816, 203.313965, 3285.548096>)
+17:19:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4391.051758, 198.668030, 4260.418945>)
+17:19:27 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4398.861816, 201.019287, 4815.964355>)
+17:19:39 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4936.238770, 201.394562, 4532.635254>)
+17:19:47 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:20:12 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:20:20 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+17:20:37 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+17:20:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4935.294922, 201.394592, 4535.104004>)
+17:21:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4948.642578, 201.394547, 4539.330078>)
+17:24:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MCK_InfoKey)
+17:24:49 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:26:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7610.530273, 243.706879, 7741.077148>)
+17:27:46 | "BeefySTi" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+17:27:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7732.704590, 275.352600, 8227.499023>)
+17:29:3 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199004385675)
+17:29:4 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199004385675)
+17:29:7 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199004385675)
+17:30:30 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+17:31:0 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+17:31:7 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+17:31:18 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+17:31:19 | "BeefySTi" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+17:31:52 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:32:3 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<8117.681641, 489.981720, 9511.156250>)
+17:32:8 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:32:35 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:32:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4947.173340, 201.394531, 4546.538574>)
+17:32:51 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:33:31 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+17:36:6 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:36:51 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5826.586426, 245.834213, 9157.639648>)
+17:40:35 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5815.208496, 252.947327, 9149.466797>)
+17:40:38 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5815.208496, 252.947327, 9149.466797>)
+17:40:46 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5819.247070, 252.200089, 9148.469727>)
+17:40:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5804.480469, 252.191528, 9167.670898>)
+17:40:58 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5808.932617, 245.834213, 9173.725586>)
+17:41:2 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5810.065918, 245.834213, 9169.350586>)
+17:41:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5810.052246, 245.834213, 9169.350586>)
+17:41:17 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+17:41:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5806.315918, 248.938141, 9167.003906>)
+17:41:46 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5806.315918, 248.938141, 9167.003906>)
+17:41:49 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5806.315918, 248.938141, 9167.003906>)
+17:41:59 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5802.247559, 248.938141, 9166.544922>)
+17:42:9 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5816.865723, 245.834213, 9164.949219>)
+17:42:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5838.391113, 252.287094, 9130.482422>)
+17:42:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5816.546875, 252.547760, 9147.695313>)
+17:57:44 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:58:11 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:25:8 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6639.959961, 205.158707, 1734.260010>)
+18:25:8 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=6639.96,0,1734.26)
+18:25:16 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:25:19 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:25:21 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:25:25 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:25:27 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:27:37 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:27:39 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:31:59 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6488.115234, 225.306534, 3820.406982>)
+18:32:23 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7026.396973, 298.122070, 5432.988281>)
+18:32:58 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7606.959961, 247.805389, 6960.190918>)
+18:33:3 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7678.888672, 254.874557, 7521.394043>)
+18:33:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7823.712402, 340.534393, 8570.997070>)
+18:33:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<8099.833496, 478.900848, 9422.303711>)
+18:34:3 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<8611.161133, 586.488525, 10677.563477>)
+18:42:2 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+18:42:3 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+18:42:4 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6268.199219, 237.536377, 2254.836182>)
+18:42:25 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+18:42:43 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+18:42:54 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+18:43:3 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:43:15 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5820.235352, 264.246094, 9105.656250>)
+18:43:30 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5832.971191, 245.834213, 9152.752930>)
+18:43:32 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+18:43:35 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+18:43:37 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+18:49:20 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+19:9:11 | Player "Endless" (steamId=76561198006641904) disconnected from server.

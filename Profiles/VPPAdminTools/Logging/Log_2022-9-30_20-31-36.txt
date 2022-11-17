@@ -1,0 +1,804 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-30_20-31-36
+====================================================================================
+20:31:36 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:31:36 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:31:36 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:31:36 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:31:36 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:31:36 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:31:36 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:31:36 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:31:36 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:31:36 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:31:36 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:31:36 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:31:36 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:31:36 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:31:36 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:31:36 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:31:36 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:31:36 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:31:36 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:31:36 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:31:36 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:31:36 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:31:36 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:31:36 | [PermissionManager] Adding Super Admin (76561198095923512)
+20:31:36 | [PermissionManager] Loaded UserGroups.json
+20:31:36 | Building Sets Loaded: 0
+20:31:36 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:33:5 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:33:30 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:47:18 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+20:47:38 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+20:54:30 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+20:54:31 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+20:59:9 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+20:59:35 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+21:1:36 | Player "Endless" (steamId=76561198006641904) connected to server!
+21:2:43 | Player "Endless" (steamId=76561198006641904) connected to server!
+21:4:45 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:7:32 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+21:7:33 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+21:42:36 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+21:42:43 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+22:6:54 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:7:16 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:9:0 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<4358.959961, 198.559723, 3073.050049>)
+22:9:0 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=4358.96,0,3073.05)
+22:9:50 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Compass)
+22:10:24 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3959.746094, 251.249329, 2684.333984>)
+22:10:34 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:10:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3956.963135, 239.122665, 3489.261230>)
+22:11:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3885.713379, 213.708374, 4036.258789>)
+22:11:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3903.436523, 210.555145, 4934.481934>)
+22:11:43 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3261.072266, 211.672699, 5091.525391>)
+22:11:48 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<2852.306152, 225.027802, 5289.622559>)
+22:11:57 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:13:14 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3801.312500, 221.243195, 4275.865234>)
+22:13:15 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:13:17 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:13:30 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3711.312012, 215.297653, 3306.963379>)
+22:13:34 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:13:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3678.734131, 215.883789, 3330.515869>)
+22:14:2 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3412.431885, 233.740005, 3543.523926>)
+22:14:12 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<3390.229980, 234.088257, 3617.959961>)
+22:14:12 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=3390.23,0,3617.96)
+22:15:6 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:15:6 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:15:8 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:15:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Animal_CapraHircusF)
+22:15:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Animal_GallusGallusDomesticus)
+22:16:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Animal_GallusGallusDomesticusF_White)
+22:16:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Animal_GallusGallusDomesticusF_Spotted)
+22:17:41 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<1243.948730, 269.938110, 5990.300781>)
+22:19:5 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:19:10 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:19:46 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<759.651001, 269.048248, 13467.900391>)
+22:19:46 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=759.651,0,13467.9)
+22:19:49 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:19:50 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:19:58 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<748.911621, 270.062012, 13499.521484>)
+22:20:0 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:20:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+22:21:14 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.706482, 270.062012, 13515.119141>
+22:21:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.706482, 270.062012, 13515.119141>
+22:21:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <735.706482, 270.062012, 13515.119141>
+22:21:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+22:22:12 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.234192, 270.062012, 13515.983398>
+22:22:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.234192, 270.062012, 13515.983398>
+22:22:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:22:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:22:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:22:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:22:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:22:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:23:34 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <751.655334, 270.062012, 13491.121094>
+22:23:37 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <751.655334, 270.062012, 13491.121094>
+22:23:40 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <745.659119, 270.062012, 13490.909180>
+22:23:41 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <745.659119, 270.062012, 13490.909180>
+22:23:45 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <739.662903, 270.062012, 13490.697266>
+22:23:46 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <739.662903, 270.062012, 13490.697266>
+22:24:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:24:51 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <739.560608, 273.062012, 13493.585938>
+22:24:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <739.560608, 273.062012, 13493.585938>
+22:24:55 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <745.556885, 273.061798, 13493.797852>
+22:24:56 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <745.556885, 273.061798, 13493.797852>
+22:25:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <751.553162, 273.061584, 13494.009766>
+22:25:4 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <751.553162, 273.061584, 13494.009766>
+22:25:19 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+22:25:32 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <745.344482, 273.061584, 13499.793945>
+22:26:1 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <745.659119, 273.062012, 13490.909180>
+22:26:2 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <745.659119, 273.062012, 13490.909180>
+22:26:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <739.662903, 273.062012, 13490.697266>
+22:26:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <739.662903, 273.062012, 13490.697266>
+22:26:7 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <739.662903, 273.062012, 13490.697266>
+22:26:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <739.662903, 276.062012, 13490.697266>
+22:26:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <739.662903, 276.062012, 13490.697266>
+22:26:40 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <751.340759, 273.061371, 13500.005859>
+22:26:41 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <751.340759, 273.061371, 13500.005859>
+22:26:48 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.337036, 273.061157, 13500.217773>
+22:26:48 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.337036, 273.061157, 13500.217773>
+22:27:53 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.987061, 274.681000, 13499.505859>
+22:27:54 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.987061, 274.681000, 13499.505859>
+22:28:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:28:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:28:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:28:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:29:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:32:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<754.653687, 273.883575, 13487.476563>)
+22:32:58 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <755.404541, 274.681000, 13490.515625>
+22:33:1 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <755.404541, 274.681000, 13490.515625>
+22:33:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<751.119751, 282.323059, 13490.970703>)
+22:34:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <755.404541, 280.681000, 13490.515625>
+22:34:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <755.404541, 280.681000, 13490.515625>
+22:34:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <755.404541, 277.681000, 13490.515625>
+22:34:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <755.404541, 277.681000, 13490.515625>
+22:34:23 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <758.196716, 280.681000, 13493.509766>
+22:34:25 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <758.196716, 280.681000, 13493.509766>
+22:34:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+22:34:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+22:34:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+22:34:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+22:35:37 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+22:35:48 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+22:36:12 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+22:37:26 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.737793, 274.498291, 13500.291992>
+22:37:29 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.737793, 274.498291, 13500.291992>
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:38:51 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+22:38:53 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+22:38:59 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <736.227356, 274.635559, 13498.456055>
+22:39:1 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <736.227356, 274.635559, 13498.456055>
+22:39:11 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<757.994629, 282.393280, 13499.314453>)
+22:39:25 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<758.002869, 274.498291, 13494.297852>)
+22:39:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<758.002869, 274.498291, 13494.297852>)
+22:39:42 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<749.388489, 282.242523, 13490.902344>)
+22:40:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+22:40:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+22:43:40 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.811401, 281.085663, 13495.617188>
+22:43:42 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.811401, 281.085663, 13495.617188>
+22:44:0 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.628784, 281.085663, 13491.250000>
+22:44:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.628784, 281.085663, 13491.250000>
+22:44:8 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.492432, 281.085663, 13492.022461>
+22:44:21 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.492432, 281.085663, 13492.022461>
+22:44:42 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+22:44:46 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+22:44:49 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.316223, 281.085663, 13492.692383>
+22:44:50 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <757.316223, 281.085663, 13492.692383>
+22:44:51 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.316223, 281.085663, 13492.692383>
+22:44:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <757.316223, 281.085663, 13492.692383>
+22:45:24 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+22:45:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:45:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:45:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:46:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:46:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:46:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+22:48:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.421448, 281.085663, 13539.806641>
+22:48:4 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <735.421448, 281.085663, 13539.806641>
+22:48:4 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.421448, 281.085663, 13539.806641>
+22:48:5 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <735.421448, 281.085663, 13539.806641>
+22:48:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <735.421448, 281.085663, 13539.806641>
+22:48:9 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <737.479492, 281.085663, 13539.827148>
+22:48:11 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <737.479492, 281.085663, 13539.827148>
+22:48:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <736.920044, 281.085663, 13539.872070>
+22:48:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <736.920044, 281.085663, 13539.872070>
+22:48:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.225891, 281.085663, 13539.991211>
+22:48:19 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <741.225891, 281.085663, 13539.991211>
+22:48:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.225891, 281.085663, 13539.991211>
+22:48:26 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <741.225891, 281.085663, 13539.991211>
+22:48:29 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.220154, 281.085663, 13540.252930>
+22:48:30 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <747.220154, 281.085663, 13540.252930>
+22:48:31 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.220154, 281.085663, 13540.252930>
+22:48:33 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <747.220154, 281.085663, 13540.252930>
+22:48:38 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.214417, 281.085663, 13540.514648>
+22:48:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <753.214417, 281.085663, 13540.514648>
+22:48:40 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.214417, 281.085663, 13540.514648>
+22:48:41 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <753.214417, 281.085663, 13540.514648>
+22:49:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.593323, 281.085663, 13531.491211>
+22:49:42 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <756.593323, 281.085663, 13531.491211>
+22:49:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.593323, 281.085663, 13531.491211>
+22:49:44 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <756.593323, 281.085663, 13531.491211>
+22:49:47 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <756.593323, 281.085663, 13531.491211>
+22:49:52 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.989502, 281.085663, 13521.497070>
+22:49:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <756.989502, 281.085663, 13521.497070>
+22:49:53 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.989502, 281.085663, 13521.497070>
+22:49:56 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <756.989502, 281.085663, 13521.497070>
+22:50:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.480652, 281.085663, 13520.133789>
+22:50:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <735.480652, 281.085663, 13520.133789>
+22:50:44 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.480652, 281.085663, 13520.133789>
+22:50:48 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <735.480652, 281.085663, 13520.133789>
+22:51:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.060486, 281.085663, 13530.649414>
+22:51:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.060486, 281.085663, 13530.649414>
+22:51:38 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:52:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:53:44 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.234192, 273.062012, 13515.983398>
+22:53:46 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.234192, 273.062012, 13515.983398>
+22:53:55 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.706482, 273.062012, 13515.119141>
+22:53:56 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.706482, 273.062012, 13515.119141>
+22:54:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.467529, 273.062012, 13521.114258>
+22:54:5 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.467529, 273.062012, 13521.114258>
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:55:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+22:56:3 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:56:5 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:56:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+22:56:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+22:56:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+22:56:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+22:56:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+22:57:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.298645, 280.297760, 13540.082031>
+22:57:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.298645, 280.297760, 13540.082031>
+22:57:10 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.298645, 277.297760, 13540.082031>
+22:57:11 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.298645, 277.297760, 13540.082031>
+22:57:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:57:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+22:59:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+23:0:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+23:0:40 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.670715, 270.939117, 13531.629883>
+23:0:42 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.670715, 270.939117, 13531.629883>
+23:0:44 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:0:50 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.424622, 274.079102, 13537.194336>
+23:0:55 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <737.610474, 274.141693, 13536.841797>
+23:0:57 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <737.610474, 274.141693, 13536.841797>
+23:1:0 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.418945, 274.079315, 13537.456055>
+23:1:1 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.418945, 274.079315, 13537.456055>
+23:1:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.413269, 274.079529, 13537.717773>
+23:1:5 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.413269, 274.079529, 13537.717773>
+23:1:6 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:1:8 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.287170, 274.297760, 13540.605469>
+23:1:8 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.287170, 274.297760, 13540.605469>
+23:1:11 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:1:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.305725, 274.297760, 13537.839844>
+23:1:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.305725, 274.297760, 13537.839844>
+23:1:20 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.675110, 274.079315, 13531.723633>
+23:1:21 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.675110, 274.079315, 13531.723633>
+23:1:37 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <734.723267, 274.359924, 13536.713867>
+23:1:38 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <734.723267, 274.359924, 13536.713867>
+23:2:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+23:2:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.935303, 270.938904, 13525.635742>
+23:3:8 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <737.875061, 274.141479, 13530.847656>
+23:3:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <737.875061, 274.141479, 13530.847656>
+23:3:12 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.139648, 274.141266, 13524.853516>
+23:3:12 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <738.139648, 274.141266, 13524.853516>
+23:3:22 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.355225, 276.062012, 13521.229492>
+23:3:22 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <738.355225, 276.062012, 13521.229492>
+23:3:30 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.467529, 276.062012, 13521.114258>
+23:3:31 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.467529, 276.062012, 13521.114258>
+23:3:50 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.467529, 279.062012, 13521.114258>
+23:3:50 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.467529, 279.062012, 13521.114258>
+23:3:59 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.706482, 276.062012, 13515.119141>
+23:3:59 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.706482, 276.062012, 13515.119141>
+23:5:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:5:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:5:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:5:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:6:16 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.413269, 277.079529, 13537.717773>
+23:6:17 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.413269, 277.079529, 13537.717773>
+23:6:20 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.675110, 277.079315, 13531.723633>
+23:6:21 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.675110, 277.079315, 13531.723633>
+23:6:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.287170, 277.297760, 13540.605469>)
+23:6:51 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.570801, 277.297760, 13531.845703>
+23:6:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.570801, 277.297760, 13531.845703>
+23:6:59 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.305725, 277.297760, 13537.839844>
+23:6:59 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.305725, 277.297760, 13537.839844>
+23:7:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.287170, 277.297760, 13540.605469>
+23:7:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.287170, 277.297760, 13540.605469>
+23:7:47 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.287170, 280.297760, 13540.605469>
+23:7:51 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.287170, 280.297760, 13540.605469>
+23:8:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.292908, 277.297760, 13540.343750>
+23:8:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.292908, 277.297760, 13540.343750>
+23:8:17 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.418945, 277.079315, 13537.456055>
+23:8:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.418945, 277.079315, 13537.456055>
+23:8:31 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.292908, 280.297760, 13540.343750>
+23:8:32 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.292908, 280.297760, 13540.343750>
+23:8:47 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.424622, 277.079102, 13537.194336>
+23:8:47 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.424622, 277.079102, 13537.194336>
+23:9:19 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:9:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:9:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:9:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:10:9 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.430298, 277.078888, 13536.932617>
+23:10:10 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.430298, 277.078888, 13536.932617>
+23:10:15 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <736.053650, 280.297760, 13539.852539>
+23:10:17 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <736.053650, 280.297760, 13539.852539>
+23:10:22 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <737.552246, 280.297760, 13539.917969>
+23:10:23 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <737.552246, 280.297760, 13539.917969>
+23:11:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:11:32 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.692139, 277.078674, 13530.938477>
+23:11:33 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.692139, 277.078674, 13530.938477>
+23:11:38 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <734.985535, 277.242218, 13531.064453>
+23:11:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <734.985535, 277.242218, 13531.064453>
+23:11:50 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <734.985535, 280.242218, 13531.064453>
+23:11:51 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <734.985535, 280.242218, 13531.064453>
+23:12:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<735.752991, 283.677246, 13520.437500>)
+23:12:47 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:12:59 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:13:8 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:13:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<735.060486, 281.085663, 13530.649414>)
+23:14:15 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <734.933411, 277.165436, 13531.368164>
+23:14:17 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <734.933411, 277.165436, 13531.368164>
+23:14:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<752.789429, 273.313507, 13497.581055>)
+23:15:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+23:15:11 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <748.856445, 277.498077, 13499.899414>
+23:15:34 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<748.520935, 275.266968, 13498.015625>)
+23:15:39 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.850586, 277.498291, 13500.164063>
+23:15:40 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <754.850586, 277.498291, 13500.164063>
+23:15:52 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <758.002869, 274.498291, 13494.297852>
+23:15:54 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <758.002869, 274.498291, 13494.297852>
+23:15:57 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <758.002869, 277.498291, 13494.297852>
+23:15:58 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <758.002869, 277.498291, 13494.297852>
+23:16:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:16:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:16:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:16:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:16:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:16:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Half_Wall_Kit)
+23:16:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:16:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:17:8 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<748.301208, 275.289795, 13498.007813>)
+23:17:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <755.116333, 277.498077, 13494.169922>
+23:17:16 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <755.116333, 277.498077, 13494.169922>
+23:17:28 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <755.238586, 277.498291, 13491.277344>
+23:17:29 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <755.238586, 277.498291, 13491.277344>
+23:18:12 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <758.002869, 280.498291, 13494.297852>
+23:18:12 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <758.002869, 280.498291, 13494.297852>
+23:18:22 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.585999, 277.498077, 13506.158203>
+23:18:23 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.585999, 277.498077, 13506.158203>
+23:18:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:18:45 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.321411, 277.497864, 13512.152344>
+23:18:46 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.321411, 277.497864, 13512.152344>
+23:18:55 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.234192, 276.062012, 13515.983398>
+23:18:56 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.234192, 276.062012, 13515.983398>
+23:19:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.345947, 276.062012, 13515.882813>
+23:19:2 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.345947, 276.062012, 13515.882813>
+23:19:43 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<757.234192, 276.062012, 13515.983398>)
+23:19:51 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.024597, 276.062012, 13521.979492>
+23:19:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.024597, 276.062012, 13521.979492>
+23:20:0 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:20:14 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.136841, 276.061798, 13521.878906>
+23:20:15 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.136841, 276.061798, 13521.878906>
+23:20:21 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.024597, 279.062012, 13521.979492>
+23:20:23 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.024597, 279.062012, 13521.979492>
+23:20:52 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:21:0 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:21:21 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:21:45 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.723267, 274.359924, 13536.713867>)
+23:21:51 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.752502, 275.997284, 13536.687500>)
+23:21:51 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.723267, 274.359924, 13536.713867>)
+23:21:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.723267, 274.359924, 13536.713867>)
+23:21:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.723267, 274.359924, 13536.713867>)
+23:21:56 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.776062, 276.015381, 13536.572266>)
+23:22:6 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:22:19 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:22:37 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:23:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:23:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:23:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:23:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:23:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:23:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:23:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:23:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:23:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:23:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:23:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:24:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TerritoryFlagKit)
+23:26:49 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.787842, 274.297516, 13531.597656>
+23:26:50 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <750.787842, 274.297516, 13531.597656>
+23:26:52 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.801270, 274.297546, 13528.835938>
+23:26:53 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <753.801270, 274.297546, 13528.835938>
+23:26:57 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.549072, 274.297516, 13534.610352>
+23:27:1 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <753.549072, 274.297516, 13534.610352>
+23:27:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Hatchet)
+23:27:28 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:27:30 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:27:48 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <753.549072, 274.297516, 13534.610352>
+23:27:50 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <753.549072, 274.297516, 13534.610352>
+23:27:53 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <753.549072, 274.297516, 13534.610352>
+23:28:10 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.521240, 274.297760, 13537.586914>
+23:28:13 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <750.521240, 274.297760, 13537.586914>
+23:28:15 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <750.521240, 274.297760, 13537.586914>
+23:28:16 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <750.521240, 274.297760, 13537.586914>
+23:28:17 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <750.521240, 274.297760, 13537.586914>
+23:28:28 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <747.545105, 274.297546, 13534.568359>
+23:28:30 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <747.545105, 274.297546, 13534.568359>
+23:28:34 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <744.531677, 274.297516, 13537.330078>
+23:28:36 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <744.531677, 274.297516, 13537.330078>
+23:28:36 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <744.531677, 274.297516, 13537.330078>
+23:28:37 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <744.531677, 274.297516, 13537.330078>
+23:28:38 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <744.531677, 274.297516, 13537.330078>
+23:29:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:29:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:29:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:29:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:29:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+23:29:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<734.933411, 277.165436, 13531.368164>)
+23:29:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:29:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.491516, 282.742249, 13539.850586>)
+23:29:44 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.488647, 284.236755, 13539.920898>)
+23:30:16 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:31:6 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<742.725769, 271.191132, 13531.038086>)
+23:32:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_FourDoor_MilitaryLocker_Kit)
+23:32:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_FourDoor_MilitaryLocker_Green_Kit)
+23:32:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_RifleSafe_Kit)
+23:33:22 | "BeefySTi" (steamid=76561198095923512) deleted object "WoodenPlank" (pos=<753.802673, 274.409454, 13534.029297>)
+23:33:25 | "BeefySTi" (steamid=76561198095923512) deleted object "Nail" (pos=<753.802673, 274.341125, 13534.029297>)
+23:33:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_TapeMeasure)
+23:33:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Workbench)
+23:33:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Blueprint)
+23:35:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Cement_Mixer_Kit)
+23:35:6 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+23:35:17 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+23:35:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (PowerGenerator)
+23:35:38 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+23:35:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SparkPlug)
+23:36:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CableReel)
+23:36:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (LargeTent)
+23:37:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:37:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:37:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:37:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:6 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+23:38:24 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=Admin HQ)
+23:38:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Pillar_Kit)
+23:38:51 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <744.551758, 268.079315, 13534.350586>
+23:39:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <744.551758, 271.079315, 13534.350586>
+23:39:8 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.804138, 268.297546, 13528.705078>
+23:39:12 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.804138, 271.297546, 13528.705078>
+23:39:27 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.801270, 274.297546, 13528.835938>)
+23:40:3 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.546082, 271.079529, 13534.612305>
+23:40:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <750.546082, 268.079529, 13534.612305>
+23:40:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<752.433594, 284.819611, 13527.888672>)
+23:40:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.423035, 282.734467, 13539.810547>)
+23:40:34 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:35 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:35 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:37 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <737.479492, 281.085663, 13539.827148>
+23:40:46 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:46 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<737.479492, 281.085663, 13539.827148>)
+23:41:17 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:41:25 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<747.545105, 274.297546, 13534.568359>)
+23:41:38 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<744.009277, 270.243591, 13522.327148>)
+23:41:39 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Half_Wall_Kit" (pos=<744.009277, 270.087463, 13522.327148>)
+23:41:40 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Half_Wall_Kit" (pos=<744.009277, 270.087463, 13522.327148>)
+23:41:41 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<744.009277, 270.087463, 13522.327148>)
+23:41:44 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<744.009277, 270.087463, 13522.327148>)
+23:41:45 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<744.009277, 270.243591, 13522.327148>)
+23:41:48 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<744.066833, 270.087463, 13523.075195>)
+23:41:49 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Floor_Kit" (pos=<744.066833, 270.087463, 13523.075195>)
+23:43:8 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Pillar_Kit" (pos=<752.570251, 273.333801, 13494.207031>)
+23:43:10 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Pillar_Kit" (pos=<752.570251, 273.333801, 13494.207031>)
+23:43:11 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Pillar_Kit" (pos=<752.570251, 273.333801, 13494.207031>)
+23:43:13 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Pillar_Kit" (pos=<752.570251, 273.333801, 13494.207031>)
+23:43:14 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<752.570251, 273.479065, 13494.207031>)
+23:43:51 | Admin "BeefySTi" (steamId=76561198095923512) built part window_bars at position: <739.662903, 273.062012, 13490.697266>
+23:44:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:44:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:45:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:45:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:45:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:45:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:45:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:45:48 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Mosin9130_Black)
+23:46:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:46:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:46:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+23:46:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+23:46:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+23:46:53 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.604248, 273.062012, 13515.234375>
+23:46:54 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <738.604248, 273.062012, 13515.234375>
+23:48:39 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Ammo_762x54)
+23:48:41 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.714539, 270.062012, 13512.341797>
+23:48:46 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <738.714539, 270.062012, 13512.341797>
+23:49:12 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:49:24 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:49:30 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.475525, 270.062012, 13518.336914>
+23:49:32 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <738.475525, 270.062012, 13518.336914>
+23:51:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:51:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:51:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:52:19 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <744.585938, 273.061798, 13515.687500>
+23:53:5 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_Holster_dark_woodland)
+23:53:14 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_bottle_erdl)
+23:53:19 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:53:23 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_carbine_black)
+23:53:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_erdl)
+23:53:32 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_erdl)
+23:53:50 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:54:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (HuntingKnife)
+23:54:47 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SN_Glock19)
+23:54:48 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Mag_Glock_15Rnd)
+23:54:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Mag_Glock_15Rnd)
+23:55:15 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SN_Glock19)
+23:55:34 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.710022, 270.062012, 13515.148438>
+23:55:36 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <741.710022, 270.062012, 13515.148438>
+23:55:47 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.722839, 270.062012, 13512.131836>
+23:55:49 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <738.722839, 270.062012, 13512.131836>
+23:57:4 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+23:57:24 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.473145, 270.062012, 13518.456055>
+23:57:50 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <741.590515, 270.062012, 13518.146484>
+23:58:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <738.822327, 273.062012, 13515.033203>
+23:58:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <738.822327, 273.062012, 13515.033203>
+0:0:1 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+0:0:9 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+0:3:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <751.455078, 270.062012, 13515.571289>
+0:3:7 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <751.455078, 270.062012, 13515.571289>
+0:3:56 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.449402, 270.062012, 13512.779297>
+0:3:57 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <754.449402, 270.062012, 13512.779297>
+0:4:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.235352, 270.061768, 13518.779297>
+0:4:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <754.235352, 270.061768, 13518.779297>
+0:4:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.235352, 270.061768, 13518.779297>
+0:4:10 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <754.235352, 270.061768, 13518.779297>
+0:4:11 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <754.235352, 270.061768, 13518.779297>
+0:4:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:4:44 | "JakusMallius" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+0:4:47 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+0:4:59 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <754.343323, 273.062012, 13515.671875>
+0:5:0 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <754.343323, 273.062012, 13515.671875>
+0:6:1 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Admin HQ)
+0:6:33 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CodeLock)
+0:6:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:6:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:6:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:6:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:7:7 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Ramp_Kit)
+0:7:32 | Admin "JakusMallius" (steamId=76561198067006084) built part frame at position: <5859.126465, 247.297226, 9151.542969>
+0:7:38 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_Green)
+0:7:40 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CS_WeaponBag_D_Green)
+0:9:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:9:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:9:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:9:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:9:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:11:34 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+0:11:58 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.364746, 281.085663, 13541.095703>
+0:12:0 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.364746, 281.085663, 13541.095703>
+0:12:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <734.748901, 281.085663, 13540.422852>
+0:12:4 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <734.748901, 281.085663, 13540.422852>
+0:12:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <735.388306, 284.085663, 13540.451172>
+0:12:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <735.388306, 284.085663, 13540.451172>
+0:12:14 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<6297.799805, 213.674332, 2438.860107>)
+0:12:14 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=6297.8,0,2438.86)
+0:12:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <736.037659, 281.085663, 13540.479492>
+0:12:19 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <736.037659, 281.085663, 13540.479492>
+0:12:23 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:12:26 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <736.037659, 281.085663, 13540.479492>
+0:13:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6288.252441, 252.506271, 2358.361816>)
+0:13:3 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6288.252441, 252.506271, 2358.361816>)
+0:13:5 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6288.242188, 252.506271, 2358.353760>)
+0:13:6 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6288.239746, 252.506271, 2358.353760>)
+0:13:7 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:13:16 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:13:36 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6227.213867, 234.294479, 2317.202881>)
+0:13:37 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<6227.213867, 234.294479, 2317.202881>)
+0:13:47 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionRPG7)
+0:13:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+0:13:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+0:13:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+0:13:50 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+0:13:50 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+0:16:5 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<755.238586, 277.498291, 13491.277344>)
+0:16:7 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:10 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<758.002869, 274.498291, 13494.297852>)
+0:16:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.628784, 281.085663, 13491.250000>)
+0:16:19 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:19 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:19 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.628784, 281.085663, 13491.250000>)
+0:16:19 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:20 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:21 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:22 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.628784, 281.085663, 13491.250000>)
+0:16:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+0:16:24 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<753.628784, 281.085663, 13491.250000>)
+0:16:39 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:16:46 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:17:8 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+0:17:33 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.349182, 284.085663, 13492.053711>
+0:17:35 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.349182, 284.085663, 13492.053711>
+0:18:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+0:18:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+0:18:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+0:19:36 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:20:18 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:20:43 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<5882.649902, 217.084778, 4810.020020>)
+0:20:43 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=5882.65,0,4810.02)
+0:20:44 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_MPX_30rnd_Mag)
+0:20:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFUMPX_Grip)
+0:20:48 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_MPX_30rnd_Mag)
+0:20:51 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:20:59 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:21:0 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:21:2 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:21:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_MPX_30rnd_Mag)
+0:21:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_MPX_30rnd_Mag)
+0:21:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_MPX_30rnd_Mag)
+0:21:19 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+0:21:21 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<745.659119, 273.062012, 13490.909180>)
+0:21:24 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<757.811401, 281.085663, 13495.617188>)
+0:21:33 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Admin HQ)
+0:21:50 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+0:21:57 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.426147, 281.085663, 13493.520508>
+0:21:58 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.426147, 281.085663, 13493.520508>
+0:22:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <756.359863, 281.085663, 13495.018555>
+0:22:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <756.359863, 281.085663, 13495.018555>
+0:22:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_AtlasBipod)
+0:22:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+0:22:53 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+0:22:54 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_ModBipod)
+0:22:55 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+0:23:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.283264, 284.085663, 13493.331055>
+0:23:7 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.283264, 284.085663, 13493.331055>
+0:23:11 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.205872, 284.085449, 13494.833984>
+0:23:12 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.205872, 284.085449, 13494.833984>
+0:23:23 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+0:24:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (TF_Atlas_Bipod)
+0:24:16 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <757.032715, 281.085663, 13494.402344>
+0:24:17 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <757.032715, 281.085663, 13494.402344>
+0:24:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <757.032715, 281.085663, 13494.402344>
+0:24:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <757.032715, 281.085663, 13494.402344>
+0:24:26 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_door at position: <757.032715, 281.085663, 13494.402344>
+0:24:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Mosin_Compensator)
+0:24:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:24:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+0:27:18 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+0:27:22 | "BeefySTi" (steamid=76561198095923512) executed kill command on: "76561198095923512"
+0:30:15 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+0:30:15 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+0:30:15 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.

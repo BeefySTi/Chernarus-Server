@@ -1,0 +1,1058 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-24_0-31-27
+====================================================================================
+0:31:27 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:31:27 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:31:27 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:31:27 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:31:27 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:31:27 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:31:27 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:31:27 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:31:27 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:31:27 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:31:27 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:31:27 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:31:27 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:31:27 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:31:27 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:31:27 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:31:27 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:31:27 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:31:27 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:31:27 | [PermissionManager] Loaded UserGroups.json
+0:31:27 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:31:27 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:31:27 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:31:27 | Building Sets Loaded: 0
+0:31:27 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:31:27 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:31:27 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:32:50 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:32:52 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:32:59 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:33:15 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:36:22 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+0:38:55 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:39:14 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:39:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GhillieSuit_Gold)
+0:39:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GhillieHood_Gold)
+0:40:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tt_vest_admin)
+0:40:56 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:41:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6248.152832, 234.467392, 2266.578369>)
+0:41:16 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:41:19 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:41:25 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:42:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6569.076172, 204.443527, 1279.152588>)
+0:42:6 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:42:18 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:42:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:42:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:42:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:42:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:42:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:42:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:42:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+0:42:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6577.067383, 205.143188, 1274.148682>
+0:42:56 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6577.067383, 205.143188, 1274.148682>
+0:43:32 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6578.686523, 205.361404, 1271.755737>
+0:43:34 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6578.686523, 205.361404, 1271.755737>
+0:43:36 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6575.447754, 205.361404, 1276.542236>
+0:43:38 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6575.447754, 205.361404, 1276.542236>
+0:43:43 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <6575.447754, 205.361404, 1276.542236>
+0:43:45 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <6578.686523, 205.361404, 1271.755737>
+0:43:56 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6579.461914, 205.361404, 1275.775879>
+0:43:58 | Admin "Alzbob" (steamId=76561198303394031) built part t1_door at position: <6579.461914, 205.361404, 1275.775879>
+0:44:19 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6579.461914, 205.361404, 1275.775879>
+0:44:23 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6574.666504, 205.361404, 1272.531006>
+0:44:25 | Admin "Alzbob" (steamId=76561198303394031) built part t1_door at position: <6574.666504, 205.361404, 1272.531006>
+0:44:27 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6574.666504, 205.361404, 1272.531006>
+0:45:19 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <6576.915527, 205.395325, 1274.039551>
+0:45:20 | Admin "Alzbob" (steamId=76561198303394031) built part t1_door at position: <6576.915527, 205.395325, 1274.039551>
+0:45:21 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6576.915527, 205.395325, 1274.039551>
+0:45:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:47:38 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:47:49 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+0:49:9 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6096.970215, 205.139999, 1164.060059>)
+0:49:9 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=6096.97,0,1164.06)
+0:49:22 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:49:28 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:49:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6289.223145, 252.506271, 2363.209717>)
+0:50:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6297.594238, 259.496277, 2347.727783>)
+0:50:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:41 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:51 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:50:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:51:5 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:51:5 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:51:58 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+0:53:31 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+0:53:34 | [WeatherManager] Send Data Count is 0
+0:53:40 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+0:53:42 | [Time Manager] Setting Date to 2022/9/23 8:35
+0:54:2 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:54:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:55:41 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:55:49 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+0:56:1 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+0:56:7 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+0:56:13 | Player "nice milk" (steamId=76561198797376439) connected to server!
+0:56:17 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+0:56:19 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+0:56:29 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+0:56:30 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+0:56:43 | Player "nice milk" (steamId=76561198797376439) connected to server!
+0:56:55 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:57:22 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6297.331055, 262.444061, 2345.474121>)
+0:58:10 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<2779.800049, 212.298874, 5768.069824>)
+0:58:10 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=2779.8,0,5768.07)
+0:58:34 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:58:45 | "THE STITTIES" (steamid=76561199206265093) deleted object "BBP_SDoor" (pos=<2748.597412, 211.798340, 5807.867676>)
+0:58:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:59:18 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+0:59:24 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+0:59:30 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<5851.039551, 245.719894, 9153.236328>)
+0:59:31 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<5851.039551, 245.719894, 9153.236328>)
+0:59:31 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+0:59:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "THE STITTIES" (steamid=76561199206265093)
+0:59:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+1:0:19 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <2752.053711, 211.798340, 5807.102051>
+1:0:22 | Admin "THE STITTIES" (steamId=76561199206265093) built part t1_wall_planks at position: <2752.053711, 211.798340, 5807.102051>
+1:0:32 | "BlueHamWallet" (steamid=76561198067006084) deleted object "BBP_Dance_FloorKit" (pos=<5866.378906, 247.518814, 9171.097656>)
+1:1:6 | Player "Sly" (steamId=76561198303394031) connected to server!
+1:1:29 | Player "Sly" (steamId=76561198303394031) connected to server!
+1:2:25 | "Sly" (steamid=76561198303394031) toggled freecam
+1:2:34 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5876.435059, 253.515839, 9172.120117>)
+1:2:37 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5870.740234, 250.549561, 9173.244141>)
+1:2:38 | "Sly" (steamid=76561198303394031) toggled freecam
+1:3:9 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_Mesh_Gate_Kit)
+1:3:28 | "Sly" (steamid=76561198303394031) toggled freecam
+1:3:35 | Admin "BlueHamWallet" (steamId=76561198067006084) built part frame at position: <5860.776367, 253.516434, 9158.000977>
+1:3:40 | Admin "BlueHamWallet" (steamId=76561198067006084) built part t2_metal at position: <5860.776367, 253.516434, 9158.000977>
+1:3:42 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<2744.073486, 210.499573, 5814.198730>)
+1:3:42 | Admin "BlueHamWallet" (steamId=76561198067006084) built part t2_door at position: <5860.776367, 253.516434, 9158.000977>
+1:3:43 | "Sly" (steamid=76561198303394031) toggled freecam
+1:3:57 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:4:0 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:5:11 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:5:11 | "Sly" (steamid=76561198303394031) toggled freecam
+1:5:43 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:6:22 | "Sly" (steamid=76561198303394031) toggled freecam
+1:7:3 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:7:6 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:7:6 | "Sly" (steamid=76561198303394031) /heal used on: "Sly" (steamid=76561198303394031)
+1:7:7 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:7:7 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:7:42 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+1:8:28 | "Sly" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+1:8:32 | "nice milk" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+1:9:3 | "nice milk" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+1:9:51 | "Sly" (steamid=76561198303394031) deleted object "MMG_tt_vest_admin" (pos=<2742.896973, 210.734055, 5809.843750>)
+1:10:15 | "Sly" (steamid=76561198303394031) toggled freecam
+1:10:17 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<2740.894043, 210.834854, 5808.047852>)
+1:11:9 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6118.937988, 215.718857, 1745.019165>)
+1:11:10 | "Sly" (steamid=76561198303394031) toggled freecam
+1:12:36 | "Sly" (steamid=76561198303394031) Spawned Item: (CS_WeaponBag_Black)
+1:12:44 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:12:44 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:12:44 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:13:24 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6124.452637, 217.830795, 1743.881592>
+1:13:32 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6124.452637, 217.830795, 1743.881592>
+1:13:39 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <6124.452637, 217.830795, 1743.881592>
+1:13:48 | Admin "Sly" (steamId=76561198303394031) built part t1_door at position: <6124.452637, 217.830795, 1743.881592>
+1:13:49 | Admin "Sly" (steamId=76561198303394031) built part t2_door at position: <6124.452637, 217.830795, 1743.881592>
+1:14:28 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6054.479980, 210.665680, 2395.540039>)
+1:14:28 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=6054.48,0,2395.54)
+1:14:40 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:14:41 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:14:41 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6067.060059, 210.712830, 2383.540039>)
+1:14:41 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=6067.06,0,2383.54)
+1:14:47 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:14:57 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:15:6 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+1:15:8 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+1:15:24 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:15:31 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+1:15:37 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+1:15:42 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:16:32 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:16:46 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5995.287109, 252.233780, 2229.651611>)
+1:16:48 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:17:17 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+1:17:44 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+1:17:54 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+1:18:53 | "BlueHamWallet" (steamid=76561198067006084) deleted object "ZmbF_MilkMaidOld_Black" (pos=<2738.201172, 210.707321, 5811.997559>)
+1:18:55 | "BlueHamWallet" (steamid=76561198067006084) deleted object "ZmbF_VillagerOld_Red" (pos=<2740.832764, 210.614380, 5813.358887>)
+1:19:27 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:19:27 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:19:31 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:19:31 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:19:31 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:19:32 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:19:49 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6124.698242, 221.330597, 1744.022705>
+1:19:51 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6124.698242, 221.330597, 1744.022705>
+1:20:2 | "BlueHamWallet" (steamid=76561198067006084) deleted object "ZmbF_MilkMaidOld_Black" (pos=<2742.625977, 211.278519, 5799.937012>)
+1:20:4 | "BlueHamWallet" (steamid=76561198067006084) deleted object "ZmbM_Jacket_beige" (pos=<2742.784668, 211.384079, 5797.876465>)
+1:20:5 | "BlueHamWallet" (steamid=76561198067006084) deleted object "ZmbF_MilkMaidOld_Beige" (pos=<2743.258057, 211.483963, 5795.814941>)
+1:20:14 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6124.766113, 224.588287, 1744.212891>
+1:20:18 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6124.766113, 224.588287, 1744.212891>
+1:20:22 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:20:31 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+1:20:31 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+1:20:31 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+1:20:56 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6125.456055, 217.973114, 1743.712158>)
+1:20:56 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6125.434082, 217.973114, 1743.715698>)
+1:20:59 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6125.594238, 217.973114, 1743.697754>)
+1:21:1 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:21:3 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:21:6 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:21:37 | "Sly" (steamid=76561198303394031) toggled freecam
+1:21:43 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6128.293457, 258.963043, 1741.058716>)
+1:21:44 | "Sly" (steamid=76561198303394031) toggled freecam
+1:23:59 | "Sly" (steamid=76561198303394031) toggled freecam
+1:24:12 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:24:31 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) connected to server!
+1:24:36 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:24:42 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) connected to server!
+1:24:59 | "Sly" (steamid=76561198303394031) toggled freecam
+1:25:27 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+1:26:51 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6113.254395, 215.805176, 1744.108887>)
+1:26:51 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<6113.552246, 215.803360, 1744.160156>)
+1:26:51 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagIV)
+1:27:4 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:27:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:27:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:27:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:27:21 | "Sly" (steamid=76561198303394031) toggled freecam
+1:27:29 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6132.018066, 258.963043, 1742.953491>)
+1:27:30 | "Sly" (steamid=76561198303394031) toggled freecam
+1:28:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:28:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:28:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:28:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (BloodBagEmpty)
+1:28:32 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:29:47 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:29:49 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:29:50 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+1:29:56 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:30:25 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6438.200195, 227.000336, 2130.439941>)
+1:30:25 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=6438.2,0,2130.44)
+1:31:20 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=Admin HQ)
+1:31:29 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5852.232910, 256.714142, 9197.342773>)
+1:32:5 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6531.669922, 203.115265, 2529.959961>)
+1:32:5 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=6531.67,0,2529.96)
+1:32:25 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:32:40 | "Sly" (steamid=76561198303394031) toggled freecam
+1:32:48 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+1:32:50 | "Sly" (steamid=76561198303394031) toggled freecam
+1:32:56 | "BlueHamWallet": (steamid=76561198067006084) teleported to (pos=Admin HQ)
+1:33:5 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:38:24 | "Sly" (steamid=76561198303394031) toggled freecam
+1:38:26 | "Sly" (steamid=76561198303394031) toggled freecam
+1:38:44 | "Sly" (steamid=76561198303394031) Spawned Item: (Mosin9130_Clean)
+1:38:50 | "Sly" (steamid=76561198303394031) Spawned Item: (AD_Pilad_MosinMount)
+1:39:55 | "Sly" (steamid=76561198303394031) Spawned Item: (AD_DHF5_MosinMount)
+1:40:37 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (ExpansionRPG7)
+1:40:38 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (ExpansionAmmoRPG)
+1:45:29 | "Sly" (steamid=76561198303394031) toggled freecam
+1:45:36 | "Sly" (steamid=76561198303394031) toggled freecam
+1:46:23 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_AKNightforce)
+1:46:40 | "Sly" (steamid=76561198303394031) Spawned Item: (AD_DHF5)
+1:46:42 | "Sly" (steamid=76561198303394031) Spawned Item: (AD_DHF5_B13)
+1:49:15 | "Sly" (steamid=76561198303394031) toggled freecam
+1:49:29 | "Sly" (steamid=76561198303394031) toggled freecam
+1:49:43 | "Sly" (steamid=76561198303394031) toggled freecam
+1:49:52 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4398.344238, 200.787567, 3165.460205>)
+1:49:53 | "Sly" (steamid=76561198303394031) toggled freecam
+1:50:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (AD_DHF5)
+1:51:22 | "Sly" (steamid=76561198303394031) toggled freecam
+1:51:58 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6128.413086, 258.963043, 1740.742920>)
+1:52:0 | "Sly" (steamid=76561198303394031) toggled freecam
+1:52:37 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6047.390137, 210.631317, 2398.129883>)
+1:52:37 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=6047.39,0,2398.13)
+1:52:40 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:52:42 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:52:44 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:52:50 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6028.000000, 209.760147, 2411.850098>)
+1:52:50 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=6028,0,2411.85)
+1:52:50 | "Sly" (steamid=76561198303394031) toggled freecam
+1:52:51 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6028.879883, 209.122879, 2417.139893>)
+1:52:51 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=6028.88,0,2417.14)
+1:52:56 | "Sly" (steamid=76561198303394031) toggled freecam
+1:53:0 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5947.064453, 252.978897, 2280.389404>)
+1:53:2 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:53:30 | "Sly" (steamid=76561198303394031) toggled freecam
+1:53:49 | "Sly" (steamid=76561198303394031) toggled freecam
+1:54:12 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_338)
+1:54:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_25rdMag)
+1:54:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_25rdMag) on "THE STITTIES" (steamid=76561199206265093)
+1:54:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_25rdMag)
+1:55:25 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:55:26 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:56:16 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (MiniDress_RedChecker)
+1:56:21 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (DressShoes_Black)
+1:56:46 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:56:47 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+1:56:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BandageDressing)
+1:57:44 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Skirt_White)
+1:58:2 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BoonieHat_Black)
+1:58:10 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+1:58:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (M79) on "THE STITTIES" (steamid=76561199206265093)
+1:58:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (M79)
+1:58:26 | "Sly" (steamid=76561198303394031) toggled freecam
+1:58:32 | "Sly" (steamid=76561198303394031) toggled freecam
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+1:58:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+1:58:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green) on "THE STITTIES" (steamid=76561199206265093)
+1:58:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:0:36 | "Sly" (steamid=76561198303394031) toggled freecam
+2:0:40 | "Sly" (steamid=76561198303394031) toggled freecam
+2:2:13 | "Sly" (steamid=76561198303394031) toggled freecam
+2:2:20 | "Sly" (steamid=76561198303394031) toggled freecam
+2:2:36 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:3:14 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:3:18 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:3:30 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:4:14 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6293.209961, 216.672516, 1551.969971>)
+2:4:14 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=6293.21,0,1551.97)
+2:4:22 | "Sly" (steamid=76561198303394031) toggled freecam
+2:4:25 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6409.766113, 266.104767, 1780.501099>)
+2:5:8 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:9 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:9 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:5:19 | "Sly" (steamid=76561198303394031) toggled freecam
+2:5:36 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:44 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6129.723145, 262.198151, 1744.173828>)
+2:5:45 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:46 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:49 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:5:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (MMG_operatorshirt_multicamblack)
+2:6:51 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (MMG_facemask_multicamblack)
+2:7:8 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:7:26 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_Handguard_E4) on "THE STITTIES" (steamid=76561199206265093)
+2:7:26 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_Handguard_E4)
+2:7:26 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (M79)
+2:7:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Handcuffs) on "THE STITTIES" (steamid=76561199206265093)
+2:7:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Handcuffs)
+2:7:42 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6052.707031, 231.996155, 1842.148926>)
+2:7:42 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_ChemGas)
+2:7:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_ChemGas)
+2:7:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_ChemGas)
+2:7:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_ChemGas)
+2:7:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_ChemGas)
+2:7:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:7:45 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:7:45 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:7:45 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:7:46 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6073.736328, 223.537903, 1943.298096>)
+2:7:49 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6096.959473, 227.282471, 1979.115356>)
+2:8:2 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:9:11 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:9:15 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<6128.496094, 262.198151, 1744.566650>)
+2:9:16 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:10:16 | "nice milk": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+2:10:26 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+2:11:44 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+2:12:8 | "Sly" (steamid=76561198303394031) toggled godmode
+2:12:10 | "Sly" (steamid=76561198303394031) toggled freecam
+2:12:17 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+2:12:24 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6128.173340, 258.963043, 1741.746338>)
+2:12:25 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6128.141602, 258.963043, 1740.774902>)
+2:12:26 | "Sly" (steamid=76561198303394031) toggled freecam
+2:12:44 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+2:12:55 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:12:57 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:13:10 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_BosTaurus_Brown)
+2:13:15 | "Sly" (steamid=76561198303394031) toggled freecam
+2:13:27 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4363.909668, 201.043182, 3204.841553>)
+2:13:35 | "Sly" (steamid=76561198303394031) toggled freecam
+2:13:36 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_BosTaurus_Brown)
+2:13:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_BosTaurus_Brown)
+2:13:46 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_BosTaurus_Brown" (pos=<5820.444824, 251.854080, 9245.449219>)
+2:14:17 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_CapraHircus_White)
+2:15:1 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5744.009766, 200.559753, 1060.160034>)
+2:15:1 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=5744.01,0,1060.16)
+2:15:13 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_CapraHircus_White" (pos=<5820.260254, 250.174805, 9252.426758>)
+2:15:23 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_BosTaurus_Brown" (pos=<5814.873535, 250.644974, 9247.976563>)
+2:15:25 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5900.680176, 211.584000, 1623.619995>)
+2:15:25 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=5900.68,0,1623.62)
+2:15:32 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:37 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:37 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:37 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:37 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:37 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:38 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:39 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:39 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:39 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:39 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:15:56 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:16:0 | "nice milk" (steamid=76561198797376439) teleported to crosshair (pos=<5817.027832, 249.889816, 9250.194336>)
+2:16:13 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:16:13 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+2:16:40 | "nice milk" (steamid=76561198797376439) teleported to crosshair (pos=<5819.353027, 250.110413, 9251.034180>)
+2:16:44 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=Admin HQ)
+2:16:51 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:16:52 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+2:16:55 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:17:10 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:12 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (M79)
+2:17:12 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:15 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:17 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:20 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+2:17:24 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:27 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+2:17:32 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+2:17:33 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:17:41 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:17:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Ammo_40mm_Explosive)
+2:17:48 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:17:49 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5765.135254, 245.857971, 9232.896484>)
+2:17:50 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:18:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:18:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:18:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:18:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Ammo_40mm_Smoke_Green)
+2:18:29 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:18:37 | "BlueHamWallet" (steamid=76561198067006084) teleported to crosshair (pos=<5807.164551, 245.857986, 9205.503906>)
+2:18:39 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:18:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:18:45 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:18:45 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:18:48 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:19:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:13 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:19:15 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:19:21 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:24 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:27 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:31 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:33 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5814.181641, 245.914215, 9170.529297>)
+2:19:38 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled godmode
+2:19:49 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5935.838379, 253.826508, 9171.208984>)
+2:19:55 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:19:58 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:0 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:4 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:15 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5805.914551, 245.834213, 9178.197266>)
+2:20:17 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:18 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5828.131836, 245.834213, 9160.359375>)
+2:20:20 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5856.185547, 250.516235, 9161.857422>)
+2:20:21 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:23 | "nice milk" (steamid=76561198797376439) toggled godmode
+2:20:25 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:20:27 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:27 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:27 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:28 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5866.660645, 256.769226, 9166.652344>)
+2:20:29 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:20:32 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5871.895996, 259.665497, 9193.954102>)
+2:20:34 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:20:36 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:37 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:37 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:42 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:42 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:42 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:42 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:42 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5857.962891, 256.786774, 9158.750977>)
+2:20:49 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:20:52 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5821.496582, 264.751740, 9108.274414>)
+2:20:54 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5821.505859, 264.751770, 9108.274414>)
+2:20:55 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:20:55 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:20:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:20:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:4 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5838.386719, 249.919998, 9133.491211>)
+2:21:5 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5836.002930, 249.919998, 9133.953125>)
+2:21:6 | "Sly" (steamid=76561198303394031) toggled freecam
+2:21:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:7 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:9 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5846.633789, 245.759918, 9152.161133>)
+2:21:11 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5845.976563, 245.759918, 9153.496094>)
+2:21:13 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:21:13 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5830.409668, 247.785538, 9146.182617>)
+2:21:16 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5854.599609, 256.747559, 9159.598633>)
+2:21:19 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5827.871582, 245.914215, 9157.301758>)
+2:21:20 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:21:20 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5822.523438, 245.914215, 9163.425781>)
+2:21:22 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5817.610352, 245.914215, 9164.951172>)
+2:21:27 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:21:34 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5818.588379, 252.311432, 9151.990234>)
+2:21:35 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:21:37 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5837.654297, 245.834213, 9152.272461>)
+2:21:37 | "Sly" (steamid=76561198303394031) toggled freecam
+2:21:59 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:22:5 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:22:5 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:22:17 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:18 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5848.003418, 247.117874, 9168.892578>)
+2:22:19 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5852.515137, 245.834213, 9181.002930>)
+2:22:20 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5840.336426, 245.834213, 9190.501953>)
+2:22:21 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5817.295898, 246.213531, 9210.953125>)
+2:22:23 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:28 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5788.075195, 246.291275, 9225.870117>)
+2:22:29 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5782.127441, 245.719925, 9252.782227>)
+2:22:31 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5747.324707, 246.203384, 9255.314453>)
+2:22:31 | "Sly" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+2:22:31 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:32 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:22:44 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5850.524902, 245.834213, 9178.142578>)
+2:22:45 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5822.234375, 245.858002, 9205.756836>)
+2:22:47 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:48 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5795.780762, 245.342697, 9185.776367>)
+2:22:48 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5809.282227, 245.901001, 9165.950195>)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5804.935059, 245.834213, 9177.725586>)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5762.058594, 245.875336, 9195.619141>)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Animal_OvisAries)
+2:22:57 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+2:22:59 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561199206265093)
+2:23:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198303394031)
+2:23:8 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198797376439)
+2:23:12 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+2:23:18 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled godmode
+2:23:20 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:23:28 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:31 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198797376439)
+2:23:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198797376439)
+2:23:37 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198303394031)
+2:23:39 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198303394031)
+2:23:41 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:41 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+2:23:43 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+2:23:44 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:47 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561199206265093)
+2:23:49 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:50 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+2:23:51 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5818.552246, 245.834213, 9160.696289>)
+2:23:52 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5808.346191, 245.834213, 9170.621094>)
+2:23:53 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:53 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:53 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:53 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:23:55 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (Animal_UrsusArctos)
+2:24:3 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:24:4 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled godmode
+2:24:5 | "BlueHamWallet" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+2:24:6 | "BlueHamWallet" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+2:24:7 | "BlueHamWallet" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+2:24:8 | "BlueHamWallet" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+2:24:9 | "BlueHamWallet" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+2:24:11 | "BlueHamWallet" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+2:24:15 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5790.863281, 245.719910, 9172.384766>)
+2:24:16 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5777.906738, 245.839859, 9186.515625>)
+2:24:18 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5758.472656, 245.829880, 9205.179688>)
+2:24:19 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5735.309082, 247.110153, 9232.639648>)
+2:24:21 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5724.154785, 244.968704, 9255.336914>)
+2:24:22 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5753.763184, 241.329758, 9291.955078>)
+2:24:27 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5837.861816, 245.916473, 9158.081055>)
+2:24:29 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5836.976074, 245.876465, 9161.307617>)
+2:24:30 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5841.167969, 245.876480, 9163.872070>)
+2:24:32 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5839.275391, 245.916473, 9164.399414>)
+2:24:35 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5865.219238, 245.759933, 9133.369141>)
+2:24:37 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5838.852539, 245.876480, 9163.421875>)
+2:24:39 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5835.309570, 245.914215, 9157.352539>)
+2:24:41 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5837.186523, 245.914215, 9156.853516>)
+2:24:42 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:24:44 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.864258, 246.107880, 9153.902344>)
+2:24:45 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5839.477051, 245.914215, 9155.121094>)
+2:24:47 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.653320, 246.253708, 9153.744141>)
+2:24:49 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.707031, 246.215607, 9153.785156>)
+2:24:50 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.743652, 246.190979, 9153.811523>)
+2:24:52 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:24:54 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.773438, 246.170212, 9153.834961>)
+2:24:55 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.149414, 245.912445, 9154.115234>)
+2:24:57 | "THE STITTIES" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:24:57 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.774414, 246.168854, 9153.835938>)
+2:25:0 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5838.492188, 245.914200, 9149.992188>)
+2:25:2 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5835.085449, 245.914215, 9151.103516>)
+2:25:4 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5834.562012, 245.914215, 9149.615234>)
+2:25:5 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5833.801758, 245.954224, 9148.675781>)
+2:25:7 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5834.703613, 245.914215, 9148.030273>)
+2:25:9 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5832.383789, 245.914215, 9151.837891>)
+2:25:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:25:11 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5828.800293, 251.544022, 9150.000977>)
+2:25:13 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5844.994629, 245.876480, 9164.483398>)
+2:25:16 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.217773, 245.914200, 9154.233398>)
+2:25:18 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.843750, 246.121918, 9153.887695>)
+2:25:19 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:20 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:21 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60)
+2:25:23 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:23 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:25:24 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:25 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:27 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:28 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:29 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_100rdMag)
+2:25:30 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:25:30 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.810547, 246.144211, 9153.862305>)
+2:25:32 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.263184, 245.834213, 9154.202148>)
+2:25:34 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5841.290039, 245.874207, 9154.207031>)
+2:25:37 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.823242, 246.135498, 9153.872070>)
+2:25:38 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.835449, 246.127060, 9153.881836>)
+2:25:40 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.825684, 246.134293, 9153.874023>)
+2:25:41 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_OvisAries" (pos=<5840.810547, 246.144623, 9153.862305>)
+2:25:43 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5834.574219, 245.914215, 9150.499023>)
+2:25:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:25:45 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:25:48 | "nice milk" (steamid=76561198797376439) /heal used on: "nice milk" (steamid=76561198797376439)
+2:25:50 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5811.618164, 245.857956, 9202.755859>)
+2:25:51 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:25:56 | "Sly" (steamid=76561198303394031) toggled freecam
+2:25:58 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:26:8 | "Sly" (steamid=76561198303394031) toggled freecam
+2:26:10 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:20 | "Sly" (steamid=76561198303394031) toggled freecam
+2:26:22 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5867.099121, 245.720047, 9122.800781>)
+2:26:22 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:23 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5856.204590, 248.982162, 9118.608398>)
+2:26:29 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:31 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:33 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:26:34 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:35 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5837.633301, 245.836472, 9159.197266>)
+2:26:36 | "Sly" (steamid=76561198303394031) toggled freecam
+2:26:48 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:26:50 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5808.543945, 245.914215, 9169.551758>)
+2:26:52 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Animal_UrsusArctos" (pos=<5803.453613, 245.914215, 9172.919922>)
+2:26:54 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:27:1 | "Sly" (steamid=76561198303394031) toggled freecam
+2:27:6 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+2:27:8 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:27:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_Handguard_E3)
+2:27:16 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_Handguard_E4)
+2:27:23 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:27:31 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted objects using ESP
+2:27:32 | "Sly" (steamid=76561198303394031) toggled godmode
+2:27:34 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5216.270996, 342.022217, 9887.348633>)
+2:27:36 | "Sly" (steamid=76561198303394031) toggled freecam
+2:27:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M60_ScopeMount)
+2:27:55 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+2:28:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+2:28:6 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+2:28:13 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:28:14 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:28:14 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:28:15 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:28:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:28:19 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:20 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:21 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:22 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:26 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+2:28:26 | "Sly" (steamid=76561198303394031) deleted object "BBP_Cement_Mixer_Static" (pos=<5216.392578, 340.970093, 9886.897461>)
+2:28:29 | "Sly" (steamid=76561198303394031) toggled freecam
+2:28:40 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:40 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:41 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:41 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:41 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198303394031)
+2:28:56 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5828.851563, 256.342224, 9243.323242>)
+2:28:57 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:29:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5813.588867, 246.923935, 9246.824219>)
+2:29:11 | "Sly" (steamid=76561198303394031) toggled freecam
+2:29:19 | "Sly" (steamid=76561198303394031) toggled freecam
+2:31:15 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (AirdropFlare)
+2:32:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (TF_HAMROptic_Black)
+2:33:22 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (TF_HAMROptic_Black)
+2:34:26 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5867.668945, 261.335297, 9194.271484>)
+2:34:29 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:34:33 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5878.455078, 261.368988, 9203.263672>)
+2:34:34 | "Sly" (steamid=76561198303394031) toggled freecam
+2:34:36 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5873.495605, 261.368988, 9197.655273>)
+2:34:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:34:42 | "nice milk" (steamid=76561198797376439) teleported to crosshair (pos=<5867.668945, 261.335297, 9194.271484>)
+2:34:44 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5879.657227, 261.334869, 9193.750000>)
+2:34:46 | "Sly" (steamid=76561198303394031) toggled freecam
+2:34:48 | "Sly" (steamid=76561198303394031) toggled freecam
+2:34:48 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:34:53 | "nice milk" (steamid=76561198797376439) teleported to crosshair (pos=<5879.083984, 261.368988, 9202.763672>)
+2:34:54 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:34:59 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:35:2 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5879.914551, 262.897186, 9194.493164>)
+2:35:3 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5879.657227, 264.334869, 9193.750000>)
+2:35:5 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<5879.657227, 264.334869, 9193.750000>)
+2:35:6 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5879.611816, 265.531799, 9193.623047>)
+2:35:7 | "Sly" (steamid=76561198303394031) toggled freecam
+2:35:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:35:9 | "THE STITTIES" (steamid=76561199206265093) toggled godmode
+2:35:17 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:35:18 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:35:23 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5880.620605, 247.862076, 9194.697266>)
+2:35:26 | "Sly" (steamid=76561198303394031) toggled freecam
+2:35:42 | "nice milk" (steamid=76561198797376439) teleported to crosshair (pos=<5881.366699, 245.729309, 9184.328125>)
+2:35:43 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5878.370605, 248.487534, 9193.787109>)
+2:35:43 | "nice milk" (steamid=76561198797376439) toggled freecam
+2:35:44 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:35:52 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5876.692871, 247.625275, 9193.757813>)
+2:36:2 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5881.062988, 248.212311, 9192.076172>)
+2:36:4 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5881.250000, 250.011200, 9190.509766>)
+2:36:4 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5915.813965, 247.102585, 9235.826172>)
+2:36:7 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:36:28 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:37:9 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4363.830078, 200.882294, 3152.879883>)
+2:37:9 | "nice milk": (steamid=76561198797376439) teleported to (pos=4363.83,0,3152.88)
+2:38:2 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:38:29 | "Sly" (steamid=76561198303394031) toggled freecam
+2:38:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:38:53 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5992.781738, 226.832932, 1603.479126>)
+2:39:12 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:39:18 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5763.314453, 249.389633, 9245.887695>)
+2:39:21 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5763.314453, 249.389633, 9245.887695>)
+2:39:22 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+2:39:32 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5969.290039, 213.840012, 1615.869995>)
+2:39:32 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=5969.29,0,1615.87)
+2:39:49 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) disconnected from server.
+2:39:57 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6133.808105, 251.973053, 1747.765015>)
+2:39:59 | "Sly" (steamid=76561198303394031) toggled freecam
+2:40:15 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) connected to server!
+2:40:26 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) connected to server!
+2:40:41 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:40:46 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AKTrijicon)
+2:40:47 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+2:40:48 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+2:41:2 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:41:8 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6129.868652, 258.963043, 1748.698853>
+2:41:10 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6129.868652, 258.963043, 1748.698853>
+2:41:12 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:41:13 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Snafu_PKP_250RND_Mag)
+2:41:39 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:41:46 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SG550_Mag)
+2:41:46 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) Spawned Item: (SpookyArea)
+2:42:10 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6183.651367, 232.593918, 1701.140991>)
+2:42:14 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:42:15 | "Sly" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<6129.868652, 258.963043, 1748.698853>)
+2:42:24 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+2:42:49 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:42:50 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_50bmg_Suppressor_B)
+2:42:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_50bmg_Suppressor_B)
+2:42:52 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_50bmg_Suppressor_B)
+2:43:13 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6059.190430, 231.915161, 1739.649414>)
+2:43:15 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:43:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:43:49 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6130.187012, 258.744812, 1748.633423>
+2:43:51 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6130.187012, 258.744812, 1748.633423>
+2:43:53 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6130.433594, 258.963013, 1751.517334>
+2:43:56 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6130.433594, 258.963013, 1751.517334>
+2:43:58 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6133.065918, 258.963013, 1748.381714>
+2:44:0 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6133.065918, 258.963013, 1748.381714>
+2:44:5 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6129.935059, 258.963043, 1745.754395>
+2:44:7 | Admin "Sly" (steamId=76561198303394031) built part t1_door at position: <6129.935059, 258.963043, 1745.754395>
+2:44:9 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6129.935059, 258.963043, 1745.754395>
+2:44:11 | Admin "Sly" (steamId=76561198303394031) built part t2_door at position: <6129.935059, 258.963043, 1745.754395>
+2:44:12 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <6129.935059, 258.963043, 1745.754395>
+2:44:13 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:44:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_UBR_Stock)
+2:44:22 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6084.418945, 228.558380, 1714.749756>)
+2:44:23 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:44:39 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:44:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AFG_02_Black)
+2:44:59 | "Sly" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<6129.935059, 258.963043, 1745.754395>)
+2:45:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_PDW_45ACP_Mag)
+2:45:19 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6186.034668, 229.194016, 1706.431885>)
+2:45:20 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6129.930176, 258.963013, 1745.749268>
+2:45:20 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:45:21 | Admin "Sly" (steamId=76561198303394031) built part t1_door at position: <6129.930176, 258.963013, 1745.749268>
+2:45:23 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6129.930176, 258.963013, 1745.749268>
+2:45:26 | Admin "Sly" (steamId=76561198303394031) built part t2_door at position: <6129.930176, 258.963013, 1745.749268>
+2:45:27 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <6129.930176, 258.963013, 1745.749268>
+2:45:36 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:45:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:45:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:45:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:45:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:45:50 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+2:45:52 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6187.030273, 222.393997, 1706.115601>)
+2:45:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:45:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+2:45:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+2:45:56 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6127.297852, 258.963013, 1748.884888>
+2:45:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+2:45:57 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+2:46:1 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+2:46:1 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+2:46:1 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+2:46:8 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:46:10 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+2:46:22 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <6130.182617, 261.963013, 1748.638306>
+2:46:41 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <6130.182617, 261.963013, 1748.638306>
+2:46:45 | Admin "Sly" (steamId=76561198303394031) built part t1_door at position: <6127.297852, 258.963013, 1748.884888>
+2:46:54 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6061.105957, 225.115204, 1729.251343>)
+2:46:56 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:47:0 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <6127.297852, 258.963013, 1748.884888>
+2:47:6 | "nice milk": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+2:47:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:18 | "Sly" (steamid=76561198303394031) toggled freecam
+2:47:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+2:47:23 | "Sly" (steamid=76561198303394031) toggled freecam
+2:47:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:47:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:47:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:47:33 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:47:40 | "Sly" (steamid=76561198303394031) toggled freecam
+2:47:46 | "Sly" (steamid=76561198303394031) toggled freecam
+2:48:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUGM6Lynx_5rdMag)
+2:48:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUGM6Lynx_5rdMag)
+2:48:57 | "Sly" (steamid=76561198303394031) toggled freecam
+2:49:1 | Player "nice milk" (steamId=76561198797376439) disconnected from server.
+2:49:6 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:49:20 | "Sly" (steamid=76561198303394031) toggled freecam
+2:50:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Mag_CMAG_40Rnd_Black)
+2:51:29 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:51:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:51:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:51:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:51:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+2:51:37 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Ammo_338)
+2:51:39 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:51:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Ammo_338)
+2:51:55 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) teleported to crosshair (pos=<6078.331543, 232.537903, 1830.152344>)
+2:51:57 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:53:4 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:53:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+2:53:23 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) toggled freecam
+2:54:1 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+2:54:6 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+2:54:9 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+2:54:10 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:54:10 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:54:16 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+2:54:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+2:54:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+2:54:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+2:54:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+2:54:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_FGKAC_Grip)
+2:54:33 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+2:54:35 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+2:54:44 | "xXxPorkxXxSodaxXx": (steamid=76561198095923512) teleported to (pos=Admin HQ)
+2:55:6 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+2:55:13 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+2:55:15 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+2:55:16 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+2:55:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUSten_32rdMag)
+2:56:35 | "xXxPorkxXxSodaxXx" (steamid=76561198095923512) deleted object "M4A1_Red" (pos=<5813.553711, 246.537750, 9158.853516>)
+2:56:47 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUTac21_5rdMag)
+2:56:47 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUTac21_5rdMag)
+2:56:47 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUTac21_5rdMag)
+2:56:49 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) disconnected from server.
+2:56:50 | Player "xXxPorkxXxSodaxXx" (steamId=76561198095923512) disconnected from server.
+2:58:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GCGN_HK416_Mag)
+2:59:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AWM_Mag)
+2:59:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AWM_Mag)
+2:59:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AWM_Mag)
+3:0:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GCGN_M82_Mag)
+3:0:7 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GCGN_M82_Mag)
+3:0:7 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (GCGN_M82_Mag)
+3:0:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M200B_BK)
+3:1:0 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:1:0 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:1:1 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:1:1 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:1:1 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:2:48 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Mar10_15rnd_Mag)
+3:2:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Mar10_15rnd_Mag)
+3:4:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+3:4:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+3:4:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+3:4:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+3:4:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFUKivaari_338_Supp)
+3:4:30 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+3:4:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+3:4:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+3:4:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+3:4:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+3:7:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_SBA_Stock)
+3:7:38 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+3:8:10 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:8:12 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:8:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AFG_02_Tan)
+3:9:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+3:9:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+3:9:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Trijicon_Docter)
+3:9:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:9:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:9:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:9:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:9:42 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (AD_DHF5)
+3:11:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M300Mag)
+3:11:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M300Mag)
+3:11:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_M300Mag)
+3:12:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_LStandardized_Suppressor_Black)
+3:12:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_LStandardized_Suppressor_Black)
+3:12:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_LStandardized_Suppressor_Black)
+3:12:18 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_LStandardized_Suppressor_Black)
+3:12:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_LStandardized_Suppressor_Black)
+3:12:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_50bmg_Suppressor_M)
+3:12:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_AFG_02_OD)
+3:14:0 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+3:18:40 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+3:18:55 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+3:20:20 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+3:20:21 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.

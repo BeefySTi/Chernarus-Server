@@ -1,0 +1,191 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-21_0-31-28
+====================================================================================
+0:31:28 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:31:28 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:31:28 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:31:28 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:31:28 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:31:28 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:31:28 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:31:28 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:31:28 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:31:28 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:31:28 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:31:28 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:31:28 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:31:28 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:31:28 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:31:28 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:31:28 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:31:28 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:31:28 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:31:28 | [PermissionManager] Loaded UserGroups.json
+0:31:28 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:31:28 | Building Sets Loaded: 0
+0:31:28 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:31:28 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:31:28 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:31:28 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:31:28 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+1:24:50 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+1:25:3 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+1:26:32 | "THE STITTIES" (steamid=76561199206265093) deleted objects using ESP
+1:27:38 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+1:37:53 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:38:14 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:41:11 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:41:30 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5803.900391, 245.719894, 9169.308594>)
+1:41:46 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:41:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5821.551758, 246.515244, 9144.649414>)
+1:41:55 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:42:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BeachChair_Kit)
+1:42:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BeachChair_Kit)
+1:42:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BeachChair_Kit)
+1:42:39 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+1:44:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BeachUmbrella)
+1:44:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_KiddiePool_Kit)
+1:45:39 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5821.501465, 246.515244, 9144.630859>)
+1:46:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_Basket_Rectangular)
+1:46:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_Basket_Wicker)
+1:46:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_CoolerBox)
+1:48:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:48:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SodaCan_Kvass)
+1:51:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFUMarlin1895)
+1:51:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_NBlack_GUN)
+1:52:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_250RND_Mag)
+1:52:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_250RND_Mag)
+1:52:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_250RND_Mag)
+1:52:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_250RND_Mag)
+1:52:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Snafu_PKP_250RND_Mag)
+1:53:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_AK_Mount_Base)
+1:53:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_B13Mount)
+1:54:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_NFATACR_1_8_MosinMount)
+1:55:18 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_NFATACR_1_8_B13)
+1:57:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+1:57:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+1:57:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+1:57:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+1:57:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Ammo_762x54)
+1:58:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_Ammo_45_70mm)
+1:59:18 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_NFATACR_1_8)
+1:59:18 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_NFATACR_1_8)
+1:59:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFUKivaari_338_Supp)
+1:59:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+2:3:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_ACOG_RMR_B13)
+2:5:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ZmbF_ParamedicNormal_Red)
+2:5:42 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+2:40:41 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+2:41:6 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:41:18 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:48:50 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+2:48:52 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+3:23:11 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+3:23:25 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+4:9:8 | Player "NewAgeMerlin" (steamId=76561198331516052) disconnected from server.
+4:9:25 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+4:9:34 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+4:26:8 | Player "NewAgeMerlin" (steamId=76561198331516052) disconnected from server.
+4:26:23 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+4:26:32 | Player "NewAgeMerlin" (steamId=76561198331516052) connected to server!
+4:30:10 | Player "NewAgeMerlin" (steamId=76561198331516052) disconnected from server.

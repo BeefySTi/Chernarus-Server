@@ -1,0 +1,184 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-18_23-1-20
+====================================================================================
+23:1:20 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:1:20 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:1:20 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:1:20 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:1:20 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:1:20 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:1:20 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:1:20 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:1:20 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:1:20 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:1:20 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:1:20 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:1:20 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:1:20 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:1:20 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:1:20 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:1:20 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:1:20 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:1:20 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:1:20 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:1:20 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:1:20 | [PermissionManager] Loaded UserGroups.json
+23:1:20 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:1:20 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:1:20 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:1:20 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:1:20 | Building Sets Loaded: 0
+23:3:17 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+23:3:17 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:3:23 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:3:25 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:3:29 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:3:42 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+23:3:43 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:4:2 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Admin Clothes has no parrent!
+23:4:2 | "JakusMallius" (steamid=76561198067006084) spawned preset: (Admin Clothes)
+23:4:43 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+23:4:49 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+23:7:24 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:7:29 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:8:37 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_bagazhnik" (pos=<5802.597656, 246.448013, 9176.359375>)
+23:8:42 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_1" (pos=<5800.917969, 245.953491, 9179.087891>)
+23:8:45 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_2" (pos=<5800.917969, 245.943085, 9179.087891>)
+23:9:12 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+23:9:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CrSk_Land_Rover_Defender_110_Green)
+23:10:9 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_2" (pos=<5803.366699, 245.933182, 9175.569336>)
+23:10:10 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_2_1" (pos=<5803.396973, 245.922791, 9175.629883>)
+23:10:14 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_kapot" (pos=<5800.978027, 245.913925, 9177.809570>)
+23:10:18 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_1" (pos=<5799.036621, 245.953491, 9175.283203>)
+23:10:20 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_dver_1_2" (pos=<5799.037598, 245.943085, 9175.083984>)
+23:10:26 | "BeefySTi" (steamid=76561198095923512) deleted object "Defender110_bagazhnik" (pos=<5801.367188, 246.333710, 9170.088867>)
+23:10:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_1_Green)
+23:10:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_1_Green)
+23:10:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_1_2_Green)
+23:10:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_dver_2_2_Green)
+23:10:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_kapot_Green)
+23:10:50 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_bagazhnik_Green)
+23:11:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Defender110_koleso)
+23:11:11 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:12 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:17 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:11:47 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:11:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+23:11:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+23:11:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Barrel_Green)
+23:12:0 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SeaChest)
+23:12:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenCrate)
+23:12:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CanisterGasoline)
+23:12:23 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:12:38 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+23:12:54 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Trader)
+23:13:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CamoNet)
+23:13:53 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Trader)
+23:15:4 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4388.981445, 212.069275, 3209.186035>)
+23:15:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4386.652832, 211.891983, 3208.914307>)
+23:15:22 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_tt_vest_admin" (pos=<4382.126953, 212.257904, 3207.676270>)
+23:15:24 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_combatpants_admin" (pos=<4382.126953, 212.250153, 3207.676270>)
+23:15:26 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_combatshirt_admin" (pos=<4382.126953, 212.250153, 3207.676270>)
+23:15:28 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_balaclava_admin" (pos=<4382.126953, 212.328644, 3207.676270>)
+23:15:52 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_striker_helmet_admin" (pos=<4382.126953, 212.310089, 3207.676270>)
+23:16:3 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_JPC_Vest_Black)
+23:16:28 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_carrier_backpack_black)
+23:16:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_falcon_b1_belt_black)
+23:16:49 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_striker_helmet_black)
+23:17:4 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_Holster_black)
+23:17:7 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_sheath_black)
+23:17:11 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_bottle_black)
+23:17:18 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_operatorshirt_black)
+23:17:28 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (mmg_tactical_pants_black)
+23:17:42 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:17:43 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:18:10 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_balaclava_black)
+23:18:25 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_facemask_black)
+23:18:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Black_CamoNetPoncho)
+23:18:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Money_Dollar100)
+23:18:54 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+23:18:55 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+23:19:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_falcon_b1_belt_multicamblack)

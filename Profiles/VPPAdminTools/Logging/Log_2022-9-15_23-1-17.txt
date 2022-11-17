@@ -1,0 +1,293 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-15_23-1-17
+====================================================================================
+23:1:17 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:1:17 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:1:17 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:1:17 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:1:17 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:1:17 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:1:17 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:1:17 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:1:17 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:1:17 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:1:17 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:1:17 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:1:17 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:1:17 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:1:17 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:1:17 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:1:17 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:1:17 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:1:17 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:1:17 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:1:17 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:1:17 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:1:17 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:1:17 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:1:17 | [PermissionManager] Loaded UserGroups.json
+23:1:17 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:1:17 | Building Sets Loaded: 0
+23:2:30 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+23:2:35 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+23:2:40 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+23:2:40 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+23:2:59 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+23:3:3 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+23:3:6 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:3:16 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:5:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_falcon_b1_belt_erdl) on "BritishLion192" (steamid=76561199206265093)
+23:5:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_falcon_b1_belt_erdl)
+23:6:0 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_sheath_erdl) on "BritishLion192" (steamid=76561199206265093)
+23:6:0 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_sheath_erdl)
+23:6:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife) on "BritishLion192" (steamid=76561199206265093)
+23:6:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife)
+23:6:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife) on "BritishLion192" (steamid=76561199206265093)
+23:6:41 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife)
+23:6:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife) on "BritishLion192" (steamid=76561199206265093)
+23:6:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (HuntingKnife)
+23:8:41 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:9:31 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:9:47 | "Alzbob" (steamid=76561198303394031) toggled godmode
+23:10:5 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_Nightforce)
+23:10:26 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+23:10:26 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+23:10:28 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+23:10:44 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7664.520020, 71.870003, 8750.530273>)
+23:10:44 | "Alzbob": (steamid=76561198303394031) teleported to (pos=7664.52,0,8750.53)
+23:11:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:11:26 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7659.137695, 83.952812, 8758.391602>)
+23:11:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:16:13 | "Alzbob" (steamid=76561198303394031) toggled godmode
+23:16:14 | "Alzbob" (steamid=76561198303394031) toggled godmode
+23:18:25 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:18:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8163.500977, 2.748971, 8576.169922>)
+23:18:33 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:18:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:19:9 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Shovel)
+23:19:17 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Concrete_Brick_Pile)
+23:19:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mortar_Mix)
+23:19:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mortar_Mix)
+23:19:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mortar_Mix)
+23:19:59 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <8172.434570, 2.744466, 8578.590820>
+23:21:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_multicamblack) on "BritishLion192" (steamid=76561199206265093)
+23:21:8 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_multicamblack)
+23:21:12 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_ammo_pouch_multicamblack) on "BritishLion192" (steamid=76561199206265093)
+23:21:12 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_ammo_pouch_multicamblack)
+23:21:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8171.759766, 4.545866, 8578.733398>)
+23:21:28 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<8172.434570, 2.744466, 8578.590820>)
+23:21:32 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:37 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7678.492188, 83.963470, 8754.401367>)
+23:21:38 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:40 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:41 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_multicamblack) on "BritishLion192" (steamid=76561199206265093)
+23:21:42 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_multicamblack)
+23:21:43 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:46 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:21:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_tactical_pouch_multicamblack) on "BritishLion192" (steamid=76561199206265093)
+23:21:51 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (MMG_tactical_pouch_multicamblack)
+23:25:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7679.395996, 71.991371, 8765.540039>)
+23:26:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TetracyclineAntibiotics)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+23:28:52 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+23:28:53 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "BritishLion192" (steamid=76561199206265093)
+23:28:53 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+23:30:14 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6792.044922, 34.169708, 11302.427734>
+23:30:18 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6792.044922, 34.169708, 11302.427734>
+23:30:22 | Admin "BritishLion192" (steamId=76561199206265093) built part t3_door at position: <6792.044922, 34.169708, 11302.427734>
+23:30:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+23:30:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+23:30:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock) on "BritishLion192" (steamid=76561199206265093)
+23:30:29 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+23:32:31 | "Dunn it 69" (steamid=76561198797376439) Spawned Item: (BBP_Wood_Storage)
+23:32:31 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+23:32:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:32:54 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUM96_5rdMag) on "BritishLion192" (steamid=76561199206265093)
+23:32:54 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUM96_5rdMag)
+23:32:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6869.520996, 58.321686, 11299.133789>)
+23:33:4 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:33:27 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+23:33:34 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:33:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6797.432617, 30.577084, 11306.822266>)
+23:33:43 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:33:43 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+23:33:53 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+23:35:24 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:35:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:36:29 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+23:36:30 | "BritishLion192" (steamid=76561199206265093) deleted objects using ESP
+23:36:55 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+23:37:45 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6784.149414, 27.183575, 11305.310547>
+23:37:48 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6784.149414, 27.183575, 11305.310547>
+23:38:10 | "BritishLion192" (steamid=76561199206265093) deleted objects using ESP
+23:38:15 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+23:38:36 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6784.108887, 27.183594, 11305.363281>
+23:38:38 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6784.108887, 27.183594, 11305.363281>
+23:39:30 | "BritishLion192" (steamid=76561199206265093) toggled godmode
+23:39:32 | "BritishLion192" (steamid=76561199206265093) toggled godmode
+23:39:43 | "BritishLion192" (steamid=76561199206265093) deleted objects using ESP
+23:39:48 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+23:41:27 | Admin "BritishLion192" (steamId=76561199206265093) built part frame at position: <6794.740234, 27.178402, 11295.812500>
+23:41:29 | Admin "BritishLion192" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6794.740234, 27.178402, 11295.812500>
+23:43:26 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Msp_MoskvaFridge_Cream_Kit)
+23:43:50 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+23:45:48 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<6796.792480, 28.437502, 11300.308594>)
+23:47:22 | "Dunn it 69" (steamid=76561198797376439) Spawned Item: (Msp_ToolsBench_Grey_Kit)
+23:50:5 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+23:50:7 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+23:50:24 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+23:50:33 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+23:52:49 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+23:52:50 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+0:0:52 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+0:1:31 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:1:45 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:4:39 | "Dunn it 69" (steamid=76561198797376439) /heal used on: "Dunn it 69" (steamid=76561198797376439)
+0:5:2 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:5:31 | Player "Dunn it 69" (steamId=76561198797376439) disconnected from server.
+0:5:54 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+0:6:7 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:6:12 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6790.211914, 14.977887, 11263.396484>)
+0:6:13 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:7:32 | "Alzbob" (steamid=76561198303394031) toggled godmode
+0:8:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:8:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6280.940430, 11.409539, 9979.420898>)
+0:8:50 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:9:3 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+0:9:6 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+0:52:35 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+1:33:3 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:33:17 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:2:11 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:2:20 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:3:9 | "BritishLion192" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+2:24:34 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+2:28:24 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11894.753906>)
+2:28:32 | "BritishLion192" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+2:30:55 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11901.154297>)
+2:31:58 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11906.487305>)
+2:32:26 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<3991.315186, 0.000000, 7625.094727>)
+2:32:41 | Player "BritishLion192" (steamId=76561199206265093) disconnected from server.
+2:33:7 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:33:11 | Player "BritishLion192" (steamId=76561199206265093) connected to server!
+2:36:55 | "BritishLion192" (steamid=76561199206265093) teleported to crosshair (pos=<4985.646484, 27.114096, 6611.526855>)
+2:38:9 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:38:23 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:38:32 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11899.020508>)
+2:41:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:35 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:35 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:45 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:47 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:41:47 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+2:44:33 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<6708.160156, 15.335849, 11495.799805>)
+2:44:33 | "BritishLion192" (steamid=76561199206265093) Teleporting player: "BritishLion192" (steamid=76561199206265093) to (pos=<6708.158203, 0.000000, 11495.760742>)
+2:51:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12)
+2:51:46 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12)
+2:52:31 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12)
+2:52:32 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12_20rdMag)
+2:52:33 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12_20rdMag)
+2:52:33 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12_20rdMag)
+2:52:33 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUASh12_20rdMag)
+2:56:26 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUAlligator_5rdMag)
+2:56:27 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (SNAFUAlligator_5rdMag)
+2:57:47 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+2:57:47 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+2:57:47 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (ExpansionAmmoRPG)
+2:58:46 | Player "Mr_Walker" (steamId=76561198875405471) connected to server!
+2:59:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:59:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:59:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:59:34 | "BritishLion192" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:59:35 | Player "Mr_Walker" (steamId=76561198875405471) connected to server!

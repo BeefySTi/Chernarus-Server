@@ -1,0 +1,476 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-8-27_19-59-0
+====================================================================================
+19:59:0 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:59:0 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:59:0 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:59:0 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:59:0 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:59:0 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:59:0 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:59:0 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:59:0 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:59:0 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:59:0 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:59:0 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:59:0 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:59:0 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:59:0 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:59:0 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:59:0 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:59:0 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:59:0 | [PermissionManager] Adding Super Admin (76561198095923512)
+19:59:0 | [PermissionManager] Loaded UserGroups.json
+19:59:0 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:59:0 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:59:0 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:59:0 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:59:0 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:59:0 | Building Sets Loaded: 0
+19:59:0 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:0:19 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:0:29 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:1:34 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+20:2:6 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+20:2:7 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+20:18:46 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:20:1 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:29:16 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+20:29:25 | "Magick": (steamid=76561198797376439) teleported to (pos=BMT)
+20:29:43 | "Magick" (steamid=76561198797376439) deleted object "ExpansionSafeLarge" (pos=<1955.866943, 3.477364, 6013.857910>)
+20:35:26 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+20:50:58 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:51:10 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:51:45 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+20:51:47 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+20:52:36 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<8244.790039, 15.000000, 10740.799805>)
+20:52:36 | "Magick": (steamid=76561198797376439) teleported to (pos=8244.79,0,10740.8)
+20:53:21 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<8182.708984, 15.179999, 10852.714844>)
+20:56:0 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+20:56:26 | "Magick": (steamid=76561198797376439) teleported to (pos=Norinsk)
+20:59:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3882.793457, 61.054440, 7468.486328>)
+21:2:12 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+21:2:18 | Player "Magick" (steamId=76561198797376439) re-connected to server [canceledLogout]
+21:4:40 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:4:54 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:5:48 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:5:49 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:6:32 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<1891.290039, 2.000000, 7051.359863>)
+21:6:32 | "Alzbob": (steamid=76561198303394031) teleported to (pos=1891.29,0,7051.36)
+21:6:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<1935.885132, 69.791161, 5944.047363>)
+21:6:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<1935.502197, 1.999989, 6031.466309>)
+21:9:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<4837.638184, 909.771423, 7688.548340>)
+21:9:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5664.959961, 835.121033, 8412.202148>)
+21:9:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6683.292969, 812.473694, 8828.906250>)
+21:9:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7500.417969, 641.688721, 9556.077148>)
+21:9:45 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8287.769531, 163.834534, 10222.916992>)
+21:9:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8708.543945, 31.904230, 10647.248047>)
+21:9:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8606.839844, 14.719977, 10557.646484>)
+21:10:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8604.267578, 15.508335, 10533.613281>)
+21:11:0 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4268.364746, 110.782082, 8024.236816>)
+21:11:24 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:17:23 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:17:46 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:20:25 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:20:26 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:20:28 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:20:28 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:22:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4252.862305, 112.129303, 8065.004395>)
+21:22:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4254.314453, 108.548340, 8056.208984>)
+21:22:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4253.910645, 111.671822, 8060.186523>)
+21:24:14 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:24:26 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:26:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60_ScopeMount)
+21:26:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60_Handguard_E3)
+21:26:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60_Handguard_E4)
+21:26:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60)
+21:26:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60_100rdMag)
+21:26:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M60)
+21:28:2 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+21:28:5 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+21:33:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4340.434570, 96.145859, 8077.682129>)
+21:33:56 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:33:57 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+21:35:37 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:35:38 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:35:49 | "Alzbob": (steamid=76561198303394031) teleported to (pos=Boat Trader)
+21:36:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7790.984375, 11.162172, 7618.445313>)
+21:36:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7728.559082, 16.458641, 7637.381836>)
+21:36:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7672.848633, 23.779625, 7652.479004>)
+21:36:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7635.858398, 35.321365, 7615.788574>)
+21:37:6 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:37:13 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:37:26 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7656.597656, 33.191036, 7584.225586>)
+21:37:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7675.277344, 32.574059, 7578.044434>)
+21:37:30 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:38:45 | "JakusMallius" (steamid=76561198067006084) gave godmode to (steamid=76561198067006084)
+21:38:51 | "JakusMallius" (steamid=76561198067006084) gave godmode to (steamid=76561198067006084)
+21:38:52 | "JakusMallius" (steamid=76561198067006084) gave unlimited ammo to (steamid=76561198067006084)
+21:44:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_M249)
+21:44:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_Black)
+21:44:57 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_M249)
+21:45:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_M249_Mag)
+21:45:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_Mag_M249_200Rnd)
+21:45:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:45:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFUHoneyBadger_30rdMag_Black)
+21:46:9 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:46:21 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:46:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249_Hndgrd)
+21:46:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249_RisHndgrd)
+21:46:29 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249_RisHndgrd)
+21:46:30 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249_Bipod)
+21:46:30 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249_Bipod)
+21:46:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_M249Stock)
+21:46:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_M249Grip)
+21:46:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_M249HG)
+21:46:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_M249Bipod)
+21:46:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_BK)
+21:46:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Tan)
+21:46:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Green)
+21:46:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Snow)
+21:46:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200B_BK)
+21:46:50 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200)
+21:46:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Tan)
+21:46:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200Green)
+21:46:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200SNOW)
+21:47:7 | "BeefySTi" (steamid=76561198095923512) deleted object "GCGN_M200_Tan" (pos=<8570.499023, 15.418091, 10508.591797>)
+21:47:10 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200SNOW" (pos=<8570.499023, 15.336629, 10508.591797>)
+21:47:12 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M60_Handguard_E3" (pos=<8570.704102, 15.286520, 10508.636719>)
+21:47:14 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200Green" (pos=<8570.499023, 15.249607, 10508.591797>)
+21:47:18 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200S_BK" (pos=<8570.499023, 15.368578, 10508.591797>)
+21:47:21 | "BeefySTi" (steamid=76561198095923512) deleted object "GCGN_M200" (pos=<8570.499023, 15.063174, 10508.591797>)
+21:47:24 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200S_Green" (pos=<8570.499023, 15.288914, 10508.591797>)
+21:47:27 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200S_Tan" (pos=<8570.499023, 15.406140, 10508.591797>)
+21:47:29 | "BeefySTi" (steamid=76561198095923512) deleted object "SNAFU_M200S_Snow" (pos=<8570.499023, 15.288208, 10508.591797>)
+21:47:50 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_BK)
+21:47:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Tan)
+21:47:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Green)
+21:47:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Snow)
+21:47:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200B_BK)
+21:47:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200)
+21:47:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Tan)
+21:47:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200Green)
+21:47:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200SNOW)
+21:47:59 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Mag)
+21:48:44 | "Alzbob" (steamid=76561198303394031) Spawned Item: (M249)
+21:48:56 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+21:49:1 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:49:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Tan)
+21:49:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Tan)
+21:49:46 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:49:50 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Tan)
+21:49:56 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:49:58 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:50:7 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:50:10 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:50:22 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:50:28 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:50:47 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+21:50:52 | "JakusMallius" (steamid=76561198067006084) deleted object "M249" (pos=<7730.383789, 15.081105, 7647.978027>)
+21:50:55 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:50:56 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:51:6 | "JakusMallius" (steamid=76561198067006084) gave unlimited ammo to (steamid=76561198067006084)
+21:51:9 | [WeatherManager] Send Data Count is 0
+21:51:22 | [Time Manager] Setting Date to 2011/11/1 10:50
+21:51:35 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:51:46 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:52:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Black_CamoNetPoncho)
+21:53:35 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:53:36 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:53:36 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:53:47 | "Alzbob" (steamid=76561198303394031) deleted object "GCGN_M249" (pos=<7731.073242, 14.912248, 7646.396484>)
+21:53:53 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:54:35 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:54:41 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+21:55:8 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:55:8 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:55:9 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:55:11 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:55:13 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+21:55:15 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:55:31 | "JakusMallius" (steamid=76561198067006084) deleted object "Msp_Floatie_Wheel" (pos=<7729.160156, 14.957631, 7646.217285>)
+21:56:44 | "Magick" (steamid=76561198797376439) deleted object "SNAFUTAR21_Black" (pos=<7728.296875, 15.017732, 7646.766113>)
+21:57:34 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_mk5_utility_pouch_black" (pos=<7730.006836, 14.931244, 7645.708984>)
+21:57:35 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_mk5_grenade_pouch_black" (pos=<7730.006836, 14.925261, 7645.708984>)
+21:57:36 | "JakusMallius" (steamid=76561198067006084) deleted object "TF_MedPouch3" (pos=<7730.006836, 14.914407, 7645.708984>)
+21:57:37 | "JakusMallius" (steamid=76561198067006084) deleted object "TF_MedPouch1" (pos=<7730.006836, 14.914407, 7645.708984>)
+21:57:39 | "JakusMallius" (steamid=76561198067006084) deleted object "TF_MedPouch2" (pos=<7730.006836, 14.914407, 7645.708984>)
+21:57:40 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_triple_magpouch_black" (pos=<7730.006836, 14.924775, 7645.708984>)
+21:57:42 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_Mag_Pouch_Black" (pos=<7730.006836, 14.912598, 7645.708984>)
+21:57:44 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFUMDARSBR_Black)
+21:57:44 | "JakusMallius" (steamid=76561198067006084) deleted object "Mag_STANAG_60Rnd" (pos=<7730.006836, 14.932487, 7645.708984>)
+21:57:47 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_tactical_pouch_black" (pos=<7730.006836, 14.926614, 7645.708984>)
+21:57:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_Bren)
+21:58:21 | "Magick" (steamid=76561198797376439) Spawned Item: (MMG_supplybag_dark_woodland)
+21:58:36 | "JakusMallius" (steamid=76561198067006084) deleted object "SurvivorM_Francis" (pos=<7733.488770, 14.635902, 7648.230957>)
+21:59:22 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:59:30 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:0:46 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:3:22 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_carrier_backpack_black" (pos=<7727.157227, 15.639310, 7643.302734>)
+22:3:34 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+22:3:36 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+22:3:36 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+22:3:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8039.135742, 157.055481, 8694.033203>)
+22:3:47 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8371.533203, 78.332932, 9738.578125>)
+22:3:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8663.748047, 15.655598, 10796.302734>)
+22:3:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8642.134766, 480.899780, 10708.108398>)
+22:3:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8371.820313, -0.790129, 9737.623047>)
+22:3:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8372.023438, -1.341622, 9736.830078>)
+22:4:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8363.974609, 1.070509, 9731.227539>)
+22:4:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8639.289063, 598.865295, 10609.875977>)
+22:4:15 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (GhillieAtt_Black)
+22:4:16 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (GhillieAtt_Black)
+22:4:16 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (GhillieAtt_Black)
+22:4:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Truck_01_Covered_Blue)
+22:4:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8604.882813, 15.611967, 10533.233398>)
+22:4:22 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8604.637695, 16.394796, 10533.384766>)
+22:4:22 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8591.596680, 14.720003, 10509.242188>)
+22:4:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Truck_01_Covered_Blue)
+22:4:28 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8589.104492, 14.719995, 10522.217773>)
+22:5:49 | "JakusMallius" (steamid=76561198067006084) deleted object "SKS" (pos=<7732.723633, 14.807616, 7653.346680>)
+22:5:51 | "JakusMallius" (steamid=76561198067006084) deleted object "Expansion_M16" (pos=<7732.723633, 14.793273, 7653.346680>)
+22:5:59 | "Alzbob" (steamid=76561198303394031) deleted object "OffroadHatchback" (pos=<8592.423828, 14.793240, 10497.641602>)
+22:6:4 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Gen Trader)
+22:6:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_Bren)
+22:6:13 | "Alzbob" (steamid=76561198303394031) Spawned Item: (SNAFU_Bren_30rdMag)
+22:6:18 | "Magick" (steamid=76561198797376439) Spawned Item: (White_CamoNetPoncho)
+22:7:21 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_double_magpouch_black)
+22:8:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_tactical_pouch_black)
+22:8:45 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (TF_MedPouch1)
+22:10:14 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_Med_Pouch_black)
+22:13:24 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.598633, 449.298981, 10994.524414>)
+22:13:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8111.248535, 15.218872, 10811.799805>)
+22:14:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_dkmc_GUN)
+22:14:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:43 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:43 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:43 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:43 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:44 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFURSASS_Mag)
+22:14:50 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:50 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:50 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:51 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:51 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:51 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:51 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:51 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:52 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:52 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:52 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:14:52 | "Magick" (steamid=76561198797376439) Spawned Item: (ExpansionGoldBar)
+22:15:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_Normalized_Suppressor_Black)
+22:15:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+22:15:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+22:15:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+22:16:48 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_MHuntingOptic)
+22:17:9 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_MHuntingOptic)
+22:17:10 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_HHuntingOptic)
+22:17:11 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (SNAFU_HuntingOptic)
+22:17:15 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (TF_OTs_14_GrozaOptic)
+22:17:23 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (TF_ElcanSpecterDR_6xOptic_Black)
+22:17:36 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8571.046875, 24.788467, 10550.490234>)
+22:17:40 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8582.557617, 14.967918, 10619.566406>)
+22:17:41 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8583.389648, 14.989685, 10649.977539>)
+22:17:44 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8534.627930, 15.014594, 10700.000977>)
+22:17:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8487.021484, 15.066794, 10748.849609>)
+22:17:53 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8452.228516, 17.721067, 10783.153320>)
+22:17:54 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8432.975586, 17.445747, 10800.041016>)
+22:18:4 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8341.401367, 15.907265, 10851.336914>)
+22:18:8 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8200.953125, 24.326921, 10861.235352>)
+22:18:10 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8199.774414, 24.729971, 10859.666992>)
+22:18:31 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8167.045898, 15.190001, 10865.464844>)
+22:19:14 | "Magick" (steamid=76561198797376439) deleted object "SNAFUASh12" (pos=<8164.776855, 15.231671, 10861.974609>)
+22:20:32 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+22:21:10 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8193.128906, 25.703310, 10854.709961>)
+22:21:20 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8224.412109, 25.800163, 10812.946289>)
+22:22:9 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8213.589844, 26.534836, 10810.728516>)
+22:24:4 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8155.007324, 48.804855, 10665.375000>)
+22:24:13 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8148.681152, 47.900211, 10760.388672>)
+22:24:25 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<8154.915039, 15.212135, 10854.921875>)
+22:25:19 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Gen Trader)
+22:25:45 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:25:47 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:27:20 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+22:27:49 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+22:43:40 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:43:52 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:44:23 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8649.464844, 955.207703, 10521.454102>)
+23:2:32 | Player "antij0sh" (steamId=76561199384291594) connected to server!
+23:2:43 | Player "antij0sh" (steamId=76561199384291594) connected to server!
+23:3:22 | "antij0sh" (steamid=76561199384291594) gave godmode to (steamid=76561199384291594)
+23:4:18 | "antij0sh": (steamid=76561199384291594) teleported to (pos=Skat-12 (Sub))
+23:5:14 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionGyrocopter)
+23:5:19 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionGyrocopter)
+23:9:43 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionGyrocopter)
+23:12:30 | "antij0sh" (steamid=76561199384291594) deleted object "ExpansionGyrocopter" (pos=<8510.708984, 16.129343, 10742.701172>)
+23:12:49 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionMh6_Wasp)
+23:17:3 | "antij0sh" (steamid=76561199384291594) deleted object "Expansion_Mh6_Door_2_1" (pos=<8573.786133, 16.255571, 10538.830078>)
+23:17:7 | "antij0sh" (steamid=76561199384291594) deleted object "ExpansionMh6_Wasp" (pos=<8573.625000, 17.467316, 10539.742188>)
+23:17:43 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+23:17:54 | "antij0sh" (steamid=76561199384291594) healed player (steamid=76561199384291594)
+23:19:2 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionVodnik_CamoMedical)
+23:20:40 | "antij0sh" (steamid=76561199384291594) deleted object "ExpansionVodnik_CamoMedical" (pos=<8591.021484, 14.741268, 10526.688477>)
+23:20:52 | [WeatherManager] Send Data Count is 0
+23:21:21 | [WeatherManager] Send Data Count is 0
+23:22:2 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionUh1h)
+23:24:56 | "antij0sh" (steamid=76561199384291594) deleted object "ExpansionUh1h" (pos=<8582.688477, -1.583429, 13800.764648>)
+23:25:38 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ExpansionUh1h_Civilian)
+23:31:9 | "antij0sh" (steamid=76561199384291594) teleported to crosshair (pos=<8169.171387, 98.401779, 9910.016602>)
+23:31:10 | "antij0sh" (steamid=76561199384291594) /heal used on: "antij0sh" (steamid=76561199384291594)
+23:31:11 | "antij0sh" (steamid=76561199384291594) /refuel used on self.
+23:31:13 | "antij0sh" (steamid=76561199384291594) /refuel used on self.
+23:32:37 | "antij0sh" (steamid=76561199384291594) deleted object "ExpansionUh1h_Civilian" (pos=<8536.039063, 17.304491, 10612.018555>)
+23:34:4 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+23:35:34 | "antij0sh" (steamid=76561199384291594) gave unlimited ammo to (steamid=76561199384291594)
+23:37:33 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=BMT)
+23:37:38 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:38 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:40 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green) on "antij0sh" (steamid=76561199384291594)
+23:37:41 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ZSh3PilotHelmet_Green)
+23:38:10 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red) on "antij0sh" (steamid=76561199384291594)
+23:38:10 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red)
+23:38:11 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red) on "antij0sh" (steamid=76561199384291594)
+23:38:11 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red)
+23:38:12 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red) on "antij0sh" (steamid=76561199384291594)
+23:38:12 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BaseballCap_Red)
+23:38:13 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Lime) on "antij0sh" (steamid=76561199384291594)
+23:38:13 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Lime)
+23:38:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_MK_V_Armor_alpine)
+23:38:18 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_White) on "antij0sh" (steamid=76561199384291594)
+23:38:18 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_White)
+23:38:18 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_White) on "antij0sh" (steamid=76561199384291594)
+23:38:18 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_White)
+23:38:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_alpine)
+23:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_alpine)
+23:38:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_double_magpouch_alpine)
+23:38:24 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BurlapSackCover) on "antij0sh" (steamid=76561199384291594)
+23:38:24 | "antij0sh" (steamid=76561199384291594) Spawned Item: (BurlapSackCover)
+23:38:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_Med_Pouch_alpine)
+23:38:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_mk5_utility_pouch_alpine)
+23:38:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_mk5_grenade_pouch_alpine)
+23:38:31 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Yellow) on "antij0sh" (steamid=76561199384291594)
+23:38:31 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Yellow)
+23:38:32 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Yellow) on "antij0sh" (steamid=76561199384291594)
+23:38:32 | "antij0sh" (steamid=76561199384291594) Spawned Item: (ConstructionHelmet_Yellow)
+23:38:45 | Player "antij0sh" (steamId=76561199384291594) disconnected from server.
+23:38:48 | Player "antij0sh" (steamId=76561199384291594) disconnected from server.
+23:38:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_mmps_bag_alpine)
+23:38:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_striker_helmet_alpine)
+23:39:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_bottle_alpine)
+23:39:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_operatorshirt_alpine)
+23:39:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (mmg_tactical_pants_alpine)
+23:39:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (mmg_tactical_gloves_alpine)
+23:39:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_boots_alpine)
+23:39:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (MMG_balaclava_alpine)
+23:44:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200SNOW)
+23:44:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200S_Snow)
+23:44:43 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M200_Mag)
+23:45:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (GCGN_M84_Optic)
+23:46:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_HuntingOptic)
+23:46:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (dzn_att_ghillie_winter)
+23:47:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_50bmg_Suppressor_S)
+23:47:31 | "BeefySTi" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+23:48:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (SNAFU_M200B_BK)
+23:48:55 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+23:48:56 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.

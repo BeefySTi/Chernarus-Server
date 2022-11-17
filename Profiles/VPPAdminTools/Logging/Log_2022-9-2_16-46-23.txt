@@ -1,0 +1,193 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-2_16-46-23
+====================================================================================
+16:46:23 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+16:46:23 | [PermissionManager] Perm (FreeCamera) has been registered!
+16:46:23 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuServerManager) has been registered!
+16:46:23 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+16:46:23 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+16:46:23 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+16:46:23 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+16:46:23 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+16:46:23 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+16:46:23 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+16:46:23 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+16:46:23 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+16:46:23 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuBansManager) has been registered!
+16:46:23 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+16:46:23 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+16:46:23 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+16:46:23 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+16:46:23 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+16:46:23 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+16:46:23 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+16:46:23 | Building Sets Loaded: 0
+16:46:23 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+16:46:23 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+16:46:23 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:46:23 | [PermissionManager] Adding Super Admin (76561198095923512)
+16:46:23 | [PermissionManager] Loaded UserGroups.json
+16:48:9 | Player "Magick" (steamId=76561198797376439) connected to server!
+16:48:35 | Player "Magick" (steamId=76561198797376439) connected to server!
+16:48:52 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+16:48:57 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+16:48:57 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+16:51:21 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6576.931152, 39.699776, 5846.616699>)
+16:51:21 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6538.869629, 39.856197, 5848.476074>)
+16:51:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6499.772949, 39.970715, 5850.382813>)
+16:51:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6462.013672, 40.154366, 5852.176270>)
+16:51:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6417.267578, 40.225681, 5854.296875>)
+16:51:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6358.902344, 40.258350, 5857.308105>)
+16:51:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6300.685547, 40.298508, 5860.254395>)
+16:51:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6241.765625, 40.330727, 5863.166504>)
+16:51:24 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6161.178223, 40.553291, 5864.798340>)
+16:51:25 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5645.001953, 41.831608, 5884.438965>)
+16:54:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Morphine)
+16:55:3 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5025.059082, 1.474083, 6070.895508>)
+16:55:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4929.379883, 29.676395, 6074.857910>)
+17:6:35 | "Magick" (steamid=76561198797376439) deleted object "AssaultBag_Black" (pos=<4973.191895, 47.335583, 6541.801758>)
+17:7:4 | [WeatherManager] Send Data Count is 0
+17:7:14 | [Time Manager] Setting Date to 2011/11/2 7:0
+17:12:26 | "Magick" (steamid=76561198797376439) Spawned Item: (NVGHeadstrap)
+17:24:27 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+17:28:2 | "Magick": (steamid=76561198797376439) teleported to (pos=BMT)
+17:31:5 | "Magick": (steamid=76561198797376439) teleported to (pos=Athena-2)
+17:31:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4986.950684, 57.491837, 6622.024414>)
+17:31:40 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4972.154297, 63.589603, 6622.864746>)
+17:32:8 | "Magick": (steamid=76561198797376439) teleported to (pos=Athena-1)
+17:32:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3855.811279, 146.189270, 8155.260254>)
+17:32:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3872.114990, 140.581253, 8127.062012>)
+17:32:32 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3933.176758, 87.453880, 7906.628906>)
+17:32:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3937.437500, 84.891609, 7885.071777>)
+17:32:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3941.198486, 82.655190, 7870.982910>)
+17:32:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3945.166260, 81.310493, 7858.206543>)
+17:32:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3955.879883, 72.233795, 7838.962402>)
+17:32:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3957.807617, 71.993187, 7835.943359>)
+17:32:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3969.408203, 62.654060, 7816.678711>)
+17:32:44 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3989.642822, 54.860886, 7792.123535>)
+17:32:45 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3999.718018, 53.799603, 7780.355957>)
+17:32:45 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4008.601074, 53.460159, 7766.482422>)
+17:32:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4017.529785, 53.084076, 7740.910156>)
+17:32:48 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4021.678467, 53.215519, 7725.089844>)
+17:32:49 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4017.355469, 53.000004, 7706.537598>)
+17:32:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3997.654297, 52.999992, 7686.679688>)
+17:32:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3983.038086, 53.000011, 7666.833008>)
+17:32:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3967.194580, 53.000008, 7646.429688>)
+17:32:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3951.569580, 53.000004, 7626.566895>)
+17:32:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3939.697998, 52.999985, 7610.527832>)
+17:32:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3933.537354, 52.999992, 7602.403320>)
+17:32:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3927.323975, 53.000000, 7593.655762>)
+17:32:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3919.068115, 52.999981, 7578.765137>)
+17:32:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3910.962891, 53.075893, 7562.837891>)
+17:33:17 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3880.796631, 53.000011, 7515.085938>)
+17:33:18 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3866.432129, 53.000004, 7507.284668>)
+17:33:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3853.668457, 53.072659, 7495.449219>)
+17:33:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3846.559814, 53.000000, 7485.296875>)
+17:33:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3839.852051, 53.000000, 7474.494141>)
+17:33:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3841.201416, 61.229584, 7464.750977>)
+17:33:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Morphine)
+17:33:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Morphine)
+17:33:51 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+17:33:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3841.569092, 61.975063, 7465.280762>)
+17:34:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3862.338867, 57.530441, 7473.621094>)
+17:37:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3921.572266, 52.999996, 7569.737305>)
+17:37:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3939.098389, 53.000000, 7592.198242>)
+17:37:44 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3960.090088, 67.208702, 7591.963867>)
+17:37:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<3997.405762, 57.769810, 7602.841309>)
+17:39:49 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin Isle)
+17:40:7 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+17:41:49 | "Magick" (steamid=76561198797376439) Spawned Item: (Epinephrine)
+17:42:30 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<4025.590088, 78.076126, 7983.770020>)
+17:42:30 | "Magick": (steamid=76561198797376439) teleported to (pos=4025.59,0,7983.77)
+17:58:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4261.248535, 100.937523, 8053.012207>)
+18:5:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4254.564453, 102.232803, 8055.930664>)
+18:5:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4254.711426, 103.065063, 8055.040527>)
+18:12:12 | "Magick": (steamid=76561198797376439) teleported to (pos=BMT)
+18:14:34 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+18:14:49 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+18:15:12 | Player "Magick" (steamId=76561198797376439) connected to server!
+18:15:18 | Player "Magick" (steamId=76561198797376439) connected to server!
+18:18:39 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+18:18:41 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+18:18:41 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+18:18:42 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+18:18:52 | "Magick": (steamid=76561198797376439) teleported to (pos=Vorkuta)
+18:21:20 | "Magick" (steamid=76561198797376439) deleted object "SNAFU_M4556_Modular16_GUN" (pos=<6608.895996, 15.153895, 11239.428711>)
+18:21:26 | "Magick" (steamid=76561198797376439) deleted object "SNAFU_BMAG300_Tan" (pos=<6616.600586, 15.240234, 11235.021484>)
+18:21:31 | "Magick" (steamid=76561198797376439) deleted object "SNAFU_FRF2" (pos=<6621.248535, 15.158239, 11232.502930>)
+18:21:36 | "Magick" (steamid=76561198797376439) deleted object "SNAFUAR15_SPR_Black_GUN" (pos=<6622.748047, 15.153894, 11234.511719>)
+18:33:52 | Player "Magick" (steamId=76561198797376439) disconnected from server.

@@ -1,0 +1,327 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-2_19-0-59
+====================================================================================
+19:0:59 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:0:59 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:0:59 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:0:59 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:0:59 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:0:59 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:0:59 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:0:59 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:0:59 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:0:59 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:0:59 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:0:59 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:0:59 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:0:59 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:0:59 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:0:59 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:0:59 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:0:59 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:0:59 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:0:59 | [PermissionManager] Adding Super Admin (76561198095923512)
+19:0:59 | [PermissionManager] Loaded UserGroups.json
+19:0:59 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:0:59 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:0:59 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:0:59 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:0:59 | Building Sets Loaded: 0
+19:0:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:2:38 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+19:3:10 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+19:3:47 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_tt_vest_admin)
+19:3:49 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_striker_helmet_admin)
+19:3:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_combatpants_admin)
+19:3:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_combatshirt_admin)
+19:3:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_balaclava_admin)
+19:3:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MMG_patch_rubber_admin)
+19:4:34 | "JakusMallius" (steamid=76561198067006084) deleted object "TaloonBag_Blue" (pos=<7436.947754, 2.096482, 5686.473633>)
+19:4:37 | "JakusMallius" (steamid=76561198067006084) deleted object "Shirt_GreenCheck" (pos=<7436.947754, 1.993613, 5686.473633>)
+19:4:38 | "JakusMallius" (steamid=76561198067006084) deleted object "CargoPants_Grey" (pos=<7436.947754, 1.983057, 5686.473633>)
+19:4:40 | "JakusMallius" (steamid=76561198067006084) deleted object "BeanieHat_Black" (pos=<7436.947754, 1.998074, 5686.473633>)
+19:4:42 | "JakusMallius" (steamid=76561198067006084) deleted object "MMG_patch_rubber_admin" (pos=<7436.947754, 1.992144, 5686.473633>)
+19:5:16 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (mmg_tactical_gloves_black)
+19:5:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (MilitaryBoots_Black)
+19:5:57 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7432.530273, 9.178901, 5791.049316>)
+19:5:58 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7429.761719, 12.148841, 5842.564941>)
+19:5:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7429.648438, 14.019825, 5849.513184>)
+19:6:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7429.690918, 15.826347, 5853.847168>)
+19:6:2 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7429.762207, 17.620966, 5857.698242>)
+19:6:8 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7568.736328, 679.824768, 6732.757324>)
+19:6:13 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7724.745117, 40.796265, 7362.895020>)
+19:8:26 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7422.266113, 113.753586, 7436.942383>)
+19:8:27 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7390.670410, 133.194290, 7427.511230>)
+19:8:28 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7369.423340, 145.747375, 7420.953125>)
+19:8:31 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7341.068848, 153.065582, 7414.548340>)
+19:8:32 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7298.270508, 170.531952, 7402.399902>)
+19:8:32 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7286.772461, 176.013428, 7400.386719>)
+19:8:34 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7218.001953, 201.095108, 7387.299316>)
+19:8:47 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7174.331543, 172.917221, 7451.229004>)
+19:8:48 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7157.080566, 167.363144, 7472.049316>)
+19:8:49 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7142.431152, 161.323090, 7497.895020>)
+19:8:50 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7131.604004, 156.988892, 7517.844727>)
+19:8:50 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7122.561523, 153.667603, 7534.562500>)
+19:8:58 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5874.843750, 54.424610, 7896.259277>)
+19:9:45 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5597.543457, 112.016251, 7924.771973>)
+19:9:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5578.350098, 110.196938, 7927.706543>)
+19:9:47 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5576.722168, 110.153564, 7928.053223>)
+19:9:47 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5575.091797, 109.726280, 7928.867676>)
+19:9:48 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5570.381348, 109.293884, 7929.465332>)
+19:9:49 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5557.723145, 108.565674, 7930.690918>)
+19:10:1 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5474.524414, 107.500946, 7939.803223>)
+19:10:12 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5397.876953, 98.411148, 7943.797363>)
+19:10:13 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5360.540527, 89.130409, 7953.205078>)
+19:10:14 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5347.132813, 87.429352, 7956.710449>)
+19:10:15 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5331.819336, 85.300407, 7962.765137>)
+19:10:16 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5278.219727, 71.879913, 7978.675781>)
+19:10:46 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<5060.708496, 66.212463, 8006.538574>)
+19:10:53 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<4996.205566, 105.013184, 8017.087402>)
+19:11:9 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Boat Trader)
+19:11:27 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7899.209473, 19.713512, 7610.303711>)
+19:12:14 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7663.606934, 31.813862, 7592.843750>)
+19:12:16 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7631.599121, 36.296436, 7595.156250>)
+19:12:17 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7622.340820, 37.738419, 7595.893555>)
+19:12:19 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7452.222168, 62.241135, 7546.111328>)
+19:12:22 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7471.950195, 56.915588, 7562.319336>)
+19:12:23 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7472.067383, 57.171768, 7562.371094>)
+19:12:23 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7472.301758, 57.251751, 7562.478027>)
+19:12:24 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7511.408203, 44.649841, 7592.291992>)
+19:12:37 | "JakusMallius" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+19:12:41 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:12:46 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:12:47 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:14:39 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=BMT)
+19:15:51 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Gen Trader)
+19:18:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (White_CamoNetPoncho)
+19:18:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:53 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:54 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:55 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:18:56 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:29 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:30 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:31 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:32 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:33 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:35 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:37 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:39 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:41 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:19:42 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:21:34 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Ruble5000)
+19:24:49 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:50 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:24:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (Money_Dollar100)
+19:25:50 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+19:25:51 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+22:45:57 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:46:4 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:46:15 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:47:17 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:48:41 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+22:48:42 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+22:48:43 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:48:51 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:48:53 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:48:55 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:49:5 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:49:22 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:49:27 | Player "BeefySTi" (steamId=76561198095923512) connected to server!

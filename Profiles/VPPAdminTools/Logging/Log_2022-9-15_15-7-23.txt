@@ -1,0 +1,504 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-15_15-7-23
+====================================================================================
+15:7:23 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:7:23 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:7:23 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:7:23 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:7:23 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:7:23 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:7:23 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:7:23 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:7:23 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:7:23 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:7:23 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:7:23 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:7:23 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:7:23 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:7:23 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:7:23 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:7:23 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:7:23 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:7:23 | Building Sets Loaded: 0
+15:7:23 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:7:23 | [PermissionManager] Adding Super Admin (76561198095923512)
+15:7:23 | [PermissionManager] Loaded UserGroups.json
+15:7:23 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:7:23 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:7:23 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:7:23 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:7:23 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:8:27 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:8:30 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:8:36 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+15:8:38 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:12:32 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:12:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6753.316895, 33.752602, 11213.795898>)
+15:12:44 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6752.400879, 33.903011, 11212.888672>)
+15:12:57 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:13:3 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:13:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:13:6 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:13:20 | Player "Frank" (steamId=76561199004385675) connected to server!
+15:13:32 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7321.859863, 42.763836, 10584.599609>)
+15:13:32 | "CaaaaaaVeMaaaan": (steamid=76561198067006084) teleported to (pos=7321.86,0,10584.6)
+15:13:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:13:53 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:13:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:14:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:14:7 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+15:14:10 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:18:58 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<6947.339844, 9.454399, 8377.440430>)
+15:18:58 | "CaaaaaaVeMaaaan": (steamid=76561198067006084) teleported to (pos=6947.34,0,8377.44)
+15:19:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:20:16 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+15:20:45 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+15:25:0 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<6442.319824, 21.560120, 8936.620117>)
+15:25:0 | "CaaaaaaVeMaaaan": (steamid=76561198067006084) teleported to (pos=6442.32,0,8936.62)
+15:25:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:25:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:38:39 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+15:38:55 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:39:1 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:39:27 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:39:28 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:40:28 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:43:18 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6739.678711, 58.032875, 11386.560547>)
+15:43:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6738.375977, 58.347466, 11386.566406>)
+15:44:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6736.708984, 15.677265, 11338.959961>)
+15:44:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6834.415527, 15.411718, 11418.634766>)
+15:45:21 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:45:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:45:58 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:46:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:47:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6666.592285, 17.537386, 11670.991211>)
+15:47:47 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6648.830566, 15.331871, 11566.501953>)
+15:47:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6638.695801, 16.943699, 11535.841797>)
+15:47:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6622.985352, 16.077679, 11494.328125>)
+15:47:52 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6604.127930, 15.680739, 11461.676758>)
+15:50:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6746.825195, 57.839020, 11381.122070>)
+15:50:33 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6735.616211, 58.168568, 11386.579102>)
+15:50:33 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+15:51:2 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:51:11 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+15:51:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:51:27 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+15:51:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFU_Ammo_300ACC)
+15:53:34 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+15:55:4 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+15:57:0 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6735.305664, 58.076134, 11380.829102>)
+15:57:1 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6734.997559, 58.076370, 11381.250000>)
+16:2:31 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+16:2:45 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+16:3:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+16:3:42 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6786.284180, 14.984465, 11263.557617>)
+16:3:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6786.551758, 14.984304, 11264.004883>)
+16:4:36 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+16:4:38 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+16:5:57 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+16:7:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:7:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:7:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:8:33 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:8:49 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+16:9:34 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:10:30 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:16:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:17:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:17:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:19:22 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:20:10 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:25:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+16:31:40 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+16:31:48 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:22 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:33:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:33:32 | Admin "CaaaaaaVeMaaaan" (steamId=76561198067006084) built part t3_door at position: <6786.110352, 34.167503, 11305.504883>
+16:33:59 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6788.190918, 30.581598, 11313.561523>)
+16:34:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:8 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6810.853027, 15.150368, 11395.254883>)
+16:34:11 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6810.837402, 15.159274, 11393.863281>)
+16:34:29 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:36 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6786.109863, 37.385719, 11305.503906>)
+16:34:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:38 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6792.928223, 34.169281, 11311.993164>)
+16:34:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+16:34:58 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6792.519531, 34.169479, 11312.312500>)
+16:35:17 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (CodeLock)
+16:35:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6746.799316, 57.879257, 11375.420898>)
+16:36:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6745.046875, 58.068615, 11373.194336>)
+16:36:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6744.975098, 58.068672, 11373.712891>)
+16:36:59 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+16:37:1 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+17:13:26 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:13:41 | Player "Frank" (steamId=76561199004385675) connected to server!
+17:20:29 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+17:21:40 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+17:40:17 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+17:40:25 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+17:41:2 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+17:42:45 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+17:42:46 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+17:44:5 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+17:44:23 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+17:44:32 | "Alzbob" (steamid=76561198303394031) toggled godmode
+17:44:34 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:44:54 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6799.430176, 15.000000, 11318.700195>)
+17:44:54 | "Alzbob": (steamid=76561198303394031) teleported to (pos=6799.43,0,11318.7)
+17:44:57 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:45:12 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6805.825684, 16.382893, 11317.451172>)
+17:45:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6811.588867, 15.135246, 11315.069336>)
+17:45:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:47:48 | "Alzbob" (steamid=76561198303394031) toggled freecam
+17:48:11 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+18:3:18 | Player "Sly" (steamId=76561198303394031) connected to server!
+18:3:41 | Player "Sly" (steamId=76561198303394031) connected to server!
+18:3:48 | "Sly" (steamid=76561198303394031) toggled godmode
+18:4:18 | "Sly" (steamid=76561198303394031) toggled freecam
+18:4:34 | "Sly" (steamid=76561198303394031) toggled freecam
+18:6:46 | "Sly" (steamid=76561198303394031) toggled freecam
+18:7:3 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+18:7:13 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+18:7:47 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+18:8:7 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+18:15:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12)
+18:15:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:50 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:50 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:50 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:50 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFUMk12_20rdMag)
+18:15:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (SNAFU_Standardized_Suppressor_Black)
+18:16:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+18:16:53 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+18:19:14 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:19:40 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:20:17 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+18:20:19 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:21:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:21:32 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:21:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:22:32 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:22:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:22:56 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+18:23:7 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+18:24:0 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:24:8 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:24:9 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6740.083496, 47.682446, 11378.768555>)
+18:24:11 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:24:14 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6739.754395, 44.282700, 11378.525391>)
+18:24:14 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6739.367188, 44.282997, 11378.424805>)
+18:24:22 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+18:24:32 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:24:34 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:24:35 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:24:48 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:26:1 | "RuxieFPS" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+18:26:11 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (NVGHeadstrap)
+18:26:13 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (NVGoggles)
+18:26:21 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (Battery9V)
+18:26:21 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (Battery9V)
+18:26:21 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (Battery9V)
+18:26:21 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (Battery9V)
+18:26:27 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:26:55 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:27:3 | "RuxieFPS" (steamid=76561198303394031) teleported to crosshair (pos=<6731.553711, 58.079033, 11378.989258>)
+18:27:4 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:27:9 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:27:37 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+18:27:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:27:59 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:28:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:28:17 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+18:28:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:28:27 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+18:28:39 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:29:29 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:29:33 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:29:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:29:53 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6732.429688, 58.078354, 11378.062500>)
+18:29:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:29:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6733.371582, 58.077629, 11378.110352>)
+18:31:3 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:31:27 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:32:3 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7327.220215, 45.272980, 10556.200195>)
+18:32:3 | "RuxieFPS": (steamid=76561198303394031) teleported to (pos=7327.22,0,10556.2)
+18:32:32 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:32:39 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:32:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:32:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:34:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:35:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:35:27 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:40:12 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:40:28 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:41:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+18:41:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+18:42:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:43:13 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6788.176758, 34.171600, 11296.998047>)
+18:43:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:43:18 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:43:19 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6788.571777, 34.171406, 11296.655273>)
+18:43:34 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:44:35 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:44:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:44:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:44:48 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:45:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:46:38 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:47:31 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:48:2 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:48:20 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:48:22 | "RuxieFPS" (steamid=76561198303394031) toggled freecam
+18:48:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:50:32 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+18:50:59 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+18:51:0 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+18:51:18 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+18:51:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:51:43 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:51:53 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:51:54 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+18:52:14 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (FirefightersPants_Black)
+18:52:16 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (FirefighterJacket_Black)
+18:52:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:52:59 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:53:9 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (MilitaryBoots_Black)
+18:53:11 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:53:56 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+18:54:5 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:54:6 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (TetracyclineAntibiotics)
+18:54:13 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:54:31 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+18:54:47 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+18:54:50 | Player "Frank" (steamId=76561199004385675) connected to server!
+18:54:58 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:0:10 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7311.669922, 45.406963, 10570.700195>)
+19:0:10 | "RuxieFPS": (steamid=76561198303394031) teleported to (pos=7311.67,0,10570.7)
+19:0:21 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+19:0:31 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+19:3:25 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+19:3:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:3:39 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:3:41 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:3:55 | "RuxieFPS" (steamid=76561198303394031) Spawned Item: (dzn_ballisticvest_nac)
+19:5:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7179.343262, 46.433754, 10469.126953>)
+19:9:19 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+19:9:21 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+19:12:39 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6870.680176, 4.686912, 9965.919922>)
+19:12:39 | "RuxieFPS": (steamid=76561198303394031) teleported to (pos=6870.68,0,9965.92)
+19:12:51 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+19:13:19 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:14:6 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+19:15:49 | "RuxieFPS" (steamid=76561198303394031) teleported to crosshair (pos=<6238.343750, 20.732258, 9652.124023>)
+19:18:0 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+19:18:59 | "RuxieFPS" (steamid=76561198303394031) teleported to crosshair (pos=<6226.742188, 21.315435, 9288.695313>)
+19:19:8 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6927.647461, 1.115762, 9790.293945>)
+19:23:49 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:24:49 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:25:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+19:25:49 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:26:13 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:26:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6228.238281, 21.248819, 9179.424805>)
+19:28:15 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+19:30:12 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6334.651367, 22.871504, 9025.663086>)
+19:30:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6354.546387, 24.493362, 8956.939453>)
+19:30:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6445.374023, 9.373914, 8791.276367>)
+19:30:58 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6455.171875, 8.042764, 8766.909180>)
+19:32:31 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<6432.654297, 1.924419, 8605.221680>)
+19:32:38 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+19:33:37 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+19:33:55 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+19:34:15 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+19:34:21 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+19:37:25 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+19:37:28 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+19:38:6 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+19:38:21 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+19:39:47 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+19:40:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7327.103516, 89.594620, 8011.765625>)
+19:40:37 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7326.999512, 89.594688, 8012.068359>)
+19:41:59 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+19:42:11 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7683.020020, 13.601169, 5771.830078>)
+19:42:11 | "RuxieFPS": (steamid=76561198303394031) teleported to (pos=7683.02,0,5771.83)
+19:42:45 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+19:42:48 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+19:46:27 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<8453.769531, 14.960000, 10571.099609>)
+19:46:27 | "CaaaaaaVeMaaaan": (steamid=76561198067006084) teleported to (pos=8453.77,0,10571.1)
+19:48:11 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7244.060059, 84.726479, 7927.189941>)
+19:48:11 | "CaaaaaaVeMaaaan": (steamid=76561198067006084) teleported to (pos=7244.06,0,7927.19)
+19:59:49 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+19:59:51 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+20:0:14 | "Dunn it 69" (steamid=76561198797376439) /heal used on: "Dunn it 69" (steamid=76561198797376439)
+20:3:9 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:3:21 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:3:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:3:41 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:7:59 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+20:8:11 | Player "RuxieFPS" (steamId=76561198303394031) connected to server!
+20:8:12 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:8:23 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:8:49 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:8:58 | "RuxieFPS" (steamid=76561198303394031) /heal used on: "RuxieFPS" (steamid=76561198303394031)
+20:9:0 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:9:20 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7276.390137, 84.860252, 7936.649902>)
+20:9:20 | "RuxieFPS": (steamid=76561198303394031) teleported to (pos=7276.39,0,7936.65)
+20:9:45 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+20:9:51 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) healed player (steamid=76561198067006084)
+20:9:57 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:10:39 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:11:1 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:11:35 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:12:30 | "RuxieFPS" (steamid=76561198303394031) toggled godmode
+20:12:36 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+20:13:19 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:13:35 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:13:39 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+20:15:49 | "RuxieFPS" (steamid=76561198303394031) teleported to crosshair (pos=<7204.352051, 84.605698, 7965.023926>)
+20:15:54 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+20:15:55 | Player "RuxieFPS" (steamId=76561198303394031) disconnected from server.
+20:18:0 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:18:9 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:18:33 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:18:47 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+20:18:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:19:12 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:19:14 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+20:19:33 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:19:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:19:48 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:19:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:21:18 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:22:40 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<7080.959961, 91.570084, 7874.839844>)
+20:22:40 | "Dunn it 69": (steamid=76561198797376439) teleported to (pos=7080.96,0,7874.84)
+20:23:13 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:25:30 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:25:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:26:1 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:26:10 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:26:12 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:26:35 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:26:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:27:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:27:49 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<7089.140137, 13.892584, 11381.200195>)
+20:27:49 | "Dunn it 69": (steamid=76561198797376439) teleported to (pos=7089.14,0,11381.2)
+20:32:18 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:32:38 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:39:3 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+20:46:42 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+20:46:52 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+20:46:56 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+20:47:3 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:47:14 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+20:47:29 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+20:50:8 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+20:54:2 | "Dunn it 69" (steamid=76561198797376439) teleported to crosshair (pos=<6744.782715, 29.135622, 10972.401367>)
+20:57:27 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<7115.250000, 86.389397, 7946.410156>)
+20:57:27 | "Dunn it 69": (steamid=76561198797376439) teleported to (pos=7115.25,0,7946.41)
+20:57:45 | Player "Dunn it 69" (steamId=76561198797376439) disconnected from server.
+20:58:7 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+20:58:15 | Player "Dunn it 69" (steamId=76561198797376439) connected to server!
+20:59:53 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7701.474609, 74.670074, 8686.135742>)
+20:59:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7701.325195, 74.096542, 8685.914063>)
+21:0:34 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:0:47 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:1:31 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:2:1 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:3:40 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:3:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:7:47 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:8:9 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+21:8:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+21:8:46 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+21:9:13 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7611.729492, 71.163330, 8463.972656>)
+21:9:14 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7604.498535, 72.585861, 8451.585938>)
+21:9:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7510.563965, 71.540527, 8289.312500>)
+21:9:27 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:9:27 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.
+21:9:27 | Player "Dunn it 69" (steamId=76561198797376439) disconnected from server.
+21:9:27 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.

@@ -1,0 +1,193 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-3_4-44-3
+====================================================================================
+4:44:3 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+4:44:3 | [PermissionManager] Perm (FreeCamera) has been registered!
+4:44:3 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuServerManager) has been registered!
+4:44:3 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+4:44:3 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+4:44:3 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+4:44:3 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+4:44:3 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+4:44:3 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+4:44:3 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+4:44:3 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+4:44:3 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+4:44:3 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuBansManager) has been registered!
+4:44:3 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+4:44:3 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+4:44:3 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+4:44:3 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+4:44:3 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+4:44:3 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+4:44:3 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+4:44:3 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+4:44:3 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+4:44:3 | [PermissionManager] Adding Super Admin (76561198095923512)
+4:44:3 | [PermissionManager] Loaded UserGroups.json
+4:44:3 | Building Sets Loaded: 0
+4:44:3 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+4:44:3 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+4:44:56 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+4:45:7 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+4:46:46 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+4:46:53 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+4:47:36 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<1960.869995, 2.000000, 6092.859863>)
+4:47:36 | "Alzbob": (steamid=76561198303394031) teleported to (pos=1960.87,0,6092.86)
+4:47:58 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Heli Trader)
+4:49:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (RFFSHeli_Bell429)
+4:50:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_LittleBird_Desert)
+4:53:13 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Heli Trader)
+4:54:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6565.788086, 282.007965, 7798.251953>)
+4:54:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6370.389160, 347.909668, 8940.215820>)
+4:54:31 | "BeefySTi" (steamid=76561198095923512) deleted object "RFFSHeli_Bell429" (pos=<6307.378418, 20.971554, 9520.997070>)
+4:55:1 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (RFFSHeli_CH53e)
+4:55:32 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+4:55:46 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+4:56:8 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+4:56:14 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+4:56:51 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+4:56:52 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+4:56:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6916.268066, 6.146165, 5541.052246>)
+4:56:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6920.359863, 9.068629, 5553.244629>)
+4:56:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6923.378418, 11.843513, 5563.668945>)
+4:56:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6926.824707, 14.984755, 5576.591309>)
+4:56:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6928.952148, 16.545481, 5584.762695>)
+4:56:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6932.896973, 18.499771, 5600.955078>)
+4:56:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6936.037598, 20.862606, 5612.011719>)
+4:56:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6939.686035, 22.943369, 5624.301270>)
+4:56:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6948.763672, 25.075165, 5645.088867>)
+4:56:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6955.769531, 27.069439, 5657.612793>)
+4:56:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6961.508301, 29.108467, 5667.436523>)
+4:56:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6967.245605, 31.424603, 5677.649902>)
+4:56:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6972.818848, 33.956558, 5688.026367>)
+4:56:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6978.517578, 35.842228, 5699.436523>)
+4:56:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6980.916992, 37.801891, 5705.279785>)
+4:56:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6995.537109, 40.232800, 5749.493164>)
+4:56:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7001.366211, 40.200001, 5770.393555>)
+4:57:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7001.766113, 40.200001, 5791.753906>)
+4:57:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7001.277832, 40.144478, 5810.324219>)
+4:57:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7012.871582, 40.029919, 5818.711914>)
+4:57:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7024.879883, 40.000008, 5819.997070>)
+4:57:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7038.647949, 40.000000, 5821.129883>)
+4:57:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7046.170410, 40.000004, 5836.753418>)
+4:57:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7061.757324, 43.863918, 5902.151855>)
+4:57:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7090.881836, 50.274673, 5957.238770>)
+4:57:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7098.239258, 53.474289, 5971.112305>)
+4:57:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7106.588867, 57.142883, 5988.407227>)
+4:57:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7117.689941, 60.940868, 6011.546387>)
+4:57:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7132.139160, 66.046204, 6041.685547>)
+4:57:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7136.950195, 68.737495, 6051.656738>)
+4:57:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7144.744629, 72.445183, 6067.924316>)
+4:57:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7153.027344, 72.985672, 6089.352539>)
+4:57:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7147.275879, 101.040932, 6136.528809>)
+4:57:40 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6766.037109, 607.920349, 7034.784668>)
+4:57:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6595.202637, 303.835510, 8094.130859>)
+4:57:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6354.131348, 71.867416, 9148.162109>)
+4:57:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6157.081543, 59.309082, 10230.437500>)
+4:57:50 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6241.713867, 12.869415, 9820.148438>)
+4:57:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6243.753418, 15.920862, 9810.932617>)
+4:57:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6253.323242, 19.002071, 9783.937500>)
+4:57:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6268.772461, 18.968769, 9716.345703>)
+4:57:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6277.244141, 19.820438, 9680.428711>)
+4:57:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6282.368164, 20.832113, 9663.552734>)
+4:57:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6283.169434, 19.819468, 9634.474609>)
+4:57:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6282.890625, 20.142794, 9616.909180>)
+4:57:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6282.250000, 19.746471, 9584.651367>)
+4:57:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6281.706543, 20.164200, 9562.179688>)
+4:57:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6282.036133, 20.770000, 9539.805664>)
+4:57:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6283.709961, 21.400181, 9523.473633>)
+4:58:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6288.097656, 20.769043, 9498.549805>)
+4:59:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5925.770996, -33.656380, 7332.106445>)
+5:0:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5927.136719, -11.997207, 7334.294434>)
+5:0:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5926.528320, -9.197184, 7332.755859>)
+5:0:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5925.916016, -6.943664, 7331.218262>)
+5:0:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5925.308105, -5.124853, 7329.680664>)
+5:0:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5924.700195, -3.245816, 7328.143066>)
+5:0:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<5880.265137, 1.993426, 7406.672852>)
+5:0:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_Apache_Winter)
+5:4:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionCarKey)
+5:4:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionCarKey)
+5:5:37 | [WeatherManager] Send Data Count is 0
+5:5:41 | [Time Manager] Setting Date to 2011/11/3 11:9
+5:8:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7717.583496, 13.282239, 5760.365723>)
+5:8:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Lockpick)
+5:9:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+5:10:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.093262, 9.845811, 5750.737305>
+5:10:9 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.093262, 9.845811, 5750.737305>
+5:10:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+5:10:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_SGate_Kit)
+5:10:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)

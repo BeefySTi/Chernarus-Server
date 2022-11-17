@@ -1,0 +1,10 @@
+{
+    "Fix_All_Holograms": 1,
+    "Fix_Only_These_Holograms": [
+        "WoodenCrate",
+        "Barrel_ColorBase"
+    ],
+    "Fix_All_But_These": [
+        "none"
+    ]
+}

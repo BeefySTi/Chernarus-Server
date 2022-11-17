@@ -1,0 +1,44 @@
+{
+    "m_TeleportLocations": [
+        {
+            "m_Name": "Trader",
+            "m_Position": [
+                4403.4677734375,
+                0.0,
+                3189.26318359375
+            ]
+        },
+        {
+            "m_Name": "Heli Trader",
+            "m_Position": [
+                4946.64501953125,
+                0.0,
+                4525.53662109375
+            ]
+        },
+        {
+            "m_Name": "BMT",
+            "m_Position": [
+                13831.51953125,
+                0.0,
+                9111.37890625
+            ]
+        },
+        {
+            "m_Name": "Hunting Trader",
+            "m_Position": [
+                8063.91259765625,
+                0.0,
+                11541.037109375
+            ]
+        },
+        {
+            "m_Name": "New Admin HQ Interior",
+            "m_Position": [
+                7815.44140625,
+                0.0,
+                7275.35888671875
+            ]
+        }
+    ]
+}

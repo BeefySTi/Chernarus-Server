@@ -1,0 +1,1700 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-1_23-0-55
+====================================================================================
+23:0:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:0:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:0:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:0:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:0:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:0:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:0:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:0:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:0:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:0:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:0:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:0:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:0:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:0:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:0:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:0:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:0:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:0:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:0:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:0:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:0:55 | Building Sets Loaded: 0
+23:0:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:0:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:0:55 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:0:55 | [PermissionManager] Loaded UserGroups.json
+23:0:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:0:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:1:47 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:1:48 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:1:51 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+23:2:5 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7677.744629, 9.249148, 5737.628418>)
+23:6:18 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:6:32 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:7:6 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+23:7:27 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+23:8:9 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:8:16 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:10:59 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+23:11:0 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+23:11:16 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:11:21 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+23:12:22 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+23:12:23 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+23:12:24 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+23:12:32 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+23:12:33 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+23:12:34 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+23:12:36 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+23:12:37 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+23:12:38 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+23:13:41 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+23:14:21 | "BeefySTi" (steamid=76561198095923512) deleted object "TreeHard_t_PinusSylvestris_2sb" (pos=<7694.489258, 22.625559, 5785.302246>)
+23:14:24 | "BeefySTi" (steamid=76561198095923512) deleted object "TreeHard_t_PinusSylvestris_2sb" (pos=<7694.489258, 22.625559, 5785.302246>)
+23:14:32 | "BeefySTi" (steamid=76561198095923512) deleted object "Static_stone1_vol" (pos=<7690.459473, 14.040980, 5769.339844>)
+23:14:36 | "BeefySTi" (steamid=76561198095923512) deleted object "TreeHard_t_PinusSylvestris_2sb" (pos=<7682.347656, 22.643650, 5771.051758>)
+23:14:43 | "Alzbob" (steamid=76561198303394031) deleted object "TreeHard_t_PinusSylvestris_2sb" (pos=<7694.489258, 22.625559, 5785.302246>)
+23:17:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:17:19 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SDoor)
+23:17:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+23:17:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_SGate_Kit)
+23:17:44 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Gate_Kit)
+23:17:45 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Gate_Kit)
+23:18:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Gate_Kit)
+23:18:18 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_SGate_Kit)
+23:18:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_SGate_Kit)
+23:18:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_SGate_Kit)
+23:19:21 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7661.621582, 10.066075, 5743.938965>
+23:19:22 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7661.621582, 10.066075, 5743.938965>
+23:19:38 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <7661.621582, 10.066075, 5743.938965>
+23:19:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:19:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:19:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:19:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:19:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:20:12 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:20:25 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7664.696289, 9.846839, 5738.032227>)
+23:20:30 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7670.693359, 9.847043, 5738.219727>)
+23:20:39 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7682.687500, 9.847043, 5738.594727>)
+23:20:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:20:57 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7664.696289, 9.846839, 5738.032227>)
+23:21:6 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7664.696289, 9.847247, 5738.032227>
+23:21:11 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:21:13 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+23:21:14 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+23:21:24 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7664.696289, 9.847247, 5738.032227>
+23:21:31 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7664.509277, 9.847859, 5744.029297>)
+23:21:34 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7664.509277, 9.847451, 5744.029297>)
+23:21:39 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7676.690430, 9.847247, 5738.407227>)
+23:21:47 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7682.500488, 9.847247, 5744.591797>)
+23:21:50 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:21:56 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7670.506348, 9.847655, 5744.216797>)
+23:21:58 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7670.506348, 9.847247, 5744.216797>)
+23:22:4 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7670.693359, 9.847043, 5738.219727>)
+23:22:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.499512, 9.846839, 5744.591797>
+23:22:7 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.499512, 9.846839, 5744.591797>
+23:22:8 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:22:10 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:22:13 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7676.503418, 9.847451, 5744.404297>)
+23:22:18 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7676.690430, 9.846839, 5738.407227>)
+23:22:19 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7682.687500, 9.847043, 5738.594727>)
+23:22:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:22:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+23:22:48 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.686523, 9.846635, 5738.594727>
+23:22:50 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.686523, 9.846635, 5738.594727>
+23:22:53 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7676.689453, 9.846431, 5738.407227>
+23:22:55 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7676.689453, 9.846431, 5738.407227>
+23:22:58 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7676.501465, 9.846227, 5744.404297>
+23:22:59 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7676.501465, 9.846227, 5744.404297>
+23:23:1 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7670.693359, 9.847043, 5738.219727>
+23:23:4 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7670.693359, 9.847043, 5738.219727>
+23:23:4 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7670.505371, 9.846839, 5744.216797>
+23:23:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7664.508301, 9.847043, 5744.029297>
+23:23:10 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7664.508301, 9.847043, 5744.029297>
+23:23:14 | Admin "Magick" (steamId=76561198797376439) built part t2_metal at position: <7664.508301, 9.847043, 5744.029297>
+23:23:24 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7664.508301, 9.847043, 5744.029297>)
+23:23:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7664.508301, 9.847043, 5744.029297>
+23:23:36 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7664.508301, 9.847043, 5744.029297>
+23:23:47 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_SGate" (pos=<7661.621582, 10.066075, 5743.938965>)
+23:24:17 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7661.620605, 10.065259, 5743.938965>
+23:24:18 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7661.620605, 10.065259, 5743.938965>
+23:24:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7661.808594, 10.065463, 5737.941895>
+23:24:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7661.808594, 10.065463, 5737.941895>
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:25:8 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7664.792480, 10.065463, 5735.138672>
+23:25:13 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7664.792480, 10.065463, 5735.138672>
+23:25:55 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7664.417969, 10.065259, 5746.917969>
+23:25:59 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7664.417969, 10.065259, 5746.917969>
+23:26:10 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7661.808594, 10.065463, 5737.941895>)
+23:26:37 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7670.415039, 10.065055, 5747.105469>
+23:26:39 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7661.808594, 10.065463, 5737.941895>
+23:26:42 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7670.415039, 10.065055, 5747.105469>
+23:26:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:26:43 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7661.808594, 10.065463, 5737.941895>
+23:26:48 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7676.411133, 10.064443, 5747.292969>
+23:26:51 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7676.411133, 10.064443, 5747.292969>
+23:27:1 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:27:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7661.746094, 13.323158, 5738.992676>)
+23:27:9 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:27:15 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.404297, 10.065055, 5747.485352>
+23:27:49 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <7682.404297, 10.065055, 5747.485352>
+23:27:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7682.404297, 10.065055, 5747.485352>
+23:28:25 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:28:25 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:28:28 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_BDoor" (pos=<7682.404297, 10.065055, 5747.485352>)
+23:28:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:28:45 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7673.801758, 10.064647, 5738.316895>
+23:28:46 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+23:28:48 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7673.801758, 10.064647, 5738.316895>
+23:28:53 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.404297, 10.065055, 5747.485352>
+23:29:0 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7682.404297, 10.065055, 5747.485352>
+23:29:2 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <7682.404297, 10.065055, 5747.485352>
+23:29:23 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.388184, 10.065055, 5744.682129>
+23:29:26 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.388184, 10.065055, 5744.682129>
+23:29:29 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.575195, 10.064851, 5738.685059>
+23:29:31 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.575195, 10.064851, 5738.685059>
+23:29:33 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.776855, 10.064851, 5735.706055>
+23:29:35 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7682.776855, 10.064851, 5735.706055>
+23:29:37 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7676.779785, 10.064647, 5735.518555>
+23:29:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:29:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:29:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:29:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:29:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7676.779785, 10.064647, 5735.518555>
+23:29:53 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7673.801758, 10.064647, 5738.316895>
+23:30:5 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_LGate" (pos=<7673.801758, 10.064647, 5738.316895>)
+23:30:16 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7670.783691, 10.065259, 5735.331055>
+23:30:17 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7670.783691, 10.065259, 5735.331055>
+23:30:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:30:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:30:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:30:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:30:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:31:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Admin_Hammer)
+23:31:13 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7662.857910, 12.895617, 5743.859375>)
+23:31:17 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7661.620605, 13.065259, 5743.938965>
+23:31:20 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7661.620605, 13.065259, 5743.938965>
+23:31:25 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7664.417969, 13.065259, 5746.917969>
+23:31:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:31:27 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7664.417969, 13.065259, 5746.917969>
+23:31:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:31:32 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7661.808594, 13.065463, 5737.941895>
+23:31:34 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7661.808594, 13.065463, 5737.941895>
+23:32:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:32:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:32:22 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Step_Ladder)
+23:32:24 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7670.415039, 13.065055, 5747.105469>)
+23:32:25 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:32:47 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Step_Ladder_Hologram)
+23:33:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7673.559570, 12.330101, 5747.142578>)
+23:33:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.683594, 9.846431, 5738.782227>
+23:33:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7688.683594, 9.846431, 5738.782227>
+23:33:10 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7676.411133, 13.064443, 5747.292969>
+23:33:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7673.603027, 11.995104, 5747.144043>)
+23:33:21 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7673.730469, 11.582140, 5746.599121>)
+23:33:22 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.276855, 12.846835, 5744.772461>
+23:33:25 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7676.411133, 13.064443, 5747.292969>
+23:33:30 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7688.276855, 12.846835, 5744.772461>
+23:33:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7673.870117, 11.526689, 5746.681641>)
+23:33:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7670.415039, 13.065055, 5747.105469>
+23:33:55 | [WeatherManager] Send Data Count is 0
+23:33:57 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7670.415039, 13.065055, 5747.105469>
+23:34:6 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.408203, 13.064443, 5747.480469>
+23:34:9 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7682.408203, 13.064443, 5747.480469>
+23:34:22 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:34:22 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:34:26 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7688.683594, 9.846431, 5738.782227>)
+23:34:29 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7688.276855, 12.846835, 5744.772461>)
+23:34:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.388184, 13.065055, 5744.682129>)
+23:34:35 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7685.388184, 13.065055, 5744.682129>
+23:35:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:35:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:36:20 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.276855, 9.846835, 5744.772461>
+23:36:22 | "Magick" (steamid=76561198797376439) deleted object "MMG_supplybag_dark_woodland" (pos=<7697.744629, 14.178736, 5775.590332>)
+23:36:38 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7685.388184, 10.065055, 5744.682129>)
+23:36:57 | "Magick" (steamid=76561198797376439) Spawned Item: (MMG_supplybag_multicamblack)
+23:37:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+23:37:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.388184, 13.065055, 5744.682129>)
+23:37:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.388184, 13.065055, 5744.682129>)
+23:37:51 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.344238, 14.679391, 5744.134766>)
+23:37:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.365723, 16.122650, 5743.437500>)
+23:37:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.388184, 13.065055, 5744.682129>)
+23:37:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.674805, 12.547720, 5741.768555>)
+23:38:3 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7685.388184, 13.065055, 5744.682129>
+23:38:31 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfoundation" (pos=<7688.463867, 12.846631, 5738.775391>)
+23:38:41 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+23:38:42 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+23:38:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+23:40:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Window_Kit)
+23:40:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Bpillar)
+23:40:46 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.186523, 10.065051, 5747.661133>
+23:40:52 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7688.186523, 10.065051, 5747.661133>
+23:40:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_RHanger_Roof)
+23:41:13 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_RHanger_Roof)
+23:41:14 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7688.186523, 10.065051, 5747.661133>)
+23:41:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:41:45 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7685.494141, 12.677711, 5739.323730>)
+23:41:58 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.451660, 9.846831, 5738.990234>
+23:42:0 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <7688.451660, 9.846831, 5738.990234>
+23:42:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.186523, 10.065051, 5747.661133>
+23:42:27 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7691.164551, 10.065051, 5744.862793>
+23:42:33 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+23:42:39 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.361328, 10.065051, 5741.878906>
+23:42:53 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_LHanger_Roof" (pos=<7688.451660, 9.846831, 5738.990234>)
+23:43:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+23:43:42 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7688.463867, 13.064851, 5738.775391>
+23:43:48 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7688.463867, 13.064851, 5738.775391>
+23:43:55 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7685.575195, 13.283067, 5738.685059>
+23:44:0 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7685.575195, 13.283067, 5738.685059>
+23:44:2 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+23:44:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+23:44:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+23:44:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+23:44:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+23:45:13 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7685.575195, 13.283067, 5738.685059>
+23:46:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (dzn_apsi)
+23:46:54 | "Magick" (steamid=76561198797376439) Spawned Item: (dzn_apsi)
+23:46:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (dzn_apsi)
+23:46:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Battery9V)
+23:47:29 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.554199, 13.283067, 5735.886719>
+23:47:41 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7691.164551, 13.065051, 5744.862793>
+23:47:44 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7691.164551, 13.065051, 5744.862793>
+23:47:45 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Battery9V)
+23:47:59 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.180664, 13.065051, 5747.666016>
+23:49:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.578613, 7.064851, 5735.871094>
+23:49:7 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7691.578613, 7.064851, 5735.871094>
+23:49:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:49:11 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.578613, 4.064851, 5735.871094>
+23:49:12 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7691.578613, 4.064851, 5735.871094>
+23:49:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.232422, 14.823769, 5741.869629>)
+23:49:25 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.578613, 10.064851, 5735.871094>
+23:49:32 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.578613, 13.064850, 5735.871094>
+23:49:33 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7691.578613, 13.064850, 5735.871094>
+23:49:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7691.578613, 10.064851, 5735.871094>
+23:49:47 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7695.167969, 12.806689, 5742.075195>)
+23:49:50 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7691.164551, 10.065051, 5744.862793>)
+23:50:45 | "Magick" (steamid=76561198797376439) Spawned Item: (Battery9V)
+23:50:45 | "Magick" (steamid=76561198797376439) Spawned Item: (Battery9V)
+23:50:45 | "Magick" (steamid=76561198797376439) Spawned Item: (Battery9V)
+23:50:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7667.056152, 5.760086, 5729.836914>)
+23:50:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7676.779785, 10.064647, 5735.518555>)
+23:51:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7676.779785, 10.064647, 5735.518555>)
+23:51:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7676.779785, 10.064647, 5735.518555>)
+23:51:10 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7676.779785, 10.064647, 5735.518555>)
+23:51:32 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+23:51:46 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7688.554199, 13.283067, 5735.886719>)
+23:51:48 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7688.463867, 13.064851, 5738.775391>)
+23:51:51 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7676.779785, 13.064647, 5735.518555>)
+23:52:1 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Broof" (pos=<7682.686523, 16.283066, 5738.594727>)
+23:52:5 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Window_Kit)
+23:52:8 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Broof" (pos=<7676.689453, 16.282862, 5738.407227>)
+23:52:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:14 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+23:52:44 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+23:53:5 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7685.533203, 13.067850, 5738.791016>
+23:53:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+23:53:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+23:53:31 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7688.463867, 13.064851, 5738.775391>
+23:53:34 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7688.463867, 13.064851, 5738.775391>
+23:53:39 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7685.533203, 13.067850, 5738.791016>
+23:53:41 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7685.533203, 13.067850, 5738.791016>
+23:54:6 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.373535, 13.283067, 5741.664063>
+23:54:8 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.373535, 13.283067, 5741.664063>
+23:54:16 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.276855, 16.065056, 5744.772461>
+23:54:22 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.683594, 16.064646, 5738.781738>
+23:54:29 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.683594, 16.064646, 5738.781738>
+23:54:46 | Admin "Alzbob" (steamId=76561198303394031) built part window_bars at position: <7685.533203, 13.067850, 5738.791016>
+23:55:0 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:55:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7687.704590, 16.317476, 5743.918457>)
+23:55:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Truck_01_Covered_Green)
+23:55:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+23:55:13 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7682.294434, 11.747648, 5742.200195>)
+23:55:17 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.499512, 16.065056, 5744.591797>
+23:55:19 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7682.776855, 13.064851, 5735.706055>
+23:55:21 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7676.501465, 16.064442, 5744.404297>
+23:55:24 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7676.501465, 16.064442, 5744.404297>
+23:55:25 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7682.776855, 13.064851, 5735.706055>
+23:55:26 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.499512, 16.065056, 5744.591797>
+23:55:29 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7682.686523, 16.064850, 5738.594727>
+23:55:31 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.686523, 16.064850, 5738.594727>
+23:55:35 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7676.689453, 16.064648, 5738.407227>
+23:55:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7676.689453, 16.064648, 5738.407227>
+23:55:40 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7670.693359, 16.065258, 5738.219727>
+23:55:41 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7670.693359, 16.065258, 5738.219727>
+23:55:45 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7664.697266, 16.065464, 5738.032227>
+23:55:47 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7664.697266, 16.065464, 5738.032227>
+23:55:50 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7664.509277, 16.065258, 5744.029297>
+23:55:51 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7664.509277, 16.065258, 5744.029297>
+23:55:54 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7670.505371, 16.065056, 5744.216797>
+23:55:56 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7670.505371, 16.065056, 5744.216797>
+23:56:18 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.068848, 15.903366, 5740.975586>)
+23:56:27 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.096191, 13.316985, 5740.872070>)
+23:56:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.807617, 15.893342, 5740.788086>)
+23:57:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.468750, 13.028172, 5739.724121>)
+23:57:8 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Broof" (pos=<7688.683594, 16.064646, 5738.781738>)
+23:57:16 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_SGate" (pos=<7688.373535, 13.283067, 5741.664063>)
+23:57:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7674.697266, 15.856857, 5739.663086>)
+23:57:23 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7670.783691, 13.065259, 5735.331055>
+23:57:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:57:29 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7670.783691, 13.065259, 5735.331055>
+23:57:52 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7664.792480, 13.065463, 5735.138672>
+23:57:52 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.464844, 16.064852, 5738.775391>
+23:57:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.464844, 16.064852, 5738.775391>
+23:57:57 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7664.792480, 13.065463, 5735.138672>
+23:58:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:58:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:58:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:58:16 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionHelipadKit)
+23:58:26 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Broof" (pos=<7682.686523, 16.064850, 5738.594727>)
+23:58:39 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.687500, 16.064852, 5738.594727>
+23:58:41 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.687500, 16.064852, 5738.594727>
+23:59:1 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7676.779785, 13.064647, 5735.518555>
+23:59:3 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7676.779785, 13.064647, 5735.518555>
+23:59:17 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Battery9V)
+23:59:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.949707, 15.836645, 5738.525879>)
+23:59:49 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.443359, 16.125591, 5739.753906>)
+0:0:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.309082, 13.316985, 5738.903320>)
+0:1:1 | [WeatherManager] Send Data Count is 0
+0:1:5 | [Time Manager] Setting Date to 2011/11/2 12:40
+0:1:20 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7695.335938, 12.378251, 5742.276855>)
+0:1:23 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7693.268555, 12.856287, 5741.726074>)
+0:1:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7688.361328, 10.065051, 5741.878906>)
+0:2:0 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.840820, 15.836645, 5738.578125>)
+0:2:2 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.373535, 13.283067, 5741.664063>
+0:2:4 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.373535, 13.283067, 5741.664063>
+0:2:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7695.743652, 12.613403, 5742.143066>)
+0:2:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 10.065051, 5744.862793>)
+0:2:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 10.065051, 5744.862793>)
+0:2:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:2:19 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+0:2:38 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7694.902344, 12.814954, 5742.058105>)
+0:2:41 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7693.445801, 12.886531, 5742.590332>)
+0:2:42 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.338867, 11.522599, 5743.402832>)
+0:2:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7688.180664, 13.065051, 5747.666016>)
+0:2:56 | "Magick" (steamid=76561198797376439) Spawned Item: (SledgeHammer)
+0:3:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.483887, 16.133749, 5738.475098>)
+0:3:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:3:33 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:3:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.836426, 13.316985, 5738.238281>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7690.375977, 15.836645, 5739.517578>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.895020, 874.911926, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.895020, 874.911987, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.895020, 874.911987, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.895020, 874.912048, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.894531, 874.912109, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.894531, 874.912109, 5887.410645>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7016.894531, 874.912170, 5887.411133>)
+0:3:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6940.954590, 971.723999, 5904.087891>)
+0:3:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7718.167969, 2.046922, 5758.895508>)
+0:3:56 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7670.842773, 23.887348, 5767.716309>)
+0:4:7 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_SGate" (pos=<7688.373535, 13.283067, 5741.664063>)
+0:4:31 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7688.463867, 13.064851, 5738.775391>)
+0:5:28 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7688.361328, 13.065051, 5741.878906>
+0:5:31 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7688.361328, 13.065051, 5741.878906>
+0:5:39 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7688.361328, 13.065051, 5741.878906>
+0:6:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:6:24 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7685.388184, 10.065051, 5744.682129>
+0:6:27 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7685.388184, 10.065051, 5744.682129>
+0:6:55 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:7:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+0:7:18 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+0:7:23 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7682.408203, 13.064443, 5747.480469>)
+0:7:29 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_LGate" (pos=<7685.388184, 10.065051, 5744.682129>)
+0:7:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.361328, 10.065051, 5741.878906>)
+0:7:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7684.542480, 4.967116, 5720.586914>)
+0:7:43 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.404297, 13.065055, 5747.485352>
+0:7:45 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7682.404297, 13.065055, 5747.485352>
+0:8:19 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:8:24 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Door_Kit)
+0:8:25 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:8:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7689.604492, 11.391459, 5741.789063>)
+0:8:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7689.030273, 10.922813, 5741.770996>)
+0:8:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.361328, 10.065051, 5741.878906>)
+0:8:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:8:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:8:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7688.826172, 11.272417, 5741.764648>)
+0:9:14 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:9:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:10:9 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.361328, 13.065051, 5741.878906>
+0:10:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7685.575195, 10.064851, 5738.685059>)
+0:10:25 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+0:10:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7688.361328, 13.065051, 5741.878906>
+0:11:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:11:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:11:10 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.361328, 10.065051, 5741.878906>)
+0:11:19 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.451660, 13.065051, 5738.990234>
+0:11:22 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.451660, 13.065051, 5738.990234>
+0:11:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Admin_Hammer)
+0:11:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7688.361328, 13.065051, 5741.878906>
+0:13:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7682.313965, 9.846835, 5750.374023>
+0:13:1 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7682.313965, 9.846835, 5750.374023>
+0:13:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Window_Kit)
+0:13:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7708.554199, 18.845398, 5705.718262>)
+0:13:24 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.880371, 15.836645, 5739.802734>)
+0:13:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7687.028809, 13.317185, 5738.289551>)
+0:13:44 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.156250, 13.317185, 5739.014160>)
+0:13:53 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.541992, 13.283267, 5736.102539>
+0:13:56 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <7688.541992, 13.283267, 5736.102539>
+0:14:0 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7688.541992, 13.283267, 5736.102539>
+0:14:8 | Admin "Alzbob" (steamId=76561198303394031) built part window_bars at position: <7688.541992, 13.283267, 5736.102539>
+0:14:10 | Admin "Alzbob" (steamId=76561198303394031) built part t2_door at position: <7688.541992, 13.283267, 5736.102539>
+0:14:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:14:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:14:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:14:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:14:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:15:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7694.531738, 12.812518, 5741.701172>)
+0:15:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.093750, 12.895836, 5742.527832>)
+0:15:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.516113, 12.916792, 5743.368164>)
+0:15:19 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7691.164551, 10.065051, 5744.862793>)
+0:15:28 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.448730, 13.064847, 5739.177246>
+0:15:30 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.448730, 13.064847, 5739.177246>
+0:15:33 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.445801, 13.064643, 5739.364258>
+0:15:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.445801, 13.064643, 5739.364258>
+0:15:49 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7695.405273, 13.246109, 5747.569336>)
+0:15:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7694.158691, 12.959221, 5744.897461>)
+0:15:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.340820, 14.818081, 5743.349121>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:54 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.164551, 13.065051, 5744.862793>)
+0:15:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7599.102539, 18.481180, 5979.719727>)
+0:16:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7700.258301, 13.064439, 5745.361328>
+0:16:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7572.076172, 39.372871, 6053.836426>)
+0:16:45 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.442871, 13.064439, 5739.551270>
+0:16:47 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.442871, 13.064439, 5739.551270>
+0:16:50 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.255371, 13.064235, 5745.548340>
+0:16:51 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.255371, 13.064235, 5745.548340>
+0:16:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7663.522461, 10.787041, 5780.649902>)
+0:17:19 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7691.164551, 10.065051, 5744.862793>)
+0:17:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7693.593750, 12.849024, 5741.815430>)
+0:18:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7698.363770, 13.027760, 5743.478516>)
+0:19:11 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:19:18 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:19:19 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:19:21 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:19:29 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+0:19:33 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:20:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:20:4 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:20:4 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:20:15 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.261230, 13.064643, 5745.174316>
+0:20:16 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7691.555176, 13.283063, 5739.092773>
+0:20:24 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.261230, 13.064643, 5745.174316>
+0:20:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7691.555176, 13.283063, 5739.092773>
+0:20:44 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <7691.555176, 13.283063, 5739.092773>
+0:20:45 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7694.261230, 13.064643, 5745.174316>)
+0:21:53 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.261230, 13.064639, 5745.175293>
+0:21:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.261230, 13.064639, 5745.175293>
+0:22:16 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7694.261230, 13.064639, 5745.175293>)
+0:22:43 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.053223, 13.065051, 5744.953125>
+0:22:44 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.053223, 13.065051, 5744.953125>
+0:23:0 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7700.258301, 13.064439, 5745.361328>)
+0:23:3 | "Alzbob" (steamid=76561198303394031) deleted object "" (pos=<7718.961426, 6.631373, 5722.837891>)
+0:23:12 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.050293, 13.064847, 5745.140625>
+0:23:14 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.050293, 13.064847, 5745.140625>
+0:23:19 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7706.255371, 13.064235, 5745.548340>)
+0:23:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:23:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+0:23:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:23:38 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.047363, 13.064643, 5745.328125>
+0:23:39 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.047363, 13.064643, 5745.328125>
+0:24:33 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7691.264160, 15.569741, 5745.792969>)
+0:25:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7706.690918, 15.877680, 5716.975098>)
+0:25:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7706.861816, 14.675631, 5717.043945>)
+0:26:2 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7708.551758, 14.474277, 5715.289063>)
+0:26:7 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7706.442871, 13.064439, 5739.551270>)
+0:26:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7708.485352, 14.952736, 5715.259766>)
+0:26:12 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7700.445801, 13.064643, 5739.364258>)
+0:26:16 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7705.453613, 15.813623, 5707.848633>)
+0:26:21 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7694.448730, 13.064847, 5739.177246>)
+0:26:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7709.004883, 20.849876, 5705.180664>)
+0:26:44 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.235352, 13.064439, 5739.331055>
+0:26:46 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.235352, 13.064439, 5739.331055>
+0:26:48 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.238281, 13.064643, 5739.143555>
+0:26:50 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.238281, 13.064643, 5739.143555>
+0:26:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.241211, 13.064847, 5738.956055>
+0:26:56 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.241211, 13.064847, 5738.956055>
+0:27:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.331543, 13.283063, 5736.067383>
+0:27:3 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7694.331543, 13.283063, 5736.067383>
+0:27:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7701.275391, 14.544763, 5736.222656>)
+0:28:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:28:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:28:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:28:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:29:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:29:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:29:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:29:16 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.860352, 13.064439, 5751.325195>
+0:29:18 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7705.860352, 13.064439, 5751.325195>
+0:29:22 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.673340, 13.064235, 5757.322266>
+0:29:23 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7705.673340, 13.064235, 5757.322266>
+0:29:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:29:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:29:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:29:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:30:14 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.869629, 13.064843, 5750.917969>
+0:30:16 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.869629, 13.064843, 5750.917969>
+0:30:35 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7699.869629, 13.064843, 5750.917969>)
+0:30:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.869629, 13.064843, 5750.917969>
+0:30:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.869629, 13.064843, 5750.917969>
+0:31:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.682129, 13.064639, 5756.915039>
+0:31:9 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.682129, 13.064639, 5756.915039>
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:31 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:32 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:31:58 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.489258, 13.063827, 5763.131836>
+0:32:0 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.489258, 13.063827, 5763.131836>
+0:32:6 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.486328, 13.064031, 5763.319336>
+0:32:7 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7705.486328, 13.064031, 5763.319336>
+0:32:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:32:31 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7699.489258, 13.063827, 5763.131836>)
+0:32:36 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7705.486328, 13.064031, 5763.319336>)
+0:32:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7704.396973, 13.315788, 5756.476563>)
+0:32:42 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7705.191895, 13.316369, 5756.298340>)
+0:32:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7704.488770, 13.316010, 5757.772949>)
+0:33:49 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<7702.570801, 13.282855, 5757.005371>)
+0:33:51 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7699.682129, 13.064639, 5756.915039>)
+0:34:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7705.716797, 13.316369, 5756.186523>)
+0:34:34 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.682617, 13.064635, 5756.915039>
+0:34:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.682617, 13.064635, 5756.915039>
+0:34:44 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.869629, 13.064839, 5750.917969>
+0:34:46 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7699.869629, 13.064839, 5750.917969>
+0:35:9 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7699.869629, 13.064843, 5750.917969>)
+0:35:15 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7705.673340, 13.064235, 5757.322266>)
+0:35:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:35:34 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.679688, 13.064431, 5757.102539>
+0:35:35 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7705.679688, 13.064431, 5757.102539>
+0:38:3 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.460938, 9.846427, 5738.962891>
+0:38:4 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.460938, 9.846427, 5738.962891>
+0:38:8 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.463867, 9.846631, 5738.775391>
+0:38:10 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.463867, 9.846631, 5738.775391>
+0:38:44 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.458008, 9.846223, 5739.150391>
+0:38:45 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.458008, 9.846223, 5739.150391>
+0:38:59 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.270996, 9.846019, 5745.147461>
+0:39:1 | Admin "Alzbob" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <7700.270996, 9.846019, 5745.147461>
+0:39:4 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7700.270996, 9.846019, 5745.147461>)
+0:39:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.394531, 9.898913, 5741.462402>)
+0:39:18 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.270996, 9.846019, 5745.147461>
+0:39:20 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.270996, 9.846019, 5745.147461>
+0:39:56 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.053223, 9.846831, 5744.953125>
+0:39:57 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.053223, 9.846831, 5744.953125>
+0:40:49 | "Magick" (steamid=76561198797376439) deleted object "BBP_Bfloor" (pos=<7694.053223, 9.846831, 5744.953125>)
+0:41:9 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:41:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:41:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:41:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:41:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:41:34 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.273926, 9.845815, 5744.959961>
+0:41:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.273926, 9.845815, 5744.959961>
+0:41:50 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7685.575195, 10.064851, 5738.685059>)
+0:41:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:41:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:41:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:41:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:41:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+0:42:28 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.575195, 10.064847, 5738.685059>
+0:42:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.183594, 10.064031, 5747.848633>
+0:42:44 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7694.183594, 10.064031, 5747.848633>
+0:42:47 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.180664, 10.064235, 5748.036133>
+0:42:49 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7700.180664, 10.064235, 5748.036133>
+0:42:54 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.575195, 10.064847, 5738.685059>
+0:43:26 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7685.575195, 10.064847, 5738.685059>)
+0:43:41 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.456055, 9.862520, 5739.513672>)
+0:43:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:43:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:43:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+0:43:59 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:44:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:44:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:44:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+0:44:49 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.090332, 9.846015, 5750.924805>
+0:44:51 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.090332, 9.846015, 5750.924805>
+0:45:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Admin_Hammer)
+0:45:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Admin_Hammer)
+0:45:27 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7699.260742, 13.028168, 5744.953125>)
+0:45:42 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.456055, 13.064427, 5757.283203>
+0:45:43 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.558105, 10.065051, 5738.895020>
+0:45:44 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.456055, 13.064427, 5757.283203>
+0:45:46 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_door at position: <7685.558105, 10.065051, 5738.895020>
+0:46:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.443359, 9.428863, 5739.913574>)
+0:46:11 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.558105, 10.065051, 5738.895020>
+0:46:30 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7688.554199, 10.064847, 5735.886719>
+0:46:39 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.963867, 9.568170, 5748.247070>)
+0:46:39 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7691.345215, 10.065051, 5739.075684>
+0:46:56 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:56 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:56 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:56 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:57 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:57 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:57 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:46:57 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Foundation_Kit)
+0:47:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7700.180664, 10.064235, 5748.036133>)
+0:47:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.279297, 9.327657, 5745.174316>)
+0:47:12 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7700.168457, 11.711412, 5748.757813>)
+0:47:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7700.831055, 10.480886, 5748.185547>)
+0:47:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7694.551270, 10.064643, 5736.074219>)
+0:47:51 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.268066, 9.845815, 5745.334961>
+0:47:52 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.268066, 9.845815, 5745.334961>
+0:48:17 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.265137, 9.845611, 5745.522461>
+0:48:18 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.265137, 9.845611, 5745.522461>
+0:48:37 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7706.081055, 9.845611, 5751.332031>
+0:48:43 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7706.081055, 9.845611, 5751.332031>
+0:48:58 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.078125, 9.845407, 5751.519531>
+0:49:0 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.078125, 9.845407, 5751.519531>
+0:49:19 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:19 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:20 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:20 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:20 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:20 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:21 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:49:21 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:50:13 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7703.192383, 10.063827, 5751.241699>
+0:50:15 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7703.192383, 10.063827, 5751.241699>
+0:50:17 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.990723, 10.063827, 5754.220703>
+0:50:19 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7705.990723, 10.063827, 5754.220703>
+0:51:18 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfoundation" (pos=<7711.456055, 13.064427, 5757.283203>)
+0:51:30 | "BeefySTi" (steamid=76561198095923512) deleted object "Truck_01_Covered_Green" (pos=<7676.542969, 10.194592, 5737.478027>)
+0:51:40 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<7675.718750, 10.093076, 5739.618164>)
+0:51:43 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<7675.718750, 10.093076, 5739.618164>)
+0:51:48 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Roof_Kit" (pos=<7675.718750, 10.093076, 5739.618164>)
+0:51:56 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Ramp_Kit" (pos=<7681.606934, 10.093280, 5739.010742>)
+0:52:0 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<7681.606934, 10.093280, 5739.010742>)
+0:52:48 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7699.592285, 13.282851, 5759.803711>)
+0:52:50 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7696.976074, 13.283063, 5750.832520>
+0:52:51 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7696.976074, 13.283063, 5750.832520>
+0:52:54 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7696.793945, 13.282851, 5756.824707>
+0:52:55 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7696.793945, 13.282851, 5756.824707>
+0:52:57 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7699.592285, 13.282851, 5759.803711>
+0:52:58 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7699.592285, 13.282851, 5759.803711>
+0:53:1 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7708.567383, 13.282647, 5757.192871>
+0:53:2 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7708.567383, 13.282647, 5757.192871>
+0:53:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7705.589355, 13.282647, 5759.991211>
+0:53:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7705.589355, 13.282647, 5759.991211>
+0:53:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:53:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:53:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:53:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:53:24 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7699.959961, 13.283063, 5748.029297>
+0:53:27 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7699.959961, 13.283063, 5748.029297>
+0:53:33 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7699.959961, 13.283063, 5748.029297>)
+0:53:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:53:44 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:53:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:53:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:53:45 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+0:54:19 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.452148, 9.845815, 5739.525391>
+0:54:21 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.452148, 9.845815, 5739.525391>
+0:54:24 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.455078, 9.846019, 5739.337891>
+0:54:25 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.455078, 9.846019, 5739.337891>
+0:54:44 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.987793, 10.063622, 5754.408203>
+0:54:45 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7711.987793, 10.063622, 5754.408203>
+0:54:51 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7708.968750, 10.063827, 5751.422363>
+0:54:53 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7708.968750, 10.063827, 5751.422363>
+0:54:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.155762, 10.064031, 5745.425293>
+0:54:56 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7709.155762, 10.064031, 5745.425293>
+0:55:0 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7693.962891, 13.283267, 5747.841797>
+0:55:14 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7694.143555, 13.283267, 5742.064453>
+0:55:25 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7700.140625, 13.283063, 5742.251953>
+0:55:29 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7694.364258, 10.064031, 5742.071289>
+0:55:31 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7694.364258, 10.064031, 5742.071289>
+0:55:34 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7694.364258, 10.064031, 5742.071289>
+0:55:35 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7702.937988, 13.283063, 5745.230957>
+0:55:38 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7700.361328, 10.064235, 5742.258789>
+0:55:40 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7699.955078, 13.283059, 5748.024414>
+0:55:43 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7700.361328, 10.064235, 5742.258789>
+0:55:47 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7703.158691, 10.064235, 5745.237793>
+0:55:49 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7703.158691, 10.064235, 5745.237793>
+0:55:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7710.410156, 13.026535, 5739.271484>)
+0:56:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.018066, 13.026535, 5740.949219>)
+0:56:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.334473, 13.026535, 5741.772461>)
+0:56:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7712.273438, 13.026535, 5741.889160>)
+0:56:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.368652, 12.322535, 5742.734863>)
+0:56:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.954102, 13.026739, 5744.667480>)
+0:56:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.293945, 12.330463, 5745.133301>)
+0:56:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.155762, 10.064031, 5745.425293>)
+0:56:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:56:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:56:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:56:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+0:56:11 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.155762, 10.064031, 5745.425293>)
+0:56:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.155762, 10.064031, 5745.425293>)
+0:56:25 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7708.148926, 13.027760, 5741.470703>)
+0:56:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.022461, 15.200321, 5717.827148>)
+0:56:28 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.416504, 14.989464, 5716.489746>)
+0:56:30 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.325684, 13.282655, 5736.442383>)
+0:56:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7700.045410, 16.283058, 5745.135742>
+0:56:54 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7694.053223, 16.283268, 5744.953125>
+0:57:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7709.332031, 12.995497, 5743.916504>)
+0:57:14 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7702.758301, 13.283059, 5751.008301>
+0:57:16 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7709.313477, 12.569017, 5744.507813>)
+0:57:22 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.265625, 13.063418, 5745.522461>
+0:57:23 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.265625, 13.063418, 5745.522461>
+0:57:25 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.078125, 13.063622, 5751.519531>
+0:57:27 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.078125, 13.063622, 5751.519531>
+0:57:27 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7709.151367, 12.758469, 5749.700195>)
+0:57:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.453125, 13.063214, 5739.525391>
+0:57:33 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.453125, 13.063214, 5739.525391>
+0:57:51 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:57:52 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:57:52 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:57:52 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:57:52 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+0:58:28 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7702.570313, 13.282851, 5757.005371>
+0:58:57 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7699.682617, 16.282852, 5756.915039>
+0:59:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7699.869629, 16.283058, 5750.917969>
+0:59:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7710.808105, 13.026739, 5744.047852>)
+0:59:30 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.297852, 10.954725, 5744.997559>)
+0:59:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7712.273926, 9.808931, 5746.500977>)
+1:0:25 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Ramp_Kit" (pos=<7701.727539, 13.311288, 5740.406738>)
+1:0:29 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Foundation_Kit" (pos=<7701.727539, 13.311288, 5740.406738>)
+1:0:29 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7712.453125, 13.063214, 5739.525391>)
+1:0:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+1:0:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+1:0:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+1:0:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+1:0:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7713.031738, 13.026739, 5743.281738>)
+1:0:58 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7694.241211, 16.283062, 5738.956055>
+1:1:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7700.230957, 16.283062, 5739.363281>
+1:1:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7706.235352, 16.282654, 5739.331055>
+1:1:6 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:1:6 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7706.325684, 13.282655, 5736.442383>
+1:1:9 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:1:11 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7700.328613, 13.282859, 5736.254883>
+1:1:21 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+1:1:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7707.233398, 13.027760, 5741.295410>)
+1:2:4 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+1:2:15 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7711.987793, 10.063622, 5754.408203>)
+1:2:17 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+1:2:17 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7711.987793, 10.063622, 5754.408203>)
+1:2:27 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7708.567383, 13.282647, 5757.192871>)
+1:2:48 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+1:2:48 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+1:2:49 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+1:2:49 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+1:2:50 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+1:2:50 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+1:2:51 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+1:2:56 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7709.155762, 10.064031, 5745.425293>)
+1:2:59 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7708.968750, 10.063827, 5751.422363>)
+1:3:2 | "Magick" (steamid=76561198797376439) deleted object "BBP_Bwall" (pos=<7711.987793, 10.063622, 5754.408203>)
+1:3:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:3:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:3:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:3:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:3:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:3:16 | "Magick" (steamid=76561198797376439) deleted object "BBP_Bfoundation" (pos=<7712.078125, 9.845407, 5751.519531>)
+1:3:19 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7691.164551, 13.065051, 5744.862793>)
+1:3:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.248047, 10.109033, 5746.497559>)
+1:3:26 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<7694.364258, 10.064031, 5742.071289>)
+1:3:28 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.158691, 10.064235, 5745.237793>)
+1:3:38 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7711.857422, 13.064235, 5751.512695>
+1:3:41 | Admin "BeefySTi" (steamId=76561198095923512) built part t1_wall_logs_horizontal at position: <7711.857422, 13.064235, 5751.512695>
+1:3:49 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:3:50 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bfloor" (pos=<7711.857422, 13.064235, 5751.512695>)
+1:4:0 | "Magick" (steamid=76561198797376439) deleted object "BBP_Bfloor" (pos=<7712.265137, 9.845611, 5745.522461>)
+1:4:1 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:2 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:5 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7711.857422, 13.064235, 5751.512695>
+1:4:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7706.811523, 9.809135, 5745.967285>)
+1:4:8 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:10 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:14 | "Magick" (steamid=76561198797376439) deleted object "BBP_Bfoundation" (pos=<7706.081055, 9.845611, 5751.332031>)
+1:4:16 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:18 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:23 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7706.325684, 13.282655, 5736.442383>)
+1:4:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7706.135254, 15.022811, 5736.497559>)
+1:4:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7706.135254, 15.022789, 5736.497559>)
+1:4:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7706.187988, 16.413994, 5736.579590>)
+1:4:37 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:38 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:40 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:4:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7697.535156, 13.027964, 5741.654297>)
+1:4:50 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7711.857422, 13.064235, 5751.512695>
+1:5:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:5:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:5:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:5:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Floor_Kit)
+1:5:39 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Window_Kit)
+1:5:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.078125, 9.845403, 5751.520020>
+1:5:43 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.078125, 9.845403, 5751.520020>
+1:5:48 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.081055, 9.845607, 5751.332031>
+1:5:50 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.081055, 9.845607, 5751.332031>
+1:5:52 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.265625, 9.845199, 5745.522949>
+1:5:53 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7691.159668, 13.283267, 5744.857910>
+1:5:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.265625, 9.845199, 5745.522949>
+1:5:55 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7691.159668, 13.283267, 5744.857910>
+1:5:58 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7691.159668, 13.283267, 5744.857910>
+1:6:0 | Admin "Magick" (steamId=76561198797376439) built part window_bars at position: <7691.159668, 13.283267, 5744.857910>
+1:6:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.268555, 9.844995, 5745.335938>
+1:6:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.268555, 9.844995, 5745.335938>
+1:6:8 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7711.670410, 13.064031, 5757.509766>
+1:6:18 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7712.044434, 13.064439, 5745.515625>
+1:6:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:20 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+1:6:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7712.232422, 13.064235, 5739.518555>
+1:6:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7708.318359, 10.095134, 5743.245605>)
+1:7:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.274414, 9.844586, 5744.961914>
+1:7:2 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.274414, 9.844586, 5744.961914>
+1:7:4 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.461914, 9.844382, 5738.964844>
+1:7:5 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.461914, 9.844382, 5738.964844>
+1:7:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.458984, 9.844586, 5739.151855>
+1:7:8 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.458984, 9.844586, 5739.151855>
+1:7:12 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.271484, 9.844790, 5745.148926>
+1:7:13 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.271484, 9.844790, 5745.148926>
+1:8:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7694.578613, 9.682191, 5735.943848>)
+1:9:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7712.743652, 13.027351, 5757.058594>)
+1:9:24 | "Magick" (steamid=76561198797376439) deleted objects using ESP
+1:9:44 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7708.567383, 13.282647, 5757.192871>)
+1:9:53 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Window_Kit)
+1:9:59 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+1:10:0 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+1:10:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+1:10:13 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bfloor" (pos=<7711.670410, 13.064031, 5757.509766>)
+1:10:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+1:10:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+1:10:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+1:10:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.897461, 9.845399, 5757.296387>
+1:10:32 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.897461, 9.845399, 5757.296387>
+1:11:11 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+1:11:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Stair_Kit)
+1:11:34 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:11:40 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:11:49 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:11:58 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+1:11:58 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+1:12:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.075195, 9.845199, 5751.708008>
+1:12:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.075195, 9.845199, 5751.708008>
+1:12:19 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7688.644531, 13.064847, 5732.998047>
+1:12:22 | Admin "Magick" (steamId=76561198797376439) built part t1_wall_logs_horizontal at position: <7688.644531, 13.064847, 5732.998047>
+1:13:3 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+1:13:3 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Admin_Hammer)
+1:13:54 | "Magick" (steamid=76561198797376439) deleted objects using ESP
+1:14:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.554199, 10.064847, 5735.886719>)
+1:14:9 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7688.908203, 13.028372, 5738.374512>)
+1:14:17 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7688.554199, 13.064847, 5735.886719>
+1:14:20 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7688.554199, 13.064847, 5735.886719>
+1:14:22 | Admin "Magick" (steamId=76561198797376439) built part window_bars at position: <7688.554199, 13.064847, 5735.886719>
+1:14:24 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7688.554199, 13.064847, 5735.886719>
+1:14:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:14:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:14:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:14:37 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.453125, 9.844995, 5739.525879>
+1:14:38 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7712.453125, 9.844995, 5739.525879>
+1:14:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.456055, 9.844382, 5739.339844>
+1:14:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7706.456055, 9.844382, 5739.339844>
+1:15:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7694.331543, 13.283063, 5736.067383>)
+1:15:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7700.328613, 13.282859, 5736.254883>)
+1:15:34 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Stair_Kit)
+1:15:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7708.567383, 13.282647, 5757.192871>)
+1:15:46 | "Alzbob" (steamid=76561198303394031) toggled freecam
+1:16:10 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7709.135742, 13.027555, 5749.541504>)
+1:16:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Step_Ladder)
+1:17:20 | "Alzbob" (steamid=76561198303394031) toggled freecam
+1:17:40 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.894531, 9.845195, 5757.484375>
+1:17:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7717.894531, 9.845195, 5757.484375>
+1:17:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:17:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:18:38 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Door_Kit)
+1:18:38 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Door_Kit)
+1:20:9 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:20:9 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:20:9 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:20:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:20:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+1:20:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Hatch_Kit)
+1:20:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Land_Claim_FlagKit)
+1:21:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Land_Claim_Flag)
+1:21:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Land_Claim_Pole)
+1:21:50 | [WeatherManager] Send Data Count is 0
+1:22:15 | [Time Manager] Setting Date to 2011/11/2 10:42
+1:22:43 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7709.008789, 10.063615, 5757.206055>)
+1:22:46 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7709.155273, 12.087280, 5756.839355>)
+1:23:5 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7715.125977, 13.282451, 5739.613770>)
+1:23:9 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7715.125977, 13.282451, 5739.613770>)
+1:23:15 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:23:16 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:23:29 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+1:23:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.008789, 10.063615, 5757.206055>)
+1:23:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7709.008789, 10.063615, 5757.206055>)
+1:23:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7708.567383, 13.282647, 5757.192871>)
+1:23:57 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:24:2 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:24:17 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+1:24:21 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.539551, 12.971899, 5757.533203>
+1:24:25 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.539551, 12.971899, 5757.533203>
+1:24:28 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+1:24:31 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Floor_Hatch" (pos=<7711.539551, 12.971899, 5757.533203>)
+1:24:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7720.359375, 7.885966, 5744.843262>)
+1:24:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7707.303223, 16.359009, 5742.389648>)
+1:24:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7718.787109, 7.885966, 5745.066895>)
+1:24:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7716.870605, 7.885966, 5745.182617>)
+1:24:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Hatch_Kit)
+1:24:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7714.941895, 7.886170, 5745.516602>)
+1:24:39 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7712.367676, 7.886170, 5745.871582>)
+1:24:40 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7711.604004, 7.886170, 5746.089844>)
+1:24:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7706.844727, 7.885966, 5746.023438>)
+1:24:57 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7709.008789, 10.063615, 5757.206055>)
+1:25:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_BuildPermit)
+1:25:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_BuildPermit)
+1:26:9 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.676758, 13.064227, 5757.290039>
+1:26:11 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7711.676758, 13.064227, 5757.290039>
+1:26:14 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.676758, 13.064227, 5757.290039>
+1:26:16 | Admin "Alzbob" (steamId=76561198303394031) built part stair at position: <7711.676758, 13.064227, 5757.290039>
+1:26:55 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TerritoryFlagKit)
+1:27:27 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.450195, 9.844790, 5739.713867>
+1:27:30 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7718.450195, 9.844790, 5739.713867>
+1:27:38 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.262695, 9.844995, 5745.710938>
+1:27:40 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7718.262695, 9.844995, 5745.710938>
+1:27:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7726.816895, 13.982237, 5726.477051>)
+1:27:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7726.730469, 10.473823, 5727.897949>)
+1:30:43 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:30:45 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:31:24 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.207031, 9.025002, 5746.802246>)
+1:31:27 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7720.497070, 7.885966, 5746.416016>)
+1:31:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7718.540527, 10.063006, 5736.825195>)
+1:34:6 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+1:34:23 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8673.022461, 521.790283, 5871.478027>)
+1:34:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8174.793457, 10.940971, 6156.491211>)
+1:34:39 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:34:44 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:34:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7742.148438, 5.065597, 5776.349609>)
+1:36:19 | "Magick" (steamid=76561198797376439) executed kill command on: "76561198797376439"
+1:37:20 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+1:38:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.609863, 8.334345, 5737.055176>)
+1:38:18 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.719238, 8.024582, 5736.313477>)
+1:38:24 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.546387, 11.053106, 5734.937012>)
+1:38:41 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Spillar" (pos=<7721.360352, 8.362629, 5736.978027>)
+1:38:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:38:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:38:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:38:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:6 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:7 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:8 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:39:25 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.374023, 5.362629, 5736.578125>
+1:39:27 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.374023, 5.362629, 5736.578125>
+1:39:48 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Spillar" (pos=<7709.547852, 9.844995, 5736.456055>)
+1:39:54 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:40:36 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:41:0 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bpillar" (pos=<7715.544922, 6.844790, 5736.644043>)
+1:41:7 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Spillar" (pos=<7715.544922, 9.844790, 5736.644043>)
+1:41:24 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:41:32 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6989.082520, 6.348522, 5535.261719>)
+1:41:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7008.646484, 8.518740, 5539.548340>)
+1:41:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7098.933594, 9.529871, 5566.597656>)
+1:41:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7124.567383, 11.567469, 5574.013672>)
+1:41:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7206.031738, 16.271080, 5597.710449>)
+1:41:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7273.325684, 15.730055, 5618.104004>)
+1:41:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7664.792480, 13.065463, 5735.138672>)
+1:41:40 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.547852, 6.844382, 5736.457520>
+1:41:43 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7709.547852, 6.844382, 5736.457520>
+1:41:46 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.547852, 3.844382, 5736.457520>
+1:41:47 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7709.547852, 3.844382, 5736.457520>
+1:41:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7720.268555, 7.634007, 5735.762207>)
+1:42:1 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.374023, 8.362629, 5736.578125>
+1:42:3 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.374023, 8.362629, 5736.578125>
+1:42:34 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7715.544922, 3.844790, 5736.644043>
+1:42:35 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7715.544922, 3.844790, 5736.644043>
+1:42:39 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7715.544922, 6.844790, 5736.644043>
+1:42:40 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7715.544922, 6.844790, 5736.644043>
+1:42:46 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7708.090820, 10.346692, 5736.489746>)
+1:42:52 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.547852, 9.844382, 5736.457520>
+1:42:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7709.547852, 9.844382, 5736.457520>
+1:43:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7715.541992, 10.063210, 5736.730957>
+1:43:8 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7715.541992, 10.063210, 5736.730957>
+1:43:33 | "Magick" (steamid=76561198797376439) Spawned Item: (IodineTincture)
+1:43:50 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:43:51 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:44:5 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:44:7 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+1:44:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:44:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:44:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+1:44:33 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.541992, 3.844790, 5736.831543>
+1:44:35 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.541992, 3.844790, 5736.831543>
+1:44:35 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:44:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.639648, 7.068182, 5736.584961>)
+1:44:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7720.758789, 8.381308, 5735.898438>)
+1:44:50 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:45:4 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7721.541992, 6.844790, 5736.831543>
+1:45:7 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7721.541992, 6.844790, 5736.831543>
+1:45:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.702637, 11.252447, 5737.362305>)
+1:45:21 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.541992, 9.844790, 5736.831543>
+1:45:22 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.541992, 9.844790, 5736.831543>
+1:45:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:45:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:45:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:45:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:45:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:45:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.704590, 15.028492, 5756.397461>)
+1:46:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7711.676758, 13.064227, 5757.290039>)
+1:47:15 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.707031, 9.844991, 5763.481445>
+1:47:17 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7717.707031, 9.844991, 5763.481445>
+1:47:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:47:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:47:36 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:47:39 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7714.786133, 10.063615, 5757.386719>
+1:47:49 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.799316, 10.063411, 5760.377930>
+1:47:52 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7717.799316, 10.063411, 5760.377930>
+1:47:54 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+1:47:56 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7717.799316, 10.063411, 5760.377930>
+1:48:11 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7714.786133, 10.063615, 5757.386719>
+1:48:21 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.807129, 10.063615, 5760.184082>
+1:48:23 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7711.807129, 10.063615, 5760.184082>
+1:48:28 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.008789, 10.063615, 5757.206055>
+1:48:29 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7709.008789, 10.063615, 5757.206055>
+1:48:37 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.783203, 10.063411, 5757.574707>
+1:48:38 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.783203, 10.063411, 5757.574707>
+1:48:58 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.979980, 10.063415, 5754.601563>
+1:49:0 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7717.979980, 10.063415, 5754.601563>
+1:49:2 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7717.979980, 10.063415, 5754.601563>
+1:49:4 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.963867, 10.063415, 5751.798340>
+1:49:7 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.963867, 10.063415, 5751.798340>
+1:50:26 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.151367, 10.063210, 5745.801270>)
+1:50:40 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+1:50:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:50:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:50:46 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+1:51:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.255859, 13.063415, 5745.930664>
+1:51:2 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.255859, 13.063415, 5745.930664>
+1:52:18 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7703.194824, 15.870882, 5744.250488>)
+1:52:21 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7703.070801, 16.448376, 5743.934570>)
+1:52:26 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7703.245605, 15.949024, 5742.626465>)
+1:53:12 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+1:53:14 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7705.656738, 17.952477, 5739.208008>)
+1:53:47 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:53:49 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.552246, 10.062598, 5736.076172>
+1:53:51 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7694.552246, 10.062598, 5736.076172>
+1:53:54 | Player "Magick" (steamId=76561198797376439) connected to server!
+1:53:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.549316, 10.062802, 5736.263184>
+1:53:57 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7700.549316, 10.062802, 5736.263184>
+1:54:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.546387, 10.062598, 5736.451172>
+1:54:2 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7706.546387, 10.062598, 5736.451172>
+1:54:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.543457, 10.063210, 5736.637207>
+1:54:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7712.543457, 10.063210, 5736.637207>
+1:54:9 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.540527, 10.063006, 5736.825195>
+1:54:10 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7718.540527, 10.063006, 5736.825195>
+1:54:13 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.343750, 10.063006, 5739.809082>
+1:54:14 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7721.343750, 10.063006, 5739.809082>
+1:54:17 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.151367, 10.063210, 5745.801270>
+1:54:18 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7721.151367, 10.063210, 5745.801270>
+1:54:28 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7715.154297, 10.063415, 5745.613281>
+1:54:30 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7715.154297, 10.063415, 5745.613281>
+1:54:32 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.165527, 10.063415, 5748.819336>
+1:54:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7718.165527, 10.063415, 5748.819336>
+1:54:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7709.162109, 10.063827, 5745.420410>
+1:54:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7709.162109, 10.063827, 5745.420410>
+1:54:45 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7708.974609, 10.063827, 5751.417480>
+1:54:47 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7708.974609, 10.063827, 5751.417480>
+1:54:51 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7703.164551, 10.064235, 5745.232910>
+1:54:52 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7703.164551, 10.064235, 5745.232910>
+1:55:8 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.358887, 10.063827, 5742.436523>
+1:55:10 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7706.358887, 10.063827, 5742.436523>
+1:55:12 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7706.358887, 10.063827, 5742.436523>
+1:55:21 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.361328, 10.064235, 5742.249023>
+1:55:22 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7700.361328, 10.064235, 5742.249023>
+1:55:33 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.364746, 10.062802, 5742.073242>
+1:55:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7694.364746, 10.062802, 5742.073242>
+1:55:35 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7694.364746, 10.062802, 5742.073242>
+1:56:23 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.992676, 10.063615, 5754.402832>
+1:56:24 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7711.992676, 10.063615, 5754.402832>
+1:56:26 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7711.992676, 10.063615, 5754.402832>
+1:56:42 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7715.346680, 10.063210, 5739.621094>
+1:56:44 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7715.346680, 10.063210, 5739.621094>
+1:56:45 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7715.346680, 10.063210, 5739.621094>
+1:56:59 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:57:14 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.075195, 13.063415, 5751.708008>
+1:57:15 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.075195, 13.063415, 5751.708008>
+1:57:30 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.894531, 13.063411, 5757.484375>
+1:57:32 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7717.894531, 13.063411, 5757.484375>
+1:58:3 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:58:12 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+1:58:26 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+1:58:26 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+1:58:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Expansion_Landrover_Green)
+1:58:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Expansion_Landrover_Green)
+1:59:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionCarKey)
+1:59:19 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.450195, 13.063006, 5739.713867>
+2:0:57 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:0:59 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.215820, 11.284656, 5737.792969>)
+2:1:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.199707, 11.407524, 5739.075195>)
+2:1:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.324707, 13.084931, 5739.256836>)
+2:1:16 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:1:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (IRPLandRoverDefender_Cover)
+2:2:10 | "BeefySTi" (steamid=76561198095923512) deleted object "IRPLandRoverDefender_Cover" (pos=<7666.322266, 10.063252, 5738.129395>)
+2:2:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+2:2:46 | "Magick" (steamid=76561198797376439) Spawned Item: (TetracyclineAntibiotics)
+2:2:46 | "Magick" (steamid=76561198797376439) Spawned Item: (TetracyclineAntibiotics)
+2:2:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:2:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.219727, 11.240030, 5738.968750>)
+2:3:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.218750, 12.260762, 5739.212891>)
+2:3:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:4 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+2:3:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:10 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7720.127930, 10.090270, 5740.054199>)
+2:3:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7720.816895, 10.091699, 5740.211914>)
+2:3:15 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:3:33 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.455078, 13.063006, 5739.718750>
+2:3:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:3:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.455078, 13.063006, 5739.718750>
+2:3:38 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.319824, 13.282451, 5736.817383>
+2:3:41 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7718.319824, 13.282451, 5736.817383>
+2:3:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:3:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:3:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:3:47 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:3:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:3 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:4:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Money_Dollar100)
+2:5:7 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Admin Isle)
+2:5:11 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7718.319824, 13.282451, 5736.817383>)
+2:5:14 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<7712.322754, 13.282451, 5736.629883>)
+2:5:51 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:5:52 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:5:54 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:5:55 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:5:57 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:5:58 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:0 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:1 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:2 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:4 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:12 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:15 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:17 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:18 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:19 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:28 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:30 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:31 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:35 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:39 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:45 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:47 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:52 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:54 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:6:57 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:4 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:7 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:10 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:14 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:19 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:23 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:24 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:25 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+2:7:27 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:31 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:49 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:50 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:51 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:53 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:54 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:56 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:7:59 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:8:2 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+2:8:18 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7638.594238, 6.233652, 5738.466797>)
+2:8:22 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7637.418945, 6.044502, 5736.869141>)
+2:9:22 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+2:9:24 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+2:11:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_SGate_Kit)
+2:11:58 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+2:12:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7685.377441, 10.065051, 5744.682129>
+2:12:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7685.377441, 10.065051, 5744.682129>
+2:13:14 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:13:14 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:13:14 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:15:2 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.673828, 13.064023, 5757.477051>
+2:15:46 | "BeefySTi" (steamid=76561198095923512) /heal used on: "BeefySTi" (steamid=76561198095923512)
+2:16:28 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+2:16:29 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+2:16:42 | "Magick" (steamid=76561198797376439) Spawned Item: (LeatherSewingKit)
+2:20:55 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.673828, 13.064019, 5757.477051>
+2:21:32 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.229980, 13.063210, 5739.706543>
+2:21:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.229980, 13.063210, 5739.706543>
+2:21:37 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.042969, 13.063415, 5745.703613>
+2:21:38 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.042969, 13.063415, 5745.703613>
+2:21:40 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.854980, 13.063210, 5751.700684>
+2:21:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7717.854980, 13.063210, 5751.700684>
+2:21:57 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.673828, 13.064023, 5757.477051>
+2:21:59 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7717.673828, 13.064023, 5757.477051>
+2:22:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+2:22:49 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:22:49 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:22:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+2:22:49 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:22:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+2:22:49 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Floor_Kit)
+2:25:34 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.887695, 9.844995, 5757.705078>
+2:26:35 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.450195, 9.844790, 5739.713867>
+2:26:37 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.450195, 9.844790, 5739.713867>
+2:26:54 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Bpillar" (pos=<7715.541992, 10.063210, 5736.730957>)
+2:26:59 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.262695, 9.844995, 5745.710938>
+2:26:59 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.075195, 9.845199, 5751.708008>
+2:27:0 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7718.262695, 9.844995, 5745.710938>
+2:27:2 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7718.075195, 9.845199, 5751.708008>
+2:27:4 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7717.887695, 9.844995, 5757.705078>
+2:27:22 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.540527, 10.063006, 5736.825195>
+2:27:23 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7718.540527, 10.063006, 5736.825195>
+2:27:32 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.343750, 10.063006, 5739.809082>
+2:27:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7721.343750, 10.063006, 5739.809082>
+2:27:52 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.151367, 10.063210, 5745.801270>
+2:27:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7721.151367, 10.063210, 5745.801270>
+2:27:56 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.963867, 10.063415, 5751.798340>
+2:27:58 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.963867, 10.063415, 5751.798340>
+2:28:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.781250, 10.063210, 5757.789551>
+2:28:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:1 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:2 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.781250, 10.063210, 5757.789551>
+2:28:2 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:28:20 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7714.786133, 10.063615, 5757.386719>
+2:28:21 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7714.786133, 10.063615, 5757.386719>
+2:28:38 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.172363, 10.063210, 5748.598633>
+2:28:39 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7718.172363, 10.063210, 5748.598633>
+2:29:9 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:29:10 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:29:10 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Wall_Kit)
+2:29:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+2:29:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+2:29:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+2:29:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+2:29:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+2:30:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Door_Kit)
+2:30:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Door_Kit)
+2:30:11 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.589355, 10.063615, 5760.370605>
+2:30:13 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7717.589355, 10.063615, 5760.370605>
+2:30:14 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7717.589355, 10.063615, 5760.370605>
+2:30:18 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.984863, 10.063415, 5754.595703>
+2:30:20 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7717.984863, 10.063415, 5754.595703>
+2:30:22 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7717.984863, 10.063415, 5754.595703>
+2:32:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7714.966797, 10.063415, 5751.610352>
+2:32:33 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7714.966797, 10.063415, 5751.610352>
+2:32:34 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7714.966797, 10.063415, 5751.610352>
+2:33:14 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7708.567383, 13.282647, 5757.192871>
+2:33:15 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7708.567383, 13.282647, 5757.192871>
+2:33:15 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7712.322754, 13.282451, 5736.629883>
+2:33:19 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.767090, 13.282443, 5754.402344>
+2:33:20 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7711.767090, 13.282443, 5754.402344>
+2:33:22 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7712.322754, 13.282451, 5736.629883>
+2:33:27 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.586426, 13.282443, 5760.178711>
+2:33:28 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7709.343750, 13.282451, 5739.428223>
+2:33:28 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7711.586426, 13.282443, 5760.178711>
+2:33:29 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7709.343750, 13.282451, 5739.428223>
+2:33:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7717.583496, 13.282239, 5760.365723>
+2:33:31 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7709.343750, 13.282451, 5739.428223>
+2:33:32 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7717.583496, 13.282239, 5760.365723>
+2:33:34 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.562500, 13.282239, 5757.567383>
+2:33:36 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.562500, 13.282239, 5757.567383>
+2:33:38 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7720.743652, 13.281426, 5751.791016>
+2:33:39 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7720.743652, 13.281426, 5751.791016>
+2:33:40 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7712.134766, 13.282655, 5742.626953>
+2:33:42 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7712.134766, 13.282655, 5742.626953>
+2:33:47 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.131836, 13.282655, 5742.814453>
+2:33:48 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7718.131836, 13.282655, 5742.814453>
+2:33:52 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7721.118652, 13.281426, 5739.796875>
+2:33:54 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7721.118652, 13.281426, 5739.796875>
+2:33:57 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.315430, 13.281426, 5736.812988>
+2:33:59 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7718.315430, 13.281426, 5736.812988>
+2:34:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+2:34:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+2:34:8 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7709.155762, 13.282655, 5745.425293>
+2:34:10 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7709.155762, 13.282655, 5745.425293>
+2:34:11 | Admin "Magick" (steamId=76561198797376439) built part t3_door at position: <7709.155762, 13.282655, 5745.425293>
+2:34:14 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7711.954102, 13.282655, 5748.404297>
+2:34:16 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7711.954102, 13.282655, 5748.404297>
+2:34:30 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7711.954102, 13.282655, 5748.404297>
+2:34:38 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.952637, 13.281631, 5748.592285>
+2:34:40 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7717.952637, 13.281631, 5748.592285>
+2:34:44 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7720.931641, 13.281631, 5745.793945>
+2:34:46 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7720.931641, 13.281631, 5745.793945>
+2:35:2 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.676758, 16.282442, 5757.290039>
+2:35:7 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:7 | Admin "Alzbob" (steamId=76561198303394031) built part stair at position: <7711.676758, 16.282442, 5757.290039>
+2:35:7 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:8 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:9 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:9 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:9 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:35:12 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7711.676758, 16.282442, 5757.290039>
+2:35:14 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.676758, 16.282442, 5757.290039>
+2:37:44 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7705.679688, 16.282238, 5757.102051>
+2:37:47 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7705.679688, 16.282238, 5757.102051>
+2:38:18 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Roof_Hatch" (pos=<7711.676758, 16.282442, 5757.290039>)
+2:38:29 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7706.042480, 16.282854, 5745.322754>
+2:38:31 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7706.042480, 16.282854, 5745.322754>
+2:38:35 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7705.860352, 16.282238, 5751.326660>
+2:38:37 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7705.860352, 16.282238, 5751.326660>
+2:38:42 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7711.857422, 16.282442, 5751.513672>
+2:38:44 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7711.857422, 16.282442, 5751.513672>
+2:39:0 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.676758, 16.282442, 5757.290039>
+2:39:3 | Admin "Alzbob" (steamId=76561198303394031) built part stair at position: <7711.676758, 16.282442, 5757.290039>
+2:39:10 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7711.676758, 16.282442, 5757.290039>
+2:39:12 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.676758, 16.282442, 5757.290039>
+2:39:19 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Roof_Hatch" (pos=<7711.676758, 16.282442, 5757.290039>)
+2:39:22 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+2:39:36 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+2:39:57 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7711.676758, 16.282442, 5757.290039>
+2:39:59 | Admin "Alzbob" (steamId=76561198303394031) built part stair at position: <7711.676758, 16.282442, 5757.290039>
+2:40:6 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7711.676758, 16.282442, 5757.290039>
+2:40:7 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7711.676758, 16.282442, 5757.290039>
+2:40:18 | Player "Magick" (steamId=76561198797376439) connected to server!
+2:40:38 | Player "Magick" (steamId=76561198797376439) connected to server!
+2:40:57 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+2:41:0 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+2:41:1 | "Magick" (steamid=76561198797376439) just updated a health stat on (steamid=76561198797376439)
+2:41:48 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7717.952637, 13.281631, 5748.592285>)
+2:42:7 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7712.044434, 16.282654, 5745.515625>
+2:42:9 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7712.044434, 16.282654, 5745.515625>
+2:42:12 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.041504, 16.282654, 5745.703125>
+2:42:14 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7718.041504, 16.282654, 5745.703125>
+2:42:20 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7718.229492, 16.282246, 5739.705078>
+2:42:21 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7718.229492, 16.282246, 5739.705078>
+2:42:25 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7712.232422, 16.282450, 5739.518066>
+2:42:27 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7712.232422, 16.282450, 5739.518066>
+2:42:46 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.854980, 16.281425, 5751.700684>
+2:42:47 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7717.854980, 16.281425, 5751.700684>
+2:43:25 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:43:31 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Broof" (pos=<7700.230957, 16.283062, 5739.363281>)
+2:43:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+2:43:41 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Roof_Kit)
+2:43:50 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.238281, 16.282858, 5739.143555>
+2:43:52 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7700.238281, 16.282858, 5739.143555>
+2:43:53 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.673828, 16.282238, 5757.477051>
+2:43:54 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7717.673828, 16.282238, 5757.477051>
+2:45:15 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7717.673828, 16.282238, 5757.477051>
+2:45:17 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7717.673828, 16.282238, 5757.477051>
+2:47:15 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7714.570313, 13.282443, 5757.375488>
+2:47:17 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7714.570313, 13.282443, 5757.375488>
+2:47:18 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7714.570313, 13.282443, 5757.375488>
+2:48:19 | "Magick" (steamid=76561198797376439) toggled freecam
+2:49:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7708.748047, 13.282655, 5751.415527>
+2:49:56 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks_2 at position: <7708.748047, 13.282655, 5751.415527>
+2:49:58 | Admin "Alzbob" (steamId=76561198303394031) built part t3_door at position: <7708.748047, 13.282655, 5751.415527>
+2:49:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7639.934570, 12.327669, 6002.128906>)
+2:50:1 | "Magick" (steamid=76561198797376439) toggled freecam
+2:50:18 | [WeatherManager] Send Data Count is 0
+2:50:39 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7627.539063, 18.806263, 6015.211914>)
+2:50:40 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7619.203125, 23.283339, 6023.153320>)
+2:50:43 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7572.143066, 41.524586, 6062.435547>)
+2:50:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7612.125000, 25.480829, 6026.906738>)
+2:50:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7585.418945, 38.447147, 6062.088379>)
+2:51:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7558.957031, 34.232643, 6032.345215>)
+2:51:24 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.497559, 13.457798, 5791.899902>)
+2:51:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7501.777832, 40.849903, 5983.334961>)
+2:51:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7429.304199, 40.978672, 5918.943359>)
+2:51:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7409.613770, 49.646549, 5907.201660>)
+2:52:9 | "Magick" (steamid=76561198797376439) toggled freecam
+2:52:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7697.624512, 13.266147, 5767.403809>)
+2:52:16 | "Magick" (steamid=76561198797376439) toggled freecam
+2:52:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:52:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:52:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:52:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:52:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:52:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+2:55:10 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.539063, 4.063006, 5736.918945>
+2:55:11 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.539063, 4.063006, 5736.918945>
+2:55:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.807129, 7.681740, 5736.498535>)
+2:55:20 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.539063, 7.063006, 5736.918945>
+2:55:26 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.858398, 9.007664, 5736.078125>)
+2:55:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7722.138184, 9.407154, 5736.150391>)
+2:55:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7722.150879, 9.594779, 5736.110352>)
+2:55:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.583008, 7.762985, 5736.301270>)
+2:55:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7718.540527, 10.063006, 5736.825195>)
+2:56:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.343750, 10.063006, 5739.809082>)
+2:56:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.221191, 11.533121, 5736.970215>)
+2:56:17 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7718.315430, 13.281426, 5736.812988>)
+2:56:33 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.919434, 10.324587, 5735.773926>)
+2:56:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7721.999023, 9.776611, 5736.038086>)
+2:57:3 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.449707, 6.185383, 5737.207520>)
+2:57:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.535156, 6.589854, 5737.059082>)
+2:57:11 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7721.364746, 5.377955, 5737.868164>)
+2:57:14 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7721.539063, 7.063006, 5736.918945>
+2:58:42 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.245117, 7.063210, 5742.802734>
+2:58:42 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.245117, 7.063210, 5742.802734>
+2:58:46 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.170898, 7.063210, 5748.692383>
+2:58:47 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.170898, 7.063210, 5748.692383>
+2:58:53 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.170898, 4.063210, 5748.692383>
+2:58:54 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.170898, 4.063210, 5748.692383>
+2:59:9 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.245117, 4.063210, 5742.802734>
+2:59:10 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7721.245117, 4.063210, 5742.802734>
+3:0:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+3:0:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+3:0:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+3:0:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+3:0:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+3:0:33 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.589355, 13.282647, 5759.991211>)
+3:0:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.281250, 13.658028, 5759.707031>)
+3:0:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7323.544434, 35.397083, 5730.246582>)
+3:0:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.508301, 14.673654, 5759.794434>)
+3:0:36 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.740234, 13.777675, 5759.873047>)
+3:0:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.782715, 14.673654, 5759.886230>)
+3:0:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.589355, 13.282647, 5759.991211>)
+3:2:52 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <7697.201660, 10.064231, 5750.834473>
+3:2:55 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <7697.201660, 10.064231, 5750.834473>
+3:3:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7699.479492, 11.926553, 5759.895020>)
+3:3:17 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks_2 at position: <7697.201660, 10.064231, 5750.834473>
+3:3:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7696.648438, 12.369214, 5757.208008>)
+3:3:48 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7695.754395, 0.126229, 5759.645020>)
+3:3:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.634277, 0.184654, 5758.981934>)
+3:3:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7689.998535, 0.279684, 5759.218750>)
+3:3:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.276367, 0.287016, 5759.454102>)
+3:4:0 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7690.545410, 0.311786, 5759.408203>)
+3:4:11 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7675.238281, 0.291356, 5757.189941>)
+3:4:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7675.496094, 0.232084, 5757.422852>)
+3:4:28 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+3:5:37 | "Alzbob" (steamid=76561198303394031) toggled godmode
+3:5:37 | "Alzbob" (steamid=76561198303394031) toggled godmode
+3:5:47 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+3:5:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.869629, 10.384146, 5753.181641>)
+3:9:32 | "Alzbob" (steamid=76561198303394031) executed kill command on: "76561198303394031"
+3:9:33 | "Alzbob" (steamid=76561198303394031) gave godmode to (steamid=76561198303394031)
+3:9:35 | "Alzbob" (steamid=76561198303394031) executed kill command on: "76561198303394031"
+3:9:59 | "Alzbob" (steamid=76561198303394031) toggled godmode
+3:10:2 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7200.422852, 10.778789, 5579.778809>)
+3:10:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7253.462402, 13.522408, 5597.889160>)
+3:10:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7315.523926, 13.649901, 5620.557617>)
+3:10:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7669.186523, 6.428291, 5733.356934>)
+3:10:34 | "Magick" (steamid=76561198797376439) gave unlimited ammo to (steamid=76561198797376439)
+3:10:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (CodeLock)
+3:11:18 | "Magick" (steamid=76561198797376439) deleted object "BBP_Floor_Kit" (pos=<7753.258301, 0.227592, 5776.601563>)
+3:11:20 | "Magick" (steamid=76561198797376439) deleted object "BBP_Door_Kit" (pos=<7753.258301, 0.227592, 5776.601563>)
+3:11:21 | "Magick" (steamid=76561198797376439) deleted object "BBP_Floor_Kit" (pos=<7753.258301, 0.227592, 5776.601563>)
+3:11:23 | "Magick" (steamid=76561198797376439) deleted object "BBP_Foundation_Kit" (pos=<7753.258301, 0.227592, 5776.601563>)
+3:11:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:24 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:25 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:30 | "Magick" (steamid=76561198797376439) deleted object "BBP_Roof_Kit" (pos=<7753.258301, 0.227592, 5776.601563>)
+3:11:34 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7753.258301, 0.383724, 5776.601563>)
+3:11:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:37 | "Alzbob" (steamid=76561198303394031) Spawned Item: (Expansion_C4_Explosion)
+3:11:58 | "Magick" (steamid=76561198797376439) deleted object "BBP_Stair_Kit" (pos=<7710.896973, 12.421318, 5769.273926>)
+3:12:10 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.535952, 5754.250488>)
+3:12:12 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.606565, 5754.250488>)
+3:12:14 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.491727, 5754.250488>)
+3:12:15 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.463431, 5754.250488>)
+3:12:17 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.154471, 5754.250488>)
+3:12:19 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.189105, 5754.250488>)
+3:12:21 | "Magick" (steamid=76561198797376439) deleted object "BBP_Wall_Kit" (pos=<7686.166504, 11.055591, 5754.250488>)
+3:12:23 | "Magick" (steamid=76561198797376439) deleted object "BBP_Gate_Kit" (pos=<7685.576172, 10.959347, 5753.590820>)
+3:12:27 | "Magick" (steamid=76561198797376439) deleted object "TaloonBag_Orange" (pos=<7683.417480, 10.798436, 5752.308105>)
+3:12:34 | "Magick" (steamid=76561198797376439) deleted object "BBP_Concrete_Brick_Pile" (pos=<7695.723145, 9.676701, 5750.028809>)
+3:12:35 | "Magick" (steamid=76561198797376439) deleted object "" (pos=<7697.068848, 2.679142, 5747.026855>)
+3:15:21 | "Magick" (steamid=76561198797376439) Spawned Item: (CodeLock)
+3:16:7 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_XmasLights_9v)
+3:16:58 | "Magick": (steamid=76561198797376439) teleported to (pos=Gen Trader)
+3:23:59 | "Magick" (steamid=76561198797376439) Spawned Item: (CamoNet)
+3:26:52 | "Magick" (steamid=76561198797376439) Teleporting player: "Magick" (steamid=76561198797376439) to (pos=<0.000000, 0.000000, 11720.339844>)
+3:29:5 | [WeatherManager] Send Data Count is 0
+3:29:29 | [Time Manager] Setting Date to 2011/11/2 7:37
+3:31:26 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7707.493652, 15.850982, 5760.179688>)
+3:33:15 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+3:35:37 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+3:35:39 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.

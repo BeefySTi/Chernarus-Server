@@ -1,0 +1,205 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-23_23-33-1
+====================================================================================
+23:33:1 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:33:1 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:33:1 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:33:1 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:33:1 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:33:1 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:33:1 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:33:1 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:33:1 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:33:1 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:33:1 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:33:1 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:33:1 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:33:1 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:33:1 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:33:1 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:33:1 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:33:1 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:33:1 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:33:1 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:33:1 | [PermissionManager] Adding Super Admin (76561198095923512)
+23:33:1 | [PermissionManager] Loaded UserGroups.json
+23:33:1 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:33:1 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:33:1 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:33:1 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:33:1 | Building Sets Loaded: 0
+23:35:6 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+23:35:16 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+23:35:24 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:37:3 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_MedicalBox" (pos=<5872.373535, 253.585815, 9172.280273>)
+23:44:9 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:44:10 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:44:21 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:44:22 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:44:24 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:44:25 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:45:16 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:45:27 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+23:45:28 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+23:45:43 | Player "Frank" (steamId=76561199004385675) connected to server!
+23:51:11 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+23:51:22 | Player "BlueHamWallet" (steamId=76561198067006084) connected to server!
+23:51:40 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:51:55 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+23:52:39 | "BlueHamWallet" (steamid=76561198067006084) toggled freecam
+23:54:45 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:54:45 | "BlueHamWallet" (steamid=76561198067006084) toggled godmode
+23:58:30 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_Wall_Kit)
+23:58:49 | Admin "BlueHamWallet" (steamId=76561198067006084) built part frame at position: <5864.848633, 253.516434, 9158.345703>
+23:58:51 | Admin "BlueHamWallet" (steamId=76561198067006084) built part t1_wall_logs_horizontal at position: <5864.848633, 253.516434, 9158.345703>
+23:58:57 | Admin "BlueHamWallet" (steamId=76561198067006084) built part t2_metal at position: <5864.848633, 253.516434, 9158.345703>
+23:59:7 | "BlueHamWallet" (steamid=76561198067006084) deleted object "BBP_Bwall" (pos=<5864.848633, 253.516434, 9158.345703>)
+23:59:9 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_Wall_Kit)
+23:59:18 | Admin "BlueHamWallet" (steamId=76561198067006084) built part frame at position: <5864.848633, 253.516434, 9158.345703>
+23:59:19 | Admin "BlueHamWallet" (steamId=76561198067006084) built part t3_wall_concrete_bricks at position: <5864.848633, 253.516434, 9158.345703>
+23:59:53 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (CamoNet)
+0:4:59 | Player "Kitsune" (steamId=76561198303394031) connected to server!
+0:5:11 | Player "Kitsune" (steamId=76561198303394031) connected to server!
+0:5:32 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:5:33 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:5:48 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_MilitaryLocker_Kit)
+0:5:50 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_MilitaryLocker_Kit)
+0:5:51 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_MilitaryLocker_Kit)
+0:5:52 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_MilitaryLocker_Kit)
+0:5:55 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+0:6:7 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:6:24 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<5938.399902, 205.736008, 1179.729980>)
+0:6:24 | "Kitsune": (steamid=76561198303394031) teleported to (pos=5938.4,0,1179.73)
+0:7:44 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_MilitaryLocker" (pos=<5865.073730, 253.586609, 9154.831055>)
+0:9:1 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Gunwall_Kit)
+0:9:23 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Gunwall" (pos=<5864.461914, 253.959152, 9158.378906>)
+0:9:28 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Gunwall_Kit)
+0:9:59 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Gunwall" (pos=<5864.552246, 254.554901, 9158.508789>)
+0:10:3 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Gunwall_Kit)
+0:10:50 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Gunwall_Kit" (pos=<5862.241211, 253.598114, 9156.051758>)
+0:11:6 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_DoubleGunRack_Kit)
+0:11:42 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_DoubleGunRack" (pos=<5862.408203, 253.586609, 9159.402344>)
+0:11:45 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_DoubleGunRack_Kit)
+0:14:12 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_StoneFireplace_Kit)
+0:14:13 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Shelf_Kit)
+0:14:14 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Shelf_Kit)
+0:14:16 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Shelf_Kit)
+0:14:59 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Shelf_Kit" (pos=<5859.964355, 253.597916, 9157.739258>)
+0:15:0 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Shelf_Kit" (pos=<5859.964355, 253.597916, 9157.739258>)
+0:15:2 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Shelf_Kit" (pos=<5860.689453, 253.598114, 9157.342773>)
+0:15:21 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_WoodenTable_Kit)
+0:15:32 | "Kitsune" (steamid=76561198303394031) Spawned Item: (Mosin9130_Pink)
+0:15:58 | "Kitsune" (steamid=76561198303394031) Spawned Item: (AD_NFATACR_MosinMount)
+0:16:7 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_WoodenChair)
+0:16:25 | "Kitsune" (steamid=76561198303394031) Spawned Item: (Ammo_762x54)
+0:17:41 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_b)
+0:17:46 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_b)
+0:17:47 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_b)
+0:17:47 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_b)
+0:17:48 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_b)
+0:17:48 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_c)
+0:17:48 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_c)
+0:17:49 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (StaticObj_picture_d)
+0:18:4 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_PhotoFrame_Landscape)
+0:18:5 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_PhotoFrame_Portrait)
+0:18:33 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Candle)
+0:18:34 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_Candle)
+0:18:53 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6173.939941, 213.120010, 2029.680054>)
+0:18:53 | "Kitsune": (steamid=76561198303394031) teleported to (pos=6173.94,0,2029.68)
+0:18:58 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:19:3 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:19:13 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Msp_Candle" (pos=<5861.363770, 253.670410, 9156.461914>)
+0:19:15 | "BlueHamWallet" (steamid=76561198067006084) deleted object "Candle" (pos=<5861.312988, 253.612015, 9156.434570>)
+0:19:36 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_HousePlant_Succulent)
+0:20:0 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Expansion_Gravecross)
+0:20:52 | "BlueHamWallet" (steamid=76561198067006084) deleted objects using ESP
+0:20:53 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:21:0 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:21:26 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:21:36 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:22:41 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:23:27 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:23:30 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:23:33 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (BBP_Dance_FloorKit)
+0:23:40 | "Kitsune" (steamid=76561198303394031) teleported to crosshair (pos=<4383.966309, 200.989151, 3190.827393>)
+0:23:41 | "Kitsune" (steamid=76561198303394031) toggled freecam
+0:25:33 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_KiddiePool_Yellow_Kit)
+0:25:33 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_KiddiePool_Pink_Kit)
+0:25:34 | "BlueHamWallet" (steamid=76561198067006084) Spawned Item: (Msp_KiddiePool_Kit)
+0:26:36 | Player "Kitsune" (steamId=76561198303394031) disconnected from server.
+0:26:38 | Player "BlueHamWallet" (steamId=76561198067006084) disconnected from server.
+0:26:39 | Player "Kitsune" (steamId=76561198303394031) disconnected from server.
+0:30:11 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+0:30:11 | Player "Frank" (steamId=76561199004385675) disconnected from server.

@@ -1,0 +1,1346 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-11_18-58-35
+====================================================================================
+18:58:35 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:58:35 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:58:35 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:58:35 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:58:35 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:58:35 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:58:35 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:58:35 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:58:35 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:58:35 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:58:35 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:58:35 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:58:35 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:58:35 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:58:35 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:58:35 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:58:35 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:58:35 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:58:35 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:58:35 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:58:35 | [PermissionManager] Adding Super Admin (76561198095923512)
+18:58:35 | [PermissionManager] Loaded UserGroups.json
+18:58:35 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:58:35 | Building Sets Loaded: 0
+18:58:35 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:58:35 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:58:35 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:59:38 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+18:59:51 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+19:0:21 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+19:4:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Wallet_Large_Leather)
+19:7:4 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+19:7:12 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+19:9:1 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+19:10:43 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+19:10:51 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+19:13:13 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<2777.120117, 227.072647, 6418.169922>)
+19:13:13 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=2777.12,0,6418.17)
+19:13:48 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+19:14:4 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<2812.592529, 225.234970, 6492.857422>)
+19:14:13 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<2816.273682, 225.859634, 6497.076660>)
+19:14:14 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<2815.959229, 226.021027, 6498.346680>)
+19:15:18 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:15:28 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:17:54 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+19:18:34 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:18:49 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:18:53 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:18:56 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:19:1 | Player "Frank" (steamId=76561199004385675) connected to server!
+19:19:3 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+19:19:11 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<2681.887207, 163.476044, 6500.305176>)
+19:19:26 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+19:20:43 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:21:19 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<4022.120117, 53.000000, 7623.779785>)
+19:21:19 | "Alzbob": (steamid=76561198303394031) teleported to (pos=4022.12,0,7623.78)
+19:21:28 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+19:21:39 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+19:21:39 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:21:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3981.728271, 60.054688, 7647.621094>)
+19:21:54 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561199206265093)
+19:21:59 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:22:21 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+19:22:23 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+19:22:30 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3823.666260, 53.083961, 7452.217773>)
+19:22:31 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:23:8 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:16 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<3804.478271, 53.000011, 7454.493652>)
+19:23:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:23:53 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+19:24:59 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:26:57 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+19:27:21 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+19:28:51 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+19:30:17 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3091.829834, 180.395859, 6801.935059>)
+19:30:18 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3216.833984, 200.345154, 6773.298828>)
+19:37:55 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7633.220215, 72.236794, 8735.900391>)
+19:37:55 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7633.22,0,8735.9)
+19:38:4 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7658.740234, 86.303040, 8744.919922>)
+19:38:5 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7655.316406, 83.853821, 8744.812500>)
+19:38:7 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7655.316895, 83.849060, 8744.808594>)
+19:38:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7653.157227, 104.142235, 8757.626953>)
+19:38:15 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+19:38:32 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+19:38:48 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+19:38:48 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:38:55 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+19:38:57 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+19:38:59 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:39:2 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:39:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7652.628418, 79.985924, 8751.937500>)
+19:39:9 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+19:39:10 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:39:22 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7658.741699, 86.104538, 8747.203125>)
+19:41:35 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7661.453125, 86.447777, 8744.735352>)
+19:42:7 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7609.859375, 76.743401, 8693.816406>)
+19:42:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7658.739258, 86.201935, 8742.635742>)
+19:42:57 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7631.891113, 73.960686, 8705.028320>)
+19:43:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8573.996094, 570.627930, 8436.963867>)
+19:43:56 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:43:57 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:44:26 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<7703.770020, 12.245970, 5798.750000>)
+19:44:26 | "Alzbob": (steamid=76561198303394031) teleported to (pos=7703.77,0,5798.75)
+19:44:30 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<7627.333496, 75.842064, 8722.980469>)
+19:44:32 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:44:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7700.606934, 16.536448, 5747.334961>)
+19:44:39 | "Alzbob" (steamid=76561198303394031) toggled freecam
+19:45:23 | "Alzbob" (steamid=76561198303394031) Spawned Item: (CamoNet)
+19:46:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:14 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:46:19 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7694.750000, 13.479601, 5791.049805>)
+19:46:19 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7694.75,0,5791.05)
+19:46:21 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7694.750000, 12.519672, 5798.160156>)
+19:46:21 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7694.75,0,5798.16)
+19:46:22 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7694.750000, 12.519672, 5798.160156>)
+19:46:22 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7694.75,0,5798.16)
+19:47:13 | "Mr Tugboi" (steamid=76561199206265093) Teleporting player: "Mr Tugboi" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 11910.753906>)
+19:47:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TacticalGoggles)
+19:49:4 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.463867, 6.030490, 5736.335449>
+19:49:6 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7694.463867, 6.030490, 5736.335449>
+19:49:7 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7694.463867, 6.030490, 5736.335449>
+19:49:22 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7700.488281, 5.372575, 5736.247070>
+19:49:23 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7700.488281, 5.372575, 5736.247070>
+19:49:24 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7700.488281, 5.372575, 5736.247070>
+19:49:45 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.397461, 5.016237, 5736.479004>
+19:49:46 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7706.397461, 5.016237, 5736.479004>
+19:49:47 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.397461, 5.016237, 5736.479004>
+19:49:48 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Megaphone)
+19:50:7 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.545410, 4.515381, 5736.527344>
+19:50:9 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7712.545410, 4.515381, 5736.527344>
+19:50:9 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.545410, 4.515381, 5736.527344>
+19:50:51 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag) on "Mr Tugboi" (steamid=76561199206265093)
+19:50:51 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag)
+19:50:51 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag) on "Mr Tugboi" (steamid=76561199206265093)
+19:50:51 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag)
+19:50:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag) on "Mr Tugboi" (steamid=76561199206265093)
+19:50:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag)
+19:50:54 | "Alzbob" (steamid=76561198303394031) deleted object "Static_stone1_vol" (pos=<7716.522949, 4.710327, 5737.497559>)
+19:50:57 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_Stock) on "Mr Tugboi" (steamid=76561199206265093)
+19:50:57 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_Stock)
+19:50:59 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_FGrip) on "Mr Tugboi" (steamid=76561199206265093)
+19:50:59 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_FGrip)
+19:51:45 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7703.597656, 14.541143, 5745.641602>)
+19:51:54 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:51:54 | "Alzbob" (steamid=76561198303394031) toggled godmode
+19:52:0 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+19:52:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:52:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:53:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:53:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:53:36 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7716.774902, 3.786758, 5736.687988>
+19:53:36 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7716.774902, 3.786758, 5736.687988>
+19:53:37 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7716.774902, 3.786758, 5736.687988>
+19:53:39 | Player "josueperezabreu" (steamId=76561199388629614) disconnected from server.
+19:53:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:53:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:53:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:53:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:53:40 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin Isle)
+19:53:45 | "Magick": (steamid=76561198797376439) teleported to (pos=Admin Isle)
+19:53:48 | Player "Mr Tugboi" (steamId=76561199206265093) disconnected from server.
+19:53:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:53:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:53:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:53:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:53:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:53:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:54:5 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+19:54:7 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+19:54:12 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+19:54:18 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+19:54:20 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:54:23 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Mesh_Fence)
+19:54:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:54:28 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+19:54:30 | Player "Magick" (steamId=76561198797376439) connected to server!
+19:54:37 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7694.463867, 6.030490, 5736.335449>)
+19:54:39 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7692.000977, 4.527559, 5739.395020>)
+19:54:54 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:54:54 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:54:54 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:54:54 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:55:5 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7690.721191, 5.310663, 5738.712402>
+19:55:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal_2 at position: <7690.721191, 5.310663, 5738.712402>
+19:55:7 | Admin "BeefySTi" (steamId=76561198095923512) built part t2_metal at position: <7690.721191, 5.310663, 5738.712402>
+19:55:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black) on "Mr Tugboi" (steamid=76561199206265093)
+19:55:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SNAFU_Tango6T_Black)
+19:55:27 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.562500, 6.009399, 5736.233398>
+19:55:29 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7694.562500, 6.009399, 5736.233398>
+19:55:30 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7694.562500, 6.009399, 5736.233398>
+19:55:50 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7706.581055, 8.846561, 5718.492676>)
+19:56:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7710.645996, 16.395590, 5710.874512>)
+19:56:11 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.707031, 6.294056, 5736.725098>
+19:56:12 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7718.707031, 6.294056, 5736.725098>
+19:56:13 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7718.707031, 6.294056, 5736.725098>
+19:56:20 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7721.118652, 13.281426, 5739.796875>)
+19:56:26 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7720.464355, 4.303846, 5739.763672>)
+19:56:36 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7676.698730, 10.952118, 5754.521484>)
+19:56:41 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.388184, 4.212927, 5740.010254>
+19:56:42 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7721.388184, 4.212927, 5740.010254>
+19:56:43 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.388184, 4.212927, 5740.010254>
+19:56:55 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.238770, 6.272302, 5736.624023>
+19:56:56 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7706.238770, 6.272302, 5736.624023>
+19:56:56 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.238770, 6.272302, 5736.624023>
+19:57:8 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.747070, 6.254656, 5736.542969>
+19:57:9 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7712.747070, 6.254656, 5736.542969>
+19:57:10 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.747070, 6.254656, 5736.542969>
+19:57:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_GreenhouseWood_Kit)
+19:57:16 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7706.397461, 5.016237, 5736.479004>)
+19:57:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:57:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:57:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:57:21 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:57:22 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+19:57:33 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.298340, 5.044868, 5736.579590>
+19:57:35 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.298340, 5.044868, 5736.579590>
+19:57:53 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7712.747070, 6.254656, 5736.542969>)
+19:58:4 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7712.545410, 4.515381, 5736.527344>)
+19:58:14 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.688965, 4.435462, 5736.265137>
+19:58:15 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.688965, 4.435462, 5736.265137>
+19:58:27 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.672363, 6.292241, 5736.180664>
+19:58:27 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7712.672363, 6.292241, 5736.180664>
+19:58:28 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.672363, 6.292241, 5736.180664>
+19:58:47 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.447754, 6.149171, 5740.033203>
+19:58:48 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7721.447754, 6.149171, 5740.033203>
+19:58:49 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.447754, 6.149171, 5740.033203>
+19:59:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Bonfire)
+19:59:23 | "Mr Tugboi" (steamid=76561199206265093) deleted object "Bonfire" (pos=<7714.460938, 12.992032, 5742.527344>)
+19:59:23 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+19:59:43 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.510254, 3.599506, 5739.939453>
+19:59:44 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.510254, 3.599506, 5739.939453>
+20:0:2 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_FireplaceRailing)
+20:0:3 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7721.447754, 6.149171, 5740.033203>)
+20:0:8 | Player "josueperezabreu" (steamId=76561199388629614) disconnected from server.
+20:0:21 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:0:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7718.637207, 3.915406, 5736.800293>
+20:0:31 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+20:0:32 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7718.637207, 3.915406, 5736.800293>
+20:0:39 | Player "josueperezabreu" (steamId=76561199388629614) connected to server!
+20:0:42 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:0:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:0:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_TreasureChest)
+20:1:12 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.576660, 6.066210, 5740.043457>
+20:1:13 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7721.576660, 6.066210, 5740.043457>
+20:1:13 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.576660, 6.066210, 5740.043457>
+20:1:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:1:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:1:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Gate_Kit)
+20:1:39 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:39 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:39 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:39 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:40 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:41 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:1:42 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:2:3 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.257324, 4.973948, 5745.722656>
+20:2:5 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.257324, 4.973948, 5745.722656>
+20:2:7 | Admin "Alzbob" (steamId=76561198303394031) built part t2_door at position: <7721.257324, 4.973948, 5745.722656>
+20:2:24 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7721.216309, 7.466275, 5745.899414>
+20:2:25 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7721.216309, 7.466275, 5745.899414>
+20:2:41 | "BeefySTi" (steamid=76561198095923512) deleted object "Msp_TreasureChest" (pos=<7709.276855, 10.048972, 5737.141602>)
+20:2:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_MilitaryCrate_Brown)
+20:3:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:3:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Firewood)
+20:4:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:4:10 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:19 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_tt_vest_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:19 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_tt_vest_admin)
+20:5:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:20 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:20 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_admin)
+20:5:20 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (WoodenStick)
+20:5:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_admin)
+20:5:23 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_combatpants_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:23 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_combatpants_admin)
+20:5:25 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_combatshirt_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:25 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_combatshirt_admin)
+20:5:27 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_balaclava_admin) on "Mr Tugboi" (steamid=76561199206265093)
+20:5:27 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_balaclava_admin)
+20:6:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Wallet_Large_DragonBallZ)
+20:7:9 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:7:16 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+20:7:21 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:7:24 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:7:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:29 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:30 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:7:40 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:7:57 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=Admin Isle)
+20:8:10 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7720.305176, 16.448465, 5760.579590>)
+20:8:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:8:47 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:8:50 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.164063, 10.024237, 5742.786621>
+20:8:51 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7712.164063, 10.024237, 5742.786621>
+20:8:52 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.164063, 10.024237, 5742.786621>
+20:9:3 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:9:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:9:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:9:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Rag)
+20:9:25 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:9:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:9:42 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:9:55 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:10:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_WallPaper_Mural_1)
+20:11:16 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+20:11:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_WallPaper_1)
+20:12:22 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:12:26 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7702.717285, 6.533887, 5741.343262>)
+20:12:29 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:12:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.238770, 6.272302, 5736.624023>)
+20:12:32 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7712.034180, 5.065000, 5740.041992>)
+20:12:33 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:12:39 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7706.238770, 6.272302, 5736.624023>)
+20:12:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:13:5 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:13:6 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:13:15 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_12gaRubberSlug_10Rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:15 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_12gaRubberSlug_10Rnd)
+20:13:19 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:13:21 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:21 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaSlug)
+20:13:29 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:13:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaRubberSlug) on "Mr Tugboi" (steamid=76561199206265093)
+20:13:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Ammo_12gaRubberSlug)
+20:13:40 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:13:45 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+20:14:4 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:14:14 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.513184, 6.143885, 5736.497070>
+20:14:15 | Player "Magick" (steamId=76561198797376439) connected to server!
+20:14:17 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.513184, 6.143885, 5736.497070>
+20:14:19 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:14:22 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:14:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:14:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:14:31 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7712.672363, 6.292241, 5736.180664>)
+20:14:49 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:14:59 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7718.784668, 10.908134, 5744.788086>)
+20:15:0 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:15:1 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (UniversalLight) on "Mr Tugboi" (steamid=76561199206265093)
+20:15:1 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (UniversalLight)
+20:15:5 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:15:8 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7707.936523, 10.096517, 5739.520020>)
+20:15:9 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:15:12 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7706.325684, 13.282655, 5736.442383>)
+20:15:16 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7712.578125, 6.716272, 5736.439941>
+20:15:17 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7712.578125, 6.716272, 5736.439941>
+20:15:24 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7706.513184, 6.143885, 5736.497070>)
+20:15:27 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:15:31 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal_2 at position: <7706.298340, 5.044868, 5736.579590>
+20:15:31 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:15:38 | "Alzbob" (steamid=76561198303394031) deleted object "BBP_Mesh_Fence" (pos=<7706.298340, 5.044868, 5736.579590>)
+20:15:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:15:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:15:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:15:57 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:16:3 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.467285, 4.990097, 5736.367676>
+20:16:5 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.467285, 4.990097, 5736.367676>
+20:16:15 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7706.576660, 6.693068, 5736.564453>
+20:16:16 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7706.576660, 6.693068, 5736.564453>
+20:16:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:16:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7701.200684, 10.095616, 5737.556641>)
+20:16:34 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:34 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:35 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:37 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd) on "Mr Tugboi" (steamid=76561199206265093)
+20:16:37 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (AmmoBox_00buck_10rnd)
+20:16:38 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:16:39 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:16:40 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+20:16:42 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:16:44 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:16:45 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:16:46 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:16:50 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:16:58 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.576660, 6.693068, 5736.564453>)
+20:17:1 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.576660, 6.693068, 5736.564453>)
+20:17:3 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.576660, 6.693068, 5736.564453>)
+20:17:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.576660, 6.693068, 5736.564453>)
+20:17:5 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7706.576660, 6.693068, 5736.564453>)
+20:17:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7698.498535, 5.131254, 5731.897461>)
+20:17:7 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:17:7 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:17:22 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+20:17:41 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:18:8 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:18:15 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:18:16 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.246582, 6.030155, 5736.207031>
+20:18:18 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7694.246582, 6.030155, 5736.207031>
+20:18:30 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:18:35 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_B)
+20:18:36 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_E)
+20:18:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_E)
+20:18:38 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Letter_Large_F)
+20:18:58 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:19:6 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.548828, 4.931817, 5738.686523>
+20:19:8 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7691.548828, 4.931817, 5738.686523>
+20:19:11 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7695.017090, 7.501700, 5736.316895>)
+20:19:14 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:19:48 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:19:54 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:20:11 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:20:29 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:20:34 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:20:54 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:20:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:21:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7691.935547, 5.358466, 5739.708496>
+20:21:33 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:21:33 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7691.935547, 5.358466, 5739.708496>
+20:21:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:21:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7677.537109, 10.098361, 5741.649902>)
+20:21:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:21:48 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:22:11 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:22:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:22:28 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:22:48 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:23:9 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:23:10 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:23:20 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7690.627441, 5.421153, 5729.774414>)
+20:23:20 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:23:41 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:23:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+20:24:5 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7657.020020, 6.316982, 5738.162109>
+20:24:7 | Admin "Alzbob" (steamId=76561198303394031) built part t2_metal at position: <7657.020020, 6.316982, 5738.162109>
+20:24:10 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:24:12 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:21 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Foundation_Kit)
+20:24:58 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7704.791016, 13.316569, 5739.816406>)
+20:25:11 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:25:16 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_SquarePlanterBox)
+20:25:26 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:25:26 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptySquarePlanterBox)
+20:25:33 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:26:5 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:26:6 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:26:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:26:27 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7681.664551, 10.098769, 5740.145996>)
+20:26:28 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+20:26:28 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:26:31 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+20:26:32 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+20:26:33 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7664.883301, 9.847043, 5732.035156>
+20:26:40 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7664.883301, 9.847043, 5732.035156>
+20:26:49 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7670.880371, 9.846839, 5732.222656>
+20:26:51 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7670.880371, 9.846839, 5732.222656>
+20:26:57 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7665.070313, 9.846839, 5726.038086>
+20:26:58 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:26:58 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7665.070313, 9.846839, 5726.038086>
+20:27:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7676.876465, 9.846227, 5732.410156>
+20:27:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7676.876465, 9.846227, 5732.410156>
+20:27:9 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:27:10 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.873535, 9.846431, 5732.597656>
+20:27:13 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7682.873535, 9.846431, 5732.597656>
+20:27:16 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7683.060547, 9.846227, 5726.600586>
+20:27:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7683.060547, 9.846227, 5726.600586>
+20:27:21 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7677.063477, 9.846023, 5726.413086>
+20:27:23 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7677.063477, 9.846023, 5726.413086>
+20:27:24 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:27:26 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7671.067383, 9.846635, 5726.225586>
+20:27:29 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7671.067383, 9.846635, 5726.225586>
+20:27:40 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:27:44 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:27:50 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:28:0 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:28:10 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:28:17 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:28:22 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7664.958984, 6.711899, 5725.974609>
+20:28:24 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7664.958984, 6.711899, 5725.974609>
+20:28:50 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:28:52 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+20:28:55 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+20:28:56 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+20:28:56 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+20:29:10 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:29:15 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:29:19 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7682.776855, 10.064851, 5735.706055>)
+20:29:19 | "Magick" (steamid=76561198797376439) Spawned Item: (CanisterGasoline)
+20:29:19 | "Magick" (steamid=76561198797376439) Spawned Item: (CanisterGasoline)
+20:29:23 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7682.776855, 10.064851, 5735.706055>)
+20:29:23 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:29:30 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:29:35 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:29:37 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:29:38 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:29:40 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7682.776855, 10.064851, 5735.706055>)
+20:29:49 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:29:52 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198797376439)
+20:29:55 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198067006084)
+20:30:2 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+20:30:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+20:30:31 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:30:34 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7679.753418, 10.098769, 5740.958984>)
+20:30:35 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:30:38 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7690.716797, 19.545990, 5739.563965>)
+20:30:42 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.463867, 9.846627, 5738.775391>
+20:30:44 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.463867, 9.846627, 5738.775391>
+20:30:50 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7683.592773, 12.744633, 5763.519531>)
+20:30:52 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:30:56 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:30:59 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing) on "Mr Tugboi" (steamid=76561199206265093)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing) on "Mr Tugboi" (steamid=76561199206265093)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing) on "Mr Tugboi" (steamid=76561199206265093)
+20:31:31 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BandageDressing)
+20:31:33 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Bwall" (pos=<7682.776855, 10.064851, 5735.706055>)
+20:31:37 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:31:42 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:31:49 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:32:8 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:32:10 | Player "Frank" (steamId=76561199004385675) connected to server!
+20:32:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+20:32:34 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.776855, 10.064851, 5735.706055>
+20:32:35 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:32:36 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7682.776855, 10.064851, 5735.706055>
+20:32:39 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <7682.776855, 10.064851, 5735.706055>
+20:32:53 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:32:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+20:33:10 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:33:14 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:33:25 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7688.373535, 10.064847, 5741.664063>)
+20:33:28 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7688.554199, 10.064847, 5735.886719>)
+20:33:30 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:33:40 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+20:33:43 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:33:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Door_Kit)
+20:34:4 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:34:15 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.783203, 10.064647, 5735.486328>
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty) on "Mr Tugboi" (steamid=76561199206265093)
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty)
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty) on "Mr Tugboi" (steamid=76561199206265093)
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty)
+20:34:16 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7682.783203, 10.064647, 5735.486328>
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty) on "Mr Tugboi" (steamid=76561199206265093)
+20:34:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty)
+20:34:17 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty) on "Mr Tugboi" (steamid=76561199206265093)
+20:34:17 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty)
+20:34:17 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty) on "Mr Tugboi" (steamid=76561199206265093)
+20:34:17 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BloodBagEmpty)
+20:34:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:34:18 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_door at position: <7682.783203, 10.064647, 5735.486328>
+20:34:25 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:34:30 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:34:44 | "Mr Tugboi" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+20:34:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:34:57 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+20:35:6 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:35:38 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:35:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:36:14 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:36:22 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_GreenhouseWood_Kit)
+20:36:26 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:36:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+20:36:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+20:36:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+20:36:39 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+20:36:45 | "Mr Tugboi" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+20:36:49 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_Greenhouse_Kit)
+20:37:8 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.275879, 9.846831, 5744.772461>
+20:37:17 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.275879, 9.846831, 5744.772461>
+20:37:35 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7661.995605, 10.065259, 5731.944824>
+20:37:37 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7661.995605, 10.065259, 5731.944824>
+20:37:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7662.182617, 10.065055, 5725.947754>
+20:37:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7662.182617, 10.065055, 5725.947754>
+20:37:47 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7665.160645, 10.065055, 5723.149414>
+20:37:49 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7665.160645, 10.065055, 5723.149414>
+20:37:55 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:37:56 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7671.157715, 10.064851, 5723.336914>
+20:37:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7680.935547, 10.098769, 5741.111816>)
+20:37:58 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:37:58 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7671.157715, 10.064851, 5723.336914>
+20:38:2 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7677.153809, 10.064239, 5723.524414>
+20:38:3 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7677.153809, 10.064239, 5723.524414>
+20:38:7 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7683.150879, 10.064443, 5723.711914>
+20:38:9 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7683.150879, 10.064443, 5723.711914>
+20:38:14 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.949219, 10.064443, 5726.690918>
+20:38:15 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.949219, 10.064443, 5726.690918>
+20:38:19 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.762207, 10.064647, 5732.687988>
+20:38:20 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.762207, 10.064647, 5732.687988>
+20:38:31 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.463867, 9.846627, 5738.775391>
+20:38:33 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.463867, 9.846627, 5738.775391>
+20:38:36 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.461914, 9.844382, 5738.964844>
+20:38:37 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.461914, 9.844382, 5738.964844>
+20:38:40 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:38:58 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:39:4 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:39:7 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:39:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:26 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:27 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:28 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Hanger_Roof_Kit)
+20:39:45 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+20:40:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:2 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:3 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:4 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:5 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:40:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:40:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:40:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:40:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:40:15 | "Magick" (steamid=76561198797376439) deleted object "Msp_SquarePlanterBox" (pos=<7684.393555, 13.032197, 5765.556641>)
+20:40:44 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag) on "Mr Tugboi" (steamid=76561199206265093)
+20:40:44 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (SA58_DrumMag)
+20:41:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:41:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Workbench)
+20:41:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Wall_Kit)
+20:41:21 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:41:26 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:27 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:41:32 | "Alzbob" (steamid=76561198303394031) Spawned Item: (AliceBag_Black)
+20:41:47 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:41:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:41:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:41:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:41:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:42:49 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:42:58 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_boots_alpine)
+20:43:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_MK_V_Armor_alpine)
+20:43:43 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_Med_Pouch_alpine)
+20:43:48 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_alpine)
+20:43:53 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_tactical_pouch_alpine)
+20:44:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_utility_pouch_alpine)
+20:44:5 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_mk5_grenade_pouch_alpine)
+20:44:19 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7677.153809, 10.064239, 5723.524414>)
+20:45:29 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7661.989258, 13.065463, 5732.154785>
+20:45:31 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7661.989258, 13.065463, 5732.154785>
+20:45:51 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_Holster_alpine)
+20:46:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (MMG_sheath_alpine)
+20:46:25 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:46:28 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:46:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7664.882813, 16.065464, 5732.250000>
+20:46:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7664.882813, 16.065464, 5732.250000>
+20:47:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:5 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:47:21 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7670.874023, 16.065258, 5732.442383>
+20:47:23 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7670.874023, 16.065258, 5732.442383>
+20:48:4 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<1940.349976, 2.000000, 5703.259766>)
+20:48:4 | "Alzbob": (steamid=76561198303394031) teleported to (pos=1940.35,0,5703.26)
+20:48:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_Roof_Kit)
+20:48:20 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<1955.469971, 2.159658, 6027.379883>)
+20:48:20 | "Alzbob": (steamid=76561198303394031) teleported to (pos=1955.47,0,6027.38)
+20:48:29 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7682.867188, 16.064850, 5732.817383>
+20:48:31 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7682.867188, 16.064850, 5732.817383>
+20:48:34 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7676.870117, 16.064648, 5732.629883>
+20:48:36 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7676.870117, 16.064648, 5732.629883>
+20:48:41 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7677.057617, 16.064444, 5726.632813>
+20:48:43 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7677.057617, 16.064444, 5726.632813>
+20:48:46 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7671.061523, 16.065054, 5726.445313>
+20:48:48 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7671.061523, 16.065054, 5726.445313>
+20:48:54 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7665.070313, 16.065260, 5726.252930>
+20:48:56 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7665.070313, 16.065260, 5726.252930>
+20:49:12 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7683.054688, 16.064646, 5726.820313>
+20:49:14 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks at position: <7683.054688, 16.064646, 5726.820313>
+20:49:24 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:49:24 | "Alzbob" (steamid=76561198303394031) toggled freecam
+20:49:41 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7662.285156, 13.026238, 5726.217773>
+20:49:42 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7662.285156, 13.026238, 5726.217773>
+20:49:56 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7665.160645, 13.065055, 5723.149414>
+20:49:57 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7665.160645, 13.065055, 5723.149414>
+20:50:15 | "Alzbob" (steamid=76561198303394031) Spawned Item: (RFFSHeli_Blackhawk_Budhawk)
+20:50:57 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse)
+20:50:57 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse)
+20:50:57 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse)
+20:50:57 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse)
+20:50:58 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse)
+20:51:1 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:51:2 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:51:2 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:51:51 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:52:13 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7671.157715, 13.064851, 5723.336914>
+20:52:16 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7671.157715, 13.064851, 5723.336914>
+20:52:47 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7565.422363, -8.415483, 5646.816406>)
+20:52:47 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:52:47 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:52:48 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:52:48 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Greenhouse_Kit)
+20:52:49 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+20:52:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7618.044922, -20.817253, 5604.364746>)
+20:52:58 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+20:52:59 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+20:53:4 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7677.153809, 13.064239, 5723.524414>
+20:53:6 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7677.153809, 13.064239, 5723.524414>
+20:54:0 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7683.150879, 13.064443, 5723.711914>
+20:54:2 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7683.150879, 13.064443, 5723.711914>
+20:54:3 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:54:9 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+20:54:11 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.949219, 13.064443, 5726.690918>
+20:54:13 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.949219, 13.064443, 5726.690918>
+20:54:36 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:54:37 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:54:40 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:54:41 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:54:42 | Admin "BeefySTi" (steamId=76561198095923512) built part frame at position: <7685.762207, 13.064647, 5732.687988>
+20:54:44 | Admin "BeefySTi" (steamId=76561198095923512) built part t3_wall_concrete_bricks_2 at position: <7685.762207, 13.064647, 5732.687988>
+20:55:6 | "BeefySTi" (steamid=76561198095923512) deleted object "Msp_GreenhouseWood" (pos=<7669.349609, 10.028391, 5732.450195>)
+20:55:8 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7684.559082, 1.075025, 5702.597168>)
+20:56:10 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+20:56:32 | "JakusMallius" (steamid=76561198067006084) /heal used on: "JakusMallius" (steamid=76561198067006084)
+20:56:35 | "Mr Tugboi" (steamid=76561199206265093) /heal used on: "Mr Tugboi" (steamid=76561199206265093)
+20:56:38 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.463867, 13.064847, 5738.775391>
+20:56:39 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.463867, 13.064847, 5738.775391>
+20:57:38 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+20:57:54 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionSignDanger)
+20:57:55 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionSignDanger)
+20:57:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionSignDanger)
+20:57:56 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198067006084)
+20:58:0 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+20:58:2 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+20:58:10 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198095923512)
+20:58:32 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_boots_alpine) on "Mr Tugboi" (steamid=76561199206265093)
+20:58:32 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_boots_alpine)
+20:58:37 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+20:58:40 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:58:49 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:58:49 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+20:58:57 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+20:59:3 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:59:5 | "Alzbob" (steamid=76561198303394031) toggled godmode
+20:59:6 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+20:59:28 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+20:59:44 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:0:4 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:0:28 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionRamp6x1_5x6)
+21:0:38 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionRamp6x1_5x6)
+21:1:6 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:1:10 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:1:13 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:1:35 | Player "josueperezabreu" (steamId=76561199388629614) disconnected from server.
+21:1:43 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:1:47 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+21:2:14 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:2:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:2:29 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:2:47 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:2:47 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:2:50 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:3:8 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:3:9 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:3:10 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:3:34 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:3:37 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:3:57 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:4:0 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<7687.852539, 13.869016, 5771.389648>)
+21:4:6 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<7687.852539, 13.869016, 5771.389648>)
+21:4:10 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+21:4:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:11 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:13 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:15 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<7700.549316, 16.535929, 5756.044434>)
+21:4:17 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+21:4:18 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:4:18 | "Alzbob" (steamid=76561198303394031) Spawned Item: (BBP_Foundation_Kit)
+21:4:23 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:4:31 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:4:40 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.461914, 9.844378, 5738.964844>
+21:4:41 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.461914, 9.844378, 5738.964844>
+21:4:45 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Workbench" (pos=<7686.694336, 10.027102, 5740.696777>)
+21:5:2 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7694.273926, 9.845811, 5744.959961>
+21:5:3 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7694.273926, 9.845811, 5744.959961>
+21:5:8 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:5:12 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+21:5:13 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+21:5:13 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+21:5:23 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.275879, 9.846831, 5744.772461>
+21:5:24 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.275879, 9.846831, 5744.772461>
+21:5:25 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:5:29 | [WeatherManager] Send Data Count is 0
+21:5:30 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+21:5:32 | "JakusMallius" (steamid=76561198067006084) just updated a health stat on (steamid=76561198067006084)
+21:5:35 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:5:59 | Admin "Alzbob" (steamId=76561198303394031) built part frame at position: <7688.463867, 9.846627, 5738.775391>
+21:6:0 | Admin "Alzbob" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <7688.463867, 9.846627, 5738.775391>
+21:6:6 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+21:6:9 | "Magick" (steamid=76561198797376439) Spawned Item: (GardenLime)
+21:6:9 | "Magick" (steamid=76561198797376439) Spawned Item: (GardenLime)
+21:6:9 | "Magick" (steamid=76561198797376439) Spawned Item: (GardenLime)
+21:6:9 | "Magick" (steamid=76561198797376439) Spawned Item: (GardenLime)
+21:6:37 | "Alzbob" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+21:6:54 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (BBP_WellKit)
+21:7:34 | "Alzbob" (steamid=76561198303394031) just updated a health stat on (steamid=76561198303394031)
+21:8:4 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionPhysics_Static_Misc_Well_Pump_Yellow)
+21:8:6 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<8576.209961, 14.786497, 10560.700195>)
+21:8:6 | "Alzbob": (steamid=76561198303394031) teleported to (pos=8576.21,0,10560.7)
+21:8:10 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:8:10 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:8:50 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<8319.959961, 15.000000, 10480.099609>)
+21:8:50 | "Mr Tugboi": (steamid=76561199206265093) teleported to (pos=8319.96,0,10480.1)
+21:9:12 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:9:47 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8591.637695, 14.719982, 10538.120117>)
+21:10:33 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8572.604492, 14.757140, 10517.611328>)
+21:12:12 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:12:17 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:13:15 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100) on "Mr Tugboi" (steamid=76561199206265093)
+21:13:15 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+21:13:15 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+21:13:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100) on "Mr Tugboi" (steamid=76561199206265093)
+21:13:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+21:13:51 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:14:1 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+21:14:1 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:14:17 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:14:27 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:15:11 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+21:16:32 | "Mr Tugboi" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+21:16:37 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8614.389648, 14.719999, 10548.757813>)
+21:16:37 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8628.054688, 14.719995, 10569.786133>)
+21:16:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8642.294922, 14.711654, 10592.720703>)
+21:16:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8662.338867, 14.683108, 10616.799805>)
+21:16:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8689.330078, 14.640002, 10639.811523>)
+21:16:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8692.846680, 16.192158, 10642.382813>)
+21:16:40 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8695.475586, 16.779303, 10643.973633>)
+21:16:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8707.493164, 15.227118, 10654.707031>)
+21:16:41 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8726.186523, 15.500933, 10672.069336>)
+21:16:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8755.771484, 12.513090, 10699.444336>)
+21:16:42 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8764.676758, 13.661812, 10707.853516>)
+21:16:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8774.869141, 13.681017, 10718.328125>)
+21:18:6 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100) on "Mr Tugboi" (steamid=76561199206265093)
+21:18:6 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+21:18:6 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100) on "Mr Tugboi" (steamid=76561199206265093)
+21:18:6 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Money_Dollar100)
+21:18:30 | "Alzbob" (steamid=76561198303394031) Spawned Item: (FAL)
+21:18:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (GCGN_Mag_FAL_50Rnd)
+21:18:32 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_Mag_FAL_Drum50Rnd_Black)
+21:18:56 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_Mag_FAL_Drum50Rnd_Black)
+21:19:48 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8787.032227, 12.353754, 10736.341797>)
+21:19:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8775.379883, 13.548973, 10722.852539>)
+21:19:49 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8761.117188, 13.694586, 10705.154297>)
+21:19:50 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8751.229492, 13.386915, 10694.456055>)
+21:19:50 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8742.616211, 13.588566, 10686.719727>)
+21:19:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8732.659180, 14.550663, 10677.985352>)
+21:19:51 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8723.123047, 15.531016, 10668.789063>)
+21:19:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8704.424805, 14.917152, 10650.337891>)
+21:19:52 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8691.732422, 14.640032, 10637.859375>)
+21:19:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8681.418945, 14.661564, 10624.006836>)
+21:19:53 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8668.743164, 14.695125, 10609.294922>)
+21:19:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8656.235352, 14.709999, 10595.104492>)
+21:19:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8643.359375, 14.719998, 10580.447266>)
+21:19:54 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8628.853516, 14.719997, 10568.261719>)
+21:19:55 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8616.519531, 14.719995, 10557.408203>)
+21:19:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8609.222656, 14.719998, 10542.616211>)
+21:19:56 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8603.693359, 14.720002, 10529.517578>)
+21:20:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (TF_Mag_FAL_Drum50Rnd_Black)
+21:21:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser) on "Alzbob" (steamid=76561198303394031)
+21:21:22 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser)
+21:21:47 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser) on "Alzbob" (steamid=76561198303394031)
+21:21:47 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser)
+21:21:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser) on "Mr Tugboi" (steamid=76561199206265093)
+21:21:52 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Expansion_Ammo_Taser)
+21:22:13 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (HunterPants_Winter)
+21:22:19 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (HuntingJacket_Winter)
+21:23:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Mag_ShockCartridge) on "Mr Tugboi" (steamid=76561199206265093)
+21:23:16 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Mag_ShockCartridge)
+21:24:25 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:25:31 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<8936.530273, 4.601349, 9888.429688>)
+21:25:31 | "Mr Tugboi": (steamid=76561199206265093) teleported to (pos=8936.53,0,9888.43)
+21:29:51 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:29:52 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+21:34:57 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8569.709961, 16.899183, 10530.119141>)
+21:35:0 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<8509.578125, 14.931734, 10544.834961>)
+21:35:35 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<8861.566406, 16.268564, 9986.550781>)
+21:35:39 | "Mr Tugboi" (steamid=76561199206265093) teleported to crosshair (pos=<8716.147461, 19.399456, 10149.307617>)
+21:35:40 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:38:55 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+21:39:3 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:39:3 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:39:14 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:39:20 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:39:50 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:40:18 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7698.419922, 13.790282, 5785.200195>)
+21:40:18 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=7698.42,0,5785.2)
+21:40:39 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:40:41 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:42:3 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:5 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:6 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:8 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:9 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:11 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:13 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:15 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:16 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:18 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:20 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:23 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Hanger_Roof_Kit" (pos=<7681.898926, 16.311497, 5737.341309>)
+21:42:30 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Workbench_Kit" (pos=<7674.085938, 16.309839, 5742.495605>)
+21:42:32 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<7674.085938, 16.465971, 5742.495605>)
+21:42:34 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_Wall_Kit" (pos=<7674.085938, 16.465971, 5742.495605>)
+21:42:35 | "BeefySTi" (steamid=76561198095923512) deleted object "BBP_WellKit" (pos=<7674.085938, 16.284397, 5742.495605>)
+21:43:26 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionBus_Weeb)
+21:44:1 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionBus_Weeb" (pos=<7656.789063, 9.142333, 5755.295898>)
+21:44:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_Safe)
+21:44:19 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Green)
+21:44:22 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+21:44:24 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Green" (pos=<7654.390625, 7.506141, 5755.782715>)
+21:44:42 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:44:55 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+21:45:4 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7571.398438, 4.439923, 5896.425781>)
+21:45:9 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (CodeLock)
+21:45:16 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:45:47 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7568.210938, 3.090973, 5893.909668>)
+21:46:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:46:3 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7569.096680, 4.790652, 5895.026855>)
+21:46:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7679.326660, 10.219164, 5808.768066>)
+21:46:17 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionMerlin)
+21:46:36 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionMerlin" (pos=<7692.721680, 12.987750, 5797.802734>)
+21:46:38 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:46:46 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionMerlin)
+21:46:52 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<7576.748535, 6.841920, 5925.703125>)
+21:46:59 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:47:0 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionMerlin" (pos=<7577.608887, 7.152351, 5930.700195>)
+21:47:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionMerlin)
+21:47:12 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:47:15 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (ExpansionMerlin)
+21:47:34 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionMerlin" (pos=<7677.293457, 0.616407, 5948.637207>)
+21:47:45 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7640.843750, 5.250612, 5966.092285>)
+21:48:10 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7688.705566, 4.761792, 5964.356445>)
+21:48:13 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7742.620605, 6.385180, 5837.024902>)
+21:48:14 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7741.172852, 3.180115, 5838.870117>)
+21:48:16 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7726.479980, 4.060062, 5840.496094>)
+21:48:18 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:48:26 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Msp_MoskvaFridge_Blue_Kit) on "Mr Tugboi" (steamid=76561199206265093)
+21:48:26 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Msp_MoskvaFridge_Blue_Kit)
+21:48:34 | "Alzbob" (steamid=76561198303394031) deleted objects using ESP
+21:48:36 | "Alzbob" (steamid=76561198303394031) toggled freecam
+21:49:6 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7626.318359, 7.953835, 5970.501465>)
+21:50:17 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7649.009766, 10.214386, 5998.209961>)
+21:50:17 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7649.01,0,5998.21)
+21:50:31 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:50:33 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:50:38 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+21:50:38 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7644.933594, 9.787971, 6002.372559>)
+21:50:39 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+21:50:40 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7644.862793, 9.090034, 6002.500000>)
+21:50:42 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Msp_FishingRodsRack_Kit) on "Mr Tugboi" (steamid=76561199206265093)
+21:50:42 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Msp_FishingRodsRack_Kit)
+21:50:52 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:50:53 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+21:50:55 | "JakusMallius" (steamid=76561198067006084) /heal used on: "JakusMallius" (steamid=76561198067006084)
+21:51:2 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+21:51:4 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+21:51:9 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7553.839355, 36.183956, 6036.319336>)
+21:51:11 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7557.175293, 35.326477, 6028.586914>)
+21:51:17 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7699.583984, 13.316974, 5752.636230>)
+21:51:19 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+21:51:19 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7570.666016, 43.951035, 6056.937988>)
+21:51:27 | "Alzbob" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<7570.468750, 46.184799, 6052.941406>)
+21:51:27 | "JakusMallius" (steamid=76561198067006084) deleted object "Msp_MedievalGibbetWithMount" (pos=<7701.303711, 13.316770, 5759.615234>)
+21:51:44 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:51:50 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:52:3 | "JakusMallius" (steamid=76561198067006084) deleted object "Msp_Mattress_Pink" (pos=<7699.579102, 13.246187, 5759.246094>)
+21:52:7 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7595.790039, 14.281653, 5958.720215>)
+21:52:7 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7595.79,0,5958.72)
+21:52:10 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6295.549805, 20.813473, 9489.679688>)
+21:52:10 | "Alzbob": (steamid=76561198303394031) teleported to (pos=6295.55,0,9489.68)
+21:52:44 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionMerlin" (pos=<7627.303711, 9.368306, 5969.812500>)
+21:52:55 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Old_Lamp) on "Mr Tugboi" (steamid=76561199206265093)
+21:52:55 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Old_Lamp)
+21:52:56 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp) on "Mr Tugboi" (steamid=76561199206265093)
+21:52:56 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp)
+21:52:59 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp) on "Mr Tugboi" (steamid=76561199206265093)
+21:52:59 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp)
+21:53:0 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+21:53:22 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<8563.339844, 14.844479, 10541.000000>)
+21:53:22 | "Alzbob": (steamid=76561198303394031) teleported to (pos=8563.34,0,10541)
+21:54:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+21:54:1 | "Alzbob" (steamid=76561198303394031) Spawned Item: (ExpansionGoldBar)
+21:54:40 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<6313.620117, 20.726669, 9475.320313>)
+21:54:40 | "Alzbob": (steamid=76561198303394031) teleported to (pos=6313.62,0,9475.32)
+21:54:43 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6306.767578, 20.934013, 9503.099609>)
+21:54:44 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6305.136719, 21.893763, 9507.729492>)
+21:54:45 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6303.557129, 20.679995, 9516.870117>)
+21:55:9 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6305.341309, 21.696413, 9508.272461>)
+21:55:10 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<6310.818359, 20.779505, 9490.224609>)
+21:56:33 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp) on "Mr Tugboi" (steamid=76561199206265093)
+21:56:33 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Lamp)
+21:56:44 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:56:45 | "Alzbob" (steamid=76561198303394031) toggled godmode
+21:57:29 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:29 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v)
+21:57:30 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:30 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v)
+21:57:30 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:30 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (BBP_XmasLights_9v)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V) on "Mr Tugboi" (steamid=76561199206265093)
+21:57:36 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Battery9V)
+21:57:53 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (FlashGrenade)
+21:58:36 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_L)
+21:58:38 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_O)
+21:58:40 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_R)
+21:58:43 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_D)
+21:58:47 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:58:48 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+21:58:49 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_A)
+21:58:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_K)
+21:58:52 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_E)
+21:58:56 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (FlashGrenade)
+21:59:23 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+21:59:49 | "Magick" (steamid=76561198797376439) toggled freecam
+21:59:53 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+21:59:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<7718.557129, 10.096925, 5741.417480>)
+21:59:54 | "Magick" (steamid=76561198797376439) toggled freecam
+22:0:12 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:0:15 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+22:0:19 | Player "Alzbob" (steamId=76561198303394031) connected to server!
+22:0:29 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7707.663086, 8.207720, 5828.546387>)
+22:0:32 | "Alzbob" (steamid=76561198303394031) toggled godmode
+22:0:38 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7705.637695, 12.818811, 5767.950195>)
+22:0:39 | "Alzbob" (steamid=76561198303394031) teleported to crosshair (pos=<7693.134277, 12.585058, 5762.235352>)
+22:0:51 | "JakusMallius" (steamid=76561198067006084) Spawned Item: (BBP_Letter_Large_J)
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green) on "Mr Tugboi" (steamid=76561199206265093)
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+22:2:9 | "Alzbob" (steamid=76561198303394031) toggled godmode
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green) on "Mr Tugboi" (steamid=76561199206265093)
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green) on "Mr Tugboi" (steamid=76561199206265093)
+22:2:9 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (Chemlight_Green)
+22:2:17 | "Alzbob" (steamid=76561198303394031) /heal used on: "Alzbob" (steamid=76561198303394031)
+22:2:38 | "Magick" (steamid=76561198797376439) deleted object "MMG_supplybag_dark_woodland" (pos=<7698.146973, 10.167196, 5737.998047>)
+22:3:16 | "Magick" (steamid=76561198797376439) Spawned Item: (MMG_supplybag_multicamblack)
+22:3:16 | "Magick" (steamid=76561198797376439) Spawned Item: (MMG_supplybag_multicamblack)
+22:5:10 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+22:5:10 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:5:14 | Player "Alzbob" (steamId=76561198303394031) disconnected from server.
+22:5:37 | "BeefySTi" (steamid=76561198095923512) deleted object "ExpansionPhysics_Static_Misc_Well_Pump_Yellow" (pos=<7684.722168, 10.817196, 5725.055176>)
+22:5:42 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:5:53 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:5:53 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:5:55 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:6:24 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:6:35 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:7:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_Safe)
+22:8:54 | "Magick" (steamid=76561198797376439) Spawned Item: (CodeLock)
+22:8:54 | "Magick" (steamid=76561198797376439) Spawned Item: (CodeLock)
+22:12:45 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (ExpansionGPS) on "Mr Tugboi" (steamid=76561199206265093)
+22:12:45 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (ExpansionGPS)
+22:13:8 | "Mr Tugboi" (steamid=76561199206265093) /heal used on: "Mr Tugboi" (steamid=76561199206265093)
+22:13:38 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+22:16:24 | [WeatherManager] Send Data Count is 0
+22:16:29 | [WeatherManager] Send Data Count is 0
+22:16:50 | "Magick" (steamid=76561198797376439) Spawned Item: (BBP_Carpet_1)
+22:17:25 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_facemask_alpine) on "Mr Tugboi" (steamid=76561199206265093)
+22:17:25 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (MMG_facemask_alpine)
+22:17:43 | [WeatherManager] Send Data Count is 0
+22:18:54 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:19:3 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+22:19:6 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:20:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_BoxingGloves_Red)
+22:20:36 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_BoxingGloves_Red)
+22:20:51 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BoxingShorts_Red)
+22:21:7 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BoxingGloves_Black)
+22:21:11 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (Msp_BoxingHelmet_Blue)
+22:21:19 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_BoxingGloves_Blue)
+22:21:41 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_BoxingShorts_Blue)
+22:23:5 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:23:23 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:23:24 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:23:29 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+22:23:30 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+22:23:32 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198797376439)
+22:24:15 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561199206265093)
+22:24:37 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:24:42 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561199206265093)
+22:24:59 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:24:59 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:25:6 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:25:6 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+22:25:19 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7693.629883, 13.305703, 5766.680176>)
+22:25:19 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7693.63,0,5766.68)
+22:25:26 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:25:28 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:25:33 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+22:25:38 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+22:25:39 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Gen Trader)
+22:25:42 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:25:43 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:26:13 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:26:20 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+22:26:24 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:26:27 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+22:26:28 | "Mr Tugboi" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+22:26:29 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7718.315430, 13.281426, 5736.812988>)
+22:26:29 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:26:34 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:26:38 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:26:55 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7717.521973, 10.096925, 5741.827637>)
+22:26:56 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:27:10 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7708.589844, 4.773033, 5736.350098>)
+22:27:10 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7708.59,0,5736.35)
+22:27:19 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+22:27:22 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:27:22 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+22:27:41 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+22:27:52 | "Magick" (steamid=76561198797376439) /heal used on: "Magick" (steamid=76561198797376439)
+22:27:54 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+22:28:2 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:28:15 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198067006084)
+22:28:19 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:28:23 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198067006084)
+22:28:26 | "BeefySTi" (steamid=76561198095923512) gave godmode to (steamid=76561198067006084)
+22:28:28 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198067006084)
+22:28:28 | "JakusMallius" (steamid=76561198067006084) toggled freecam
+22:28:33 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:28:39 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:28:40 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:28:51 | "76561198067006084" (steamid=76561198067006084) teleported to (pos=<7694.169922, 13.890937, 5771.810059>)
+22:28:51 | "JakusMallius": (steamid=76561198067006084) teleported to (pos=7694.17,0,5771.81)
+22:28:58 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:28:58 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:29:11 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+22:29:13 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+22:30:26 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+22:30:56 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:31:8 | "BeefySTi" (steamid=76561198095923512) healed player (steamid=76561198095923512)
+22:31:9 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+22:31:19 | "Mr Tugboi" (steamid=76561199206265093) toggled freecam
+22:32:26 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_alpine) on "JakusMallius" (steamid=76561198067006084)
+22:32:26 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_alpine)
+22:32:26 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:32:27 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+22:32:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_alpine) on "Mr Tugboi" (steamid=76561199206265093)
+22:32:39 | "Mr Tugboi" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_alpine)
+22:33:50 | "BeefySTi" (steamid=76561198095923512) deleted objects using ESP
+22:34:20 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:34:22 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+22:35:54 | Player "Mr Tugboi" (steamId=76561199206265093) disconnected from server.
+22:36:53 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+22:37:4 | Player "Mr Tugboi" (steamId=76561199206265093) connected to server!
+22:37:20 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+22:37:32 | "Mr Tugboi" (steamid=76561199206265093) deleted object "BBP_Bed" (pos=<7718.304199, 10.050512, 5738.230469>)
+22:37:48 | Player "Mr Tugboi" (steamId=76561199206265093) disconnected from server.

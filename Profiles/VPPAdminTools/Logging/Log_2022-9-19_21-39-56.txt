@@ -1,0 +1,681 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-19_21-39-56
+====================================================================================
+21:39:56 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:39:56 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:39:56 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:39:56 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:39:56 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:39:56 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:39:56 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:39:56 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:39:56 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:39:56 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:39:56 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:39:56 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:39:56 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:39:56 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:39:56 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:39:56 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:39:56 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:39:56 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:39:56 | [PermissionManager] Adding Super Admin (76561198095923512)
+21:39:56 | [PermissionManager] Loaded UserGroups.json
+21:39:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:39:56 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:39:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:39:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:39:56 | Building Sets Loaded: 0
+21:39:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:39:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:41:26 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:41:26 | Player "Survivor" (steamId=76561198418287814) connected to server!
+21:41:29 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:41:32 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+21:41:47 | Player "Survivor" (steamId=76561198418287814) connected to server!
+21:41:49 | Player "Frank" (steamId=76561199004385675) connected to server!
+21:42:56 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:43:1 | Player "Magick" (steamId=76561198797376439) connected to server!
+21:43:27 | Player "Sly" (steamId=76561198303394031) connected to server!
+21:43:28 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+21:43:32 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+21:43:32 | Player "Sly" (steamId=76561198303394031) connected to server!
+21:48:6 | Player "Survivor" (steamId=76561198418287814) disconnected from server.
+21:48:10 | Player "Survivor" (steamId=76561198418287814) disconnected from server.
+21:49:20 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+21:52:51 | "THE STITTIES" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+21:56:35 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:56:42 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+21:58:20 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6274.089844, 217.150986, 2298.169922>)
+21:58:20 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=6274.09,0,2298.17)
+21:58:34 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6269.810059, 217.918533, 2284.879883>)
+21:58:34 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=6269.81,0,2284.88)
+21:59:13 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+21:59:33 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+21:59:41 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+21:59:58 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+22:0:7 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+22:0:23 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:1:29 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6297.719238, 216.082870, 2334.003662>)
+22:1:32 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:1:45 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+22:2:6 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6279.478027, 237.042038, 2306.422852>)
+22:2:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6292.384766, 216.189651, 2342.038330>)
+22:2:17 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6288.230957, 220.015869, 2351.803467>)
+22:2:21 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6288.365723, 215.517700, 2340.320801>)
+22:2:25 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6284.904297, 221.706238, 2349.301758>)
+22:2:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<6275.711426, 216.420868, 2317.174561>)
+22:2:34 | "Magick" (steamid=76561198797376439) toggled freecam
+22:2:47 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=Trader)
+22:3:10 | "Magick" (steamid=76561198797376439) toggled freecam
+22:3:24 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+22:3:27 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:4:18 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:8:14 | "Sly" (steamid=76561198303394031) toggled freecam
+22:8:21 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<11809.934570, 632.243652, 14466.084961>)
+22:8:39 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12023.525391, 631.850586, 14441.032227>)
+22:8:47 | "Sly" (steamid=76561198303394031) toggled freecam
+22:8:56 | "Sly" (steamid=76561198303394031) toggled freecam
+22:9:8 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12283.980469, 593.295532, 14670.314453>)
+22:9:21 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:9:22 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12291.018555, 583.774719, 14698.712891>)
+22:9:23 | "Sly" (steamid=76561198303394031) toggled freecam
+22:9:37 | "THE STITTIES" (steamid=76561199206265093) Teleporting player: "THE STITTIES" (steamid=76561199206265093) to (pos=<0.000000, 0.000000, 3834.976563>)
+22:10:1 | "Sly" (steamid=76561198303394031) toggled freecam
+22:11:7 | "Sly" (steamid=76561198303394031) toggled godmode
+22:12:20 | "Sly" (steamid=76561198303394031) toggled freecam
+22:12:23 | "Sly" (steamid=76561198303394031) toggled freecam
+22:12:30 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12187.131836, 616.599854, 15068.436523>)
+22:12:31 | "Sly" (steamid=76561198303394031) toggled freecam
+22:12:33 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12187.468750, 616.599854, 15069.453125>)
+22:12:36 | "Sly" (steamid=76561198303394031) toggled freecam
+22:12:39 | "Sly" (steamid=76561198303394031) toggled freecam
+22:13:37 | "Sly" (steamid=76561198303394031) /heal used on: "Sly" (steamid=76561198303394031)
+22:14:48 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SNAFU_Bipod)
+22:15:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12183.958008, 617.607605, 15064.096680>)
+22:15:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12183.028320, 618.243713, 15064.059570>)
+22:15:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.986328, 618.254700, 15064.058594>)
+22:15:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.950195, 618.258484, 15064.056641>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.917969, 618.256165, 15064.055664>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.892578, 618.247253, 15064.053711>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.868164, 618.232666, 15064.053711>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.847656, 618.213013, 15064.051758>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.831055, 618.189880, 15064.050781>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.816406, 618.164673, 15064.051758>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.803711, 618.132568, 15064.051758>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.792969, 618.096680, 15064.051758>)
+22:15:11 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<12182.785156, 618.056824, 15064.051758>)
+22:15:33 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:15:35 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:16:2 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+22:16:11 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+22:17:58 | Player "FerozZombi" (steamId=76561198121312214) connected to server!
+22:18:6 | Player "FerozZombi" (steamId=76561198121312214) connected to server!
+22:18:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (QuickieBow)
+22:19:29 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9756.430664, 393.734497, 10439.019531>)
+22:19:52 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<5556.040039, 425.493347, 13467.900391>)
+22:19:52 | "Sly": (steamid=76561198303394031) teleported to (pos=5556.04,0,13467.9)
+22:19:56 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5559.163574, 425.198059, 13474.426758>)
+22:20:27 | "THE STITTIES" (steamid=76561199206265093) deleted objects using ESP
+22:20:43 | "Sly" (steamid=76561198303394031) toggled freecam
+22:21:14 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<9745.500977, 394.463043, 10446.476563>)
+22:21:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_SoloLocker_Green_Kit)
+22:21:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_SoloLocker_Green_Kit)
+22:21:15 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_SoloLocker_Green_Kit)
+22:21:15 | "Sly" (steamid=76561198303394031) toggled freecam
+22:22:14 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_Gunwall_Kit)
+22:23:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_WoodenTable_Kit)
+22:25:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_StoneFireplace_Kit)
+22:25:59 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_Shelf_Kit)
+22:26:34 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_CoffinBox)
+22:27:48 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_FourDoor_MilitaryLocker_Green_Kit)
+22:27:49 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<7238.120117, 214.940140, 2347.699951>)
+22:27:49 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=7238.12,0,2347.7)
+22:27:54 | "Sly" (steamid=76561198303394031) toggled freecam
+22:27:57 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5820.881836, 256.326782, 9251.916992>)
+22:27:59 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:27:59 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:11 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_MedievalGibbetWithMount_Kit)
+22:28:16 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_FourDoor_MilitaryLocker_Green_Kit)
+22:28:28 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:39 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4386.371094, 200.982620, 3188.322998>)
+22:28:40 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:43 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:44 | "Sly" (steamid=76561198303394031) toggled freecam
+22:28:53 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<5750.878906, 249.389633, 9250.657227>)
+22:28:58 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_RifleSafe_Green_Kit)
+22:29:12 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:29:13 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:29:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:29:32 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:30:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_EmptyPlanterBox)
+22:31:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_HousePlant_Succulent)
+22:31:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_HousePlant_Succulent)
+22:31:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_HousePlant_Succulent)
+22:31:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_HousePlant_Succulent)
+22:36:20 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Foundation_Kit)
+22:36:28 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+22:36:48 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5751.058594, 254.391739, 9247.455078>
+22:36:50 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5751.058594, 254.391739, 9247.455078>
+22:36:56 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5751.554688, 254.391937, 9241.475586>
+22:36:58 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5751.554688, 254.391937, 9241.475586>
+22:37:1 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5757.534180, 254.391739, 9241.971680>
+22:37:3 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5757.534180, 254.391739, 9241.971680>
+22:37:4 | Player "Survivor" (steamId=76561199056014439) connected to server!
+22:37:6 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5763.513672, 254.391541, 9242.467773>
+22:37:7 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5763.513672, 254.391541, 9242.467773>
+22:37:10 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5763.017578, 254.391342, 9248.447266>
+22:37:11 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5763.017578, 254.391342, 9248.447266>
+22:37:15 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5769.493164, 254.391342, 9242.963867>
+22:37:16 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5769.493164, 254.391342, 9242.963867>
+22:37:19 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5768.997070, 254.391144, 9248.943359>
+22:37:20 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5768.997070, 254.391144, 9248.943359>
+22:37:54 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Metal_Stair_Kit)
+22:38:11 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Stair_Kit)
+22:38:48 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:39:3 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:40:14 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:40:16 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:40:24 | Player "Magick" (steamId=76561198797376439) connected to server!
+22:40:31 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:40:34 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5754.845703, 254.616043, 9247.085938>
+22:40:38 | Admin "THE STITTIES" (steamId=76561199206265093) built part railing_1 at position: <5754.845703, 254.616043, 9247.085938>
+22:40:44 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:40:53 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:41:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:41:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:41:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:42:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:42:29 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:42:29 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+22:42:51 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:42:57 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+22:43:33 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<5797.700195, 245.857971, 9224.349609>)
+22:43:33 | "Sly": (steamid=76561198303394031) teleported to (pos=5797.7,0,9224.35)
+22:43:40 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:43:50 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+22:43:50 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+22:44:3 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5759.215820, 251.489426, 9251.411133>
+22:44:5 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5759.215820, 251.489426, 9251.411133>
+22:44:7 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5758.526855, 251.489426, 9252.008789>
+22:44:8 | Player "Sly" (steamId=76561198303394031) connected to server!
+22:44:9 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5758.526855, 251.489426, 9252.008789>
+22:44:12 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5757.030762, 251.489426, 9251.902344>
+22:44:14 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5757.030762, 251.489426, 9251.902344>
+22:44:14 | Player "Sly" (steamId=76561198303394031) connected to server!
+22:44:24 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5754.457520, 251.489426, 9251.718750>
+22:44:25 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5754.457520, 251.489426, 9251.718750>
+22:44:28 | Admin "THE STITTIES" (steamId=76561199206265093) built part frame at position: <5753.859863, 251.489426, 9251.029297>
+22:44:30 | Admin "THE STITTIES" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5753.859863, 251.489426, 9251.029297>
+22:44:31 | "Sly" (steamid=76561198303394031) toggled godmode
+22:45:6 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:45:10 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+22:46:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:21 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Pillar_Kit)
+22:46:39 | "Sly" (steamid=76561198303394031) /heal used on: "Sly" (steamid=76561198303394031)
+22:46:42 | Player "Survivor (2)" (steamId=76561198418287814) connected to server!
+22:46:50 | Player "Survivor (2)" (steamId=76561198418287814) connected to server!
+22:46:57 | Player "FerozZombi" (steamId=76561198121312214) disconnected from server.
+22:47:0 | Player "FerozZombi" (steamId=76561198121312214) disconnected from server.
+22:47:27 | "Sly" (steamid=76561198303394031) toggled freecam
+22:47:36 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5800.114746, 245.830200, 9226.638672>)
+22:47:38 | "Sly" (steamid=76561198303394031) toggled freecam
+22:49:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:3 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (BBP_Plaster_2)
+22:49:6 | Player "FerozZombi" (steamId=76561198121312214) connected to server!
+22:49:20 | Player "FerozZombi" (steamId=76561198121312214) connected to server!
+22:51:43 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_StorageBox_Kit)
+22:53:49 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:54:39 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:54:39 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:54:39 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:54:39 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:54:55 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:54:56 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:54:56 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:54:56 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:54:57 | "Magick" (steamid=76561198797376439) Spawned Item: (Msp_EmptyPlanterBox)
+22:56:0 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:56:0 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+22:56:2 | Player "Survivor (2)" (steamId=76561198418287814) disconnected from server.
+22:56:4 | Player "Survivor (2)" (steamId=76561198418287814) disconnected from server.
+22:56:17 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+22:56:29 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5837.697754, 255.636444, 9240.234375>
+22:56:32 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5837.697754, 255.636444, 9240.234375>
+22:56:35 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5837.697754, 255.636444, 9240.234375>
+22:56:45 | "Magick" (steamid=76561198797376439) deleted object "Msp_EmptyPlanterBox" (pos=<5818.394043, 246.928558, 9243.368164>)
+22:58:8 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+22:58:21 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+22:58:30 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+22:58:41 | Player "THE STITTIES" (steamId=76561199206265093) re-connected to server [canceledLogout]
+22:58:52 | "THE STITTIES" (steamid=76561199206265093) executed kill command on: "76561199206265093"
+22:58:55 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+22:59:30 | "Sly" (steamid=76561198303394031) toggled freecam
+22:59:33 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5836.903320, 245.772598, 9241.496094>)
+22:59:34 | "Sly" (steamid=76561198303394031) toggled freecam
+23:1:4 | "Sly" (steamid=76561198303394031) Spawned Item: (Hatchet)
+23:2:2 | Player "British Lion192" (steamId=76561199206265093) connected to server!
+23:2:38 | "Sly" (steamid=76561198303394031) deleted object "BBP_Roof_Hatch" (pos=<5839.742188, 248.981796, 9238.188477>)
+23:2:47 | "Sly" (steamid=76561198303394031) deleted object "BBP_Roof_Hatch" (pos=<5839.741699, 252.200012, 9238.189453>)
+23:3:21 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:3:21 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:3:38 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+23:4:0 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:4:9 | Player "Magick" (steamId=76561198797376439) connected to server!
+23:4:35 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+23:5:25 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.742188, 248.981796, 9238.188477>
+23:5:30 | Admin "Sly" (steamId=76561198303394031) built part stair at position: <5839.742188, 248.981796, 9238.188477>
+23:5:36 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5839.742188, 248.981796, 9238.188477>
+23:5:47 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5839.742188, 248.981796, 9238.188477>
+23:6:8 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:6:8 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:6:23 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<4879.169922, 200.997910, 4466.899902>)
+23:6:23 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=4879.17,0,4466.9)
+23:6:36 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5837.698730, 249.200012, 9240.238281>
+23:6:39 | "Magick" (steamid=76561198797376439) deleted object "Msp_EmptyPlanterBox" (pos=<5814.768066, 246.935211, 9233.948242>)
+23:6:40 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5837.698730, 249.200012, 9240.238281>
+23:7:15 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.741699, 252.200012, 9238.189453>
+23:7:19 | Admin "Sly" (steamId=76561198303394031) built part stair at position: <5839.741699, 252.200012, 9238.189453>
+23:7:23 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5841.784668, 252.418228, 9236.146484>)
+23:7:25 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:7:27 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4687.260742, 201.371887, 4759.636230>)
+23:7:31 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5839.741699, 252.200012, 9238.189453>
+23:7:33 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5839.741699, 252.200012, 9238.189453>
+23:7:56 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4693.313965, 201.019989, 4911.579102>)
+23:8:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4695.879395, 201.020035, 4980.151367>)
+23:9:30 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:9:41 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:9:49 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:9:52 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:10:0 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:10:4 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:10:9 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:10:29 | Player "FerozZombi" (steamId=76561198121312214) disconnected from server.
+23:10:31 | Player "FerozZombi" (steamId=76561198121312214) disconnected from server.
+23:10:33 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:10:33 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:10:37 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:10:37 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:10:37 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:10:38 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Hatch_Kit)
+23:10:49 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.742188, 248.981796, 9238.188477>
+23:10:52 | Admin "Sly" (steamId=76561198303394031) built part stair at position: <5839.742188, 248.981796, 9238.188477>
+23:10:53 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4914.451660, 209.694031, 6032.386230>)
+23:11:0 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5839.742188, 248.981796, 9238.188477>
+23:11:32 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5841.785156, 249.200012, 9236.145508>
+23:11:34 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5841.785156, 249.200012, 9236.145508>
+23:12:13 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.741699, 252.200012, 9238.189453>
+23:12:15 | Admin "Sly" (steamId=76561198303394031) built part stair at position: <5839.741699, 252.200012, 9238.189453>
+23:12:21 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5839.741699, 252.200012, 9238.189453>
+23:12:31 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.741211, 255.418228, 9238.190430>
+23:12:34 | Admin "Sly" (steamId=76561198303394031) built part stair at position: <5839.741211, 255.418228, 9238.190430>
+23:12:38 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5839.741211, 255.418228, 9238.190430>
+23:13:33 | "Sly" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<5837.697754, 255.636444, 9240.234375>)
+23:13:42 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:14:11 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5837.697754, 255.636444, 9240.234375>
+23:14:14 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5837.697754, 255.636444, 9240.234375>
+23:14:16 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5837.697754, 255.636444, 9240.234375>
+23:15:9 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:15:15 | "Sly" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<5833.304199, 255.626663, 9244.627930>)
+23:15:22 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198418287814)
+23:15:23 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198418287814)
+23:15:25 | "BeefySTi" (steamid=76561198095923512) just updated a health stat on (steamid=76561198418287814)
+23:15:33 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5833.455078, 255.636246, 9244.477539>
+23:15:38 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5833.455078, 255.636246, 9244.477539>
+23:15:40 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5833.455078, 255.636246, 9244.477539>
+23:17:44 | "Sly" (steamid=76561198303394031) toggled godmode
+23:17:44 | "Sly" (steamid=76561198303394031) toggled godmode
+23:18:7 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+23:18:22 | Player "Survivor" (steamId=76561199056014439) disconnected from server.
+23:18:26 | Player "Survivor" (steamId=76561199056014439) disconnected from server.
+23:19:28 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:19:58 | "Sly" (steamid=76561198303394031) toggled freecam
+23:20:7 | "Sly" (steamid=76561198303394031) toggled freecam
+23:23:25 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:23:30 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:23:53 | "Sly" (steamid=76561198303394031) toggled godmode
+23:23:53 | "Sly" (steamid=76561198303394031) toggled godmode
+23:31:9 | "Sly" (steamid=76561198303394031) toggled godmode
+23:31:10 | "Sly" (steamid=76561198303394031) toggled godmode
+23:34:2 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<4918.779785, 201.394562, 4920.049805>)
+23:34:2 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=4918.78,0,4920.05)
+23:34:28 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4893.581543, 213.809067, 4731.833984>)
+23:35:20 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:35:21 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+23:35:25 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4918.052246, 210.306473, 4567.815430>)
+23:36:18 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5825.227051, 257.619598, 9249.792969>)
+23:36:20 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5825.045898, 257.595459, 9250.105469>)
+23:36:20 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5824.791016, 258.085297, 9250.722656>)
+23:36:21 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5824.553223, 258.315674, 9250.921875>)
+23:36:22 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5823.975098, 256.345276, 9254.023438>)
+23:36:28 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5823.316895, 257.466370, 9253.247070>)
+23:36:30 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5821.864258, 257.287048, 9252.590820>)
+23:37:30 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:37:30 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:37:31 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan) on "British Lion192" (steamid=76561199206265093)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan) on "British Lion192" (steamid=76561199206265093)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan) on "British Lion192" (steamid=76561199206265093)
+23:37:53 | "British Lion192" (steamid=76561199206265093) Spawned Item: (TunaCan)
+23:38:5 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5837.574707, 245.772598, 9243.819336>
+23:38:8 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5837.574707, 245.772598, 9243.819336>
+23:38:10 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5837.574707, 245.772598, 9243.819336>
+23:39:19 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5836.855469, 246.890015, 9251.329102>
+23:39:22 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5836.855469, 246.890015, 9251.329102>
+23:39:23 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5836.855469, 246.890015, 9251.329102>
+23:41:40 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:40 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:41 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:41 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:41 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:41 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:41 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:41:48 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:41:48 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:42:10 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.539551, 249.890015, 9248.058594>
+23:43:6 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5831.666992, 250.108231, 9252.113281>
+23:43:8 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5831.666992, 250.108231, 9252.113281>
+23:43:12 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5831.700195, 250.108231, 9256.207031>
+23:43:15 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5831.700195, 250.108231, 9256.207031>
+23:43:17 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.492188, 250.108231, 9260.484375>
+23:43:19 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5827.492188, 250.108231, 9260.484375>
+23:43:22 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5823.397949, 250.108231, 9260.517578>
+23:43:23 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5823.397949, 250.108231, 9260.517578>
+23:43:26 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5819.277832, 250.107834, 9256.461914>
+23:43:28 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5819.277832, 250.107834, 9256.461914>
+23:43:51 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.390137, 250.108231, 9247.905273>
+23:43:56 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5827.390137, 250.108231, 9247.905273>
+23:44:3 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5827.390137, 250.108231, 9247.905273>
+23:45:40 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5814.770508, 250.108231, 9243.919922>
+23:45:42 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5814.770508, 250.108231, 9243.919922>
+23:45:45 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5819.054688, 250.108032, 9248.134766>
+23:45:47 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5819.054688, 250.108032, 9248.134766>
+23:45:51 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5823.141602, 250.108032, 9248.102539>
+23:45:54 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5823.141602, 250.108032, 9248.102539>
+23:45:55 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5823.141602, 250.108032, 9248.102539>
+23:46:4 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:46:4 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:46:4 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:46:6 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<5061.284668, 201.113907, 4766.325195>)
+23:46:12 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:46:12 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:46:13 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:46:37 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (RFFSHeli_Apache)
+23:47:18 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:47:19 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:47:19 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:47:19 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:47:19 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Roof_Kit)
+23:48:38 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5812.743652, 253.108231, 9245.979492>
+23:48:40 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5812.743652, 253.108231, 9245.979492>
+23:48:44 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5817.027832, 253.108032, 9250.194336>
+23:48:45 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5817.027832, 253.108032, 9250.194336>
+23:48:58 | "Sly" (steamid=76561198303394031) deleted object "BBP_BDoor" (pos=<5823.141602, 250.108032, 9248.102539>)
+23:49:4 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5821.081543, 253.108032, 9246.075195>
+23:49:6 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5821.081543, 253.108032, 9246.075195>
+23:49:8 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5816.796875, 253.108231, 9241.860352>
+23:49:10 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5816.796875, 253.108231, 9241.860352>
+23:50:0 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:50:15 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:50:21 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:51:24 | "Sly" (steamid=76561198303394031) toggled freecam
+23:51:27 | "Sly" (steamid=76561198303394031) toggled freecam
+23:51:35 | "Sly" (steamid=76561198303394031) toggled freecam
+23:51:44 | "Sly" (steamid=76561198303394031) toggled freecam
+23:52:23 | "British Lion192" (steamid=76561199206265093) deleted object "RFFSHeli_Apache" (pos=<1856.039551, 220.485611, 7834.441406>)
+23:52:36 | "Sly" (steamid=76561198303394031) toggled freecam
+23:52:47 | "Sly" (steamid=76561198303394031) toggled freecam
+23:53:9 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+23:53:36 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5826.588379, 246.890015, 9245.036133>
+23:53:38 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5826.588379, 246.890015, 9245.036133>
+23:53:40 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5826.588379, 246.890015, 9245.036133>
+23:53:42 | "Sly" (steamid=76561198303394031) toggled freecam
+23:53:46 | "Sly" (steamid=76561198303394031) toggled freecam
+23:54:28 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:54:28 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:54:29 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Door_Kit)
+23:54:43 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:55:9 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5827.539551, 246.890015, 9248.058594>
+23:55:17 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5826.348633, 246.890015, 9245.209961>
+23:55:22 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5826.348633, 246.890015, 9245.209961>
+23:55:24 | Admin "Sly" (steamId=76561198303394031) built part t3_door at position: <5826.348633, 246.890015, 9245.209961>
+23:55:38 | "Sly" (steamid=76561198303394031) deleted object "BBP_Bwall" (pos=<5827.539551, 246.890015, 9248.058594>)
+23:55:54 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:55:59 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+23:57:26 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:57:26 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Wall_Kit)
+23:57:40 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5826.348633, 249.890015, 9245.209961>
+23:57:42 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5826.348633, 249.890015, 9245.209961>
+23:58:28 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Stair_Kit)
+23:58:28 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Stair_Kit)
+23:59:4 | "Sly" (steamid=76561198303394031) deleted objects using ESP
+23:59:31 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5826.348633, 249.890015, 9245.209961>)
+23:59:35 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5826.348633, 249.890015, 9245.209961>)
+23:59:37 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5826.413574, 251.540024, 9245.216797>)
+23:59:38 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5828.557617, 250.650284, 9247.401367>)
+23:59:40 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5827.039551, 249.853333, 9248.364258>)
+0:0:41 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5829.721191, 250.009811, 9245.848633>
+0:0:51 | "Sly" (steamid=76561198303394031) deleted object "BBP_Bstair" (pos=<5829.721191, 250.009811, 9245.848633>)
+0:2:6 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5829.721191, 250.049820, 9245.848633>
+0:3:46 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.407715, 250.168488, 9246.866211>
+0:3:48 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5827.407715, 250.168488, 9246.866211>
+0:4:34 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5828.498047, 250.168488, 9245.835938>
+0:4:36 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5828.498047, 250.168488, 9245.835938>
+0:4:38 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5829.588379, 250.168488, 9244.805664>
+0:4:39 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5829.588379, 250.168488, 9244.805664>
+0:4:44 | "Sly" (steamid=76561198303394031) toggled freecam
+0:5:13 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+0:5:22 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.355469, 251.749908, 9243.888672>)
+0:5:24 | "Sly" (steamid=76561198303394031) toggled freecam
+0:5:33 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+0:5:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+0:5:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+0:5:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+0:5:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+0:5:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Pillar_Kit)
+0:5:39 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+0:6:40 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5830.585449, 251.759430, 9242.156250>
+0:6:42 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5830.585449, 251.759430, 9242.156250>
+0:6:57 | Admin "Magick" (steamId=76561198797376439) built part frame at position: <5831.271973, 255.418030, 9242.417969>
+0:7:1 | Admin "Magick" (steamId=76561198797376439) built part t3_wall_concrete_bricks at position: <5831.271973, 255.418030, 9242.417969>
+0:7:41 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5831.271973, 252.418030, 9242.417969>
+0:7:42 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5831.271973, 252.418030, 9242.417969>
+0:8:14 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5831.270020, 251.784653, 9242.417969>
+0:8:15 | Admin "Sly" (steamId=76561198303394031) built part t3_wall_concrete_bricks at position: <5831.270020, 251.784653, 9242.417969>
+0:8:41 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.555176, 254.993484, 9246.881836>)
+0:8:43 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.583984, 256.732574, 9246.935547>)
+0:8:44 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5833.708496, 256.044098, 9247.709961>)
+0:8:45 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.558594, 254.993484, 9247.793945>)
+0:8:45 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.558594, 254.993484, 9247.793945>)
+0:8:46 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5834.558594, 254.993484, 9247.793945>)
+0:8:48 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<5833.817383, 256.578735, 9247.817383>)
+0:9:34 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:34 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:34 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:34 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:34 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:35 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:9:36 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:11:46 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5823.356934, 246.923737, 9244.417969>)
+0:11:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5823.108398, 250.108032, 9244.014648>)
+0:14:1 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:14:20 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.565430, 256.342224, 9258.411133>
+0:14:20 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5839.565430, 256.342224, 9258.411133>
+0:14:21 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5839.565430, 256.342224, 9258.411133>
+0:14:23 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5838.687500, 256.342224, 9253.672852>
+0:14:23 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5838.687500, 256.342224, 9253.672852>
+0:14:24 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5838.687500, 256.342224, 9253.672852>
+0:14:26 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5834.371582, 256.342224, 9249.504883>
+0:14:27 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5834.371582, 256.342224, 9249.504883>
+0:14:27 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5834.371582, 256.342224, 9249.504883>
+0:14:30 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5836.869141, 256.342224, 9262.033203>
+0:14:31 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5836.869141, 256.342224, 9262.033203>
+0:14:31 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5836.869141, 256.342224, 9262.033203>
+0:14:33 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5832.637207, 256.342224, 9266.286133>
+0:14:34 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5832.637207, 256.342224, 9266.286133>
+0:14:34 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5832.637207, 256.342224, 9266.286133>
+0:14:36 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.769043, 256.342224, 9268.885742>
+0:14:36 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5827.769043, 256.342224, 9268.885742>
+0:14:37 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5827.769043, 256.342224, 9268.885742>
+0:14:39 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5822.712891, 256.342224, 9267.276367>
+0:14:39 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5822.712891, 256.342224, 9267.276367>
+0:14:40 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5822.712891, 256.342224, 9267.276367>
+0:14:42 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5818.389648, 256.342224, 9263.116211>
+0:14:42 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5818.389648, 256.342224, 9263.116211>
+0:14:43 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5818.389648, 256.342224, 9263.116211>
+0:14:44 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5814.113770, 256.342224, 9259.085938>
+0:14:45 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5814.113770, 256.342224, 9259.085938>
+0:14:46 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5814.113770, 256.342224, 9259.085938>
+0:14:47 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5809.798340, 256.342224, 9254.982422>
+0:14:48 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5809.798340, 256.342224, 9254.982422>
+0:14:49 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5809.798340, 256.342224, 9254.982422>
+0:14:50 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5805.584961, 256.342224, 9250.710938>
+0:14:51 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5805.584961, 256.342224, 9250.710938>
+0:14:52 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5805.584961, 256.342224, 9250.710938>
+0:14:57 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5820.910156, 256.342224, 9235.224609>
+0:14:57 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5820.910156, 256.342224, 9235.224609>
+0:14:58 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5820.910156, 256.342224, 9235.224609>
+0:14:59 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5825.132813, 256.342224, 9239.487305>
+0:15:0 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5825.132813, 256.342224, 9239.487305>
+0:15:1 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5825.132813, 256.342224, 9239.487305>
+0:15:3 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5828.851563, 256.342224, 9243.323242>
+0:15:3 | Admin "Sly" (steamId=76561198303394031) built part t2_metal_2 at position: <5828.851563, 256.342224, 9243.323242>
+0:15:4 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5828.851563, 256.342224, 9243.323242>
+0:15:6 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (RFFSHeli_LittleBird_Camo)
+0:15:56 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:15:56 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:15:57 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:15:57 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:6 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5834.036621, 256.342224, 9249.565430>
+0:17:9 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5834.036621, 256.342224, 9249.565430>
+0:17:13 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:13 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:13 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:13 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:14 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Half_Wall_Kit)
+0:17:21 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:21 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:21 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:22 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:22 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:22 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:22 | "Sly" (steamid=76561198303394031) Spawned Item: (BarbedWire)
+0:17:51 | "Sly" (steamid=76561198303394031) Spawned Item: (Pliers)
+0:17:58 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+0:18:15 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+0:18:18 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5838.321289, 256.342224, 9253.765625>
+0:18:20 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5838.321289, 256.342224, 9253.765625>
+0:18:22 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+0:18:23 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5839.356445, 256.342224, 9258.365234>
+0:18:26 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5839.356445, 256.342224, 9258.365234>
+0:18:59 | Admin "Sly" (steamId=76561198303394031) built part frame at position: <5827.458008, 256.342224, 9268.633789>
+0:19:2 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_planks at position: <5827.458008, 256.342224, 9268.633789>
+0:21:24 | Admin "Sly" (steamId=76561198303394031) built part t2_metal at position: <5835.498535, 255.418030, 9242.433594>
+0:21:48 | "Sly" (steamid=76561198303394031) Spawned Item: (BBP_Floor_Kit)
+0:22:11 | Admin "Sly" (steamId=76561198303394031) built part t1_wall_logs_horizontal at position: <5835.498535, 255.418030, 9242.433594>
+0:23:14 | "Magick" (steamid=76561198797376439) gave godmode to (steamid=76561198797376439)
+0:24:15 | "BeefySTi" (steamid=76561198095923512) deleted object "RFFSHeli_LittleBird_Camo" (pos=<2740.938232, 289.271759, 10039.588867>)
+0:24:18 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:24:20 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:24:39 | "Sly" (steamid=76561198303394031) Spawned Item: (MMG_ammo_pouch_multicamblack)
+0:29:3 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:29:4 | "Sly" (steamid=76561198303394031) Spawned Item: (CodeLock)
+0:29:24 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+0:29:28 | Player "British Lion192" (steamId=76561199206265093) disconnected from server.
+0:30:14 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+0:30:14 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.

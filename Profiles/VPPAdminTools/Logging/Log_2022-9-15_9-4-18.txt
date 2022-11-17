@@ -1,0 +1,251 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-15_9-4-18
+====================================================================================
+9:4:18 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+9:4:18 | [PermissionManager] Perm (FreeCamera) has been registered!
+9:4:18 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuServerManager) has been registered!
+9:4:18 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+9:4:18 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+9:4:18 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+9:4:18 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+9:4:18 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+9:4:18 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+9:4:18 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+9:4:18 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+9:4:18 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+9:4:18 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuBansManager) has been registered!
+9:4:18 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+9:4:18 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+9:4:18 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+9:4:18 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+9:4:18 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+9:4:18 | [PermissionManager] Adding Super Admin (76561198095923512)
+9:4:18 | [PermissionManager] Loaded UserGroups.json
+9:4:18 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+9:4:18 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+9:4:18 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+9:4:18 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+9:4:18 | Building Sets Loaded: 0
+9:4:18 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+9:4:18 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+10:28:4 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:28:29 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:28:58 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+10:30:7 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:30:19 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:30:40 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+10:32:7 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:32:18 | Player "SpookySlayer" (steamId=76561199187022977) connected to server!
+10:32:39 | "SpookySlayer" (steamid=76561199187022977) gave godmode to (steamid=76561199187022977)
+10:32:52 | "SpookySlayer" (steamid=76561199187022977) gave unlimited ammo to (steamid=76561199187022977)
+10:32:59 | "SpookySlayer" (steamid=76561199187022977) just updated a health stat on (steamid=76561199187022977)
+10:33:0 | "SpookySlayer" (steamid=76561199187022977) just updated a health stat on (steamid=76561199187022977)
+10:33:0 | "SpookySlayer" (steamid=76561199187022977) just updated a health stat on (steamid=76561199187022977)
+10:33:1 | "SpookySlayer" (steamid=76561199187022977) just updated a health stat on (steamid=76561199187022977)
+10:33:1 | "SpookySlayer" (steamid=76561199187022977) just updated a health stat on (steamid=76561199187022977)
+10:34:22 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<7708.540039, 71.573273, 8745.429688>)
+10:34:22 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=7708.54,0,8745.43)
+10:35:9 | "SpookySlayer" (steamid=76561199187022977) teleported to crosshair (pos=<7684.004883, 83.487335, 8752.484375>)
+10:35:39 | "SpookySlayer" (steamid=76561199187022977) deleted objects using ESP
+10:37:45 | "SpookySlayer" (steamid=76561199187022977) teleported to crosshair (pos=<7629.468262, 95.896721, 8758.376953>)
+10:37:58 | "SpookySlayer" (steamid=76561199187022977) teleported to crosshair (pos=<7626.011719, 95.832230, 8757.935547>)
+10:39:47 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<7688.970215, 14.038695, 5773.450195>)
+10:39:47 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=7688.97,0,5773.45)
+10:39:49 | "76561199187022977" (steamid=76561199187022977) teleported to (pos=<7686.939941, 13.295682, 5766.430176>)
+10:39:49 | "SpookySlayer": (steamid=76561199187022977) teleported to (pos=7686.94,0,5766.43)
+10:40:13 | Player "SpookySlayer" (steamId=76561199187022977) disconnected from server.
+12:0:18 | Player "Frank " (steamId=76561199004385675) connected to server!
+12:0:36 | Player "Frank " (steamId=76561199004385675) connected to server!
+12:51:2 | Player "Frank " (steamId=76561199004385675) disconnected from server.
+13:3:18 | Player "Frank" (steamId=76561199004385675) connected to server!
+13:3:31 | Player "Frank" (steamId=76561199004385675) connected to server!
+13:45:33 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+13:45:49 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+13:56:58 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+14:12:47 | Player "Frank" (steamId=76561199004385675) connected to server!
+14:13:8 | Player "Frank" (steamId=76561199004385675) connected to server!
+14:28:20 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+14:28:31 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+14:28:42 | "JakusMallius" (steamid=76561198067006084) toggled godmode
+14:29:4 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7678.277832, 10.097095, 5742.465332>)
+14:29:6 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7678.783691, 10.096262, 5742.350586>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.290039, 10.095428, 5742.234375>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.349609, 10.095328, 5742.220215>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.501953, 10.095078, 5742.185059>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.608398, 10.098973, 5742.160645>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.714844, 10.098973, 5742.136230>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.795410, 10.098973, 5742.117676>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.805664, 10.098973, 5742.115234>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.822266, 10.098973, 5742.111328>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.836426, 10.098973, 5742.107910>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.849121, 10.098973, 5742.104980>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7679.913574, 10.098973, 5742.090820>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.047852, 10.098973, 5742.060059>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.141602, 10.098973, 5742.038574>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.262207, 10.098973, 5742.010742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.303223, 10.098973, 5742.001953>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.400391, 10.098973, 5741.979492>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.526367, 10.098973, 5741.950195>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.624512, 10.098973, 5741.927734>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.722168, 10.098973, 5741.905273>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.769043, 10.098973, 5741.895020>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.769043, 10.098973, 5741.895020>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.769043, 10.098973, 5741.895020>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.769043, 10.098973, 5741.895020>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.774414, 10.098973, 5741.893555>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.785645, 10.098973, 5741.891602>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.793457, 10.098973, 5741.889160>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.803223, 10.098973, 5741.887207>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.809570, 10.098973, 5741.885742>)
+14:29:7 | "JakusMallius" (steamid=76561198067006084) teleported to crosshair (pos=<7680.884766, 10.098973, 5741.868652>)
+14:29:59 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+14:30:3 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+14:30:21 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+14:30:31 | Player "JakusMallius" (steamId=76561198067006084) connected to server!
+14:31:2 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+14:31:4 | Player "JakusMallius" (steamId=76561198067006084) disconnected from server.
+14:32:37 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+14:32:49 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) connected to server!
+14:32:55 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:40:3 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+14:40:16 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7696.793945, 13.282851, 5756.824707>)
+14:40:24 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) teleported to crosshair (pos=<7698.921875, 13.353025, 5755.558105>)
+14:40:25 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled freecam
+14:42:2 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) Spawned Item: (KukriKnife)
+14:42:6 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:43:4 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:43:15 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:45:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:45:54 | "CaaaaaaVeMaaaan" (steamid=76561198067006084) toggled godmode
+14:50:6 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+14:50:10 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+14:50:30 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+14:50:31 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+14:50:34 | Player "Frank" (steamId=76561199004385675) connected to server!
+14:50:43 | Player "Frank" (steamId=76561199004385675) connected to server!
+14:50:57 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+14:51:7 | Player "MRLeok" (steamId=76561198829305873) connected to server!
+14:58:10 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+15:6:18 | Player "MRLeok" (steamId=76561198829305873) disconnected from server.
+15:6:18 | Player "CaaaaaaVeMaaaan" (steamId=76561198067006084) disconnected from server.

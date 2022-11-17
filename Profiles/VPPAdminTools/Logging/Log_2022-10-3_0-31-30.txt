@@ -1,0 +1,927 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-10-3_0-31-30
+====================================================================================
+0:31:30 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:31:30 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:31:30 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:31:30 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:31:30 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:31:30 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:31:30 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:31:30 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:31:30 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:31:30 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:31:30 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:31:30 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:31:30 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:31:30 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:31:30 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:31:30 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:31:30 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:31:30 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:31:30 | [PermissionManager] Adding Super Admin (76561198095923512)
+0:31:30 | [PermissionManager] Loaded UserGroups.json
+0:31:30 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:31:30 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:31:30 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:31:30 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:31:30 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:31:30 | Building Sets Loaded: 0
+0:31:30 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:34:38 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+0:34:44 | Player "THE STITTIES" (steamId=76561199206265093) connected to server!
+0:34:55 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:35:1 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:35:20 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+0:35:21 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:35:26 | Player "Endless" (steamId=76561198006641904) connected to server!
+0:36:28 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:36:50 | "THE STITTIES": (steamid=76561199206265093) teleported to (pos=Admin HQ)
+0:38:50 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:39:16 | Player "Frank" (steamId=76561199004385675) connected to server!
+0:40:47 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<8572.189453, 532.949707, 10917.861328>)
+0:41:15 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+0:41:20 | Player "Endless" (steamId=76561198006641904) disconnected from server.
+0:42:0 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<8645.451172, 568.204407, 10950.650391>)
+0:42:3 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:42:8 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Msp_AmmoCrate)
+0:42:43 | Player "Revan" (steamId=76561198117389764) connected to server!
+0:42:49 | Player "Revan" (steamId=76561198117389764) connected to server!
+0:43:8 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:43:14 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+0:47:3 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:47:23 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:47:35 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:47:43 | Player "Xellan" (steamId=76561198012332179) connected to server!
+0:47:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_double_magpouch_erdl)
+0:48:5 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<6431.359863, 216.340866, 780.276001>)
+0:48:5 | "BeefySTi": (steamid=76561198095923512) teleported to (pos=6431.36,0,780.276)
+0:48:6 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_falcon_b1_belt_erdl)
+0:48:18 | Player "Magick" (steamId=76561198797376439) connected to server!
+0:48:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_Holster_erdl)
+0:48:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_sheath_erdl)
+0:48:26 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_bottle_erdl)
+0:48:31 | Player "Magick" (steamId=76561198797376439) connected to server!
+0:48:54 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:49:16 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<6257.405273, 237.407654, 2263.143066>)
+0:49:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_erdl)
+0:49:23 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_ammo_pouch_erdl)
+0:49:39 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_tactical_pouch_erdl)
+0:50:1 | Player "Xellan" (steamId=76561198012332179) connected to server!
+0:50:42 | Player "Sly" (steamId=76561198303394031) connected to server!
+0:51:1 | Player "Sly" (steamId=76561198303394031) connected to server!
+0:51:32 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<3909.530029, 264.179016, 13575.200195>)
+0:51:32 | "Sly": (steamid=76561198303394031) teleported to (pos=3909.53,0,13575.2)
+0:51:40 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<317.268738, 340.483887, 14473.595703>)
+0:51:41 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (PoliceBaton)
+0:51:45 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_tactical_helmet_police)
+0:51:46 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_combatpants_police)
+0:51:47 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_combatshirt_police)
+0:51:50 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_patch_rubber_police)
+0:51:56 | "Sly" (steamid=76561198303394031) toggled freecam
+0:52:17 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_tt_vest_police)
+0:52:44 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_double_magpouch_black)
+0:52:45 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_double_magpouch_black)
+0:52:45 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_double_magpouch_black)
+0:53:0 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_black)
+0:53:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_ammo_pouch_black)
+0:53:52 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_tac_goggles_blue_black)
+0:53:57 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_Holster_black)
+0:54:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_sheath_black)
+0:54:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_bottle_black)
+0:54:32 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<313.168274, 340.943909, 14498.988281>)
+0:54:33 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+0:55:10 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+0:55:14 | "Sly" (steamid=76561198303394031) toggled freecam
+0:55:43 | "Sly" (steamid=76561198303394031) toggled freecam
+0:57:4 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_gp_nvg_black)
+0:57:18 | "Sly" (steamid=76561198303394031) toggled freecam
+0:57:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_balaclava_black)
+0:57:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_boots_black)
+0:57:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_black)
+0:57:40 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_carbine_black)
+0:57:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_headphones_black)
+0:58:2 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_ballistic_earcover_black)
+0:58:28 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_armored_helmet_visor_black)
+0:58:49 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (mmg_armored_helmet_visor_UP_tan)
+0:58:51 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_tactical_visor_black)
+0:59:16 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+0:59:35 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:59:43 | Player "BeefySTi" (steamId=76561198095923512) connected to server!
+0:59:57 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_falcon_b1_belt_black)
+1:0:1 | "BeefySTi" (steamid=76561198095923512) toggled godmode
+1:0:3 | "Magick" (steamid=76561198797376439) toggled godmode
+1:0:27 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_tactical_pouch_black)
+1:0:31 | "BeefySTi" (steamid=76561198095923512) gave unlimited ammo to (steamid=76561198095923512)
+1:0:31 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_Med_Pouch_black)
+1:1:5 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_bottle_black)
+1:1:9 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (MMG_carbine_black)
+1:5:16 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (SN_Glock19)
+1:5:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Mag_Glock_15Rnd)
+1:5:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Mag_Glock_15Rnd)
+1:5:19 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Mag_Glock_15Rnd)
+1:6:22 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (M67Grenade)
+1:6:25 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (FlashGrenade)
+1:7:39 | "THE STITTIES" (steamid=76561199206265093) teleported to crosshair (pos=<4018.316406, 261.506073, 13753.599609>)
+1:8:24 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:8:33 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:8:57 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:9:54 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:10:32 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:11:34 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:14:6 | "THE STITTIES" (steamid=76561199206265093) just updated a health stat on (steamid=76561198161700052)
+1:16:43 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+1:16:47 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+1:16:56 | "THE STITTIES" (steamid=76561199206265093) Spawned Item: (Animal_GallusGallusDomesticusF_Brown)
+1:17:0 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+1:18:10 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4193.688965, 258.628448, 13678.301758>)
+1:20:21 | "Magick" (steamid=76561198797376439) toggled freecam
+1:20:50 | "Magick" (steamid=76561198797376439) toggled freecam
+1:21:10 | "Magick" (steamid=76561198797376439) toggled freecam
+1:24:37 | "THE STITTIES" (steamid=76561199206265093) toggled freecam
+1:25:41 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<3787.983887, 273.509338, 13440.372070>)
+1:25:45 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:25:55 | Player "THE STITTIES" (steamId=76561199206265093) disconnected from server.
+1:27:19 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:27:45 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+1:27:55 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+1:28:8 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4218.337402, 252.815262, 13644.766602>)
+1:28:11 | "BeefySTi" (steamid=76561198095923512) teleported to crosshair (pos=<4218.337402, 252.815262, 13644.766602>)
+1:28:14 | "BeefySTi" (steamid=76561198095923512) toggled freecam
+1:30:12 | "Magick" (steamid=76561198797376439) toggled freecam
+1:30:39 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+1:30:55 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4136.112305, 253.296143, 13697.858398>)
+1:30:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4124.323730, 253.707581, 13710.433594>)
+1:30:56 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4111.735352, 254.282700, 13721.609375>)
+1:30:58 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4123.795898, 260.782776, 13803.114258>)
+1:31:2 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4152.811035, 258.411774, 13797.752930>)
+1:32:0 | "Magick" (steamid=76561198797376439) toggled freecam
+1:32:49 | "Magick" (steamid=76561198797376439) toggled freecam
+1:32:59 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4136.382324, 270.753876, 13826.391602>)
+1:33:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4122.057617, 259.919373, 13761.835938>)
+1:33:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4155.106445, 259.138397, 13694.803711>)
+1:33:13 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4172.149414, 259.238647, 13642.515625>)
+1:34:8 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (TF_AK_Zenit_PT1Bttstck)
+1:34:52 | "BeefySTi" (steamid=76561198095923512) Spawned Item: (AD_DHF5_B13)
+1:34:59 | "Sly" (steamid=76561198303394031) /heal used on: "Sly" (steamid=76561198303394031)
+1:35:42 | "Magick" (steamid=76561198797376439) toggled freecam
+1:35:44 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:35:45 | Player "BeefySTi" (steamId=76561198095923512) disconnected from server.
+1:36:6 | "Magick" (steamid=76561198797376439) toggled freecam
+1:37:4 | Player "eGirl4U" (steamId=76561198095923512) connected to server!
+1:37:15 | Player "eGirl4U" (steamId=76561198095923512) connected to server!
+1:37:50 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFUM98B_Mag)
+1:37:50 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFUM98B_Mag)
+1:37:50 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFUM98B_Mag)
+1:38:48 | "Sly" (steamid=76561198303394031) Spawned Item: (SA58_DrumMag)
+1:38:49 | "Sly" (steamid=76561198303394031) Spawned Item: (SA58_DrumMag)
+1:38:49 | "Sly" (steamid=76561198303394031) Spawned Item: (SA58_DrumMag)
+1:39:28 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:29 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:29 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:29 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:29 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:30 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:30 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (SNAFU_M76_Mag)
+1:39:46 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_FGCR_Grip)
+1:39:48 | "Magick" (steamid=76561198797376439) toggled freecam
+1:40:8 | "Sly" (steamid=76561198303394031) Spawned Item: (TacticalShirt_Black)
+1:40:40 | "Sly" (steamid=76561198303394031) Spawned Item: (MMG_combatpants_black)
+1:41:23 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4395.876953, 246.985825, 12540.695313>)
+1:42:9 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4361.904785, 240.831619, 12099.976563>)
+1:42:12 | "Magick" (steamid=76561198797376439) toggled freecam
+1:42:14 | "Magick" (steamid=76561198797376439) toggled freecam
+1:42:50 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4460.166992, 249.162216, 13054.012695>)
+1:42:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4474.853027, 236.725906, 11489.836914>)
+1:42:56 | "Magick" (steamid=76561198797376439) toggled freecam
+1:42:57 | "Magick" (steamid=76561198797376439) toggled freecam
+1:43:46 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4626.868652, 230.800827, 11064.485352>)
+1:43:47 | "Magick" (steamid=76561198797376439) toggled freecam
+1:43:48 | "Magick" (steamid=76561198797376439) toggled freecam
+1:44:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5091.030273, 224.980011, 10104.684570>)
+1:45:44 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5238.312988, 228.107391, 9244.480469>)
+1:45:49 | "Magick" (steamid=76561198797376439) toggled freecam
+1:45:52 | "Magick" (steamid=76561198797376439) toggled freecam
+1:46:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5277.147949, 237.487320, 9313.058594>)
+1:46:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<5065.172852, 224.829498, 8576.629883>)
+1:46:55 | "Magick" (steamid=76561198797376439) toggled freecam
+1:46:58 | "Magick" (steamid=76561198797376439) toggled freecam
+1:47:19 | "InfectedLoveLiquid" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+1:47:25 | "InfectedLoveLiquid" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+1:47:46 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60300_Black)
+1:47:46 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60300_Black)
+1:47:47 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60300_Black)
+1:47:48 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4935.732422, 206.523163, 5505.064941>)
+1:47:51 | "Magick" (steamid=76561198797376439) toggled freecam
+1:47:52 | "Magick" (steamid=76561198797376439) toggled freecam
+1:48:10 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<4382.997559, 211.891983, 3210.795898>)
+1:48:18 | "Magick" (steamid=76561198797376439) toggled freecam
+1:48:21 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60556_Black)
+1:48:21 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60556_Black)
+1:48:21 | "Sly" (steamid=76561198303394031) Spawned Item: (SNAFU_CMAG60556_Black)
+1:51:49 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4633.975098, 204.156128, 8306.176758>)
+1:52:19 | "Sly" (steamid=76561198303394031) toggled freecam
+1:52:30 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4211.344238, 260.473358, 13650.739258>)
+1:52:31 | "Sly" (steamid=76561198303394031) toggled freecam
+1:52:54 | "InfectedLoveLiquid" (steamid=76561199206265093) just updated a health stat on (steamid=76561199206265093)
+1:52:55 | "InfectedLoveLiquid" (steamid=76561199206265093) just updated a health stat on (steamid=76561199206265093)
+1:53:5 | Player "Frank" (steamId=76561199004385675) connected to server!
+1:53:43 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+1:54:3 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+1:54:4 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<955.762024, 243.388184, 10654.400391>)
+1:54:4 | "Magick": (steamid=76561198797376439) teleported to (pos=955.762,0,10654.4)
+1:54:10 | Player "Chris38108" (steamId=76561198418287814) connected to server!
+1:54:17 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<2747.020020, 286.816315, 12209.599609>)
+1:54:17 | "Sly": (steamid=76561198303394031) teleported to (pos=2747.02,0,12209.6)
+1:54:54 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<879.330078, 241.349762, 10739.360352>)
+1:55:0 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<873.460632, 237.133850, 10773.815430>)
+1:55:1 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<878.807373, 237.119995, 10786.812500>)
+1:55:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<886.358093, 237.119995, 10808.596680>)
+1:55:4 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<889.200989, 237.119995, 10819.571289>)
+1:55:5 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<891.138916, 237.119980, 10830.654297>)
+1:55:6 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<880.247253, 237.120010, 10840.550781>)
+1:55:7 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<870.610718, 237.120026, 10844.344727>)
+1:55:8 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<823.902710, 237.878922, 10861.027344>)
+1:55:8 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4119.042969, 241.549637, 9641.419922>)
+1:55:8 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4086.582520, 241.864014, 9651.528320>)
+1:55:11 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4044.439209, 241.437195, 9666.995117>)
+1:55:13 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4008.506104, 240.712311, 9681.138672>)
+1:55:13 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<830.973450, 237.977707, 10901.481445>)
+1:55:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<835.032654, 238.403931, 10917.520508>)
+1:55:15 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<832.133850, 238.994049, 10938.171875>)
+1:55:16 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<828.028503, 239.335068, 10952.455078>)
+1:55:17 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<823.791809, 239.601196, 10967.174805>)
+1:56:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<764.194580, 241.100784, 11025.265625>)
+1:56:13 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<749.994385, 240.983353, 11031.515625>)
+1:56:14 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<729.742432, 241.209595, 11039.673828>)
+1:56:19 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<708.555176, 241.140106, 11055.295898>)
+1:56:20 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<697.691162, 241.913406, 11061.465820>)
+1:56:21 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<686.960327, 242.486008, 11066.745117>)
+1:56:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<676.547546, 243.089523, 11071.895508>)
+1:56:22 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<665.974304, 243.611053, 11077.157227>)
+1:56:29 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<647.193298, 241.037521, 11110.637695>)
+1:56:30 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<645.658691, 241.578156, 11120.538086>)
+1:56:32 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<647.565491, 242.754532, 11137.034180>)
+1:56:34 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<646.235107, 243.015625, 11150.009766>)
+1:56:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<644.996277, 243.183563, 11160.531250>)
+1:56:36 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<646.800415, 243.381149, 11169.797852>)
+1:56:37 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<648.980652, 243.611115, 11177.985352>)
+1:56:38 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<650.773071, 243.842804, 11185.418945>)
+1:56:39 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<652.777344, 245.237503, 11191.447266>)
+1:56:52 | "Magick" (steamid=76561198797376439) toggled freecam
+1:57:23 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<647.840027, 247.279205, 11754.700195>)
+1:57:23 | "Magick": (steamid=76561198797376439) teleported to (pos=647.84,0,11754.7)
+1:57:27 | "Magick" (steamid=76561198797376439) toggled freecam
+1:57:31 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<647.487122, 249.011749, 11755.383789>)
+1:57:33 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<628.768921, 247.651855, 11755.637695>)
+1:57:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<620.807373, 247.853668, 11755.925781>)
+1:57:45 | "Magick" (steamid=76561198797376439) toggled freecam
+1:57:47 | "Magick" (steamid=76561198797376439) toggled freecam
+1:57:55 | "Magick" (steamid=76561198797376439) toggled freecam
+1:58:53 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<706.266602, 258.007416, 12916.806641>)
+1:58:55 | "Magick" (steamid=76561198797376439) toggled freecam
+1:58:57 | "Magick" (steamid=76561198797376439) toggled freecam
+1:59:30 | "Magick" (steamid=76561198797376439) toggled freecam
+1:59:41 | "76561198797376439" (steamid=76561198797376439) teleported to (pos=<758.572998, 285.609619, 14421.200195>)
+1:59:41 | "Magick": (steamid=76561198797376439) teleported to (pos=758.573,0,14421.2)
+1:59:46 | "Magick" (steamid=76561198797376439) toggled freecam
+2:0:6 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<1659.500000, 265.798950, 12818.700195>)
+2:0:6 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=1659.5,0,12818.7)
+2:0:9 | "eGirl4U" (steamid=76561198095923512) toggled freecam
+2:0:19 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1597.920776, 270.619202, 12887.766602>)
+2:0:21 | "eGirl4U" (steamid=76561198095923512) toggled freecam
+2:0:33 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1580.405151, 271.936432, 12965.414063>)
+2:1:13 | "Magick" (steamid=76561198797376439) toggled freecam
+2:1:19 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+2:1:28 | Player "Magick" (steamId=76561198797376439) re-connected to server [canceledLogout]
+2:1:30 | "Magick" (steamid=76561198797376439) toggled freecam
+2:1:38 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<779.267029, 278.868195, 14379.900391>)
+2:1:38 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=779.267,0,14379.9)
+2:1:50 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:1:52 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<293.664459, 340.483917, 14464.584961>)
+2:1:53 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+2:1:54 | "Magick" (steamid=76561198797376439) toggled freecam
+2:1:54 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1223.463989, 271.357422, 13256.949219>)
+2:2:1 | "Magick" (steamid=76561198797376439) toggled freecam
+2:2:13 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<143.172562, 368.620026, 14400.842773>)
+2:2:15 | "Magick" (steamid=76561198797376439) toggled freecam
+2:2:16 | "Magick" (steamid=76561198797376439) toggled freecam
+2:2:18 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+2:2:25 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+2:2:42 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<236.915710, 342.891083, 14514.121094>)
+2:2:44 | "Magick" (steamid=76561198797376439) toggled freecam
+2:2:47 | "Magick" (steamid=76561198797376439) toggled freecam
+2:2:53 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<665.706909, 298.525269, 14417.307617>)
+2:3:0 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<479.520538, 312.762512, 14451.189453>)
+2:3:13 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:4:40 | "Sly" (steamid=76561198303394031) Spawned Item: (NVGoggles)
+2:4:44 | "Sly" (steamid=76561198303394031) Spawned Item: (Battery9V)
+2:4:45 | "Sly" (steamid=76561198303394031) Spawned Item: (Battery9V)
+2:4:45 | "Sly" (steamid=76561198303394031) Spawned Item: (Battery9V)
+2:5:8 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:5:11 | "Magick" (steamid=76561198797376439) toggled freecam
+2:5:16 | "Magick" (steamid=76561198797376439) toggled freecam
+2:5:26 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+2:5:26 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+2:5:27 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (Battery9V)
+2:5:28 | "Sly" (steamid=76561198303394031) toggled freecam
+2:5:42 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:5:54 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<301.619751, 341.700592, 14421.953125>)
+2:6:3 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (ExpansionBus_Weeb)
+2:6:7 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (ExpansionBus_Weeb)
+2:6:9 | Player "Chris38108" (steamId=76561198418287814) disconnected from server.
+2:6:18 | "Sly" (steamid=76561198303394031) toggled freecam
+2:6:26 | "Sly" (steamid=76561198303394031) toggled freecam
+2:6:34 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<929.985168, 263.587524, 13259.411133>)
+2:6:36 | "Sly" (steamid=76561198303394031) toggled freecam
+2:8:35 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<308.024170, 347.796234, 14500.681641>)
+2:8:37 | "Magick" (steamid=76561198797376439) toggled freecam
+2:8:38 | "Magick" (steamid=76561198797376439) toggled freecam
+2:8:45 | Player "Xellan" (steamId=76561198012332179) disconnected from server.
+2:8:47 | Player "Xellan" (steamId=76561198012332179) disconnected from server.
+2:8:50 | Player "Revan" (steamId=76561198117389764) disconnected from server.
+2:8:51 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:9:16 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<5.596844, 335.385895, 15018.085938>)
+2:9:36 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:9:48 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<354.351013, 334.369934, 14575.481445>)
+2:9:49 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<323.894775, 342.619263, 14629.345703>)
+2:9:51 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<284.411804, 351.690125, 14683.728516>)
+2:9:52 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<211.184448, 365.621368, 14790.249023>)
+2:9:59 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<195.470505, 356.326843, 14861.769531>)
+2:10:4 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<183.866287, 352.117676, 14906.347656>)
+2:10:5 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<175.648026, 350.248383, 14922.823242>)
+2:10:5 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<174.874924, 348.065002, 14937.254883>)
+2:10:6 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<169.692078, 345.908051, 14950.708008>)
+2:10:7 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<168.955856, 343.741638, 14963.909180>)
+2:10:12 | "Magick" (steamid=76561198797376439) teleported to crosshair (pos=<171.028687, 344.934723, 14956.638672>)
+2:10:13 | "Magick" (steamid=76561198797376439) toggled freecam
+2:11:54 | Player "Vaseliries" (steamId=76561198161700052) disconnected from server.
+2:13:2 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1742.914185, 574.556519, 13133.105469>)
+2:13:6 | "eGirl4U" (steamid=76561198095923512) toggled godmode
+2:13:9 | "Sly" (steamid=76561198303394031) toggled godmode
+2:13:12 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+2:13:17 | Player "Magick" (steamId=76561198797376439) disconnected from server.
+2:13:28 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1721.945190, 268.673706, 13112.217773>)
+2:13:33 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1724.199097, 268.508911, 13118.894531>)
+2:13:38 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:13:41 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<1712.229614, 269.770447, 13142.483398>)
+2:13:42 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:13:44 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1725.035522, 268.403778, 13115.577148>)
+2:13:44 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1725.510254, 268.340698, 13113.541016>)
+2:13:45 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1725.043091, 268.369293, 13111.455078>)
+2:13:46 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1717.314087, 269.190979, 13121.593750>)
+2:13:48 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<1710.073975, 270.030975, 13155.723633>)
+2:13:48 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<1708.417603, 270.139984, 13144.472656>)
+2:13:48 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1709.001099, 270.113312, 13151.416016>)
+2:13:49 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1705.738892, 271.581451, 13155.165039>)
+2:13:49 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<1703.233154, 272.583862, 13156.419922>)
+2:14:26 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+2:14:27 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+2:14:56 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+2:15:0 | Player "InfectedLoveLiquid" (steamId=76561199206265093) connected to server!
+2:16:6 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<1535.739990, 278.747101, 13095.599609>)
+2:16:6 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=1535.74,0,13095.6)
+2:16:17 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:17:53 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (HumanSteakMeat)
+2:18:8 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:18:39 | "eGirl4U" (steamid=76561198095923512) gave godmode to (steamid=76561198303394031)
+2:24:31 | "Sly" (steamid=76561198303394031) toggled godmode
+2:24:31 | "Sly" (steamid=76561198303394031) toggled godmode
+2:24:32 | "Sly" (steamid=76561198303394031) toggled godmode
+2:26:2 | "Sly" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+2:27:22 | "76561199206265093" (steamid=76561199206265093) teleported to (pos=<4546.250000, 218.849792, 9105.379883>)
+2:27:22 | "InfectedLoveLiquid": (steamid=76561199206265093) teleported to (pos=4546.25,0,9105.38)
+2:27:52 | "Sly" (steamid=76561198303394031) Spawned Item: (TF_Mag_PKM_100Rnd)
+2:27:56 | "Sly" (steamid=76561198303394031) Spawned Item: (TF_PKM)
+2:28:25 | "Sly" (steamid=76561198303394031) toggled freecam
+2:28:28 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4433.740234, 229.584808, 9007.011719>)
+2:28:34 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4430.961426, 231.043823, 8999.419922>)
+2:28:42 | "Sly" (steamid=76561198303394031) toggled freecam
+2:28:46 | "Sly" (steamid=76561198303394031) toggled freecam
+2:28:49 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4511.223145, 222.325119, 9068.515625>)
+2:28:57 | "Sly" (steamid=76561198303394031) toggled freecam
+2:29:10 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+2:29:43 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:29:47 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:30:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_tt_vest_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:30:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_tt_vest_erdl)
+2:30:8 | "Sly" (steamid=76561198303394031) toggled godmode
+2:30:39 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4566.299805, 237.895798, 7879.453613>)
+2:30:44 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4568.409180, 220.087601, 7880.058594>)
+2:30:46 | "Sly" (steamid=76561198303394031) toggled freecam
+2:31:3 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4443.877441, 221.370972, 8867.054688>)
+2:31:5 | "Sly" (steamid=76561198303394031) toggled freecam
+2:31:7 | "Sly" (steamid=76561198303394031) toggled freecam
+2:31:10 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4444.780273, 223.124985, 8882.121094>)
+2:31:13 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4438.480469, 222.372330, 8882.368164>)
+2:31:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_assault_pack_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:31:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_assault_pack_erdl)
+2:31:23 | "Sly" (steamid=76561198303394031) toggled freecam
+2:31:35 | "Ur New Dad" (steamid=76561198797376439) Spawned Item: (Black_CamoNetPoncho)
+2:31:37 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+2:32:6 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:32:6 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_striker_helmet_erdl)
+2:32:10 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:32:13 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:32:17 | "Sly" (steamid=76561198303394031) toggled godmode
+2:32:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_operatorshirt_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:32:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_operatorshirt_erdl)
+2:32:33 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<4671.425781, 203.026199, 8308.352539>)
+2:32:40 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+2:32:51 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4670.010742, 201.464310, 8312.990234>)
+2:32:59 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_pants_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:32:59 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_pants_erdl)
+2:33:31 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5097.419922, 225.784241, 8316.389648>)
+2:33:31 | "eGirl4U": (steamid=76561198095923512) teleported to (pos=5097.42,0,8316.39)
+2:33:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:33:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (mmg_tactical_gloves_erdl)
+2:33:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_boots_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:33:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_boots_erdl)
+2:33:54 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_balaclava_erdl) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:33:54 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (MMG_balaclava_erdl)
+2:33:56 | "76561198095923512" (steamid=76561198095923512) teleported to (pos=<5076.490234, 225.009293, 8206.040039>)
+2:33:56 | "eGirl4U": (steamid=76561198095923512) teleported to (pos=5076.49,0,8206.04)
+2:35:37 | "Sly" (steamid=76561198303394031) gave unlimited ammo to (steamid=76561198303394031)
+2:35:53 | "InfectedLoveLiquid" (steamid=76561199206265093) gave unlimited ammo to (steamid=76561199206265093)
+2:37:46 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:50 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<5838.454590, 264.880096, 9108.254883>)
+2:37:51 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:37:57 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<5843.586426, 261.964172, 9116.623047>)
+2:38:8 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<5844.986816, 291.218384, 9068.911133>)
+2:39:51 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+2:40:11 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:40:34 | "InfectedLoveLiquid" (steamid=76561199206265093) teleported to crosshair (pos=<5759.784180, 245.858047, 9235.074219>)
+2:40:36 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:40:42 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Blue)
+2:40:48 | "eGirl4U" (steamid=76561198095923512) teleported to crosshair (pos=<5835.523926, 245.719894, 9138.165039>)
+2:41:4 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_BDoor" (pos=<5755.787109, 246.171616, 9242.349609>)
+2:41:22 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_BDoor" (pos=<5751.565918, 246.171616, 9244.903320>)
+2:41:43 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted objects using ESP
+2:42:8 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Blue)
+2:42:12 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Blue)
+2:42:22 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+2:43:6 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Vehicle_Hatchback_02_BanditKitty)
+2:43:13 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_BanditKitty)
+2:43:17 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_BanditKitty)
+2:43:33 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+2:43:50 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:44:4 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:44:12 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Door_1_1_BanditKitty)
+2:44:13 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Door_1_2_BanditKitty)
+2:44:14 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Door_2_1_BanditKitty)
+2:44:15 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Door_2_2_BanditKitty)
+2:44:15 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Hood_BanditKitty)
+2:44:16 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (Hatchback_02_Trunk_BanditKitty)
+2:44:38 | "eGirl4U" (steamid=76561198095923512) toggled freecam
+2:44:40 | "eGirl4U" (steamid=76561198095923512) toggled freecam
+2:44:43 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Hood" (pos=<5832.602539, 246.030121, 9152.551758>)
+2:44:46 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Door_1_2" (pos=<5830.079590, 246.121399, 9154.146484>)
+2:44:48 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Trunk" (pos=<5831.875488, 246.548584, 9151.193359>)
+2:44:53 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Door_2_1" (pos=<5835.034180, 246.112503, 9155.014648>)
+2:44:56 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Door_2_2" (pos=<5833.435547, 246.113251, 9152.551758>)
+2:44:56 | Player "Revan" (steamId=76561198117389764) connected to server!
+2:44:58 | "eGirl4U" (steamid=76561198095923512) deleted object "Hatchback_02_Door_1_1" (pos=<5833.411133, 246.121399, 9152.551758>)
+2:45:1 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted objects using ESP
+2:45:6 | Player "Revan" (steamId=76561198117389764) connected to server!
+2:45:16 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+2:45:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:45:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+2:45:30 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKeyTag_GunterRed)
+2:45:34 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Red)
+2:45:37 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKey_Red)
+2:45:40 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (MCK_CarKeyTag_GunterRed)
+2:45:48 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:45:52 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <5750.646484, 246.171616, 9250.592773>
+2:45:54 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5750.646484, 246.171616, 9250.592773>
+2:46:0 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+2:46:32 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:46:32 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+2:46:40 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (CamoNet)
+2:47:29 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:47:36 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled freecam
+2:47:56 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:48:8 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (OffroadHatchback_Police)
+2:48:8 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <5763.256348, 249.423553, 9248.578125>
+2:48:8 | Player "Sly" (steamId=76561198303394031) connected to server!
+2:48:23 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <5763.256348, 249.423553, 9248.578125>
+2:48:25 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t3_door at position: <5763.256348, 249.423553, 9248.578125>
+2:48:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CodeLock) on "InfectedLoveLiquid" (steamid=76561199206265093)
+2:48:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CodeLock)
+2:49:2 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (RFFSHeli_Bell429_Police)
+2:49:7 | "eGirl4U" (steamid=76561198095923512) deleted object "HatchbackHood" (pos=<5772.683105, 246.975128, 9232.547852>)
+2:49:10 | "eGirl4U" (steamid=76561198095923512) toggled godmode
+2:49:11 | "eGirl4U" (steamid=76561198095923512) deleted object "OffroadHatchback_Police" (pos=<5772.680176, 245.895142, 9231.262695>)
+2:49:23 | "Sly" (steamid=76561198303394031) Spawned Item: (CivilianSedan_Police)
+2:49:31 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:49:31 | "Sly" (steamid=76561198303394031) deleted object "CivSedanHood" (pos=<5767.468262, 246.866455, 9234.368164>)
+2:49:32 | "Sly" (steamid=76561198303394031) toggled godmode
+2:49:34 | "Sly" (steamid=76561198303394031) deleted object "CivilianSedan_Police" (pos=<5767.465332, 245.850113, 9232.759766>)
+2:49:50 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (ExpansionMh6_Sheriff)
+2:50:28 | Player "Vaseliries" (steamId=76561198161700052) connected to server!
+2:50:43 | "eGirl4U" (steamid=76561198095923512) /refuel used on self.
+2:50:49 | "Sly" (steamid=76561198303394031) Spawned Item: (Truck_01_Covered_Wine)
+2:51:0 | "Sly" (steamid=76561198303394031) deleted object "Truck_01_Covered_Wine" (pos=<5771.114258, 245.960190, 9232.397461>)
+2:51:29 | "Sly" (steamid=76561198303394031) Spawned Item: (RFFSHeli_Ka26)
+2:51:31 | "eGirl4U" (steamid=76561198095923512) deleted object "ExpansionMh6_Sheriff" (pos=<5788.810059, 245.716721, 9246.245117>)
+2:51:57 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (RFFSHeli_CH47)
+2:52:10 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+2:52:13 | "Sly" (steamid=76561198303394031) toggled godmode
+2:52:14 | "Sly" (steamid=76561198303394031) toggled godmode
+2:52:21 | "Sly" (steamid=76561198303394031) toggled freecam
+2:52:24 | "Sly" (steamid=76561198303394031) toggled freecam
+2:53:32 | "Sly" (steamid=76561198303394031) toggled godmode
+2:53:33 | "Sly" (steamid=76561198303394031) toggled godmode
+2:54:18 | "Sly" (steamid=76561198303394031) Spawned Item: (ExpansionMerlin_Vrana)
+2:54:21 | "Sly" (steamid=76561198303394031) deleted object "ExpansionMerlin_Vrana" (pos=<5699.560059, 259.529785, 9550.099609>)
+2:54:29 | "Sly" (steamid=76561198303394031) Spawned Item: (ExpansionUh1h_Civilian)
+2:54:36 | "Sly" (steamid=76561198303394031) deleted object "ExpansionUh1h_Civilian" (pos=<5699.797852, 259.855835, 9551.506836>)
+2:54:53 | "Sly" (steamid=76561198303394031) Spawned Item: (ExpansionUh1h_Resistance)
+2:56:53 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:57:12 | Player "Frank" (steamId=76561199004385675) connected to server!
+2:57:41 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+2:57:44 | "Ur New Dad" (steamid=76561198797376439) toggled godmode
+2:58:15 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8762.740234, 550.894470, 10956.344727>)
+2:58:15 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8763.015625, 550.999084, 10956.592773>)
+2:58:16 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8759.945313, 549.145386, 10960.629883>)
+2:58:20 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8749.135742, 535.169800, 10959.057617>)
+2:58:29 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8692.885742, 148.923492, 10965.737305>)
+2:58:49 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8649.574219, -14.759977, 10572.914063>)
+2:58:56 | "Sly" (steamid=76561198303394031) toggled godmode
+2:58:58 | "Sly" (steamid=76561198303394031) toggled godmode
+2:59:2 | "Sly" (steamid=76561198303394031) toggled freecam
+2:59:8 | "Sly" (steamid=76561198303394031) toggled freecam
+2:59:22 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<4326.620117, 274.553558, 14756.599609>)
+2:59:22 | "Sly": (steamid=76561198303394031) teleported to (pos=4326.62,0,14756.6)
+2:59:36 | "Sly" (steamid=76561198303394031) toggled freecam
+2:59:43 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<4404.458008, 284.197052, 14797.630859>)
+2:59:46 | "Sly" (steamid=76561198303394031) toggled freecam
+2:59:51 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+3:0:41 | Player "Sly" (steamId=76561198303394031) connected to server!
+3:0:45 | Player "Sly" (steamId=76561198303394031) connected to server!
+3:0:52 | "Sly" (steamid=76561198303394031) deleted object "ExpansionUh1h_Resistance" (pos=<4402.167480, 283.976135, 14794.979492>)
+3:1:11 | "Sly" (steamid=76561198303394031) Spawned Item: (RFFSHeli_Blackhawk_Budhawk)
+3:1:13 | "Sly" (steamid=76561198303394031) toggled godmode
+3:1:16 | "eGirl4U" (steamid=76561198095923512) deleted object "RFFSHeli_CH47" (pos=<7342.134277, 273.692871, 3656.102295>)
+3:1:24 | "eGirl4U" (steamid=76561198095923512) Spawned Item: (RFFSHeli_CH53e)
+3:2:15 | "Sly" (steamid=76561198303394031) /heal used on: "Sly" (steamid=76561198303394031)
+3:3:26 | "Sly" (steamid=76561198303394031) toggled freecam
+3:3:28 | "Sly" (steamid=76561198303394031) toggled freecam
+3:4:36 | "eGirl4U" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+3:4:37 | "eGirl4U" (steamid=76561198095923512) just updated a health stat on (steamid=76561198095923512)
+3:4:40 | "Sly" (steamid=76561198303394031) toggled freecam
+3:4:43 | "Sly" (steamid=76561198303394031) toggled freecam
+3:4:53 | Player "Xellan" (steamId=76561198012332179) connected to server!
+3:5:24 | "Sly" (steamid=76561198303394031) toggled freecam
+3:5:29 | "Sly" (steamid=76561198303394031) toggled freecam
+3:5:40 | "Sly" (steamid=76561198303394031) toggled freecam
+3:6:10 | "Sly" (steamid=76561198303394031) toggled freecam
+3:7:0 | Player "Xellan" (steamId=76561198012332179) connected to server!
+3:8:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (TripwireTrap) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:8:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (TripwireTrap)
+3:8:41 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6298.860352, 259.496277, 2352.976807>
+3:11:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionCarKey) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:11:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (ExpansionCarKey)
+3:11:25 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CamoNet) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:11:25 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CamoNet)
+3:11:39 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+3:11:48 | "Ur New Dad" (steamid=76561198797376439) teleported to crosshair (pos=<6101.836426, 256.455963, 2227.989014>)
+3:11:49 | "Ur New Dad" (steamid=76561198797376439) toggled freecam
+3:11:56 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+3:12:10 | Player "Ur New Dad" (steamId=76561198797376439) re-connected to server [canceledLogout]
+3:12:27 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:27 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:28 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:30 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:12:30 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:12:33 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+3:12:44 | Player "Ur New Dad" (steamId=76561198797376439) re-connected to server [canceledLogout]
+3:12:49 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6104.307617, 259.640442, 2235.415283>
+3:12:57 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6104.307617, 259.640442, 2235.415283>
+3:13:2 | "Ur New Dad": (steamid=76561198797376439) teleported to (pos=Admin HQ)
+3:13:26 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+3:13:27 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6100.839844, 259.640442, 2237.577393>
+3:13:30 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6100.839844, 259.640442, 2237.577393>
+3:13:40 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6105.663086, 259.640656, 2229.570557>
+3:13:42 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6105.663086, 259.640656, 2229.570557>
+3:13:46 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+3:13:55 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6094.995117, 259.640228, 2236.221191>
+3:13:59 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6094.995117, 259.640228, 2236.221191>
+3:14:2 | Player "Ur New Dad" (steamId=76561198797376439) connected to server!
+3:14:5 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_Half_Bwall" (pos=<6105.663086, 259.640656, 2229.570557>)
+3:14:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:14:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:14:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:14:59 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.795898, 259.630432, 2231.968994>
+3:15:1 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6092.795898, 259.630432, 2231.968994>
+3:15:48 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.209961, 259.630005, 2228.742920>
+3:15:50 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t3_wall_concrete_bricks at position: <6092.209961, 259.630005, 2228.742920>
+3:15:53 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_Half_Bwall" (pos=<6092.209961, 259.630005, 2228.742920>)
+3:16:0 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.550293, 259.629791, 2227.276855>
+3:16:2 | Player "Ur New Dad" (steamId=76561198797376439) disconnected from server.
+3:16:3 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6092.550293, 259.629791, 2227.276855>
+3:16:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:16:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Half_Wall_Kit)
+3:16:17 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:16:17 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:16:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:16:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:16:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:16:18 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:16:28 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6105.663086, 259.640656, 2229.570557>
+3:16:31 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6105.663086, 259.640656, 2229.570557>
+3:16:44 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6107.019043, 259.640656, 2223.725830>
+3:16:47 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6107.019043, 259.640656, 2223.725830>
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:17:3 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:17:14 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6093.911621, 259.628937, 2221.412598>
+3:17:15 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6093.911621, 259.628937, 2221.412598>
+3:17:21 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_Half_Bwall" (pos=<6092.795898, 259.630432, 2231.968994>)
+3:17:28 | "Sly" (steamid=76561198303394031) toggled freecam
+3:17:36 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6091.529297, 259.630432, 2231.675049>
+3:17:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6091.529297, 259.630432, 2231.675049>
+3:18:14 | "Sly" (steamid=76561198303394031) toggled freecam
+3:18:23 | "Sly" (steamid=76561198303394031) toggled freecam
+3:18:29 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6094.932617, 259.628296, 2217.014404>
+3:18:32 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6094.932617, 259.628296, 2217.014404>
+3:18:52 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6107.694336, 259.640656, 2220.797607>
+3:18:54 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6107.694336, 259.640656, 2220.797607>
+3:19:0 | "Sly" (steamid=76561198303394031) toggled freecam
+3:19:25 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<212.667297, 345.539673, 13739.727539>)
+3:19:26 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6099.687012, 259.640656, 2215.974121>
+3:19:29 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6099.687012, 259.640656, 2215.974121>
+3:19:34 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<212.501694, 343.123718, 13742.413086>)
+3:19:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:19:35 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:19:36 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<213.513092, 341.603394, 13740.825195>)
+3:19:36 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<210.880493, 341.691498, 13740.971680>)
+3:19:38 | "Sly" (steamid=76561198303394031) toggled freecam
+3:19:47 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6105.531738, 259.640656, 2217.330078>
+3:19:49 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6105.531738, 259.640656, 2217.330078>
+3:19:52 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6105.531738, 259.640656, 2217.330078>
+3:19:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6107.694336, 259.640656, 2220.797607>
+3:19:58 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6107.019043, 259.640656, 2223.725830>
+3:19:59 | "76561198303394031" (steamid=76561198303394031) teleported to (pos=<468.290009, 294.263184, 13677.900391>)
+3:19:59 | "Sly": (steamid=76561198303394031) teleported to (pos=468.29,0,13677.9)
+3:20:2 | "eGirl4U" (steamid=76561198095923512) deleted object "RFFSHeli_CH53e" (pos=<5795.512695, 245.524628, 9187.221680>)
+3:20:3 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6093.911621, 259.628937, 2221.412598>
+3:20:6 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6105.663086, 259.640656, 2229.570557>
+3:20:7 | "Sly" (steamid=76561198303394031) toggled freecam
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:20:10 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:20:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:20:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:20:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:20:11 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:20:14 | "eGirl4U" (steamid=76561198095923512) deleted object "RFFSHeli_Bell429_Cargo2_Police" (pos=<5782.520508, 245.762070, 9235.914063>)
+3:20:47 | "eGirl4U" (steamid=76561198095923512) deleted object "RFFSHeli_Bell429_Police" (pos=<5782.520508, 245.762070, 9235.914063>)
+3:21:3 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6104.307617, 259.640442, 2235.415283>
+3:21:5 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6104.307617, 259.640442, 2235.415283>
+3:21:6 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6104.307617, 259.640442, 2235.415283>
+3:21:25 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6100.839844, 259.640228, 2237.577148>
+3:21:27 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6100.839844, 259.640228, 2237.577148>
+3:21:28 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6100.839844, 259.640228, 2237.577148>
+3:21:52 | Player "eGirl4U" (steamId=76561198095923512) disconnected from server.
+3:21:53 | Player "eGirl4U" (steamId=76561198095923512) disconnected from server.
+3:21:54 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6091.529297, 259.630432, 2231.675049>
+3:21:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6091.529297, 259.630432, 2231.675049>
+3:21:58 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6091.529297, 259.630432, 2231.675049>
+3:22:16 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6094.995117, 259.640228, 2236.221191>
+3:22:17 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6094.995117, 259.640228, 2236.221191>
+3:22:19 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6094.995117, 259.640228, 2236.221191>
+3:22:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.890625, 259.629578, 2225.810791>
+3:22:41 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6092.890625, 259.629578, 2225.810791>
+3:22:42 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6092.890625, 259.629578, 2225.810791>
+3:22:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:22:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:22:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:22:49 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Mesh_Fence_Kit)
+3:23:31 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6095.272949, 259.628082, 2215.548340>
+3:23:33 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6095.272949, 259.628082, 2215.548340>
+3:23:33 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6095.272949, 259.628082, 2215.548340>
+3:23:54 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6099.687012, 259.640656, 2215.974121>
+3:23:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6099.687012, 259.640656, 2215.974121>
+3:23:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal_2 at position: <6099.687012, 259.640656, 2215.974121>
+3:24:8 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+3:24:33 | Player "Sly" (steamId=76561198303394031) connected to server!
+3:24:42 | Player "Sly" (steamId=76561198303394031) connected to server!
+3:24:48 | "Sly" (steamid=76561198303394031) toggled godmode
+3:24:57 | "Sly" (steamid=76561198303394031) toggled freecam
+3:24:57 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:24:57 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:24:58 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:24:58 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:25:1 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:25:1 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:25:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:25:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Door_Kit)
+3:25:5 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<6839.160156, 361.844971, 9399.819336>)
+3:25:6 | "Sly" (steamid=76561198303394031) toggled freecam
+3:25:14 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Hatch_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:25:14 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Floor_Hatch_Kit)
+3:25:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Roof_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:25:29 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Roof_Kit)
+3:25:58 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6102.146484, 259.640442, 2231.947021>
+3:26:0 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6102.146484, 259.640442, 2231.947021>
+3:26:43 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6096.301758, 259.640228, 2230.590820>
+3:26:50 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6096.301758, 259.640228, 2230.590820>
+3:26:52 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6096.301758, 259.640228, 2230.590820>
+3:26:53 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_door at position: <6096.301758, 259.640228, 2230.590820>
+3:27:9 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.829102, 259.640228, 2232.746826>
+3:27:12 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6092.829102, 259.640228, 2232.746826>
+3:27:35 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6101.493164, 262.640228, 2234.761963>
+3:27:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6101.493164, 262.640228, 2234.761963>
+3:27:40 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6101.493164, 262.640228, 2234.761963>
+3:27:42 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t2_metal at position: <6101.493164, 262.640228, 2234.761963>
+3:27:50 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part stair at position: <6101.493164, 262.640228, 2234.761963>
+3:28:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Roof_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:28:4 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Roof_Kit)
+3:28:14 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6095.648438, 262.640228, 2233.406006>
+3:28:16 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6095.648438, 262.640228, 2233.406006>
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit)
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit)
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:29:12 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit)
+3:29:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:29:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Window_Kit)
+3:29:33 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6100.840332, 262.858429, 2237.576416>
+3:29:36 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6100.840332, 262.858429, 2237.576416>
+3:29:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part window_bars at position: <6100.840332, 262.858429, 2237.576416>
+3:29:44 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6100.840332, 262.858429, 2237.576416>
+3:29:48 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6104.308105, 262.858429, 2235.415283>
+3:29:50 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6104.308105, 262.858429, 2235.415283>
+3:29:53 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part window_bars at position: <6104.308105, 262.858429, 2235.415283>
+3:29:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6104.308105, 262.858429, 2235.415283>
+3:30:8 | "InfectedLoveLiquid" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+3:30:20 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6102.146484, 262.640442, 2231.947021>
+3:30:22 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6102.146484, 262.640442, 2231.947021>
+3:30:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6092.833008, 262.858429, 2232.752930>
+3:30:40 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6092.833008, 262.858429, 2232.752930>
+3:30:43 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part window_bars at position: <6092.833008, 262.858429, 2232.752930>
+3:30:46 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6092.833008, 262.858429, 2232.752930>
+3:30:49 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6094.995117, 262.640228, 2236.221191>
+3:30:51 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8069.972656, 513.708923, 11602.834961>)
+3:30:53 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_door at position: <6094.995117, 262.640228, 2236.221191>
+3:30:56 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part window_bars at position: <6094.995117, 262.640228, 2236.221191>
+3:30:59 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6094.995117, 262.640228, 2236.221191>
+3:31:4 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8069.285156, 512.254517, 11608.381836>)
+3:31:5 | "Sly" (steamid=76561198303394031) teleported to crosshair (pos=<8069.218262, 512.451843, 11607.939453>)
+3:31:9 | "Sly" (steamid=76561198303394031) deleted object "RFFSHeli_Blackhawk_Budhawk" (pos=<8070.635742, 511.708710, 11605.342773>)
+3:31:21 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+3:31:22 | Player "Sly" (steamId=76561198303394031) disconnected from server.
+3:31:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:31 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit)
+3:31:33 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:33 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit)
+3:31:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:43 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit)
+3:31:44 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:44 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit)
+3:31:44 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:44 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:31:46 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall)
+3:32:30 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:32:30 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall)
+3:32:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:32:34 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Roof_Kit)
+3:32:41 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:32:41 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:32:42 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:32:42 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:32:48 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:32:48 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Wall_Kit)
+3:32:57 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6096.301758, 262.858459, 2230.590820>
+3:32:59 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6096.301758, 262.858459, 2230.590820>
+3:34:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:34:16 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Slope_Wall_Kit)
+3:34:55 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall_Hologram) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:34:55 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall_Hologram)
+3:35:15 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+3:35:15 | "InfectedLoveLiquid" (steamid=76561199206265093) toggled godmode
+3:35:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall_Hologram) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:35:22 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (BBP_Right_Slope_Wall_Hologram)
+3:35:41 | "InfectedLoveLiquid" (steamid=76561199206265093) deleted object "BBP_Right_Slope_Wall_Hologram" (pos=<6098.756836, 262.897552, 2234.403320>)
+3:36:13 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6100.840332, 265.858429, 2237.576416>
+3:36:15 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6100.840332, 265.858429, 2237.576416>
+3:36:21 | "InfectedLoveLiquid" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+3:36:29 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6094.995117, 265.640228, 2236.221191>
+3:36:32 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6094.995117, 265.640228, 2236.221191>
+3:36:38 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6095.648438, 265.858429, 2233.406250>
+3:36:39 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6095.648438, 265.858429, 2233.406250>
+3:36:47 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6096.301758, 265.858459, 2230.590820>
+3:36:49 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6096.301758, 265.858459, 2230.590820>
+3:36:52 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6102.146484, 265.640442, 2231.947021>
+3:36:54 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_planks at position: <6102.146484, 265.640442, 2231.947021>
+3:37:1 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part frame at position: <6101.492676, 265.858429, 2234.761963>
+3:37:2 | Admin "InfectedLoveLiquid" (steamId=76561199206265093) built part t1_wall_logs_horizontal at position: <6101.492676, 265.858429, 2234.761963>
+3:37:9 | "InfectedLoveLiquid" (steamid=76561199206265093) healed player (steamid=76561199206265093)
+3:38:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CodeLock) on "InfectedLoveLiquid" (steamid=76561199206265093)
+3:38:13 | "InfectedLoveLiquid" (steamid=76561199206265093) Spawned Item: (CodeLock)
+3:39:34 | Player "InfectedLoveLiquid" (steamId=76561199206265093) disconnected from server.
+3:49:41 | Player "Frank" (steamId=76561199004385675) disconnected from server.
+4:5:24 | Player "Frank" (steamId=76561199004385675) connected to server!
+4:5:48 | Player "Frank" (steamId=76561199004385675) connected to server!
+4:29:52 | Player "Xellan" (steamId=76561198012332179) disconnected from server.
+4:29:53 | Player "Xellan" (steamId=76561198012332179) disconnected from server.
