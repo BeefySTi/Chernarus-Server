@@ -11,12 +11,12 @@
 		"disablePersonalLight": 0,
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
-			"staminaWeightLimitThreshold": 6000.0,
+			"sprintStaminaModifierErc": 0.01,
+			"sprintStaminaModifierCro": 0.01,
+			"staminaWeightLimitThreshold": 160000.0,
 			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.75,
-			"staminaMinCap": 5.0
+			"staminaKgToStaminaPercentPenalty": 0.01,
+			"staminaMinCap": 0.01
 		},
 		"ShockHandlingData":
 		{
@@ -42,7 +42,7 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": ["ChernarusV2"],
+		"objectSpawnersArr": ["ChernarusV2.json"],
 		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 12, 7, 4, 0],
 		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 21, 16, 10, 5]
 	},
