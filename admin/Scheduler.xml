@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Scheduler>
+	
+	<!-- Server restarts every 6 hours warning-->
+	<job id='0'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>001500</start>
+		<runtime>004500</runtime>
+		<loop>-1</loop>
+		<cmd>say -1 This server automatically restarts every 4 hours</cmd>
+	</job>	
+	<!-- 0000Server restarts in 30 minutes warning-->
+	<job id='3'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='5'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='7'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='11'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+	<!-- 0400Server restarts in 30 minutes warning-->
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+<!-- 0800Server restarts in 30 minutes warning-->
+	<job id='3'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>07:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='5'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>07:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='7'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>07:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='11'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>07:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#<!-- Server restarts in 30 minutes warning-->
+	<job id='3'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='5'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='7'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='11'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+	<!-- Server restarts in 30 minutes warning-->
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job></cmd>
+	</job>
+	<!-- 1200Server restarts in 30 minutes warning-->
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>03:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+	<!-- 1600Server restarts in 30 minutes warning-->
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>15:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>15:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>15:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>15:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+	<!-- 2000Server restarts in 30 minutes warning-->
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>19:30:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 30 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 15 minutes warning-->
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>19:45:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 15 minutes!</cmd>
+	</job>
+	<!-- Server restarts in 5 minutes warning-->
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>19:55:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>say -1 Alert: This server will automatically restart in 5 minutes!</cmd>
+	</job>
+	<!-- Shutdown Server -->
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>19:59:55</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#Restart</cmd>
+	</job>
+</Scheduler>
